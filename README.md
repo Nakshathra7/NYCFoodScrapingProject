@@ -37,8 +37,8 @@ The main target of this project is to analyse the below questions for NYC food s
 ##### I have collected the data from NYC open data source repository. The column name, its description and datatype length are mentioned in below table.
 
 | Column Name  | Description Type | DataType With Length |
-| ----- | ------------- |
-| Borough | NYC Borough where vendor is located. New York City’s boroughs are five county-level administrative divisions, with each one also being a state county. | VARCHAR(50)  |
+| ----- | ------------- | ------------ |
+| Borough | NYC Borough where vendor is located. New York City’s boroughs are five county-level administrative divisions, with each one also being a state county. | VARCHAR(50) |
 | CouncilDist | NYC Council District Number. There are 51 Council districts throughout the five boroughs and is one is represented by an elected Council Member. | INT(10) |
 | Food_Scrap_Drop_Off_Site_Name	| Name of food scrap drop-off location | VARCHAR(550) |
 | Hours_from | Latest hour when food scraps can be dropped off. | VARCHAR(50) |

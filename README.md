@@ -8,7 +8,7 @@
  
 ## Project Description:
 
-##### The main purpose of this project is to analyze the dataset which contains information about the food scrap drop off location in NYC and perform verious operations to understand the data. 
+###### The main purpose of this project is to analyze the dataset which contains information about the food scrap drop off location in NYC and perform verious operations to understand the data. 
 
 ## ETL Process:
 
@@ -34,7 +34,7 @@ The main target of this project is to analyse the below questions for NYC food s
 
 ## DataSet Used:
 
-##### I have collected the data from NYC open data source repository. The column name, its description and datatype length are mentioned in below table.
+I have collected the data from NYC open data source repository. The column name, its description and datatype length are mentioned in below table.
 
 | Column Name  | Description Type | DataType With Length |
 | ----- | ------------- | ------------ |

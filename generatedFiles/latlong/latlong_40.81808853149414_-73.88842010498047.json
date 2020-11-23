@@ -1,0 +1,82 @@
+{
+   "plus_code" : {
+      "compound_code" : "R496+6J New York, NY, USA",
+      "global_code" : "87G8R496+6J"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "854",
+               "short_name" : "854",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hunts Point Avenue",
+               "short_name" : "Hunts Point Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hunts Point",
+               "short_name" : "Hunts Point",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "The Bronx",
+               "short_name" : "The Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10474",
+               "short_name" : "10474",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "5420",
+               "short_name" : "5420",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "854 Hunts Point Ave, The Bronx, NY 10474, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.818097,
+               "lng" : -73.88841599999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8194459802915,
+                  "lng" : -73.88706701970848
+               },
+               "southwest" : {
+                  "lat" : 40.8167480197085,
+                  "lng" : -73.8897649802915
+               }
+            }
+         },
+         "place_id" : "ChIJeT13hwD1wokRXsiMLft19v4",
+         "plus_code" : {
+            "compound_code" : "R496+6J The Bronx, NY, USA",
+            "global_code" : "87G8R496+6J"
+         },
+         "types" : [ "establishment", "health", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,82 @@
+{
+   "plus_code" : {
+      "compound_code" : "P2C9+M5 New York, NY, USA",
+      "global_code" : "87G8P2C9+M5"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Peach Tree Garden",
+               "short_name" : "Peach Tree Garden",
+               "types" : [ "establishment", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "236",
+               "short_name" : "236",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East 2nd Street",
+               "short_name" : "E 2nd St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10009",
+               "short_name" : "10009",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Peach Tree Garden, 236 E 2nd St, New York, NY 10009, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7216271,
+               "lng" : -73.9819969
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7229760802915,
+                  "lng" : -73.9806479197085
+               },
+               "southwest" : {
+                  "lat" : 40.7202781197085,
+                  "lng" : -73.98334588029151
+               }
+            }
+         },
+         "place_id" : "ChIJMzcflnhZwokRrmeykmzrmAU",
+         "plus_code" : {
+            "compound_code" : "P2C9+M6 New York, NY, USA",
+            "global_code" : "87G8P2C9+M6"
+         },
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

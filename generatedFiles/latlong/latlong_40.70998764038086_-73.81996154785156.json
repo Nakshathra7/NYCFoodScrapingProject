@@ -1,0 +1,209 @@
+{
+   "plus_code" : {
+      "compound_code" : "P55J+X2 New York, NY, USA",
+      "global_code" : "87G8P55J+X2"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Briarwood",
+               "short_name" : "Briarwood",
+               "types" : [
+                  "establishment",
+                  "point_of_interest",
+                  "subway_station",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Main Street",
+               "short_name" : "Main St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Briarwood",
+               "short_name" : "Briarwood",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11435",
+               "short_name" : "11435",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Briarwood, &, Queens Blvd &, Main St, Queens, NY 11435, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7096808,
+               "lng" : -73.8195688
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7110297802915,
+                  "lng" : -73.8182198197085
+               },
+               "southwest" : {
+                  "lat" : 40.7083318197085,
+                  "lng" : -73.82091778029151
+               }
+            }
+         },
+         "place_id" : "ChIJL_WID79gwokR1C9hMstDeUU",
+         "plus_code" : {
+            "compound_code" : "P55J+V5 New York, NY, USA",
+            "global_code" : "87G8P55J+V5"
+         },
+         "types" : [
+            "establishment",
+            "point_of_interest",
+            "subway_station",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Park",
+               "short_name" : "Park",
+               "types" : [ "establishment", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "137-47",
+               "short_name" : "137-47",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Main Street",
+               "short_name" : "Main St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Briarwood",
+               "short_name" : "Briarwood",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11435",
+               "short_name" : "11435",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Park, 137-47 Main St, Briarwood, NY 11435, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7103176,
+               "lng" : -73.8199942
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7116665802915,
+                  "lng" : -73.81864521970849
+               },
+               "southwest" : {
+                  "lat" : 40.7089686197085,
+                  "lng" : -73.82134318029151
+               }
+            }
+         },
+         "place_id" : "ChIJbx8avb9gwokRM9wteTuFKBQ",
+         "plus_code" : {
+            "compound_code" : "P56J+42 New York, NY, USA",
+            "global_code" : "87G8P56J+42"
+         },
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Island",
+               "short_name" : "Long Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Island, New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            },
+            "location" : {
+               "lat" : 40.789142,
+               "lng" : -73.13496099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            }
+         },
+         "place_id" : "ChIJy6Xu4VRE6IkRGA2UhmH59x0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

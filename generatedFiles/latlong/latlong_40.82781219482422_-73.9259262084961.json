@@ -1,0 +1,140 @@
+{
+   "plus_code" : {
+      "compound_code" : "R3HF+4J New York, NY, USA",
+      "global_code" : "87G8R3HF+4J"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "E 161 St/River Av",
+               "short_name" : "E 161 St/River Av",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Concourse",
+               "short_name" : "Concourse",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "The Bronx",
+               "short_name" : "The Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10452",
+               "short_name" : "10452",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "E 161 St/River Av, The Bronx, NY 10452, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.827881,
+               "lng" : -73.92603299999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.82922998029149,
+                  "lng" : -73.92468401970849
+               },
+               "southwest" : {
+                  "lat" : 40.8265320197085,
+                  "lng" : -73.9273819802915
+               }
+            }
+         },
+         "place_id" : "ChIJ3VHmDS30wokRh_-pnNP5AmI",
+         "plus_code" : {
+            "compound_code" : "R3HF+5H New York, NY, USA",
+            "global_code" : "87G8R3HF+5H"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "65",
+               "short_name" : "65",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East 161 Street",
+               "short_name" : "E 161 St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Concourse",
+               "short_name" : "Concourse",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "The Bronx",
+               "short_name" : "The Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10451",
+               "short_name" : "10451",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "65 E 161 St, The Bronx, NY 10451, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8279189,
+               "lng" : -73.92589579999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8292678802915,
+                  "lng" : -73.92454681970848
+               },
+               "southwest" : {
+                  "lat" : 40.8265699197085,
+                  "lng" : -73.9272447802915
+               }
+            }
+         },
+         "place_id" : "ChIJndmPDS30wokRBblx7C4_Z0g",
+         "plus_code" : {
+            "compound_code" : "R3HF+5J New York, NY, USA",
+            "global_code" : "87G8R3HF+5J"
+         },
+         "types" : [ "atm", "establishment", "finance", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

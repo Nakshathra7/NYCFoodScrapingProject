@@ -1,0 +1,107 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1176",
+            "short_name" : "1176",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Franklin Avenue",
+            "short_name" : "Franklin Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Morrisania",
+            "short_name" : "Morrisania",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "The Bronx",
+            "short_name" : "The Bronx",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bronx County",
+            "short_name" : "Bronx County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10456",
+            "short_name" : "10456",
+            "types" : [ "postal_code" ]
+         },
+         {
+            "long_name" : "4306",
+            "short_name" : "4306",
+            "types" : [ "postal_code_suffix" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e1176 Franklin Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eThe Bronx\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10456-4306\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "1176 Franklin Ave, The Bronx, NY 10456, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.8292789,
+            "lng" : -73.90406209999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.8307380302915,
+               "lng" : -73.9028801697085
+            },
+            "southwest" : {
+               "lat" : 40.8280400697085,
+               "lng" : -73.9055781302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "name" : "St. Augustine School",
+      "place_id" : "ChIJP5758U70wokR4yjMs3GxKPI",
+      "plus_code" : {
+         "compound_code" : "R3HW+P9 The Bronx, NY, USA",
+         "global_code" : "87G8R3HW+P9"
+      },
+      "rating" : 5,
+      "reference" : "ChIJP5758U70wokR4yjMs3GxKPI",
+      "reviews" : [
+         {
+            "author_name" : "Hilda Pabon",
+            "author_url" : "https://www.google.com/maps/contrib/108506946032054537874/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh6.googleusercontent.com/-lNhW_m7Ztqw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn1dES2RQV2BAek3jA3nkXD_MnCYA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "3 weeks ago",
+            "text" : "Beautiful 😁 used to go to St agutine church about 48 years ago 🤗",
+            "time" : 1603979159
+         },
+         {
+            "author_name" : "Lydia Dorsey",
+            "author_url" : "https://www.google.com/maps/contrib/117679721133126661698/reviews",
+            "profile_photo_url" : "https://lh6.googleusercontent.com/-IfQvLZv7UyE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmZQSo4ACrJZIzh-klqxXNcvk23fg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "4 years ago",
+            "text" : "",
+            "time" : 1478828707
+         }
+      ],
+      "types" : [ "school", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=17449391858152909027",
+      "user_ratings_total" : 2,
+      "utc_offset" : -300,
+      "vicinity" : "1176 Franklin Avenue, The Bronx"
+   },
+   "status" : "OK"
+}

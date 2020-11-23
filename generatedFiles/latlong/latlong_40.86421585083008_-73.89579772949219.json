@@ -1,0 +1,72 @@
+{
+   "plus_code" : {
+      "compound_code" : "V473+MM New York, NY, USA",
+      "global_code" : "87G8V473+MM"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Grand Concourse",
+               "short_name" : "Grand Concourse",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fordham Manor",
+               "short_name" : "Fordham Manor",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "The Bronx",
+               "short_name" : "The Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10458",
+               "short_name" : "10458",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "E 192nd St &, Grand Concourse, The Bronx, NY 10458, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8641756,
+               "lng" : -73.89562550000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8655245802915,
+                  "lng" : -73.89427651970851
+               },
+               "southwest" : {
+                  "lat" : 40.8628266197085,
+                  "lng" : -73.89697448029152
+               }
+            }
+         },
+         "place_id" : "ChIJf037jNLzwokRL4VO4p_TLhw",
+         "plus_code" : {
+            "compound_code" : "V473+MP The Bronx, NY, USA",
+            "global_code" : "87G8V473+MP"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

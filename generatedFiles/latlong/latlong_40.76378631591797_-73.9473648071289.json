@@ -1,0 +1,199 @@
+{
+   "plus_code" : {
+      "compound_code" : "Q373+G3 New York, NY, USA",
+      "global_code" : "87G8Q373+G3"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10044",
+               "short_name" : "10044",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Motorgate, New York, NY 10044, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7639089,
+               "lng" : -73.9477213
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.76525788029149,
+                  "lng" : -73.94637231970849
+               },
+               "southwest" : {
+                  "lat" : 40.7625599197085,
+                  "lng" : -73.94907028029149
+               }
+            }
+         },
+         "place_id" : "ChIJMfNeX89YwokRuoWtN6dA7SQ",
+         "plus_code" : {
+            "compound_code" : "Q372+HW New York, NY, USA",
+            "global_code" : "87G8Q372+HW"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Main St/School",
+               "short_name" : "Main St/School",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10044",
+               "short_name" : "10044",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Main St/School, New York, NY 10044, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7638778,
+               "lng" : -73.9478312
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7652267802915,
+                  "lng" : -73.9464822197085
+               },
+               "southwest" : {
+                  "lat" : 40.7625288197085,
+                  "lng" : -73.94918018029151
+               }
+            }
+         },
+         "place_id" : "ChIJ6wFqV89YwokRBa6CTjETaIY",
+         "plus_code" : {
+            "compound_code" : "Q372+HV New York, NY, USA",
+            "global_code" : "87G8Q372+HV"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Roosevelt Island",
+               "short_name" : "Roosevelt Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10044",
+               "short_name" : "10044",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Roosevelt Island, New York, NY 10044, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.772991,
+                  "lng" : -73.94000720000001
+               },
+               "southwest" : {
+                  "lat" : 40.749613,
+                  "lng" : -73.96154709999999
+               }
+            },
+            "location" : {
+               "lat" : 40.76050310000001,
+               "lng" : -73.9509934
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.772991,
+                  "lng" : -73.94000720000001
+               },
+               "southwest" : {
+                  "lat" : 40.749613,
+                  "lng" : -73.96154709999999
+               }
+            }
+         },
+         "place_id" : "ChIJjQ1a2MRYwokRJ_6PC_93-BE",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

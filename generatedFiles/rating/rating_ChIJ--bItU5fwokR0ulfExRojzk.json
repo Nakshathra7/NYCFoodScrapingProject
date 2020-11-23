@@ -1,0 +1,302 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "14-01",
+            "short_name" : "14-01",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Astoria Boulevard",
+            "short_name" : "Astoria Blvd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Astoria",
+            "short_name" : "Astoria",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Queens",
+            "short_name" : "Queens",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Queens County",
+            "short_name" : "Queens County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11102",
+            "short_name" : "11102",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e14-01 Astoria Blvd\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAstoria\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11102\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "14-01 Astoria Blvd, Astoria, NY 11102, USA",
+      "formatted_phone_number" : "(718) 278-2220",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.77238669999999,
+            "lng" : -73.9287274
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7736264802915,
+               "lng" : -73.9273672697085
+            },
+            "southwest" : {
+               "lat" : 40.7709285197085,
+               "lng" : -73.9300652302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "international_phone_number" : "+1 718-278-2220",
+      "name" : "Queens Public Library at Astoria",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1400"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1300"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1400"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1200"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1400"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1400"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 AM – 1:00 PM, 2:00 – 5:00 PM",
+            "Tuesday: 1:00 – 5:00 PM",
+            "Wednesday: 10:00 AM – 1:00 PM, 2:00 – 5:00 PM",
+            "Thursday: 12:00 – 3:00 PM, 4:00 – 7:00 PM",
+            "Friday: 10:00 AM – 1:00 PM, 2:00 – 5:00 PM",
+            "Saturday: 10:00 AM – 1:00 PM, 2:00 – 5:00 PM",
+            "Sunday: Closed"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 3120,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117392151296940083680\"\u003eAlex Molanes\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIvUWJ-kwH098JvaPhIugJG2_3AflZN20UjBMfa7tHWgxeI8yfHed4OpfA5KvQSaHLxa_yrA1dC8G4t7zfolccfAPcstGsKJ5BHVUa7OTUYibqeMQOMWx_yqVjuAMz2XtgmtQjjIeo7NjQOJ0f0_IKgOSQidSuNiuPgfR2L9K7m5RnX",
+            "width" : 4160
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105637575318174194736\"\u003eCristian Gonzalez\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLQML2hCuf9SyKh7QSRp7MeYKtYQ2HWDUp13mLdn-7VEovYDUd_UdaXRktioVMUkfpGR4o3cC449FKwDCy1N0_EmBX7pRiuJAuZQ4Mk7l0ijWnKiWgqVgLM5zBElqppQV6y2DEZpRWtZvvy-0esSs2yEGOsl4RCcGBReCcrIQr_EdM",
+            "width" : 1836
+         },
+         {
+            "height" : 1836,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105637575318174194736\"\u003eCristian Gonzalez\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwI_vr__Ino1Nw3jH-7WmksIM0zJVIEK21wW8gF0__QVxIhhsGcs3ouf34l8Q6j83yD9SjzVYBO7b01WOkvQbddMBjO1zZEAXmwDWaPfg69JCUSzUe6vT6nuLdayOyg1Ql0KRWTIMi5KzXcOE-tBEDjJSqtnOxhopBlq04fqveH2amw",
+            "width" : 3264
+         },
+         {
+            "height" : 1457,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115669779561965803211\"\u003eKin Tsui\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJ8ZXtqPJTeURkPQOdzmKwSlmgWdoZsYNg5TeggtMFvRWqsqFw1UN035aE3g6Eb18GCtYYaaH_yIa4JGHBNiFwT9K_KvpO3l03H9p0OzkU3ucXJ74lp6fF8SJNnRqbLbhFqVQJD1TlvIyURYHe27WHY0d-8FfUKq5VnM5J0GS-Lo94S",
+            "width" : 2033
+         },
+         {
+            "height" : 1836,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114760617960403728329\"\u003eKacper Jarecki\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIbfiauD8FhGrOYAOVYPLbceEzRDJNWVrq1tWlvRLa_Y-_dDCVokGQgCnY52OXXhfWuoYlyndoOOqIxRvr_gWnWQkVXOBD5zIR_JqC9dJJLbdnoeSTEnk2fOqcYKg_3NprG4fmxJIPUTUvc4HDtlrLq_Rt0TiQqUWYCEYi4pzuoeWYr",
+            "width" : 3264
+         }
+      ],
+      "place_id" : "ChIJ--bItU5fwokR0ulfExRojzk",
+      "plus_code" : {
+         "compound_code" : "Q3CC+XG New York, NY, USA",
+         "global_code" : "87G8Q3CC+XG"
+      },
+      "rating" : 3.9,
+      "reference" : "ChIJ--bItU5fwokR0ulfExRojzk",
+      "reviews" : [
+         {
+            "author_name" : "Onyinye Balogun",
+            "author_url" : "https://www.google.com/maps/contrib/107814652772255168146/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GhpdJxpdONDMHVHlPbVy4W5VpIVU5xue58OHF-zRw=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "a month ago",
+            "text" : "Very helpful. Policies in place to minimize risk of coronavirus spread. In particular, the staff were very helpful with the checkout process and patience with all of the patrons. Excellent location!",
+            "time" : 1602956868
+         },
+         {
+            "author_name" : "Consumer Comment",
+            "author_url" : "https://www.google.com/maps/contrib/114979291225291061525/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GiOt1FLitkOkPMzmpEMjJv_p60dAr98drOcQB81tw=s128-c0x00000000-cc-rp-mo",
+            "rating" : 1,
+            "relative_time_description" : "3 months ago",
+            "text" : "Why is the gate open if you're closed? Close it! You're not open! Do I have to come put a lock and chain on the gate? Keep it closed! Stop confusing people! Close the gate!!!!!!",
+            "time" : 1596207072
+         },
+         {
+            "author_name" : "Nelly N.",
+            "author_url" : "https://www.google.com/maps/contrib/107117797532784316687/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gggjtb1Fs6niFPStu7QvxZabDJJjpb07eGvH5tCDw=s128-c0x00000000-cc-rp-mo",
+            "rating" : 1,
+            "relative_time_description" : "a year ago",
+            "text" : "I'm new to QPL but having been to 5 different locations and this one twice. Both times the librarians up front have had such a nasty attitude. God forbid you interrupt their gossip mid conversation with a question. It's a shame since this location is the most convenient for me. The woman in the kids section was super sweet the others should take some pointers from her.",
+            "time" : 1566944579
+         },
+         {
+            "author_name" : "Derrick Obodai",
+            "author_url" : "https://www.google.com/maps/contrib/116191048058289435505/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GhPFkeXObFLI8ENAuK3hCTq1DYN9fDzO1ruwEFw_g=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 5,
+            "relative_time_description" : "11 months ago",
+            "text" : "I love this library. Although it's small library it's still well maintained. Very organized and the best part a out queens library is that: you get to print 20 pages for free with ur free library card. What an awesome idea.i wish NYPl (Bronx Manhattan) would let us print 20 pages for free. Shame on you nypl. The librarians were very sweet and it was very quiet . I went there day after Christmas . Must visit if your local. Enjoy your tax paid benefits.",
+            "time" : 1577418539
+         },
+         {
+            "author_name" : "Yassine Sabri",
+            "author_url" : "https://www.google.com/maps/contrib/102857051336420094418/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gi5Ex7b6VXQ8S98ATz67mDhCoiqSzUt8YhSHyb7Gw=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "2 years ago",
+            "text" : "been here since kindergarten, going to college now. Ive seen the changes this library went through and all the resources it has provided me. I also met only the best people here, always kind and supportive.",
+            "time" : 1514842220
+         }
+      ],
+      "types" : [ "library", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=4147648217265203666",
+      "user_ratings_total" : 46,
+      "utc_offset" : -300,
+      "vicinity" : "14-01 Astoria Boulevard, Astoria",
+      "website" : "http://www.queenslibrary.org/"
+   },
+   "status" : "OK"
+}

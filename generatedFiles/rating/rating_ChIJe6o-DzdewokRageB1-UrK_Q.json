@@ -1,0 +1,114 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Queens Boulevard",
+            "short_name" : "Queens Blvd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Rego Park",
+            "short_name" : "Rego Park",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Queens",
+            "short_name" : "Queens",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Queens County",
+            "short_name" : "Queens County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11374",
+            "short_name" : "11374",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eQueens Blvd\u003c/span\u003e, \u003cspan class=\"locality\"\u003eRego Park\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11374\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "Queens Blvd, Rego Park, NY 11374, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.72973169999999,
+            "lng" : -73.8620243
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7311093802915,
+               "lng" : -73.8606564197085
+            },
+            "southwest" : {
+               "lat" : 40.7284114197085,
+               "lng" : -73.86335438029151
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name" : "Queens Bl/63 Dr",
+      "photos" : [
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110344283172678365745\"\u003eJim Ryan\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLErypriRcDZZ19-gtKZRXDoNWzVkbLiLMQSF49I3UdASStoT17w1sicDi_suMaIEZo-q9E20lOb01mw6cFeW5xezBT6ow_sLLLF7YKSIe7qcACsugMqrZMuYlHmHjZF3BI-jjXt3QoL2TMHQVpZI_Cxp9Hbg439zmYvNYHZUwsWmG8",
+            "width" : 3024
+         },
+         {
+            "height" : 3445,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112486482590403127873\"\u003eLocknath Singh\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIL_ieslqVhfsVvXtk48pBFfxFDb3w0uVnwqadNjeaU4bri6F84jWHfRZimCo8i5Socakth_5G7sqF51S4Zt0No0Ooy869gMq_JInUZphdrNYLX2UvqxU8NWQBPMhGw46teDiEcTlPqZQOgHyOVdsut0BK5GZFXfotvYuXo8_JtMTME",
+            "width" : 5167
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110344283172678365745\"\u003eJim Ryan\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLfSAnYRoGf75f7ZN54jZ9WPSl3kdlBXERfALUnPIfQMRC1a2OfouO0wlyaWTH-TixGuW6JA6azjNb2NkgwPy-VNsJIHar2Rb71vFSAfQsacMvwch6kLpg82PGPJKq5tWmnkABAQzP8yypbhBO1UYrzJveD7ucbvDJzTnIZLaeYygGr",
+            "width" : 3024
+         }
+      ],
+      "place_id" : "ChIJe6o-DzdewokRageB1-UrK_Q",
+      "plus_code" : {
+         "compound_code" : "P4HQ+V5 New York, NY, USA",
+         "global_code" : "87G8P4HQ+V5"
+      },
+      "rating" : 5,
+      "reference" : "ChIJe6o-DzdewokRageB1-UrK_Q",
+      "reviews" : [
+         {
+            "author_name" : "Locknath Singh",
+            "author_url" : "https://www.google.com/maps/contrib/112486482590403127873/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gi3QQ_fcK3E1r6jonSgCo_8Z3mLeLpApYI-9JDdhQ=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "3 years ago",
+            "text" : "This bus stop has a shelter with 3 seats & a time schedule. This is a beautiful business district. Passengers waited patiently for the next bus.",
+            "time" : 1487450995
+         }
+      ],
+      "types" : [ "transit_station", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=17594204635416037226",
+      "user_ratings_total" : 1,
+      "utc_offset" : -300,
+      "vicinity" : "Queens Boulevard, Rego Park"
+   },
+   "status" : "OK"
+}

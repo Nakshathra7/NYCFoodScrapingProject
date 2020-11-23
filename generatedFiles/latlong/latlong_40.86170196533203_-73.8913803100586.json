@@ -1,0 +1,140 @@
+{
+   "plus_code" : {
+      "compound_code" : "V465+MC New York, NY, USA",
+      "global_code" : "87G8V465+MC"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "E Fordham Rd/Webster Ave",
+               "short_name" : "E Fordham Rd/Webster Ave",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Fordham Manor",
+               "short_name" : "Fordham Manor",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "The Bronx",
+               "short_name" : "The Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10458",
+               "short_name" : "10458",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "E Fordham Rd/Webster Ave, The Bronx, NY 10458, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.861595,
+               "lng" : -73.89106799999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8629439802915,
+                  "lng" : -73.88971901970849
+               },
+               "southwest" : {
+                  "lat" : 40.8602460197085,
+                  "lng" : -73.8924169802915
+               }
+            }
+         },
+         "place_id" : "ChIJyzcqaoDzwokRHRSKy9krawk",
+         "plus_code" : {
+            "compound_code" : "V465+JH New York, NY, USA",
+            "global_code" : "87G8V465+JH"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "389",
+               "short_name" : "389",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East Fordham Road",
+               "short_name" : "E Fordham Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fordham Manor",
+               "short_name" : "Fordham Manor",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "The Bronx",
+               "short_name" : "The Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10458",
+               "short_name" : "10458",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "389 E Fordham Rd, The Bronx, NY 10458, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8619782,
+               "lng" : -73.8913306
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.86332718029149,
+                  "lng" : -73.88998161970849
+               },
+               "southwest" : {
+                  "lat" : 40.8606292197085,
+                  "lng" : -73.8926795802915
+               }
+            }
+         },
+         "place_id" : "ChIJS6iKNRbzwokRl1cBXT3YaD8",
+         "plus_code" : {
+            "compound_code" : "V465+QF New York, NY, USA",
+            "global_code" : "87G8V465+QF"
+         },
+         "types" : [ "establishment", "finance", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

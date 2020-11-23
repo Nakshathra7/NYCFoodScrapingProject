@@ -1,0 +1,189 @@
+{
+   "plus_code" : {
+      "compound_code" : "Q397+4G New York, NY, USA",
+      "global_code" : "87G8Q397+4G"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vernon Bl/Broadway",
+               "short_name" : "Vernon Bl/Broadway",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Astoria",
+               "short_name" : "Astoria",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vernon Bl/Broadway, Queens, NY, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.76764,
+               "lng" : -73.93636099999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7689889802915,
+                  "lng" : -73.93501201970849
+               },
+               "southwest" : {
+                  "lat" : 40.7662910197085,
+                  "lng" : -73.9377099802915
+               }
+            }
+         },
+         "place_id" : "ChIJSzMGrspYwokRNslkIxZMQoA",
+         "plus_code" : {
+            "compound_code" : "Q397+3F New York, NY, USA",
+            "global_code" : "87G8Q397+3F"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3202",
+               "short_name" : "3202",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Vernon Boulevard",
+               "short_name" : "Vernon Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Astoria",
+               "short_name" : "Astoria",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11106",
+               "short_name" : "11106",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "4927",
+               "short_name" : "4927",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "3202 Vernon Blvd, Astoria, NY 11106, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7674724,
+               "lng" : -73.93633029999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7688213802915,
+                  "lng" : -73.93498131970848
+               },
+               "southwest" : {
+                  "lat" : 40.7661234197085,
+                  "lng" : -73.93767928029149
+               }
+            }
+         },
+         "place_id" : "ChIJu89xsspYwokRqw2mc0ZmrvE",
+         "plus_code" : {
+            "compound_code" : "Q387+XF New York, NY, USA",
+            "global_code" : "87G8Q387+XF"
+         },
+         "types" : [ "establishment", "plumber", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Island",
+               "short_name" : "Long Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Island, New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            },
+            "location" : {
+               "lat" : 40.789142,
+               "lng" : -73.13496099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            }
+         },
+         "place_id" : "ChIJy6Xu4VRE6IkRGA2UhmH59x0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,300 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "530",
+            "short_name" : "530",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "East 6th Street",
+            "short_name" : "E 6th St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10009",
+            "short_name" : "10009",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e530 E 6th St\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10009\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "530 E 6th St, New York, NY 10009, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.7246987,
+            "lng" : -73.98258
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.72612118029149,
+               "lng" : -73.98117736970849
+            },
+            "southwest" : {
+               "lat" : 40.72342321970849,
+               "lng" : -73.9838753302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "Creative Little Garden",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 11:00 AM – 6:00 PM",
+            "Tuesday: 11:00 AM – 6:00 PM",
+            "Wednesday: 11:00 AM – 6:00 PM",
+            "Thursday: 11:00 AM – 6:00 PM",
+            "Friday: 11:00 AM – 6:00 PM",
+            "Saturday: 11:00 AM – 6:00 PM",
+            "Sunday: 11:00 AM – 6:00 PM"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 805,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100240836016532748971\"\u003eLucia Moore\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwI_4W5qkybBWoWjIjvBpfX-ve8BMRDclHWRlJnXkOe8Ygc5VPIITOC6BMpyn0vmsS3fwDPyyXDqh6QhxwExUVZLVkcVUrcx_gzwcPIMnXsZ99tIkWLEL540dS2Bxr_ZTf0YbPQ1bJrjmnsCbmeglmkm7MWXJ_lZhmMBNERzOt2vv9yc",
+            "width" : 1205
+         },
+         {
+            "height" : 805,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100240836016532748971\"\u003eLucia Moore\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJnihcug0-JDC3hdE78oJgtsCyJ78PaimNcopkdgw0AHvucCQP2-JwqbZZl_VcbaXawwKHB-6OR8vFg5IGzmCHD2h0JCP7dLWHFPwmY7z3n8TVWSRfLzl8WmR0TTVQaBCEtPtsXp5lq8ZAqmJ0ys6I0hasrCSXZUu1UdAu4ns7EgYWu",
+            "width" : 1205
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117916411955421813182\"\u003eBrendan Gutenschwager\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIrS_duKF8NxJOFZc7agpOdL31VQDOb2P00CcdrtTf1QCaMWjLhl2Gt9Hrjnmtg6kSpOsZ2QiRb0INvF-emSZ7rTiz2OiaKpplRWF7oFjHvA9g0L3SlpkiHXegRt8vPH6k0Yt315SUIepnh9O8PkhrDTV1Fd5xMCCGkzKOvdMMlez6U",
+            "width" : 3024
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117916411955421813182\"\u003eBrendan Gutenschwager\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIIsKvOFSNjEN99RhYbBEii_18U6f1cU2l2hl3PIaUTE7F_GgnTgedpkC_PfIkPIp98fHz4xO81WOjBF-OYgX4AoA9O0FlH-57Rz8jFBvUW8kVolkL90fskhhR0v81-Ze5AAwQMu4if1x0Rj0iRdc_KKziqhQ6YOR4V-STbuKnyIGPR",
+            "width" : 4032
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117808460219123378764\"\u003eRuwan J.\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLZD4TDx7jcgGoj9szDfqZDbG88H0aiiqx3AfyptZKw9PxZ6eqjgbdc7qxGvOmVdZ07Fx5382CBKavwwjADR4u5Yi-BL1XYZXpRQnHEdD2rEOhE_Heer1F73GfIFTgQddhcepWqH9sF2Ha0T3BA-sFDPwJHJoYLCUzEOlpiCTfI7_ya",
+            "width" : 3024
+         },
+         {
+            "height" : 805,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100240836016532748971\"\u003eLucia Moore\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKO2I_deBbhPOdnL51Ggcnd2Ge5I3tjCPFk7s7ori_f-JTsvYN5ohrghv5yG5yR0xIfuy21r3fTcI6boNpZo7Vr9ehQLBjWaUX_ilqfC_ySADpwbqs42DZNHTrKWfw4lRup78G1FBlpcaFzKqV7IEjYiViL9RhmSyEXmKLvRYdw9VDb",
+            "width" : 1205
+         },
+         {
+            "height" : 805,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100240836016532748971\"\u003eLucia Moore\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIQUG7eJPeAhtUZcaUT8StUNkCjIu-4Ev-9_0u2-Urfl48dohEKqOR6IHHLuVP118gZN_LHup70JClxiO27bgcej0z98UyEh1WCaf2BkI2xjzqeO-2YUrDrAsWFrerHrSBgRkdejZA9f5Cn5bcxZppY0j0w6bKm_HeFL711RIZcL1Df",
+            "width" : 1205
+         },
+         {
+            "height" : 805,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100240836016532748971\"\u003eLucia Moore\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLPLXvV2p5B0jt8w2QcBZy5DYUXPLNeLWESbtwih23Slzs3wCSfYE-MLbq9eNuZbFy05yGHdUfgGSO8nRxaSSFrE7AzCbygm_GI3ghTQjGqEy8Fvp60Nj2E5Cc6kHtNeN6Ywln8-dgZmJwHQ2s7l8vISqqFuAIVoDXMRcnWxGqgYoly",
+            "width" : 1205
+         },
+         {
+            "height" : 750,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116871166976121881867\"\u003eAasen Mercurio\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwI4BhWZEQSUQSvQN2NN396kBx9aKMh5npSTbb2DaRcEktapc5s0ggYH1Q7RHJehc5QaTRcgDqX3__CfNgixPwEsnNeKxuzh-0iUESEViUNEG3UYX4piIM-bJ7oRZSHpq9Q_EsUAt5tKitNoWnLvkS39y9FYU8CpoB18ltT3azEPoK9m",
+            "width" : 1000
+         },
+         {
+            "height" : 1030,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100240836016532748971\"\u003eLucia Moore\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwK8vrI9v4i-mUye6ZuHO3xAyhj9eG0bDt2pItRayMTiIQmY0MdY0kXHOH-xTxuKF29JCyQjs7fCGFLa6Cqgpa773ta5bqCKKRYjcJjqFgzqszBzgA4jCg9chiGUjntTx5PDO1p3z6acwzLdPCPxspgC-hNnH75LE8HTYFGdaDG0vOjd",
+            "width" : 689
+         }
+      ],
+      "place_id" : "ChIJZ0CWp4JZwokRABX52bvJAn0",
+      "plus_code" : {
+         "compound_code" : "P2F8+VX New York, NY, USA",
+         "global_code" : "87G8P2F8+VX"
+      },
+      "rating" : 4.6,
+      "reference" : "ChIJZ0CWp4JZwokRABX52bvJAn0",
+      "reviews" : [
+         {
+            "author_name" : "Kristi Lynch",
+            "author_url" : "https://www.google.com/maps/contrib/100401064874512700631/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-I8iUx432q-M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckhAMMOOKZ5ty3XMXDu6GPUQ4HSAw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 4,
+            "relative_time_description" : "a month ago",
+            "text" : "An awesome last-minute find to fill some time.  Thank-you Tour Goddess for the tip! Grounds were beautiful and even in late October, the scent of roses wafted through the air. There was a Heron sitting by the lake near the bird viewing area. The Boddy House was an unexpected delight.  The Tram Tour was only $4 and while it didn't cover much area, the information given was worth the cost.  Don't let the 50 minutes deter you from taking the tour - it includes a stop with time to look through the Boddy House and nearby art gallery.",
+            "time" : 1601202110
+         },
+         {
+            "author_name" : "Dexter Castro",
+            "author_url" : "https://www.google.com/maps/contrib/108081655451382759491/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh5.googleusercontent.com/-2-CEmaTP3zY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckv3tPGNUP0pF6ZamDDmJuwHncpEw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 4,
+            "relative_time_description" : "a month ago",
+            "text" : "This place is awesome!!! Just went this past week and I have to say I was really impressed.  I grew up in the La Canada area and never really like Creative Little Garden  But they must've received some resources to improve the gardens and I absolutely LOVE LOVE the Haaga Gallery!!!! The Boddy House used to be boring, but the gallery is now spectaular and the house is divine.  I am looking forward to my next visit and am seriously considering becoming a member now.  Just beautiful.",
+            "time" : 1601734838
+         },
+         {
+            "author_name" : "Carla J Davis",
+            "author_url" : "https://www.google.com/maps/contrib/112202005379561759201/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GjWputZp1rs70W1f0P509GmNx_wXsOGTXxSrFyBOw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "This exquisite little garden is the perfect place to pause, refresh, and reflect.",
+            "time" : 1559827197
+         },
+         {
+            "author_name" : "Alaney Parker",
+            "author_url" : "https://www.google.com/maps/contrib/104318727597217694981/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GgX2FNPvZEIGMlhPk2hfN5LDzMegB6bUv9U8qriaA=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "A very zen and peaceful place to be.",
+            "time" : 1567467169
+         },
+         {
+            "author_name" : "Claus Habermeier",
+            "author_url" : "https://www.google.com/maps/contrib/114820476251704120825/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gg-uazR9UFqNZZZ4cFtlrEow45oIMKG4hxb5v6m=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating" : 4,
+            "relative_time_description" : "a year ago",
+            "text" : "Nice quaint park with plenty of nice plants",
+            "time" : 1560789351
+         }
+      ],
+      "types" : [ "tourist_attraction", "park", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=9007984013347460352",
+      "user_ratings_total" : 47,
+      "utc_offset" : -300,
+      "vicinity" : "530 East 6th Street, New York",
+      "website" : "https://www.grownyc.org/openspace/gardens/man/creative"
+   },
+   "status" : "OK"
+}

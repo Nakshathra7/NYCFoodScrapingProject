@@ -1,0 +1,205 @@
+{
+   "plus_code" : {
+      "compound_code" : "P3V4+7Q New York, NY, USA",
+      "global_code" : "87G8P3V4+7Q"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Smiling Hogshead Ranch",
+               "short_name" : "Smiling Hogshead Ranch",
+               "types" : [ "establishment", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "25-30",
+               "short_name" : "25-30",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Skillman Avenue",
+               "short_name" : "Skillman Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Long Island City",
+               "short_name" : "LIC",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11101",
+               "short_name" : "11101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Smiling Hogshead Ranch, 25-30 Skillman Ave, Queens, NY 11101, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7431462,
+               "lng" : -73.94305489999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.74449518029149,
+                  "lng" : -73.94170591970848
+               },
+               "southwest" : {
+                  "lat" : 40.74179721970849,
+                  "lng" : -73.94440388029149
+               }
+            }
+         },
+         "place_id" : "ChIJ719PvC5ZwokRoVumlKU82wk",
+         "plus_code" : {
+            "compound_code" : "P3V4+7Q New York, NY, USA",
+            "global_code" : "87G8P3V4+7Q"
+         },
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "25-20",
+               "short_name" : "25-20",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Skillman Avenue",
+               "short_name" : "Skillman Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Long Island City",
+               "short_name" : "LIC",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11101",
+               "short_name" : "11101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "25-20 Skillman Ave, Long Island City, NY 11101, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7430213,
+                  "lng" : -73.9435357
+               },
+               "southwest" : {
+                  "lat" : 40.7427366,
+                  "lng" : -73.94400569999999
+               }
+            },
+            "location" : {
+               "lat" : 40.742875,
+               "lng" : -73.9438114
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.74422793029149,
+                  "lng" : -73.94242171970848
+               },
+               "southwest" : {
+                  "lat" : 40.74152996970849,
+                  "lng" : -73.9451196802915
+               }
+            }
+         },
+         "place_id" : "ChIJ6VMs7i5ZwokRsxMv5lr0B7M",
+         "types" : [ "establishment", "premise", "storage" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Island",
+               "short_name" : "Long Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Island, New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            },
+            "location" : {
+               "lat" : 40.789142,
+               "lng" : -73.13496099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            }
+         },
+         "place_id" : "ChIJy6Xu4VRE6IkRGA2UhmH59x0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,77 @@
+{
+   "plus_code" : {
+      "compound_code" : "P2F2+6F New York, NY, USA",
+      "global_code" : "87G8P2F2+6F"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "525",
+               "short_name" : "525",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Broadway",
+               "short_name" : "Broadway",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10012",
+               "short_name" : "10012",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "525 Broadway, New York, NY 10012, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7230396,
+               "lng" : -73.9989843
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7243885802915,
+                  "lng" : -73.99763531970849
+               },
+               "southwest" : {
+                  "lat" : 40.7216906197085,
+                  "lng" : -74.0003332802915
+               }
+            }
+         },
+         "place_id" : "ChIJhfJW6_1ZwokRuv9NWTDS8-c",
+         "plus_code" : {
+            "compound_code" : "P2F2+6C New York, NY, USA",
+            "global_code" : "87G8P2F2+6C"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

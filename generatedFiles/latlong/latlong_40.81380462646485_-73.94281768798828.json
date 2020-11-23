@@ -1,0 +1,82 @@
+{
+   "plus_code" : {
+      "compound_code" : "R374+GV New York, NY, USA",
+      "global_code" : "87G8R374+GV"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Harlem Grown",
+               "short_name" : "Harlem Grown",
+               "types" : [ "establishment", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "118",
+               "short_name" : "118",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West 134th Street",
+               "short_name" : "W 134th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10030",
+               "short_name" : "10030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Harlem Grown, 118 W 134th St, New York, NY 10030, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8138186,
+               "lng" : -73.9428195
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8151675802915,
+                  "lng" : -73.94147051970849
+               },
+               "southwest" : {
+                  "lat" : 40.8124696197085,
+                  "lng" : -73.94416848029151
+               }
+            }
+         },
+         "place_id" : "ChIJaeT3WnH2wokR0UZDC8AXpko",
+         "plus_code" : {
+            "compound_code" : "R374+GV New York, NY, USA",
+            "global_code" : "87G8R374+GV"
+         },
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

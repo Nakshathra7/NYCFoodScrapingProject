@@ -1,0 +1,82 @@
+{
+   "plus_code" : {
+      "compound_code" : "P2FF+M2 New York, NY, USA",
+      "global_code" : "87G8P2FF+M2"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Apt 1ab",
+               "short_name" : "Apt 1ab",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "368",
+               "short_name" : "368",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East 8th Street",
+               "short_name" : "E 8th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10009",
+               "short_name" : "10009",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "368 E 8th St Apt 1ab, New York, NY 10009, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7241885,
+               "lng" : -73.9775775
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.72553748029149,
+                  "lng" : -73.97622851970849
+               },
+               "southwest" : {
+                  "lat" : 40.72283951970849,
+                  "lng" : -73.97892648029149
+               }
+            }
+         },
+         "place_id" : "ChIJG2vGh_VZwokR_PUL7NxI0nM",
+         "plus_code" : {
+            "compound_code" : "P2FC+MX New York, NY, USA",
+            "global_code" : "87G8P2FC+MX"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

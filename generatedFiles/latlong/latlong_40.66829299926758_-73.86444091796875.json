@@ -1,0 +1,131 @@
+{
+   "plus_code" : {
+      "compound_code" : "M49P+86 New York, NY, USA",
+      "global_code" : "87G8M49P+86"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2700",
+               "short_name" : "2700",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Linden Boulevard",
+               "short_name" : "Linden Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "East New York",
+               "short_name" : "East New York",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11208",
+               "short_name" : "11208",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "4603",
+               "short_name" : "4603",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "2700 Linden Blvd, Brooklyn, NY 11208, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.668292,
+               "lng" : -73.864436
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6696409802915,
+                  "lng" : -73.86308701970849
+               },
+               "southwest" : {
+                  "lat" : 40.6669430197085,
+                  "lng" : -73.86578498029149
+               }
+            }
+         },
+         "place_id" : "ChIJ22Y69pddwokR5BJ8tuJCegw",
+         "plus_code" : {
+            "compound_code" : "M49P+86 Brooklyn, NY, USA",
+            "global_code" : "87G8M49P+86"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Island",
+               "short_name" : "Long Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Island, New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            },
+            "location" : {
+               "lat" : 40.789142,
+               "lng" : -73.13496099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            }
+         },
+         "place_id" : "ChIJy6Xu4VRE6IkRGA2UhmH59x0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

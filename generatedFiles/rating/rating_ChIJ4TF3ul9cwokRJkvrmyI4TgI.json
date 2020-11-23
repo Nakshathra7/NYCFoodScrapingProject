@@ -1,0 +1,146 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "512",
+            "short_name" : "512",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Rockaway Avenue",
+            "short_name" : "Rockaway Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Brownsville",
+            "short_name" : "Brownsville",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Brooklyn",
+            "short_name" : "Brooklyn",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kings County",
+            "short_name" : "Kings County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11212",
+            "short_name" : "11212",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e512 Rockaway Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBrooklyn\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11212\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "512 Rockaway Ave, Brooklyn, NY 11212, USA",
+      "formatted_phone_number" : "(929) 234-6200",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.6675443,
+            "lng" : -73.910387
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.6689061802915,
+               "lng" : -73.9089481197085
+            },
+            "southwest" : {
+               "lat" : 40.6662082197085,
+               "lng" : -73.9116460802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "international_phone_number" : "+1 929-234-6200",
+      "name" : "Rise & Shine Learning Center",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0700"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 7:00 AM – 6:00 PM",
+            "Tuesday: 7:00 AM – 6:00 PM",
+            "Wednesday: 7:00 AM – 6:00 PM",
+            "Thursday: 7:00 AM – 6:00 PM",
+            "Friday: 7:00 AM – 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ4TF3ul9cwokRJkvrmyI4TgI",
+      "plus_code" : {
+         "compound_code" : "M39Q+2R Brooklyn, NY, USA",
+         "global_code" : "87G8M39Q+2R"
+      },
+      "reference" : "ChIJ4TF3ul9cwokRJkvrmyI4TgI",
+      "types" : [ "school", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=166131957555219238",
+      "utc_offset" : -300,
+      "vicinity" : "512 Rockaway Avenue, Brooklyn",
+      "website" : "https://rise-shine-learning-center.business.site/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,82 @@
+{
+   "plus_code" : {
+      "compound_code" : "R3HW+J7 New York, NY, USA",
+      "global_code" : "87G8R3HW+J7"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1176",
+               "short_name" : "1176",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Franklin Avenue",
+               "short_name" : "Franklin Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Morrisania",
+               "short_name" : "Morrisania",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "The Bronx",
+               "short_name" : "The Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10456",
+               "short_name" : "10456",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "4306",
+               "short_name" : "4306",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "1176 Franklin Ave, The Bronx, NY 10456, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8292789,
+               "lng" : -73.90406209999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8306278802915,
+                  "lng" : -73.90271311970848
+               },
+               "southwest" : {
+                  "lat" : 40.8279299197085,
+                  "lng" : -73.90541108029149
+               }
+            }
+         },
+         "place_id" : "ChIJP5758U70wokR4yjMs3GxKPI",
+         "plus_code" : {
+            "compound_code" : "R3HW+P9 The Bronx, NY, USA",
+            "global_code" : "87G8R3HW+P9"
+         },
+         "types" : [ "establishment", "point_of_interest", "school" ]
+      }
+   ],
+   "status" : "OK"
+}

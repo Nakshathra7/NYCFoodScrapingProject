@@ -1,0 +1,69 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Brooklyn",
+            "short_name" : "Brooklyn",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bushwick",
+            "short_name" : "Bushwick",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Kings County",
+            "short_name" : "Kings County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11207",
+            "short_name" : "11207",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Knickerbocker Ave &amp; Halsey St, \u003cspan class=\"locality\"\u003eBrooklyn\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11207\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "Knickerbocker Ave & Halsey St, Brooklyn, NY 11207, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.693,
+            "lng" : -73.90823999999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.6943598302915,
+               "lng" : -73.90688021970851
+            },
+            "southwest" : {
+               "lat" : 40.6916618697085,
+               "lng" : -73.90957818029152
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name" : "Citi Bike",
+      "place_id" : "ChIJ4Y4H8zxcwokRJ_3V4GskIkU",
+      "plus_code" : {
+         "compound_code" : "M3VR+5P Brooklyn, NY, USA",
+         "global_code" : "87G8M3VR+5P"
+      },
+      "reference" : "ChIJ4Y4H8zxcwokRJ_3V4GskIkU",
+      "types" : [ "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=4981584183577410855",
+      "utc_offset" : -300,
+      "vicinity" : "Knickerbocker Ave & Halsey St, Brooklyn"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,111 @@
+{
+   "plus_code" : {
+      "compound_code" : "M23Q+X6 New York, NY, USA",
+      "global_code" : "87G8M23Q+X6"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ocean Av/Parkside Av",
+               "short_name" : "Ocean Av/Parkside Av",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ocean Av/Parkside Av, Brooklyn, NY, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6548215,
+               "lng" : -73.96189149999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.65617048029149,
+                  "lng" : -73.96054251970848
+               },
+               "southwest" : {
+                  "lat" : 40.6534725197085,
+                  "lng" : -73.96324048029149
+               }
+            }
+         },
+         "place_id" : "ChIJkymKDhVbwokRvgH0xNUp_uA",
+         "plus_code" : {
+            "compound_code" : "M23Q+W6 New York, NY, USA",
+            "global_code" : "87G8M23Q+W6"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Island",
+               "short_name" : "Long Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Island, New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            },
+            "location" : {
+               "lat" : 40.789142,
+               "lng" : -73.13496099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            }
+         },
+         "place_id" : "ChIJy6Xu4VRE6IkRGA2UhmH59x0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

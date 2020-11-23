@@ -1,0 +1,82 @@
+{
+   "plus_code" : {
+      "compound_code" : "R354+HF New York, NY, USA",
+      "global_code" : "87G8R354+HF"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Our Neighborhood Place - Abyssinian Development Corp. Community Garden - Harlem",
+               "short_name" : "Our Neighborhood Place - Abyssinian Development Corp. Community Garden - Harlem",
+               "types" : [ "establishment", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "77",
+               "short_name" : "77",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West 127th Street",
+               "short_name" : "W 127th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10027",
+               "short_name" : "10027",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Our Neighborhood Place - Abyssinian Development Corp. Community Garden - Harlem, 77 W 127th St, New York, NY 10027, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808988,
+               "lng" : -73.943783
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8103369802915,
+                  "lng" : -73.9424340197085
+               },
+               "southwest" : {
+                  "lat" : 40.8076390197085,
+                  "lng" : -73.94513198029151
+               }
+            }
+         },
+         "place_id" : "ChIJzQm-NfH3wokRyY7b9Q3mfjc",
+         "plus_code" : {
+            "compound_code" : "R354+HF New York, NY, USA",
+            "global_code" : "87G8R354+HF"
+         },
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

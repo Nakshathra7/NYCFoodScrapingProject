@@ -1,0 +1,140 @@
+{
+   "plus_code" : {
+      "compound_code" : "Q2XX+72 New York, NY, USA",
+      "global_code" : "87G8Q2XX+72"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central PK N/Malcolm X Bl",
+               "short_name" : "Central PK N/Malcolm X Bl",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Central PK N/Malcolm X Bl, New York, NY, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.798231,
+               "lng" : -73.95246899999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7995799802915,
+                  "lng" : -73.9511200197085
+               },
+               "southwest" : {
+                  "lat" : 40.79688201970851,
+                  "lng" : -73.9538179802915
+               }
+            }
+         },
+         "place_id" : "ChIJK1lPNxr2wokRAeEFQFvBItc",
+         "plus_code" : {
+            "compound_code" : "Q2XX+72 New York, NY, USA",
+            "global_code" : "87G8Q2XX+72"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3-5",
+               "short_name" : "3-5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West 110th Street",
+               "short_name" : "W 110th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10026",
+               "short_name" : "10026",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "4302",
+               "short_name" : "4302",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "3-5 W 110th St, New York, NY 10026, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7981799,
+               "lng" : -73.95227489999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7995288802915,
+                  "lng" : -73.9509259197085
+               },
+               "southwest" : {
+                  "lat" : 40.7968309197085,
+                  "lng" : -73.9536238802915
+               }
+            }
+         },
+         "place_id" : "ChIJS3y9Nxr2wokRe_DCc6OwNK4",
+         "plus_code" : {
+            "compound_code" : "Q2XX+73 New York, NY, USA",
+            "global_code" : "87G8Q2XX+73"
+         },
+         "types" : [ "establishment", "food", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,131 @@
+{
+   "plus_code" : {
+      "compound_code" : "M3G8+JR New York, NY, USA",
+      "global_code" : "87G8M3G8+JR"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Imani Community Garden",
+               "short_name" : "Imani Community Garden",
+               "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+            },
+            {
+               "long_name" : "87-91",
+               "short_name" : "87-91",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Schenectady Avenue",
+               "short_name" : "Schenectady Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Crown Heights",
+               "short_name" : "Crown Heights",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11213",
+               "short_name" : "11213",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Imani Community Garden, 87-91 Schenectady Ave, Brooklyn, NY 11213, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6762324,
+               "lng" : -73.9329511
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6775813802915,
+                  "lng" : -73.93160211970849
+               },
+               "southwest" : {
+                  "lat" : 40.6748834197085,
+                  "lng" : -73.93430008029149
+               }
+            }
+         },
+         "place_id" : "ChIJ0xw4AHlcwokRW7pG1CKyE7I",
+         "plus_code" : {
+            "compound_code" : "M3G8+FR Brooklyn, NY, USA",
+            "global_code" : "87G8M3G8+FR"
+         },
+         "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Island",
+               "short_name" : "Long Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Island, New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            },
+            "location" : {
+               "lat" : 40.789142,
+               "lng" : -73.13496099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            }
+         },
+         "place_id" : "ChIJy6Xu4VRE6IkRGA2UhmH59x0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

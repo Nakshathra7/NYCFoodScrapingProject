@@ -1,0 +1,204 @@
+{
+   "plus_code" : {
+      "compound_code" : "M2J4+64 New York, NY, USA",
+      "global_code" : "87G8M2J4+64"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "337",
+               "short_name" : "337",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Smith Street",
+               "short_name" : "Smith St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Carroll Gardens",
+               "short_name" : "Carroll Gardens",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11231",
+               "short_name" : "11231",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "337 Smith St, Brooklyn, NY 11231, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6804462,
+               "lng" : -73.994585
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.68179518029149,
+                  "lng" : -73.9932360197085
+               },
+               "southwest" : {
+                  "lat" : 40.6790972197085,
+                  "lng" : -73.99593398029151
+               }
+            }
+         },
+         "place_id" : "ChIJ8cm7fldawokRtv6C_5oXhEM",
+         "plus_code" : {
+            "compound_code" : "M2J4+55 New York, NY, USA",
+            "global_code" : "87G8M2J4+55"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Carroll St Station",
+               "short_name" : "Carroll St Station",
+               "types" : [
+                  "establishment",
+                  "point_of_interest",
+                  "subway_station",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Smith Street",
+               "short_name" : "Smith St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Carroll Gardens",
+               "short_name" : "Carroll Gardens",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11231",
+               "short_name" : "11231",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Carroll St Station, Smith St, Brooklyn, NY 11231, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6793313,
+               "lng" : -73.9954833
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6806802802915,
+                  "lng" : -73.99413431970851
+               },
+               "southwest" : {
+                  "lat" : 40.67798231970851,
+                  "lng" : -73.99683228029151
+               }
+            }
+         },
+         "place_id" : "ChIJhUawZFdawokRgXrsqXJ64F8",
+         "plus_code" : {
+            "compound_code" : "M2H3+PR Brooklyn, NY, USA",
+            "global_code" : "87G8M2H3+PR"
+         },
+         "types" : [
+            "establishment",
+            "point_of_interest",
+            "subway_station",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Island",
+               "short_name" : "Long Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Island, New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            },
+            "location" : {
+               "lat" : 40.789142,
+               "lng" : -73.13496099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            }
+         },
+         "place_id" : "ChIJy6Xu4VRE6IkRGA2UhmH59x0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

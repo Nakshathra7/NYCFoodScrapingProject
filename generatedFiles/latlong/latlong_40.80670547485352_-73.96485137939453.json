@@ -1,0 +1,145 @@
+{
+   "plus_code" : {
+      "compound_code" : "R24P+M3 New York, NY, USA",
+      "global_code" : "87G8R24P+M3"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "601",
+               "short_name" : "601",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West 114th Street",
+               "short_name" : "W 114th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10025",
+               "short_name" : "10025",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "7906",
+               "short_name" : "7906",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "601 W 114th St, New York, NY 10025, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8068907,
+               "lng" : -73.96503439999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.80823968029149,
+                  "lng" : -73.96368541970848
+               },
+               "southwest" : {
+                  "lat" : 40.8055417197085,
+                  "lng" : -73.96638338029149
+               }
+            }
+         },
+         "place_id" : "ChIJ6Z08Ajz2wokRVvZgyRH_QKc",
+         "plus_code" : {
+            "compound_code" : "R24M+QX New York, NY, USA",
+            "global_code" : "87G8R24M+QX"
+         },
+         "types" : [ "establishment", "food", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Broadway/W 114 St",
+               "short_name" : "Broadway/W 114 St",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10025",
+               "short_name" : "10025",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Broadway/W 114 St, New York, NY 10025, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8065898,
+               "lng" : -73.965186
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8079387802915,
+                  "lng" : -73.96383701970849
+               },
+               "southwest" : {
+                  "lat" : 40.8052408197085,
+                  "lng" : -73.96653498029151
+               }
+            }
+         },
+         "place_id" : "ChIJqQMiATz2wokREl9kZ_Wv83Y",
+         "plus_code" : {
+            "compound_code" : "R24M+JW New York, NY, USA",
+            "global_code" : "87G8R24M+JW"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,174 @@
+{
+   "plus_code" : {
+      "compound_code" : "M3VR+5M New York, NY, USA",
+      "global_code" : "87G8M3VR+5M"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bushwick",
+               "short_name" : "Bushwick",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11207",
+               "short_name" : "11207",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Knickerbocker Ave & Halsey St, Brooklyn, NY 11207, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.693,
+               "lng" : -73.90823999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6943489802915,
+                  "lng" : -73.9068910197085
+               },
+               "southwest" : {
+                  "lat" : 40.6916510197085,
+                  "lng" : -73.9095889802915
+               }
+            }
+         },
+         "place_id" : "ChIJ4Y4H8zxcwokRJ_3V4GskIkU",
+         "plus_code" : {
+            "compound_code" : "M3VR+5P Brooklyn, NY, USA",
+            "global_code" : "87G8M3VR+5P"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Halsey St/Knickerbocker Av",
+               "short_name" : "Halsey St/Knickerbocker Av",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Bushwick",
+               "short_name" : "Bushwick",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Halsey St/Knickerbocker Av, Brooklyn, NY, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.69295899999999,
+               "lng" : -73.908119
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6943079802915,
+                  "lng" : -73.90677001970849
+               },
+               "southwest" : {
+                  "lat" : 40.6916100197085,
+                  "lng" : -73.90946798029151
+               }
+            }
+         },
+         "place_id" : "ChIJ29o78zxcwokRIk6JnbaG2_4",
+         "plus_code" : {
+            "compound_code" : "M3VR+5Q New York, NY, USA",
+            "global_code" : "87G8M3VR+5Q"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Island",
+               "short_name" : "Long Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Island, New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            },
+            "location" : {
+               "lat" : 40.789142,
+               "lng" : -73.13496099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            }
+         },
+         "place_id" : "ChIJy6Xu4VRE6IkRGA2UhmH59x0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

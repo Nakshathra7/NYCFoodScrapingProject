@@ -1,0 +1,140 @@
+{
+   "plus_code" : {
+      "compound_code" : "PXCQ+44 New York, NY, USA",
+      "global_code" : "87G7PXCQ+44"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "195",
+               "short_name" : "195",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North Moore Street",
+               "short_name" : "N Moore St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10013",
+               "short_name" : "10013",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "195 N Moore St, New York, NY 10013, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7203202,
+               "lng" : -74.01222199999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.72166918029149,
+                  "lng" : -74.0108730197085
+               },
+               "southwest" : {
+                  "lat" : 40.71897121970849,
+                  "lng" : -74.0135709802915
+               }
+            }
+         },
+         "place_id" : "ChIJI1JzhN1ZwokReP9_nK4Di3Y",
+         "plus_code" : {
+            "compound_code" : "PXCQ+44 New York, NY, USA",
+            "global_code" : "87G7PXCQ+44"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "West St/N Moore St",
+               "short_name" : "West St/N Moore St",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10013",
+               "short_name" : "10013",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "West St/N Moore St, New York, NY 10013, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.72008390000001,
+               "lng" : -74.0119821
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.72143288029151,
+                  "lng" : -74.0106331197085
+               },
+               "southwest" : {
+                  "lat" : 40.71873491970851,
+                  "lng" : -74.01333108029151
+               }
+            }
+         },
+         "place_id" : "ChIJ6ZdE-_VZwokRfddl_4t8tRE",
+         "plus_code" : {
+            "compound_code" : "PXCQ+26 New York, NY, USA",
+            "global_code" : "87G7PXCQ+26"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      }
+   ],
+   "status" : "OK"
+}

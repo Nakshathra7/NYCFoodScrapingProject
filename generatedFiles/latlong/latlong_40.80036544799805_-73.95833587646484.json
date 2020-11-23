@@ -1,0 +1,150 @@
+{
+   "plus_code" : {
+      "compound_code" : "R22R+4M New York, NY, USA",
+      "global_code" : "87G8R22R+4M"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "110 St-Cathedral Pkwy Station",
+               "short_name" : "110 St-Cathedral Pkwy Station",
+               "types" : [
+                  "establishment",
+                  "point_of_interest",
+                  "subway_station",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10026",
+               "short_name" : "10026",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "110 St-Cathedral Pkwy Station, New York, NY 10026, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8008803,
+               "lng" : -73.958392
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.80222928029149,
+                  "lng" : -73.95704301970851
+               },
+               "southwest" : {
+                  "lat" : 40.79953131970849,
+                  "lng" : -73.95974098029151
+               }
+            }
+         },
+         "place_id" : "ChIJKeHPGBj2wokRYFC1lvSc2OA",
+         "plus_code" : {
+            "compound_code" : "R22R+9J New York, NY, USA",
+            "global_code" : "87G8R22R+9J"
+         },
+         "types" : [
+            "establishment",
+            "point_of_interest",
+            "subway_station",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "301",
+               "short_name" : "301",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Frederick Douglass Circle",
+               "short_name" : "Frederick Douglass Cir",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10026",
+               "short_name" : "10026",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "301 Frederick Douglass Cir, New York, NY 10026, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8005895,
+               "lng" : -73.95818059999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8019384802915,
+                  "lng" : -73.9568316197085
+               },
+               "southwest" : {
+                  "lat" : 40.7992405197085,
+                  "lng" : -73.9595295802915
+               }
+            }
+         },
+         "place_id" : "ChIJ16PbGBj2wokRdX0RlI-j5cM",
+         "plus_code" : {
+            "compound_code" : "R22R+6P New York, NY, USA",
+            "global_code" : "87G8R22R+6P"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

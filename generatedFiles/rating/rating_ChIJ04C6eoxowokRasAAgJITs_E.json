@@ -1,0 +1,218 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "58-03",
+            "short_name" : "58-03",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Rockaway Beach Boulevard",
+            "short_name" : "Rockaway Beach Blvd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Edgemere",
+            "short_name" : "Edgemere",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Queens",
+            "short_name" : "Queens",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Queens County",
+            "short_name" : "Queens County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11692",
+            "short_name" : "11692",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e58-03 Rockaway Beach Blvd\u003c/span\u003e, \u003cspan class=\"locality\"\u003eQueens\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11692\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "58-03 Rockaway Beach Blvd, Queens, NY 11692, USA",
+      "formatted_phone_number" : "(718) 327-5919",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.5918629,
+            "lng" : -73.7882809
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.5933442802915,
+               "lng" : -73.78692311970849
+            },
+            "southwest" : {
+               "lat" : 40.5906463197085,
+               "lng" : -73.78962108029151
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "international_phone_number" : "+1 718-327-5919",
+      "name" : "Rockaway Waterfront Alliance",
+      "photos" : [
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115553908716113906407\"\u003eAndrew D. Wong\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwK_Ieqe6AZqeHxUNdl87s2Sa6XsZbd7UyC1FMrAmDzB7xXTLPj7g_tDqzsO9L5oAEurL8ncpNKIg9RTqKbuopEDycWI9tjKUz44eL_ufp1FLvGUW4PZvb1CMHi78JfQuI7cejNZT44dWyKfttJ-A0YXnkrE9Dqq1_uKxRI8MecOlnP5",
+            "width" : 4032
+         },
+         {
+            "height" : 1960,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103762811888185936812\"\u003ekristy quijije\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLGj8NdaYGUerFAUpY1mXFa6DeYV2537q2C7EyX2HMYTa6dsFivFgMpm6mH8ME-ser_sempU2d5qf65stJE1BpnJatgmuaoULDISfarAhLfv1UdUngLBV8i9lKwHEI0KjxzYkqTjZpvx-9P5LisbLTsjIpj3DWqRV1Jtuq-OnUnjjVT",
+            "width" : 4032
+         },
+         {
+            "height" : 2184,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109858164534028374914\"\u003eLuciano Miranda\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKbJ2a_F4lNL7aA5rV8GW68ZntpheJyU70SpfjJWoFaVtJ8WqT2zfud9IhrdjZreK-AEL9ng-yl5eZMmszM2lRrynzHzsEiJzO9D4kcDOydZJKJsXAwKPrsEIvnhV_zDeeFalLyqV3XXaztN_SvOVheZB3qclTdRllY1dNKpA7eVpOo",
+            "width" : 4608
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115553908716113906407\"\u003eAndrew D. Wong\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwII8utbd5Q6hZQXs0EXDsgxUPX-HIbQqlo0hn2YPbSPhhiWrSUxmvuQ8OiFTde-f-B3rIHluqf6FQzSNyZLpOw9w0PWHcGk96behXWpTXYThqr-kOnq8pxSuV6QS9Oe_-csKFTX9OU82XvKWEBvAzphHeRLGXs1vyz480WKG7VR_ekp",
+            "width" : 4032
+         },
+         {
+            "height" : 1920,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105633940442436540075\"\u003eCharles R Davis II\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwL-UTSXDAEYE0wdxY6jwSyGKL5lObETmc41yQxizNzaXgTYDP1aVzqu1fJ2-Eq3q9cG4ku55ZDAFEEMeippciDplrjFHyYjmNJKWUtoK9ccd0r4Ovzu-t3M3mB3tZvZ55auveA2oSwxoayJy5QK--7aH0VBLi4v0QsOGoAjz7SH_C2-",
+            "width" : 1080
+         },
+         {
+            "height" : 1960,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103762811888185936812\"\u003ekristy quijije\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLOnBds_POo_-AXQ4nng0Xdxiz0xtumrJgPqEwCLE7CsnobMatqudCdbZS3mqKOQtrU_QCn1Gr1ZK_4RennKnac38IsWSyLs5DaxyhA_V0mvmRzh_v0brlRFybNgsZygaRVhR3KkS6mKw3VzH2zO0hKIG6xKTRO5CVV2GxpI_SqJ1Af",
+            "width" : 4032
+         },
+         {
+            "height" : 1960,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103762811888185936812\"\u003ekristy quijije\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIA_t8EwBm-_bPWIFNiZBNvhVihw5ZNYMbJ7g-snqWHlHrfqjqoU-X_6VnlEy6-KVXmWM2gH6Tj30oALaY3KJRXFjnVGPSBfpYcXLWZfvefFvDLWH4V7pdRCBiP67I85fvpIa9rgzD00tTNX9HGspWtJa1b10gM_efNF03tUUpYocyM",
+            "width" : 4032
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113079186152754654033\"\u003eTyler Wilson\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIwjrkc5Eo54UID5QYkCEiW-IwJ63HJx7V9UMXRnJ1q33JTPZivC1ytboF86DguTmhztgqvyjTNndRxiAO-RekgTcGlO_mgsBDbCb050f9gjxZMC5N3Q4jeMyN6V3iNfwDiQ1PYn0ZLSO0TgSHRQUN3-aNxOM3iNwAGAHsmhI838PJQ",
+            "width" : 3024
+         },
+         {
+            "height" : 767,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113079186152754654033\"\u003eTyler Wilson\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJLqBEK13Gj2ENcTilIzG6x-EN4mqRG6Ozon8_B-xzV-AKDYRLJ3N-Ju_hUlRxtiHWVIcY_Iu0Rx8-8xJeor6HRHiDXEBASHHBgkYdQbXwDWa3Fy2_ZHte-xxsGks_uaw58vdZe3OqilAM1A3eHTPEvZZFFc9VpVa1KLHdBZLez9FMR",
+            "width" : 1024
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/118352606833397201613\"\u003eBenjamin Martin\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwL7vNsms-Dqq8l1tlyzB6nHVDZ4qc5RYJgetU4ja-PlXfKgv8Meaon_TVJJJWfN-NRdZLhuNrvou9tKulJ6xxFsGtN_zDgmcNqUT_NC7RV9qWvSzzjdMMA6tNkOne2d9j6ja-yBt-8D6GusjFSDPBcAYrUd8lg0_q2hTqBKGzN_Sbw2",
+            "width" : 4032
+         }
+      ],
+      "place_id" : "ChIJ04C6eoxowokRasAAgJITs_E",
+      "plus_code" : {
+         "compound_code" : "H6R6+PM New York, NY, USA",
+         "global_code" : "87G8H6R6+PM"
+      },
+      "rating" : 4.7,
+      "reference" : "ChIJ04C6eoxowokRasAAgJITs_E",
+      "reviews" : [
+         {
+            "author_name" : "Big “[Mike” Paco",
+            "author_url" : "https://www.google.com/maps/contrib/115272300055455342722/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GjDXNgpwF70HTYtQKSRsWXOdayGM2nZqMpLt7taKrs=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating" : 5,
+            "relative_time_description" : "in the last week",
+            "text" : "Great organization.",
+            "time" : 1605593638
+         },
+         {
+            "author_name" : "Luciano Miranda",
+            "author_url" : "https://www.google.com/maps/contrib/109858164534028374914/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GjbLNg2uNvUtytNFpCM6y6sLT2wlYO5uw6M_RzJ=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating" : 5,
+            "relative_time_description" : "11 months ago",
+            "text" : "Great alliance trying to bring a better life for the Edgemere community.",
+            "time" : 1576264978
+         },
+         {
+            "author_name" : "Jeffrey West",
+            "author_url" : "https://www.google.com/maps/contrib/104776947766749545285/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GhFNjzHlS0VghORtJdXi9nrpLNbgECHPgwdSn7SUm8=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 5,
+            "relative_time_description" : "2 years ago",
+            "text" : "Great presentations, beautiful facility, interesting exhibits. A learning experience",
+            "time" : 1534434735
+         },
+         {
+            "author_name" : "Adam Adam",
+            "author_url" : "https://www.google.com/maps/contrib/105338017190594245007/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh5.googleusercontent.com/-c9TZnN922HI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck1Rnp4n0xi6du6No9d8be6MaYwAA/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "2 years ago",
+            "text" : "Great organization.  RWA does lots of great work in Arverne, both environmentally and socially.   Great food at the CSA too.",
+            "time" : 1520476655
+         },
+         {
+            "author_name" : "dap charles",
+            "author_url" : "https://www.google.com/maps/contrib/101700759832921500913/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GhCYGPdtz1SQEQKD-zsF9-dq0Nn-6xXOViNdikC=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 3,
+            "relative_time_description" : "2 years ago",
+            "text" : "This was a street fair I attended under the subway tracks. Really disn't see much as it was directly under the train station. I didn't go far. But the area seemed pleasamt enough.",
+            "time" : 1534603743
+         }
+      ],
+      "types" : [ "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=17416285703905525866",
+      "user_ratings_total" : 24,
+      "utc_offset" : -300,
+      "vicinity" : "58-03 Rockaway Beach Boulevard, Queens",
+      "website" : "http://riserockaway.org/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,82 @@
+{
+   "plus_code" : {
+      "compound_code" : "Q3V4+WQ New York, NY, USA",
+      "global_code" : "87G8Q3V4+WQ"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Herb Garden",
+               "short_name" : "Herb Garden",
+               "types" : [ "establishment", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "176",
+               "short_name" : "176",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East 111th Street",
+               "short_name" : "E 111th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10029",
+               "short_name" : "10029",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Herb Garden, 176 E 111th St, New York, NY 10029, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7949692,
+               "lng" : -73.94312320000002
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.79631818029151,
+                  "lng" : -73.94177421970852
+               },
+               "southwest" : {
+                  "lat" : 40.79362021970851,
+                  "lng" : -73.94447218029153
+               }
+            }
+         },
+         "place_id" : "ChIJkytUFAT2wokRl4kAiq3z4cw",
+         "plus_code" : {
+            "compound_code" : "Q3V4+XQ New York, NY, USA",
+            "global_code" : "87G8Q3V4+XQ"
+         },
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

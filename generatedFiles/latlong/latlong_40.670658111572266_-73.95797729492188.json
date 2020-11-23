@@ -1,0 +1,199 @@
+{
+   "plus_code" : {
+      "compound_code" : "M2CR+7R New York, NY, USA",
+      "global_code" : "87G8M2CR+7R"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "333",
+               "short_name" : "333",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Eastern Parkway",
+               "short_name" : "Eastern Pkwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Crown Heights",
+               "short_name" : "Crown Heights",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11216",
+               "short_name" : "11216",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "333 Eastern Pkwy, Brooklyn, NY 11216, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.67075,
+               "lng" : -73.95788899999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.67209898029149,
+                  "lng" : -73.95654001970848
+               },
+               "southwest" : {
+                  "lat" : 40.66940101970849,
+                  "lng" : -73.95923798029149
+               }
+            }
+         },
+         "place_id" : "ChIJe-YDUuNbwokRSStXC-XdCVc",
+         "plus_code" : {
+            "compound_code" : "M2CR+7R Brooklyn, NY, USA",
+            "global_code" : "87G8M2CR+7R"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Franklin Av-Medgar Evers College",
+               "short_name" : "Franklin Av-Medgar Evers College",
+               "types" : [
+                  "establishment",
+                  "point_of_interest",
+                  "subway_station",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Crown Heights",
+               "short_name" : "Crown Heights",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11225",
+               "short_name" : "11225",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Franklin Av-Medgar Evers College, Brooklyn, NY 11225, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.67068099999999,
+               "lng" : -73.95813
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6720299802915,
+                  "lng" : -73.9567810197085
+               },
+               "southwest" : {
+                  "lat" : 40.6693320197085,
+                  "lng" : -73.95947898029151
+               }
+            }
+         },
+         "place_id" : "ChIJke8-PXVbwokRUYpPjrGVyao",
+         "plus_code" : {
+            "compound_code" : "M2CR+7P New York, NY, USA",
+            "global_code" : "87G8M2CR+7P"
+         },
+         "types" : [
+            "establishment",
+            "point_of_interest",
+            "subway_station",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Island",
+               "short_name" : "Long Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Island, New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            },
+            "location" : {
+               "lat" : 40.789142,
+               "lng" : -73.13496099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            }
+         },
+         "place_id" : "ChIJy6Xu4VRE6IkRGA2UhmH59x0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

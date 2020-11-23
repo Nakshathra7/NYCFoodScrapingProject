@@ -1,0 +1,297 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Avenue A",
+            "short_name" : "Avenue A",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10009",
+            "short_name" : "10009",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "E. 12 St, E. 11 St. Bet 1 Ave. And, \u003cspan class=\"street-address\"\u003eAvenue A\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10009\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "E. 12 St, E. 11 St. Bet 1 Ave. And, Avenue A, New York, NY 10009, USA",
+      "formatted_phone_number" : "(212) 639-9675",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.72927230000001,
+            "lng" : -73.98294319999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.73035633029151,
+               "lng" : -73.98089825000001
+            },
+            "southwest" : {
+               "lat" : 40.72765836970851,
+               "lng" : -73.98362484999998
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "international_phone_number" : "+1 212-639-9675",
+      "name" : "Lower East Side Playground",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0700"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 7:00 AM – 6:00 PM",
+            "Tuesday: 7:00 AM – 6:00 PM",
+            "Wednesday: 7:00 AM – 6:00 PM",
+            "Thursday: 7:00 AM – 6:00 PM",
+            "Friday: 7:00 AM – 6:00 PM",
+            "Saturday: 7:00 AM – 6:00 PM",
+            "Sunday: 7:00 AM – 6:00 PM"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111209948463607477880\"\u003eOhadd Matibag\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKMLgb7tQVMFLmyGQ-_wSmw2jMgLrKQqGGMXHvyjpNv1Kze7af3JLLsjhkdyYCzk4lSGVKZuPsD1Byd6UdjlMbPsHuMPKuWAGuEI8wEBGre1RZ87aibPajE3vOoq3-HoKxaOyyBg5kvkBnqmY3b2X6vI1MA5jB5CmyCvhqI76o63ky4",
+            "width" : 4032
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116826612307149617588\"\u003eJaime Pereiras\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJ9nKrgrkh_cheXJOApmexp1qjHSFp-NscMWcesgxrGxzNiuirgYolmmDKDaxdY3vFnmByIePFBS9TuqvPdgPMizCA30SSoNVRT4tDBd6lkl9P6jKxwZrZj16A5IaH7__Pob9M2UoR42w3qnHT12PP4PMyTD4TFYMiRaOTSRLUkPhLM",
+            "width" : 4032
+         },
+         {
+            "height" : 3036,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105226736271400645616\"\u003emax necro\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJr8Jmp30h_gt_4NJJ9lf3di25FSAMzra9Orkw5FbH8dhSmrWzNEjHsrAv2tUitFZj_E7cwMy5mEzn2YyzSYQN9aYqbkQV8LfPQwyPIc30SxHUbLNclgnk1WKLo4Bcuhkgnq0bfeszwXiCWnr_3rtqDpk0HnbTOPm9YSLRkPqAs9VM8",
+            "width" : 3036
+         },
+         {
+            "height" : 3480,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109933382698354986675\"\u003eCody Lassiter\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJHm7Jei-IkTdi7JJLa27_eShsJNVAP8Bnr1baaSo0bu8TA_b1x0o7udKuV4g4UNin7iCJx-XWt2k2m5gnsVeyLMsBfbpbZf2-NQQHfvs9CclMvqAQ2hyzbxH-KQOqoiOcpTel7T84D6C9pCK-9HxaeK1WL-fJThep_qxU-lMuHbg0g",
+            "width" : 4640
+         },
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103434560662034934322\"\u003eMartin Zb\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJ5vTuYSiHr8vfiTJDAeb0fkoqY3MLXr5bc6fd6kLOHqc88uHMzAxv9YyFiFOsXwJ0AHRP-a3SdI6sfrGwS-R9DxYBhQu4n6CIgGPhKhycYuCZYshriVezSoEuLoa5IGlfuImmowlLN-ptG3IN3lBc27tWnchGAzTbtjvJT-RfuskwB",
+            "width" : 4608
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115682845829150413875\"\u003eDavide Di Vita\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLuiX7qM9ZHXSUDtR2SZwzQKv9E3AEV_N84ExTDO7XnfAexg8_7_8tja1TGMTp5_v4-1rwCC_fUfpQcDDENirpWUpL5OWZx2KHGfx-ktfkikSoNWsRTLQg9ZKFxJCKQzOw6P1D91bXDWg7g4edH2JPUHTJmCCqQ06lfutDcLwcxeG0X",
+            "width" : 3024
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116173197247163888438\"\u003eChino Wong\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwI7s8imGE_c-8EWIaQNGo4-Krhfon5mzjU5icRydocy4g0HMuBzeEAAqX9FynycbeYBDbqKyJuwDdpEByOr7Bvw05oE7czWknCfaxX9KED59kLMOvDR0Sj2kBX9MzC-b2jwDrf3Mu0Gnf1u5Wp4t98hFtslimMQJsUem3tZCxWo2bc8",
+            "width" : 3024
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117808460219123378764\"\u003eRuwan J.\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKjg0QycigoLBeMi2j__aZFmyBibss5QnsyxfB5uCsXtqCtjpNS7XiCYtJgd1-yY30T_6eLa6RnGMAuCkJtAxMHAQVEORPCA8biFW10CE7bwV1BYnhXM1kW5pCYrYFVJKoZhACVIo20xZHlfnxnlpa_iL73tW83GNbtLuuiKbis1S4b",
+            "width" : 4032
+         },
+         {
+            "height" : 3840,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114102073133144790654\"\u003eDidier Bocquet\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJc2OfHA5C4j6MpJYHtZ4z2z-snxA1GiA4gibXO9GvRXqjMPK9Y2wwamVxxpAzD68cmWxA_20Vz2kVpWtqn-z0rjeNdOeqcoTTN3kqva0umirTkvF0sWyTCSQtFMAaGU29ORUvB0-UIUb8H0m5NtZZyBaobL-C1szFJuIE_OD4iy0Fo",
+            "width" : 2160
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103232668279393773088\"\u003eKyle Barron\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwI0XE8tkKmcmXtR-RfmsSlODLhGfvgepOkH97ihACrpqGOlvvBOTQ3l09bofhnXCJbm_xC1REsCLcCwANaDAWE2J6R65YbLKnIt0iSWNfZt9bryWYOmVE4Y7w6n4pRqAjqhfrjkQsc0v-EUOyAg83Js-LM4WBK3Nw-yfyzQfxdUcp2v",
+            "width" : 4032
+         }
+      ],
+      "place_id" : "ChIJsfRLHnZZwokRes_tIvFJbLY",
+      "plus_code" : {
+         "compound_code" : "P2H8+PR New York, NY, USA",
+         "global_code" : "87G8P2H8+PR"
+      },
+      "rating" : 4.4,
+      "reference" : "ChIJsfRLHnZZwokRes_tIvFJbLY",
+      "reviews" : [
+         {
+            "author_name" : "Kid Glyde",
+            "author_url" : "https://www.google.com/maps/contrib/110846040204903929394/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Ght5kUtsNmAZSTSZ_5SXX4-eCjTuNTtoUMCAqHqHg=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 5,
+            "relative_time_description" : "a month ago",
+            "text" : "Great little park in the cut",
+            "time" : 1602035830
+         },
+         {
+            "author_name" : "Alex Koronec",
+            "author_url" : "https://www.google.com/maps/contrib/100747354065903949659/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GiFzbU7E8NQ0rOHH4zf9wtT_bGd271g1jCDkB1FTg=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating" : 3,
+            "relative_time_description" : "a year ago",
+            "text" : "You can't expect to much from a former MTA bus garage station.  That was decommissioned because the busses, were getting to big and it was a health hazard for the schools of that time period. It's another disappearing fact of this area in which everyone who let it happen. Has disappeared into timelines of this period.",
+            "time" : 1566754886
+         },
+         {
+            "author_name" : "Storm Thegreat",
+            "author_url" : "https://www.google.com/maps/contrib/115703413818929888058/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-FwGbHSasXE4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn4De2PhNiawjB6VUH0CKDWO_043w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 1,
+            "relative_time_description" : "a year ago",
+            "text" : "SOOOO DIRTYYY",
+            "time" : 1561269789
+         },
+         {
+            "author_name" : "Joe Hanna",
+            "author_url" : "https://www.google.com/maps/contrib/106212224013836795213/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gj_Kh5DeRoqks6WUt4MBG0SP6_bj_F5NtnNebJnxg=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating" : 3,
+            "relative_time_description" : "a year ago",
+            "text" : "Children's playground where adults who are NOT accompanied with a child, are not permitted.",
+            "time" : 1549041644
+         },
+         {
+            "author_name" : "Abdoulaye Doumbia",
+            "author_url" : "https://www.google.com/maps/contrib/112986601885853293706/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gg63p0THhJWXLHLSuRQZ4dLe0M5NAvN7UkibMgDcA=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating" : 5,
+            "relative_time_description" : "2 years ago",
+            "text" : "The best playground ever in NYC!",
+            "time" : 1517971842
+         }
+      ],
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=13144962712409591674",
+      "user_ratings_total" : 20,
+      "utc_offset" : -300,
+      "vicinity" : "E. 12 St, E. 11 St. Bet 1 Ave. And, Avenue A, New York",
+      "website" : "https://www.nycgovparks.org/parks/lower-east-side-playground"
+   },
+   "status" : "OK"
+}

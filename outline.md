@@ -8,7 +8,7 @@
  
 ## Project Description:
 
-The main purpose of this project is to analyze the dataset which contains information about the food scrap drop off location in NYC and perform verious operations to understand the data. 
+The main purpose of this project is to analyze the dataset which contains information about the food scrap drop off location in NYC and perform various operations to understand the data. 
 
 ## ETL Process:
 

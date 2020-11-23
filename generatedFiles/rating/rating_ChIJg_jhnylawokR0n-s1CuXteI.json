@@ -1,0 +1,100 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "10002",
+            "short_name" : "10002",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10002\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "New York, NY 10002, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.71416900000001,
+            "lng" : -73.9903207
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7156443302915,
+               "lng" : -73.9889120697085
+            },
+            "southwest" : {
+               "lat" : 40.7129463697085,
+               "lng" : -73.99161003029151
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name" : "Essex St/ E Broadway",
+      "photos" : [
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107828432857559464033\"\u003erebwar ali\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLNveFliK97MOOhVsB9LgBHC4OfCq6NdN4Oso-j7fPoYRHReBv8LwEq_h_0fT1zGj0tuWnxZzDTdnUZwg9eP459dIbl17F-yC7PgEpZ0uRJ4JLmgWxJiYNJFWISP782jU67siqqc0MX1cgY9xxbSkEjUjLl2xtgnth9H0UMgBib0A0a",
+            "width" : 3264
+         },
+         {
+            "height" : 4160,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106078361803554937587\"\u003eErik Meres\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIwcqx0n7Af5J3yrMcLP9DzepLG1lytqXyF5YZ9N_B3YNyIBCj2psq-SPKkLVe3NYVM_tf9u1WxxJvMQVHwiwFeQ_SMTA7KKSqGnz05mc7tZJma75pzTIUth3kUvFXrDXIW9RSf2EVPskblcfO5dB5trtG7sHPj8HCdsj9lp0-H_Ujt",
+            "width" : 3120
+         }
+      ],
+      "place_id" : "ChIJg_jhnylawokR0n-s1CuXteI",
+      "plus_code" : {
+         "compound_code" : "P275+MV New York, NY, USA",
+         "global_code" : "87G8P275+MV"
+      },
+      "rating" : 5,
+      "reference" : "ChIJg_jhnylawokR0n-s1CuXteI",
+      "reviews" : [
+         {
+            "author_name" : "Emily “SunDevilEmily” Kruger",
+            "author_url" : "https://www.google.com/maps/contrib/100070016700608101824/reviews",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GigqA4kROspB8rts-xF9ivnGbyd5KuIhq2rJp8JlaM=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating" : 5,
+            "relative_time_description" : "3 years ago",
+            "text" : "",
+            "time" : 1500883089
+         }
+      ],
+      "types" : [ "transit_station", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=16336129437863804882",
+      "user_ratings_total" : 1,
+      "utc_offset" : -300,
+      "vicinity" : "United States"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,77 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Columbus Avenue",
+            "short_name" : "Columbus Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10024",
+            "short_name" : "10024",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "W 79th St &amp;, \u003cspan class=\"street-address\"\u003eColumbus Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10024\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "W 79th St &, Columbus Ave, New York, NY 10024, USA",
+      "formatted_phone_number" : "(212) 639-9675",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.78183790000001,
+            "lng" : -73.9752026
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.78324438029151,
+               "lng" : -73.97399576970849
+            },
+            "southwest" : {
+               "lat" : 40.78054641970851,
+               "lng" : -73.9766937302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "international_phone_number" : "+1 212-639-9675",
+      "name" : "Nobel Monument",
+      "place_id" : "ChIJH_8BGZZZwokReRKUY_AjnKc",
+      "plus_code" : {
+         "compound_code" : "Q2JF+PW New York, NY, USA",
+         "global_code" : "87G8Q2JF+PW"
+      },
+      "reference" : "ChIJH_8BGZZZwokReRKUY_AjnKc",
+      "types" : [ "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=12077567816070599289",
+      "utc_offset" : -300,
+      "vicinity" : "W 79th St &, Columbus Avenue, New York",
+      "website" : "https://www.nycgovparks.org/parks/theodore-roosevelt-park/monuments/1968"
+   },
+   "status" : "OK"
+}

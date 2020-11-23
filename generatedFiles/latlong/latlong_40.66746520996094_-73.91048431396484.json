@@ -1,0 +1,189 @@
+{
+   "plus_code" : {
+      "compound_code" : "M38Q+XR New York, NY, USA",
+      "global_code" : "87G8M38Q+XR"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "512",
+               "short_name" : "512",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rockaway Avenue",
+               "short_name" : "Rockaway Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Brownsville",
+               "short_name" : "Brownsville",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11212",
+               "short_name" : "11212",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "512 Rockaway Ave, Brooklyn, NY 11212, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6675443,
+               "lng" : -73.910387
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6688932802915,
+                  "lng" : -73.90903801970849
+               },
+               "southwest" : {
+                  "lat" : 40.6661953197085,
+                  "lng" : -73.91173598029151
+               }
+            }
+         },
+         "place_id" : "ChIJ4TF3ul9cwokRJkvrmyI4TgI",
+         "plus_code" : {
+            "compound_code" : "M39Q+2R Brooklyn, NY, USA",
+            "global_code" : "87G8M39Q+2R"
+         },
+         "types" : [ "establishment", "point_of_interest", "school" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rockaway Av/Sutter Av",
+               "short_name" : "Rockaway Av/Sutter Av",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Brownsville",
+               "short_name" : "Brownsville",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11212",
+               "short_name" : "11212",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rockaway Av/Sutter Av, Brooklyn, NY 11212, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.667492,
+               "lng" : -73.910095
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.66884098029149,
+                  "lng" : -73.9087460197085
+               },
+               "southwest" : {
+                  "lat" : 40.6661430197085,
+                  "lng" : -73.91144398029151
+               }
+            }
+         },
+         "place_id" : "ChIJTVKHr19cwokRTTpItR2BwKE",
+         "plus_code" : {
+            "compound_code" : "M38Q+XX New York, NY, USA",
+            "global_code" : "87G8M38Q+XX"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Island",
+               "short_name" : "Long Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Island, New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            },
+            "location" : {
+               "lat" : 40.789142,
+               "lng" : -73.13496099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            }
+         },
+         "place_id" : "ChIJy6Xu4VRE6IkRGA2UhmH59x0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

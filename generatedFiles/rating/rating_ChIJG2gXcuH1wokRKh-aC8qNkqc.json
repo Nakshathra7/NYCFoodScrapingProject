@@ -1,0 +1,138 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "321",
+            "short_name" : "321",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "West 126th Street",
+            "short_name" : "W 126th St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10027",
+            "short_name" : "10027",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e321 W 126th St\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10027\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "321 W 126th St, New York, NY 10027, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.81136939999999,
+            "lng" : -73.9515978
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.8126669802915,
+               "lng" : -73.95028706970849
+            },
+            "southwest" : {
+               "lat" : 40.8099690197085,
+               "lng" : -73.9529850302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "William B. Washington Memorial Garden",
+      "photos" : [
+         {
+            "height" : 512,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100425491073414599115\"\u003eJudi Desire\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLS1oh79mJ5ShaUONy9sjYrNyONQt7o-FFm5wNJmU8TTvi6ka9V4eBjeR3X8HHvkEVxHHXcxGp1I9xc-ZpjVdo2HZksH0dPFbaguM3VoVeHoEVaGRWBLzempqsekB_aZ8olJIFHF2LtSfV60xzjTNh2mnQAz1OKPhJsg4RWtHMN78AF",
+            "width" : 512
+         },
+         {
+            "height" : 800,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100425491073414599115\"\u003eJudi Desire\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwI92DctA0Lrh3ShV9i_CQB8GNeQNLMjzkwcyHLv0yZCZ_wFfisRdoxyprafGFXLXI6OgaATiCQYeboNCMBlSVslOdk4uq9l_qcfKT65DWzWd-IPJpW4V2Xd10PShQvggs8vUDMbPfnMNEpxOr2OTEipVJe0bTfcteM5LznYT_eB2tDa",
+            "width" : 600
+         },
+         {
+            "height" : 600,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100425491073414599115\"\u003eJudi Desire\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLSfFeFgwprh1528CEdFqcls_ptDvW0jtQ-bz3B-UtjisYNzfaY-XgjvFc4c3vUh151AfAtaBjSLE6r15voQFV6Ft8rBeyDM3Mvlec5UzyN0qdi4UdPY6bXhP-h7U2JBGQn49x5OTmP1sug5vIgCZXqZJZ3RCvAZR_WYkmESFwKUBhc",
+            "width" : 800
+         }
+      ],
+      "place_id" : "ChIJG2gXcuH1wokRKh-aC8qNkqc",
+      "plus_code" : {
+         "compound_code" : "R26X+G9 New York, NY, USA",
+         "global_code" : "87G8R26X+G9"
+      },
+      "rating" : 3.3,
+      "reference" : "ChIJG2gXcuH1wokRKh-aC8qNkqc",
+      "reviews" : [
+         {
+            "author_name" : "frank rocco",
+            "author_url" : "https://www.google.com/maps/contrib/105639935900991322629/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh6.googleusercontent.com/-DHWhF7hC1vQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucniqh7hrNVSsvzjTQUvWbfQZt9OgQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating" : 1,
+            "relative_time_description" : "3 years ago",
+            "text" : ".no comment",
+            "time" : 1497229235
+         },
+         {
+            "author_name" : "Corinna Colatore",
+            "author_url" : "https://www.google.com/maps/contrib/108032428967307279687/reviews",
+            "profile_photo_url" : "https://lh6.googleusercontent.com/-r7vLKXGYlt4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm5lT2puOgDnqVG3-GODUge1RPDig/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "2 months ago",
+            "text" : "",
+            "time" : 1599098856
+         },
+         {
+            "author_name" : "Alexander Munoz",
+            "author_url" : "https://www.google.com/maps/contrib/109099499625139212566/reviews",
+            "profile_photo_url" : "https://lh5.googleusercontent.com/-C051F6qOYdo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck-2C3hrmGCD3fUttjN_C-qWgIVng/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating" : 4,
+            "relative_time_description" : "a year ago",
+            "text" : "",
+            "time" : 1553277203
+         }
+      ],
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=12074869449851281194",
+      "user_ratings_total" : 3,
+      "utc_offset" : -300,
+      "vicinity" : "321 West 126th Street, New York",
+      "website" : "https://www.facebook.com/thewilliebmemorialgarden/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,131 @@
+{
+   "plus_code" : {
+      "compound_code" : "P354+97 New York, NY, USA",
+      "global_code" : "87G8P354+97"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Scholes Street Children's Garden",
+               "short_name" : "Scholes Street Children's Garden",
+               "types" : [ "establishment", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "134-136",
+               "short_name" : "134-136",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Scholes Street",
+               "short_name" : "Scholes St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Southside",
+               "short_name" : "Southside",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11206",
+               "short_name" : "11206",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Scholes Street Children's Garden, 134-136 Scholes St, Brooklyn, NY 11206, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7084641,
+               "lng" : -73.9443172
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7098130802915,
+                  "lng" : -73.94296821970849
+               },
+               "southwest" : {
+                  "lat" : 40.7071151197085,
+                  "lng" : -73.9456661802915
+               }
+            }
+         },
+         "place_id" : "ChIJGXZupP1bwokRgckKS9aREv4",
+         "plus_code" : {
+            "compound_code" : "P354+97 Brooklyn, NY, USA",
+            "global_code" : "87G8P354+97"
+         },
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Island",
+               "short_name" : "Long Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Island, New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            },
+            "location" : {
+               "lat" : 40.789142,
+               "lng" : -73.13496099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            }
+         },
+         "place_id" : "ChIJy6Xu4VRE6IkRGA2UhmH59x0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

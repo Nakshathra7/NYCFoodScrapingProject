@@ -1,0 +1,238 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "2007",
+            "short_name" : "2007",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Mapes Avenue",
+            "short_name" : "Mapes Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "West Bronx",
+            "short_name" : "West Bronx",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "The Bronx",
+            "short_name" : "The Bronx",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bronx County",
+            "short_name" : "Bronx County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10460",
+            "short_name" : "10460",
+            "types" : [ "postal_code" ]
+         },
+         {
+            "long_name" : "1220",
+            "short_name" : "1220",
+            "types" : [ "postal_code_suffix" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e2007 Mapes Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eThe Bronx\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10460-1220\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "2007 Mapes Ave, The Bronx, NY 10460, USA",
+      "formatted_phone_number" : "(718) 583-1765",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.8449087,
+            "lng" : -73.88725029999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.84621723029149,
+               "lng" : -73.8858187197085
+            },
+            "southwest" : {
+               "lat" : 40.84351926970849,
+               "lng" : -73.8885166802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "international_phone_number" : "+1 718-583-1765",
+      "name" : "Mary Mitchell Family & Youth",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 AM – 6:00 PM",
+            "Tuesday: 8:00 AM – 6:00 PM",
+            "Wednesday: 8:00 AM – 6:00 PM",
+            "Thursday: 8:00 AM – 6:00 PM",
+            "Friday: Closed",
+            "Saturday: 8:00 AM – 6:00 PM",
+            "Sunday: Closed"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 4160,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102066962574970314452\"\u003eJohnny Fernandez\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIJsnsPOzFC4GNsVR4tT-O7kmGBBlXBIzKmaGXAW2_nu_vGbAeOfmqg4CTC0DXYNgXBC3FncYbF2Xv5nUOBeVzCeYpq3SEF2aa2pJDDNMSOmFjwfVOtkhMW-3BOMKGQUmL6ijq04E3GWYnVd_jnqsWtIsOuuZVsvQmzLQD-KsJys1eB",
+            "width" : 3120
+         },
+         {
+            "height" : 319,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108133296190911672315\"\u003eJoan Perez\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLC39uJU9nuBg5aen-D4XdMHvJFP0jKB_La0Nz9KWAX5xgp-x04XTnESCvZt5CdZSqdaD1d3nbNfZsgGmAJYvAm2cyaF-CI6E2ZQujspaBotiu-uCWS4nuLaDmBoq83pzidXxgrSneRlegpKypIxU-cjYJkfX1MrDWBqbmlrUWoo2i3",
+            "width" : 581
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109159821088042064364\"\u003eJohn H\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLZT_zo_ghyaBr-dx0L96i4HqAoLWB1xLXZ5IG7DOKeftBb2WUqVepMmZn2JRzClbWMLMGUs9q3_xV8hmlB96sLmnHvCoS25qOsavc6A3R_EEQvD-JmfPpjkqY1e2D9DqQqAd1Uu7PZamdonsL6sA21BWKSKOOtUjAmMmrXvcFpxf1g",
+            "width" : 3264
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109159821088042064364\"\u003eJohn H\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwL-XBOhJVT7liiBu9dCb3kyLUuYW70pZhp4MVECRBlVn2UMOgbWP7Gujdptyl3Ohdb0tSV-0KOG0nOQct9WdBs7vJ3I7yC9ZfoQwkj9_z0PSFqODIuXQVgOorA_EE0CwnyRc9e_y_5MEozoE57wFkOe7k0zpoh6cUzMDd4EJRuNKBo3",
+            "width" : 3264
+         }
+      ],
+      "place_id" : "ChIJZ8AfJ4r0wokR3_hbFZakY7Q",
+      "plus_code" : {
+         "compound_code" : "R4V7+X3 New York, NY, USA",
+         "global_code" : "87G8R4V7+X3"
+      },
+      "rating" : 3.9,
+      "reference" : "ChIJZ8AfJ4r0wokR3_hbFZakY7Q",
+      "reviews" : [
+         {
+            "author_name" : "suuk maidiuc",
+            "author_url" : "https://www.google.com/maps/contrib/104256048827578061777/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gj4iNAWlzG24nPR7Mi_hqIb8TXr43MS_S66V7AR=s128-c0x00000000-cc-rp-mo",
+            "rating" : 3,
+            "relative_time_description" : "a year ago",
+            "text" : "In 2013 some kid hit my mans this kids name was Abubakar tell D to tell abubakar “tick toc”.",
+            "time" : 1567830306
+         },
+         {
+            "author_name" : "phatdaddy tha don",
+            "author_url" : "https://www.google.com/maps/contrib/107965366767919383727/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GjahccV7q10eRZFG-l08HRCHBYaWpTWBx0urf9yuw=s128-c0x00000000-cc-rp-mo",
+            "rating" : 4,
+            "relative_time_description" : "3 years ago",
+            "text" : "It is truly tha place to be fun safe n friendly",
+            "time" : 1501092419
+         },
+         {
+            "author_name" : "Gennis Zweifach",
+            "author_url" : "https://www.google.com/maps/contrib/108112830996002513705/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-dkDiBNBQouk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclciwXkd6hN32PK68KwhL_p60N2Kg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 3,
+            "relative_time_description" : "5 years ago",
+            "text" : "mary Mitchell is awsome  my daughter goes there  and it really fun !",
+            "time" : 1418957075
+         },
+         {
+            "author_name" : "Caleb Mack",
+            "author_url" : "https://www.google.com/maps/contrib/108146134301985314012/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gj5p7Rb_L3WXnM13JjH6BB6ZYJr9ngklkBOzTn2Rw=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "3 years ago",
+            "text" : "Great organization !!",
+            "time" : 1494849027
+         },
+         {
+            "author_name" : "Silvana Zambrano",
+            "author_url" : "https://www.google.com/maps/contrib/116327632583130432077/reviews",
+            "profile_photo_url" : "https://lh6.googleusercontent.com/-mxaCSLjz0O0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclk71LYpK7MrE09UtaqwwL4lPncRA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "4 years ago",
+            "text" : "",
+            "time" : 1453305653
+         }
+      ],
+      "types" : [ "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=12998413914031782111",
+      "user_ratings_total" : 9,
+      "utc_offset" : -300,
+      "vicinity" : "2007 Mapes Avenue, The Bronx",
+      "website" : "http://themarymitchellfyc.org/"
+   },
+   "status" : "OK"
+}

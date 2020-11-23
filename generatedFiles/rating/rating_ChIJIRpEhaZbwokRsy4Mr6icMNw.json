@@ -1,0 +1,290 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "252-256",
+            "short_name" : "252-256",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Saint Marks Avenue",
+            "short_name" : "St Marks Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Prospect Heights",
+            "short_name" : "Prospect Heights",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Brooklyn",
+            "short_name" : "Brooklyn",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kings County",
+            "short_name" : "Kings County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11238",
+            "short_name" : "11238",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e252-256 St Marks Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBrooklyn\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11238\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "252-256 St Marks Ave, Brooklyn, NY 11238, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.6781101,
+            "lng" : -73.9676214
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.67956943029149,
+               "lng" : -73.9662317697085
+            },
+            "southwest" : {
+               "lat" : 40.67687146970849,
+               "lng" : -73.96892973029151
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "Prospect Heights Community Farm",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1200"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 – 10:00 AM",
+            "Tuesday: Closed",
+            "Wednesday: 5:00 – 7:00 PM",
+            "Thursday: 12:00 – 2:00 PM",
+            "Friday: 5:00 – 7:00 PM",
+            "Saturday: 10:00 AM – 12:00 PM",
+            "Sunday: 10:00 AM – 6:00 PM"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1360,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109258088081693000780\"\u003eProspect Heights Community Farm\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwL9ufBYgOv34xzk5rQGzwOYtzDP8SueUXUhi6YDGFTJ1VtSpUi1-SoZrN3ltPy8q2o6EwBNnoPys4BOcVnY2WaJXhz7uVfvWfSuJYNA1GO0646_rfVaAv2ObyUY4AWK2mN5cQYqreOrMCgxhREnWd_eVl7aP6W-MzXbFQszWoar0NgS",
+            "width" : 2048
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116912269691144799058\"\u003eZach Dugan\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIkkuhpT9jzeW8JINjj1je5ul-gSjILmdQdt9vthAkRQCwS2abwwFqdPENUsNTUAeSjOre4r32PSjysm2zW1VAf7rFsrXPFtfxN2Vvlk__ztT6JKlbU8P2T35unuu0Vn-iP6TTOao99jCNtDQZGRIgHfaV0eobSHUq4FqrqtFs5LFk",
+            "width" : 4032
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104250090053477187894\"\u003eFarhan Shamsi\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKZYDDfTQXWUqr7l4IKVbTg2yP7PRM5HXndt5WkDAaQuNtzSlHLZ3agI_eZsS7Esq8W0lknGgfB0z-yxqv2s3YT1MnfWK5uXNj8nV76sRdpjbqmjvdGY_EqSSxUiJgBC0eTN406WwM3UYMEoHwWwT2bzamctKWFXoDFLOBltoSM-kNl",
+            "width" : 4032
+         },
+         {
+            "height" : 2160,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109463955521576685374\"\u003eT. S. Collins\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIzWI5EcAOJGBdEhuZRXAk25fF6yVHWGKdUKSV_fczQHz8nKd6Q1CaRg5ftyCTYCBLEIuWvmX3CfnFX3UKX5l5JMgg0bvS-gz9vmnHo-qciEBBcAW-Ms50EEt9HXrgvyj59fVEdaNhHjsMzhjCOL1wUgnF0RvRoQJP_rx34UH9xsq8y",
+            "width" : 3840
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101100776972675083881\"\u003eSarah McDowell\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKfA5ZvYiaQizciwFpovoVLAB1ExB-WICDoVJyNbFXUDfBLqoGJp3lZnKJ0m9mGwVMru0BGecnVbvEVvvE_bkLUYDPrtv5Z9bDip6wL-Lnb1axjRVgbm8cIKpZSt-Tr9e52dSmAkBUEDFgVWjaH4jRgxfUju5kGl1oxWy_uqHgBtgae",
+            "width" : 3024
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107503863012802240064\"\u003ePhilip Antoniades\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKPi2h_KwBO14OEahOab04kQkLaJhMTvXDogYXBN8Xn3Kh6Kh1FPO8dNL85fErsapdlQI3jQsTveB2kKueGXJ5bUu1MgcGqasXlWP6TXQxzBNPlTr7aQHsMZNoghQJWCUL_VeXCUXgJVe-UJ7gW4jsLUg1gNWQX2AgatXpwzmIbGE8D",
+            "width" : 4032
+         },
+         {
+            "height" : 3648,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107244800125408387872\"\u003eKathie Lou Moser\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJQ8stjS-zjfN0gjk9zNl_cseGaK4hX2DdP0wSMkFKvqI12n0mf7K0iSnmnaDjSpHa-C1aE6fcEiYn92Fnx2Pvxzua9gSAHUPwi6yeTdIzKyPxhJbqfuXIjcssCCMyBh4QTU7Ks6u-dk6p6yqOk7mcd_vdvl0BC4x9mOCSDSW0HZ2lU",
+            "width" : 2997
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116912269691144799058\"\u003eZach Dugan\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIS6D3UfNBjFYMILQFAr-Fe-nMeBthUEC8TSwJhigWc8ZAJv_8VVxhkfzKp7tILqIowE5oyMU5p8vRtPhx4SuM3L5xxApyR7GM5KcZu93pXY64LuoZlkRIQ3t9I79_FIZ-HG9eU2KDGgtBQHnk3flMuhBK98FFeY--k5BRd_9JY0C4",
+            "width" : 4032
+         },
+         {
+            "height" : 2560,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104917091143133688627\"\u003eLynette Greenidge\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJS_pOmPDguZLAYBZRY8Xf2MfDBrGln4VGgt3gmAzbAk0o_xZYvlXcd0Ktwteg9xyA7Z5ZFhFvBXSc1VzTPx4Dktp_p_l9m0TCib4t9AM3XXHONuKs1t-KKRzcC-u7zhfFozsL4x16TW7hATNbYKpJw9sxme-CUh3luWMGjYctWAEsg",
+            "width" : 1600
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116912269691144799058\"\u003eZach Dugan\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwL8yqLdtTFRJFZZybFG6tmvEgLUJjHA8K5pSDzd3111Q5wetz1TFPAs_3xnFQdhXpY3r6znuKFhZCbqdeUzWfHmMVlKDFu87_iqMB5q2YqaOPzQOCa1cHYsbbRT-E0HEJ2MvfpEEpGtqvPOmhR_2GaYrpDMj9n0xV_WheM7IwqqfAQ",
+            "width" : 4032
+         }
+      ],
+      "place_id" : "ChIJIRpEhaZbwokRsy4Mr6icMNw",
+      "plus_code" : {
+         "compound_code" : "M2HJ+6X Brooklyn, NY, USA",
+         "global_code" : "87G8M2HJ+6X"
+      },
+      "rating" : 4.8,
+      "reference" : "ChIJIRpEhaZbwokRsy4Mr6icMNw",
+      "reviews" : [
+         {
+            "author_name" : "Mae Townsend",
+            "author_url" : "https://www.google.com/maps/contrib/103110139663706662241/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh6.googleusercontent.com/-wuG7-mCqIhw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckEbo2HP43i9rwpVQClVGJQI8hvnw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "5 months ago",
+            "text" : "Wonderful large place for meetings,friendly staff",
+            "time" : 1591696600
+         },
+         {
+            "author_name" : "Dolores Brandon",
+            "author_url" : "https://www.google.com/maps/contrib/108710093148701388814/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GgsNxmGHfy-0LpF168da7UZD03Uo4GtBiamOg0K=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating" : 5,
+            "relative_time_description" : "2 years ago",
+            "text" : "Wonderful community organization. Join and have your own plot or drop by during open hours and simply relax among the birds and trees. Check the website for events and activities.",
+            "time" : 1528760083
+         },
+         {
+            "author_name" : "Matt zebroski",
+            "author_url" : "https://www.google.com/maps/contrib/100743246936155750382/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GiVRK6v1kKwXmRePQYqGxGmcdO-f63KP4JW6918g8I=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating" : 5,
+            "relative_time_description" : "3 years ago",
+            "text" : "One of the most beautiful places in Brooklyn. Been a community garden since the 70s. Friendly members and a great service to the community.",
+            "time" : 1492574560
+         },
+         {
+            "author_name" : "FDA/ RS",
+            "author_url" : "https://www.google.com/maps/contrib/105721963337129573844/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gg1YYIzvoA8Eub0k2ky0JmP1BPfziCmBVAAL8Syhzk=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating" : 4,
+            "relative_time_description" : "5 years ago",
+            "text" : "Awesome community garden located in the heart of Brooklyn just a few feet away from Vanderbilt Avenue and a short walk to some of Brooklyn’s greatest cultural institutions.\n****",
+            "time" : 1433829871
+         },
+         {
+            "author_name" : "Gabriela Blanco Bobea",
+            "author_url" : "https://www.google.com/maps/contrib/107953291433395981957/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GguJMZj5b2SvKSoIaXmsbQ_-09RElU8g_0f16OuOg=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating" : 5,
+            "relative_time_description" : "2 years ago",
+            "text" : "Amazing community space, must visit!",
+            "time" : 1531766137
+         }
+      ],
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=15866353735531507379",
+      "user_ratings_total" : 18,
+      "utc_offset" : -300,
+      "vicinity" : "252-256 Saint Marks Avenue, Brooklyn",
+      "website" : "http://www.phcfarm.com"
+   },
+   "status" : "OK"
+}

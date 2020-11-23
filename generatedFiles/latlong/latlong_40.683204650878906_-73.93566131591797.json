@@ -1,0 +1,194 @@
+{
+   "plus_code" : {
+      "compound_code" : "M3M7+7P New York, NY, USA",
+      "global_code" : "87G8M3M7+7P"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "462 Halsey Community Farm",
+               "short_name" : "462 Halsey Community Farm",
+               "types" : [ "establishment", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "462",
+               "short_name" : "462",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Halsey Street",
+               "short_name" : "Halsey St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bedford-Stuyvesant",
+               "short_name" : "Bedford-Stuyvesant",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11233",
+               "short_name" : "11233",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "462 Halsey Community Farm, 462 Halsey St, Brooklyn, NY 11233, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.68322819999999,
+               "lng" : -73.9356753
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.68457718029149,
+                  "lng" : -73.93432631970849
+               },
+               "southwest" : {
+                  "lat" : 40.68187921970849,
+                  "lng" : -73.9370242802915
+               }
+            }
+         },
+         "place_id" : "ChIJ7W2oqqqqqroRBhmzy1Xi8vQ",
+         "plus_code" : {
+            "compound_code" : "M3M7+7P Brooklyn, NY, USA",
+            "global_code" : "87G8M3M7+7P"
+         },
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Halsey St/Lewis Av",
+               "short_name" : "Halsey St/Lewis Av",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Bedford-Stuyvesant",
+               "short_name" : "Bedford-Stuyvesant",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11233",
+               "short_name" : "11233",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Halsey St/Lewis Av, Brooklyn, NY 11233, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.683498,
+               "lng" : -73.93555499999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6848469802915,
+                  "lng" : -73.9342060197085
+               },
+               "southwest" : {
+                  "lat" : 40.6821490197085,
+                  "lng" : -73.9369039802915
+               }
+            }
+         },
+         "place_id" : "ChIJjXqxBHZcwokR5zHpN2VBKv8",
+         "plus_code" : {
+            "compound_code" : "M3M7+9Q New York, NY, USA",
+            "global_code" : "87G8M3M7+9Q"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Island",
+               "short_name" : "Long Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Island, New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            },
+            "location" : {
+               "lat" : 40.789142,
+               "lng" : -73.13496099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            }
+         },
+         "place_id" : "ChIJy6Xu4VRE6IkRGA2UhmH59x0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

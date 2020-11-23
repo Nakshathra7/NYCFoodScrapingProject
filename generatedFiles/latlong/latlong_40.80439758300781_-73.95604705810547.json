@@ -1,0 +1,145 @@
+{
+   "plus_code" : {
+      "compound_code" : "R23V+QH New York, NY, USA",
+      "global_code" : "87G8R23V+QH"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Garden of Love Community Garden - Morningside Heights",
+               "short_name" : "Garden of Love Community Garden - Morningside Heights",
+               "types" : [ "establishment", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "302",
+               "short_name" : "302",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West 116th Street",
+               "short_name" : "W 116th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10026",
+               "short_name" : "10026",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Garden of Love Community Garden - Morningside Heights, 302 W 116th St, New York, NY 10026, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.804387,
+               "lng" : -73.956048
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8057359802915,
+                  "lng" : -73.9546990197085
+               },
+               "southwest" : {
+                  "lat" : 40.8030380197085,
+                  "lng" : -73.95739698029151
+               }
+            }
+         },
+         "place_id" : "ChIJ-eT3NI33wokRPZVsePvCyJk",
+         "plus_code" : {
+            "compound_code" : "R23V+QH New York, NY, USA",
+            "global_code" : "87G8R23V+QH"
+         },
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "W 116 St/Fred Douglass Blvd",
+               "short_name" : "W 116 St/Fred Douglass Blvd",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10026",
+               "short_name" : "10026",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "W 116 St/Fred Douglass Blvd, New York, NY 10026, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8044638,
+               "lng" : -73.9557171
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8058127802915,
+                  "lng" : -73.95436811970849
+               },
+               "southwest" : {
+                  "lat" : 40.8031148197085,
+                  "lng" : -73.95706608029151
+               }
+            }
+         },
+         "place_id" : "ChIJz6A0lRb2wokRode30TA9GEM",
+         "plus_code" : {
+            "compound_code" : "R23V+QP New York, NY, USA",
+            "global_code" : "87G8R23V+QP"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      }
+   ],
+   "status" : "OK"
+}

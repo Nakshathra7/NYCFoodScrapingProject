@@ -1,0 +1,140 @@
+{
+   "plus_code" : {
+      "compound_code" : "JVJM+3J New York, NY, USA",
+      "global_code" : "87G7JVJM+3J"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "97",
+               "short_name" : "97",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Myrtle Avenue",
+               "short_name" : "Myrtle Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West Brighton",
+               "short_name" : "West Brighton",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Staten Island",
+               "short_name" : "Staten Island",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Richmond County",
+               "short_name" : "Richmond County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10310",
+               "short_name" : "10310",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "97 Myrtle Ave, Staten Island, NY 10310, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6301989,
+               "lng" : -74.11604249999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6315478802915,
+                  "lng" : -74.1146935197085
+               },
+               "southwest" : {
+                  "lat" : 40.6288499197085,
+                  "lng" : -74.1173914802915
+               }
+            }
+         },
+         "place_id" : "ChIJAQDQB0hOwokRTpQTM6sNNFk",
+         "plus_code" : {
+            "compound_code" : "JVJM+3H Staten Island, NY, USA",
+            "global_code" : "87G7JVJM+3H"
+         },
+         "types" : [ "church", "establishment", "place_of_worship", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Broadway/Delafield Av",
+               "short_name" : "Broadway/Delafield Av",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "West Brighton",
+               "short_name" : "West Brighton",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Staten Island",
+               "short_name" : "Staten Island",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Richmond County",
+               "short_name" : "Richmond County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10310",
+               "short_name" : "10310",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Broadway/Delafield Av, Staten Island, NY 10310, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.630688,
+               "lng" : -74.116432
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6320369802915,
+                  "lng" : -74.11508301970851
+               },
+               "southwest" : {
+                  "lat" : 40.6293390197085,
+                  "lng" : -74.11778098029151
+               }
+            }
+         },
+         "place_id" : "ChIJTRb73nNOwokRntSSji1BbQI",
+         "plus_code" : {
+            "compound_code" : "JVJM+7C New York, NY, USA",
+            "global_code" : "87G7JVJM+7C"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      }
+   ],
+   "status" : "OK"
+}

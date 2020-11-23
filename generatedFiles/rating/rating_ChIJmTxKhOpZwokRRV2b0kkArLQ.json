@@ -1,0 +1,227 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "110",
+            "short_name" : "110",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Horatio Street",
+            "short_name" : "Horatio St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10014",
+            "short_name" : "10014",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e110 Horatio St\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10014\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "110 Horatio St, New York, NY 10014, USA",
+      "formatted_phone_number" : "(212) 691-9800",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.738624,
+            "lng" : -74.00943099999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7400439302915,
+               "lng" : -74.00808171970849
+            },
+            "southwest" : {
+               "lat" : 40.7373459697085,
+               "lng" : -74.01077968029151
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "international_phone_number" : "+1 212-691-9800",
+      "name" : "110 Horatio Street Apartments by Rockrose",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 AM – 6:00 PM",
+            "Tuesday: 10:00 AM – 6:00 PM",
+            "Wednesday: 10:00 AM – 6:00 PM",
+            "Thursday: 10:00 AM – 6:00 PM",
+            "Friday: 10:00 AM – 6:00 PM",
+            "Saturday: 10:00 AM – 6:00 PM",
+            "Sunday: Closed"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 500,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105939541230533262319\"\u003e110 Horatio Street Apartments by Rockrose\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIpXZobbOPP6Z9athDpqSabzoBBPDzyIH00ZXqw0N-_fuPu4nDmTNCi6Djqp86DKK386aPEnV8I8OQCeASEk2mGYYMX302nNaRG3tT1Z9YjFR280s7l6PJhM6JXEaGLhOnUcwRIlatb2XqAqhXlkslh-VHEzVppGc9bIVYWmLOEJFD_",
+            "width" : 550
+         },
+         {
+            "height" : 3840,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105939541230533262319\"\u003e110 Horatio Street Apartments by Rockrose\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJgiHhdzNsoHNwSGZSQBRCIDVyGYmOdupBpXArVw2DpU0AznmZo2Ag18tIQVssbKrQvIlD7mULTisRhDmj1ZFFTa5t7zQnlQwettwQWLYGyl2R-piik3tjSTY8lrB9PlfI30Bpr-KBBqH2Vcq-vL7ZsPSqFnQ_PAzIpMtB_UsMXLVqg",
+            "width" : 5760
+         },
+         {
+            "height" : 3840,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105939541230533262319\"\u003e110 Horatio Street Apartments by Rockrose\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLFoP_M7wb4Nc12053mbJLutMyJ7bx6mwePyO3Ie8M6ENcVfB9sHLCp78lLhwye92t3qVjOEJWf2ObdqKJS70Jb_8r8kedHG3XZCcthgkJTeUUxA4QExh4ZuUGVxwqqBzXBpYzca7bFWoo3fuB4uHM88wRwPdJ09q_rhO8HDoxJdyix",
+            "width" : 5760
+         },
+         {
+            "height" : 411,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105939541230533262319\"\u003e110 Horatio Street Apartments by Rockrose\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIh-I-d9IQHdZnJToV2_wBhpyXaNUeK7d_m05OVUKYM_dEeugiX2mVrKkA1Zh_FlO5dVMB4iHspVF6V5xCcx6KVcFPjIuMUp-juLJ1-mNRubiFsKfk3u01eECnH6ptVg4-83TsbGgZ0f7tq0T0TM33iQckjgq6_j1nok14LK0hyV1Wu",
+            "width" : 617
+         },
+         {
+            "height" : 3840,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105939541230533262319\"\u003e110 Horatio Street Apartments by Rockrose\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLxvzilKxGeVLHnOy_Euz5O2W7162l2g89XI-SwpelzZX7NMUs7b4GKKj61MaFec7GcJe3161K7n2SwE5purjeT9yd4KKHg4DaW7xDtEXo5xkUHKZK2Jttu6-TA2v2gEf0sBxevgOz3o2lNv35W_7mFc3zT_ybWnALly1VR-V0f1wQV",
+            "width" : 5760
+         },
+         {
+            "height" : 531,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105939541230533262319\"\u003e110 Horatio Street Apartments by Rockrose\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLUYNl9py9CMYDgXFQjCsndGohX1cfp9GJv7k7j47k7bwozXk2o-uxLZmIC58Z3KdoH_c2eLRhGSe05UpbVkL6aBwF8cseuhap_RMsPQ9jzkJ4JR3WJvIlz8zEkn87f9JSWzApqPCkXHOWpq6-WxH2NcE6OLXSh0oReq8toqPPAv7ka",
+            "width" : 800
+         },
+         {
+            "height" : 2975,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109104673503451209616\"\u003eVladas Portapas\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJI8R194etTivEQnkR6rKkB5EFaCcOvfeVN2eizJEfZJgTOAEpNnfaTa5bvFutQ94aeNhnVU6ABmf7bu6Rooj37HZuk3h_ao-ZC3IVAue1Zo029S_Prr3C_4fgAmvYIUyjtEsbk54EcodYjgXSZpkL3Io7jINhptNfxkRl8DuE2NXZx",
+            "width" : 3967
+         }
+      ],
+      "place_id" : "ChIJmTxKhOpZwokRRV2b0kkArLQ",
+      "plus_code" : {
+         "compound_code" : "PXQR+C6 New York, NY, USA",
+         "global_code" : "87G7PXQR+C6"
+      },
+      "rating" : 4,
+      "reference" : "ChIJmTxKhOpZwokRRV2b0kkArLQ",
+      "reviews" : [
+         {
+            "author_name" : "Najib Hajjar",
+            "author_url" : "https://www.google.com/maps/contrib/103716339071600835289/reviews",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GjcsUUiF1T7XpsM93-rJMipTeEHz87fFA5H_pag2Q=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 4,
+            "relative_time_description" : "3 years ago",
+            "text" : "",
+            "time" : 1487299714
+         }
+      ],
+      "types" : [ "real_estate_agency", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=13018780939887271237",
+      "user_ratings_total" : 1,
+      "utc_offset" : -300,
+      "vicinity" : "110 Horatio Street, New York",
+      "website" : "https://rockrose.com/building/110-horatio-st/"
+   },
+   "status" : "OK"
+}

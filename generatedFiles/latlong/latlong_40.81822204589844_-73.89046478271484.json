@@ -1,0 +1,77 @@
+{
+   "plus_code" : {
+      "compound_code" : "R495+7R New York, NY, USA",
+      "global_code" : "87G8R495+7R"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "940",
+               "short_name" : "940",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Garrison Avenue",
+               "short_name" : "Garrison Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hunts Point",
+               "short_name" : "Hunts Point",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "The Bronx",
+               "short_name" : "The Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10474",
+               "short_name" : "10474",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "940 Garrison Ave, The Bronx, NY 10474, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8182031,
+               "lng" : -73.8905065
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.81955208029149,
+                  "lng" : -73.88915751970849
+               },
+               "southwest" : {
+                  "lat" : 40.81685411970849,
+                  "lng" : -73.89185548029151
+               }
+            }
+         },
+         "place_id" : "ChIJqT0VXqr1wokRAjhW6GZkvqQ",
+         "plus_code" : {
+            "compound_code" : "R495+7Q The Bronx, NY, USA",
+            "global_code" : "87G8R495+7Q"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

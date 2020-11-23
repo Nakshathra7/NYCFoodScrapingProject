@@ -1,0 +1,232 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Flatbush Avenue",
+            "short_name" : "Flatbush Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Brooklyn",
+            "short_name" : "Brooklyn",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kings County",
+            "short_name" : "Kings County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11215",
+            "short_name" : "11215",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Prospect Park West, \u003cspan class=\"street-address\"\u003eFlatbush Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBrooklyn\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11215\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "Prospect Park West, Flatbush Ave, Brooklyn, NY 11215, USA",
+      "formatted_phone_number" : "(212) 788-7900",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.6725156,
+            "lng" : -73.9698234
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.6739323302915,
+               "lng" : -73.9683789697085
+            },
+            "southwest" : {
+               "lat" : 40.6712343697085,
+               "lng" : -73.9710769302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "international_phone_number" : "+1 212-788-7900",
+      "name" : "Grand Army Plaza Greenmarket",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 8:00 AM – 3:00 PM",
+            "Sunday: Closed"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 3000,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107871993415692445620\"\u003eGrand Army Plaza Greenmarket\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIRtMlAWQ53dhOvQ4TH9eoOoVQXDjCuvqQDi8um0VbyDJrxjc1-RkuCzdbMir6MRlxJlmwsakaP_WCAvxB7MacdH0tY76U2sjJ2MTkeKSFFw4lVIt4jb6PL43VyntXZuYRXY8zg9Dq_MbaMh_Qyg-_4NXzoNpWtu2PB9ubla0psAwPP",
+            "width" : 4000
+         },
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112083474153900549302\"\u003eAndres Lopez-Ovejero\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwL7f0d-k0Jhb7wfcIxWemxe0ftTXTtXG1KD-rOf9oTAJ-iMDCIgCC1m_8DePGJcw0VD4aQomyypN1lc6rYJM1SYABIbzDThi43FZnn50vgNsLOwPBkuNsrVYhaWE9grW4FTKRQrishLYcoGW1rFhLcuZhbyJvtmXmxKV_NJnVg5xYjC",
+            "width" : 4608
+         },
+         {
+            "height" : 4656,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114317116986879822383\"\u003eKendall Moses\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIkHtualIS-yLgNuV4DD8Kubcfn1b0pHfxGh9h-lJsPu7l_Ge5OvJOwmtjKlXe7UKkM2rqXvMGliRO3f0pyxceaHvnzV7NbtkFMfdUKfhIicxo8bQ87RhSlhUVroaP6e_mPsEbKC3OxWPx_-39kJeM1406Z-RpImacQx4b04jabNxiG",
+            "width" : 3492
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102024606524618856398\"\u003ePeter Shapiro\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKRG69oMvqu4rV0V642TEUwhiDxpv8jgQFXBsz1gj6p6kcGpBCNdRXIasaMSYJGhtZMT4GXkUT-4f-szQHoVfr0MsX8cduiBhwhZoOFdn3l8k-ByoOqwalDeHJQgQSEU3vTYUltrBr9uIC9Yh4VG0I96UWiyJaG9wxvcBVNvysEdIEQ",
+            "width" : 3024
+         },
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112083474153900549302\"\u003eAndres Lopez-Ovejero\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKGt9_6FCt1Hatz1_jMqJGJQVyp3LFspSbQAfwQBVdM5zIViJtSHjbvxTKaKbKyzYozc1Bo9CFM5pWuQ5heWKwZYabwvdSH15Jv7kZgDvx6RrXb-8eKXrvYtzJYFFYY0V8heNHdaSdH5ICSFtOcDdoOd3vIwbAY59r6_mpQCxf4JCed",
+            "width" : 3456
+         },
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112083474153900549302\"\u003eAndres Lopez-Ovejero\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwI7d1M_Te77qkBsoC2tLAmmGIFudLfsKxcC6zYMbrscxDBl71sFWWn2iiM8ATsevjXe7USY3M_W1TnXUEDEqdSOPR3JlH3tnUGo1Ejks3lAKvbKxJLvTzgOw57dE_8DyAddPUG5QkcXuEfxjQKRjIcGrsLWcFyStTmu6Eqz84OQQe2K",
+            "width" : 4608
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107164784019370402811\"\u003eEva Schicker\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJH_CRnMaRRF1Ir2AKnPuZpo9XZhfwC5TWSE5k8JciCZtcGLSk9kc2dhP4uxYWJC2uCcOTxq1TsiAVLNSfvQnlay4U6mm8VOu4WnVKUIT2TbxAKjougybchTGmK8kmnhv7M2XYHRFTLYFetSRqeKaTKUVq8Sfg_w70li25k9x9jssG_",
+            "width" : 4032
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107164784019370402811\"\u003eEva Schicker\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIS3ru-RCwAeGvGk1G2w5YP6YWv_jmc5BA8NFUnwwEZiN0RD9MeXheIXQhIYC9AFfDJkPCRcV2xOhjaOcRuV6y4dWJudGIKBWs1AycEMe9rZ3FeBjl-U9h2pU1ra-BE-FWnfaoEyMZ82WEwzwpHvA0y3SCvT4cxK1zNIlWr4y-D7gaF",
+            "width" : 3024
+         },
+         {
+            "height" : 4656,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114317116986879822383\"\u003eKendall Moses\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLxEk7Yy2t_3zXCZTNdzIdT0AvIKmPnsFSU9tcT4KBzZLqbKb9GIoN8YwoPpcg7bOES6aD-LoEGlTqaRd43XOkQMwOmI2Yj_i2hJYIbBKCZlbniUM7wMwHIiUzcSluD6ZoZ1L2IS-1w9DdNN_Xqo5c38xRrSmQ9EuN4Y3E1VnV31Kaz",
+            "width" : 3492
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107471171924247896129\"\u003eAmanda Kirkpatrick\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKEZXTK8ucOG37sMbQeVPvR_mGdNVLQ5Yv0zX2x6aKq2_MU_Ykul_PZ7lLu9tdODJsv-H2QbTSQRDpkVkofvg_OqE-L8PR9NvOWtSOa-H0Oe-mI2v_Juo0SizhG--IjykSbEJYSB6q1qjKFC-PktA_WNg33BC5hLu39ntwL_o4aDHxO",
+            "width" : 3024
+         }
+      ],
+      "place_id" : "ChIJ1dRvFQhbwokRZ8GQG3saCrU",
+      "plus_code" : {
+         "compound_code" : "M2FJ+23 Brooklyn, NY, USA",
+         "global_code" : "87G8M2FJ+23"
+      },
+      "rating" : 4.7,
+      "reference" : "ChIJ1dRvFQhbwokRZ8GQG3saCrU",
+      "reviews" : [
+         {
+            "author_name" : "Dahlia Holmes",
+            "author_url" : "https://www.google.com/maps/contrib/109365040319265754754/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GhSMIOfMZKffH8YgDirkkj4mw7BeQ-IBrsb022YOA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 5,
+            "relative_time_description" : "2 months ago",
+            "text" : "Large amount of vendors, safe area, monitored for social distancing and covid19 hygiene compliance.",
+            "time" : 1599558836
+         },
+         {
+            "author_name" : "Nakita Juarez",
+            "author_url" : "https://www.google.com/maps/contrib/105365876011521781240/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gg_1RfwdMcsuYldaBkIOW4fYTzO04kOGkUxKz8J=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "2 months ago",
+            "text" : "I always go here for seafood. The only place I know where I can get sashimi tuna and salmon. There are a few Korean and Japanese stores inside the market, as well as a variety of fruit and vegetable stores. Be sure to check out the fish aquariums. They also have live music and a festive environment.",
+            "time" : 1598981274
+         },
+         {
+            "author_name" : "Deborah Jacobson",
+            "author_url" : "https://www.google.com/maps/contrib/110370899546518233576/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh5.googleusercontent.com/-kCV5TDtEwCM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmO2gZcMQ6pahkpkj53sHheb_kgvQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "2 months ago",
+            "text" : "Very organized & sanitized & the vendors did a fabulous job in setting up for us today, & with social distancing .I am so happy I went to today for all my goodies & of course my zucchini flowers",
+            "time" : 1598718902
+         },
+         {
+            "author_name" : "Mrs. Bk",
+            "author_url" : "https://www.google.com/maps/contrib/109714746030081925350/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-ubN_pOyLPoI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmYR-DLJilY9NeJEdyrT7SBROFsJg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "2 months ago",
+            "text" : "Great place to shop. Long lines during COVID, but lots of great stalls. The set-up overall seems very safe and efficient. Wish they were collecting compost.",
+            "time" : 1598577752
+         },
+         {
+            "author_name" : "Sandy Warren",
+            "author_url" : "https://www.google.com/maps/contrib/112858310155780860028/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gh2-Wl66k94n1n_PXSnlBuMpri-Th3WMIL1oPTg=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "4 months ago",
+            "text" : "Wow! This market was a very good place to buy fresh fruits, vegetables, meats, etc. The vendors were pretty impressive. They do very good sales talk to the customers so that it would buy what they displayed. Honestly, it was a very good place to buy fresh goods, for they were the person reliable for what they were selling. It was really nice to be here in your market. Thanks!",
+            "time" : 1594943028
+         }
+      ],
+      "types" : [ "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=13045268386677834087",
+      "user_ratings_total" : 506,
+      "utc_offset" : -300,
+      "vicinity" : "Prospect Park West, Flatbush Avenue, Brooklyn",
+      "website" : "https://www.grownyc.org/greenmarket/brooklyn/grand-army-plaza"
+   },
+   "status" : "OK"
+}

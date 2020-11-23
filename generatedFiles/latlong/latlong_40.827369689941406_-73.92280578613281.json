@@ -1,0 +1,72 @@
+{
+   "plus_code" : {
+      "compound_code" : "R3GG+WV New York, NY, USA",
+      "global_code" : "87G8R3GG+WV"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Grand Concourse",
+               "short_name" : "Grand Concourse",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Concourse",
+               "short_name" : "Concourse",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "The Bronx",
+               "short_name" : "The Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10452",
+               "short_name" : "10452",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "E 161st St &, Grand Concourse, The Bronx, NY 10452, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8274022,
+               "lng" : -73.92297979999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8287511802915,
+                  "lng" : -73.92163081970848
+               },
+               "southwest" : {
+                  "lat" : 40.82605321970851,
+                  "lng" : -73.92432878029149
+               }
+            }
+         },
+         "place_id" : "ChIJ9xmykzL0wokRocE92OkTzLE",
+         "plus_code" : {
+            "compound_code" : "R3GG+XR The Bronx, NY, USA",
+            "global_code" : "87G8R3GG+XR"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,279 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "42-93",
+            "short_name" : "42-93",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Skillman Avenue",
+            "short_name" : "Skillman Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sunnyside",
+            "short_name" : "Sunnyside",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Queens",
+            "short_name" : "Queens",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Queens County",
+            "short_name" : "Queens County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11104",
+            "short_name" : "11104",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e42-93 Skillman Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eQueens\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11104\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "42-93 Skillman Ave, Queens, NY 11104, USA",
+      "formatted_phone_number" : "(814) 791-9497",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.74689499999999,
+            "lng" : -73.9208632
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7482796802915,
+               "lng" : -73.9195540197085
+            },
+            "southwest" : {
+               "lat" : 40.7455817197085,
+               "lng" : -73.92225198029151
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "international_phone_number" : "+1 814-791-9497",
+      "name" : "Sunnyside Book and Media Swap",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 AM – 7:00 PM",
+            "Tuesday: 8:00 AM – 7:00 PM",
+            "Wednesday: 8:00 AM – 7:00 PM",
+            "Thursday: 8:00 AM – 7:00 PM",
+            "Friday: 8:00 AM – 7:00 PM",
+            "Saturday: 8:00 AM – 10:00 PM",
+            "Sunday: 8:00 AM – 7:00 PM"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 853,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109064709692762239740\"\u003eSunnyside Book and Media Swap\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIr3Rjen0mtvBIOlPvX3KosqBOFqnbip-_HD-gjmcCJuB60CKsbN6LbZmA5KUa3bicTIsX7Bg5WfWGpkou4-ILL8B2RLMs9T6c45AjnDYO_kqyTlporRjICUdNJTIJslmAvkpch23KuGM1Az-z-o6bD7SN61O4bXsJOKgNDh0tjIr20",
+            "width" : 1137
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109064709692762239740\"\u003eSunnyside Book and Media Swap\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIERk57ubnUdh401HWSRxUibsjAfCD1ZkgG7AXoPDhWkQbz_FwTuZ7sNXEvpTHFcCOsWrjWyjZ4AlJNnjZ3yll7A4GiGGBGOhKyGaV86ckBAhp8xCgyRALKgZyUoG4Tr15Dzo8i9fIcLelaMWzrlcg8LQCgolRKQp78hkdnbGKYQ8m6",
+            "width" : 4032
+         },
+         {
+            "height" : 853,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109064709692762239740\"\u003eSunnyside Book and Media Swap\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLTAZZnJk0EPAEkQnAEU57tfJImBrsqTuVJqHmKJfdNUB6fExmpgbaiWA7MnQx38ahGfSExPEchzS1u0mP89eqxB3H9HJMcTydaz4Ke6aiIPA6vc7m-U9qvsuoO2g4cy3cotv3q6HlQlDSJYOfykLa7q-rKDbi-mgNO95wupPS-iiF2",
+            "width" : 1137
+         },
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109064709692762239740\"\u003eSunnyside Book and Media Swap\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLMJeOZbRrvQjTcoVe8gFjoCsliPzm3Ip1aUwysQnWKqZeKT4M-YtqyYEFVIaAXdUkFw0ShC4D027B0Xubh0cO3srLX8ZSXVeRVUTlHLiucg96G4RnKS2HWtnBp5P-mOCpYg8W6yBVwvennpykRS6BwYKDAvU3VqEf__w8fJaZXvuCs",
+            "width" : 4608
+         },
+         {
+            "height" : 853,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109064709692762239740\"\u003eSunnyside Book and Media Swap\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKguRss42esAc255aWNTuCQJTtEX3SCn6ez_JGXKHkgymMVPTd915WaCV90ABdnmU0DA_9fw-yPAp6ZFGnFCy49-DKlvKMj_N55nmehCGyqpGytGY3NcO3VQ8U_C0UCeVwkMZbarQxJO9NwdDgsyouxr7UzFQe0YJo-_RZne5ReaOgp",
+            "width" : 1137
+         },
+         {
+            "height" : 853,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109064709692762239740\"\u003eSunnyside Book and Media Swap\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKgZz-rh3vbqEwwqaB5XAu7aj3zE_YGvQjbPxLevuUWPA5sW3jKV6S3qmCAWcG2CtUGPxbeBkT6Ucf46bdnKKseNKmQzKJKzZmtfAlWxH4ZakRJzjboceamQzTE5FDF918MBlSESV3MAsKhPMDqCFbAzOX3eUJOPZOFUrduZEe-Ivms",
+            "width" : 1137
+         },
+         {
+            "height" : 642,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109064709692762239740\"\u003eSunnyside Book and Media Swap\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwII9SuM4TWr6ZhJWreqgprvfBrorGrxj-bpq9ueVcFhJk_Q93Zb5JU8pU6EyqY9-j4c7urT9LayNK68sgrZGwuxrFq1e9U1pSkE4tGe3ggtqpGrIHZGMq_HmvRpAJdNcMORr2HTBxWXyK9RL382uL5zFiRCBhx4ohENHuNs5qs9nQwE",
+            "width" : 642
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109064709692762239740\"\u003eSunnyside Book and Media Swap\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLiUyHBNeoCjC3Z22wUsBE6t0Hmv7F8NYDoLU4JlP73v9Pr4vmUu2dsUqi-iblMIiVDwbmi5kGrt8XT2fzePaN7iZTWYRsQR3iu7BErS3pBHVetXhyBwgzf0YMAOUegUCxB8RNujpYRPjKVcACFV_5xvA9SYV5mjBXleYNtYm9vvgKM",
+            "width" : 4032
+         },
+         {
+            "height" : 1962,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109837685858073270459\"\u003eVictor Pati\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKjK98lAy_PUd9mEi2i0Aw5w-5mP7_0ilUhjIc7ZOZgm_hC-_ERIGvkoQsGJ7TGh-v1M8ZY-Tl079HP-vtAn2pGSf-firDZt9NsoO_nmMps0EK7C1vFyIQa_LYIYupUX3GxoOTdtcu1FRgy3iiuYeRQQilehNvdco7s7JvAWUVbcEEb",
+            "width" : 4032
+         },
+         {
+            "height" : 853,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109064709692762239740\"\u003eSunnyside Book and Media Swap\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwK-do4d_kf2D03KxeJZ7p9Pfn_vZxndEMNi6F3RoXP6Tz3ouUKBtBx1CRIeh6IsOhD9AUzZ0UHIKPAP_swnQCgyCj9j0hBwcgKKSZUuoEdATGJk8Q2-711UVGyW8SV3HSXHI3ijROaUJk-inBOc8YUDpJGjI_xvXNBE9H9Q_EKTT4Ks",
+            "width" : 1137
+         }
+      ],
+      "place_id" : "ChIJ3W2z-tlfwokRIaQDXbgm_EA",
+      "plus_code" : {
+         "compound_code" : "P3WH+QM New York, NY, USA",
+         "global_code" : "87G8P3WH+QM"
+      },
+      "rating" : 5,
+      "reference" : "ChIJ3W2z-tlfwokRIaQDXbgm_EA",
+      "reviews" : [
+         {
+            "author_name" : "Victor Pati",
+            "author_url" : "https://www.google.com/maps/contrib/109837685858073270459/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GiNjGbpbMq-Nq2d_SU3Vq_H24gjkUVk0UwjjAhlmw=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating" : 5,
+            "relative_time_description" : "3 weeks ago",
+            "text" : "Great place where so many in the community say hello, exchange books, share knowledge 💡 and celebrate being a Sunnysider",
+            "time" : 1604105091
+         },
+         {
+            "author_name" : "Donna Z. Meredith",
+            "author_url" : "https://www.google.com/maps/contrib/113142604190725261661/reviews",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gic0awDvWsad03JkPRNq02Vex7--ywlBXbS0pYe1Q=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "a week ago",
+            "text" : "",
+            "time" : 1605377531
+         }
+      ],
+      "types" : [
+         "library",
+         "book_store",
+         "electronics_store",
+         "home_goods_store",
+         "point_of_interest",
+         "store",
+         "establishment"
+      ],
+      "url" : "https://maps.google.com/?cid=4682660285834830881",
+      "user_ratings_total" : 2,
+      "utc_offset" : -300,
+      "vicinity" : "42-93 Skillman Avenue, Queens",
+      "website" : "http://facebook.com/sunnysideswap"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,238 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1272",
+            "short_name" : "1272",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Boston Road",
+            "short_name" : "Boston Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Morrisania",
+            "short_name" : "Morrisania",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "The Bronx",
+            "short_name" : "The Bronx",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bronx County",
+            "short_name" : "Bronx County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10456",
+            "short_name" : "10456",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e1272 Boston Rd\u003c/span\u003e, \u003cspan class=\"locality\"\u003eThe Bronx\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10456\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "1272 Boston Rd, The Bronx, NY 10456, USA",
+      "formatted_phone_number" : "(212) 639-9675",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.8311056,
+            "lng" : -73.9006631
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.83241898029151,
+               "lng" : -73.89927006970849
+            },
+            "southwest" : {
+               "lat" : 40.82972101970851,
+               "lng" : -73.9019680302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "international_phone_number" : "+1 212-639-9675",
+      "name" : "McKinley Square",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "open" : {
+                  "day" : 0,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 480,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109313985098950951575\"\u003eMcKinley Square\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwId8QVFNbGBOQbG-N0t9CupGT7h6v_DMHm88s7noNRR3Iz3dLj42WImCKfnR02NVlASTPEzvA_hyRHWeaQFNGrThYKJoUssr2Q4n9Het2BKXVjXVi2-KpZ9Rg3S52AvWqYR49j7og8xlI8Mi3xOx-UpPFAt-HB10cqQUfdZbgALWUgx",
+            "width" : 640
+         },
+         {
+            "height" : 480,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109313985098950951575\"\u003eMcKinley Square\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLunDG2qsgDpe41EL-BNu-UL2_dVlUXC6HCyOYk0wIdufRkKGhtO544Fd0Pc0hIkPVoxD-4Xj8vTqFZ_YFJIXnrA5i8Wo8g8UFbGCOQKaiTRm0bt6CoDqzNAuSeZwWUKI4NDiEIJaoijvTj_plmyrhp4uyuS0E6j26nuYFRdVlMOQhY",
+            "width" : 640
+         },
+         {
+            "height" : 4128,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112800131643246979586\"\u003eMilagro Claros\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLtQ9z89djPiyk98ZZ-Cp_p6BDVHHaIg1feKccok8D8XhK7C5Lxofi5aXOuq0yXxk1LuwudhbA-BikXnzbxi9-o6jqs0ioKhWZ-QFHi4ypXf6cm2j3_fXUIwsSSQGKMeuJuRKpCywW6OMKjIIMXxX7vwvBseSlLqsvGQtdqHkWlROud",
+            "width" : 3096
+         },
+         {
+            "height" : 3366,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105955329010517286883\"\u003eIbn Ziyad\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJHesuMyYaLhczAZ0wjYDk6-WkRNF8oHGOQRYqwcth_r-cCDr6qP3ppyqDFv8rnkR_M7JvNSDoN1jDOf-Jbdv5WdJnSP-EDx-jN4N4L3FVGUGMTlvp7OQWBznpGyFMzIia8FXzdX84jSfEPf5hlE-H7N2cu3QIHg9JJ-oeVPHFIcxKm",
+            "width" : 5984
+         },
+         {
+            "height" : 1152,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117215421794033915284\"\u003eROBERT WILLIAMS\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJQuDrNUZZsDwsYg9fPTrNxeCJnWuRwVpPjjpDInChdw_cCIb-vHFK60Dz_IeP4_Hqb7YjMIGMJ_NLZZbBpPzdTKyaHUvKidfXhOibBWvkYML9yN62i8tjiHQMwfZx7V89vOA-a56RJCYxytGo_X5V4Ii_LHM8z0Z3boy6l2msS17q3",
+            "width" : 2048
+         },
+         {
+            "height" : 2576,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101911090707568291923\"\u003eMichael Freeman\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLIDNA1hFSQvcpXv8KEzxX9SG1pj-FWY_U5opQpTh7G4vj8bG6ihyHDxHBtLhiBVcmSH4QCH3qObZ0FBZwjVP47puGxqkPimcdDp7Tp4JSbJgMZ5g0XUjbIyKZ56_OXgseWjHzCoue44xkqqFlWdC0uTDpG1VgEZxsK_SGyitFsqVzU",
+            "width" : 1932
+         },
+         {
+            "height" : 5312,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103916210028814440625\"\u003eFrank Vasquez\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIQgziU-_8mToEV29G8AHvNveiXfzA3cYnadVFP8tdezXflNZeAqU5eSWvhUmHB-GOJLbJjTNCV1vK1ATIgNh8APcsnTVqTetjotkSwsAHbHgHz7fsJr2FZ3qXPqCBkqAAH8vXxmYBFxuV0OLgMLNqVUESj4-of5-5zo1_CxC1xJipG",
+            "width" : 2988
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111028068911117155501\"\u003eEnrique Paoli\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIGhgYuhbf1pFqQeglbcntrABaNag63y-tt1K1r0yNWcYYU8LFX5jkns6f3OJ5MoU1r1nz44WNwMrUHVetdJ9yCcJZt3xT9WuKl-gFXmFd2V0MTILw3hzg1y1sOljuA9uSpB7fKytOhKDtp4Ckr6Puet4o09Hrdh0wsZFxT5C0d9Pw4",
+            "width" : 1836
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103993593322294656692\"\u003eIcemanhot1 Soloiceman\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIyQU7Mg548bQvnZK1xfz0Luj1CyA3qbxSXc2O6yr779vro4hG1V2upxCCQ85zacwmWbgMR8tYU2OJceAD3D8VycfaithNQKZfFnq8jmScqPGSlJiXX1IvXF4NJZd2IFmhgh5ipkAdOSJ5TFzC9tJrtO68EqVA76sYypQ3GziYdRJmS",
+            "width" : 1836
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103993593322294656692\"\u003eIcemanhot1 Soloiceman\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLOvdVhONiDTtTjuCz9U3k1pRRcoKBArgKJJ6ZcBuwWY-hoCQEtSMHlKS21eLeF4AZWvUct63zE56smr3YEKihJQsWP6_7RcKvNVqb7wQspGSjWTtIUx3Z_0PoPTxwlpy25Oh64LA522qPAQe4r9HrdYE0J0g1-0GG8ndTNRcEdFaE-",
+            "width" : 1836
+         }
+      ],
+      "place_id" : "ChIJta4h4E_0wokRRZxdbUl68dg",
+      "plus_code" : {
+         "compound_code" : "R3JX+CP New York, NY, USA",
+         "global_code" : "87G8R3JX+CP"
+      },
+      "rating" : 3.5,
+      "reference" : "ChIJta4h4E_0wokRRZxdbUl68dg",
+      "reviews" : [
+         {
+            "author_name" : "Robin Cajigas",
+            "author_url" : "https://www.google.com/maps/contrib/115729779325143271613/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GiAyJ9NQDTpderl6GIQ-a4BzeiEPQaIIGmb_1vk=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating" : 1,
+            "relative_time_description" : "10 months ago",
+            "text" : "This mini island is \"meh\" at best. It's at the cross roads of 169 St. and Boston Rd. One can catch the Southern Blvd. bound BX35 and the Mott Haven 136 bound BX21 there. It has benches, but they are always occupied by the older, \"liquor sippers.\" The people are be friendly, however it's not a place I would recommend to spend time at. Just catch your bus and keep going.",
+            "time" : 1579629385
+         },
+         {
+            "author_name" : "jeffrey johnson",
+            "author_url" : "https://www.google.com/maps/contrib/103627923974657757289/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GiCE7Kjl6o81CKVlBMHJSME5hAnxorkueqIUe9kYA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating" : 5,
+            "relative_time_description" : "8 months ago",
+            "text" : "Kool place to chill and wait on the  bus or catch some sun",
+            "time" : 1583745079
+         },
+         {
+            "author_name" : "levern vann",
+            "author_url" : "https://www.google.com/maps/contrib/111779115397550184182/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-lOTLG7EF6ok/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn9yJiTO7KmVMXcBhoOmH5im_r1Aw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "It's small and intimate",
+            "time" : 1571331578
+         },
+         {
+            "author_name" : "Eric Schwartz",
+            "author_url" : "https://www.google.com/maps/contrib/111496189007740156559/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gi-bEHXkghXBMn0D-oRq6OagA_G65_Xn8hC7DFyqQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 5,
+            "relative_time_description" : "3 months ago",
+            "text" : "Excellent",
+            "time" : 1597607748
+         },
+         {
+            "author_name" : "Ibn Ziyad",
+            "author_url" : "https://www.google.com/maps/contrib/105955329010517286883/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gj42h4bU8sBmdr9qhSRAzgjEujlBiWWUGyUBLFnFw=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating" : 3,
+            "relative_time_description" : "3 years ago",
+            "text" : "It's a good place to wait for the bus, or to view the giant annual Christmas tree, that is placed there.",
+            "time" : 1489459618
+         }
+      ],
+      "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=15632410237365754949",
+      "user_ratings_total" : 56,
+      "utc_offset" : -300,
+      "vicinity" : "1272 Boston Road, The Bronx",
+      "website" : "https://www.nycgovparks.org/parks/mckinley-square/"
+   },
+   "status" : "OK"
+}

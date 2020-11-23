@@ -1,0 +1,155 @@
+{
+   "plus_code" : {
+      "compound_code" : "R3MJ+2F New York, NY, USA",
+      "global_code" : "87G8R3MJ+2F"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1130",
+               "short_name" : "1130",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Grand Concourse",
+               "short_name" : "Grand Concourse",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Concourse Village",
+               "short_name" : "Concourse Village",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "The Bronx",
+               "short_name" : "The Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10456",
+               "short_name" : "10456",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3902",
+               "short_name" : "3902",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "1130 Grand Concourse, The Bronx, NY 10456, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8326053,
+               "lng" : -73.9187582
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8339542802915,
+                  "lng" : -73.9174092197085
+               },
+               "southwest" : {
+                  "lat" : 40.8312563197085,
+                  "lng" : -73.92010718029151
+               }
+            }
+         },
+         "place_id" : "ChIJWX0K2jD0wokRswVkau5oVCI",
+         "plus_code" : {
+            "compound_code" : "R3MJ+2F New York, NY, USA",
+            "global_code" : "87G8R3MJ+2F"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "167 Street Station",
+               "short_name" : "167 Street Station",
+               "types" : [
+                  "establishment",
+                  "point_of_interest",
+                  "subway_station",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Concourse",
+               "short_name" : "Concourse",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "The Bronx",
+               "short_name" : "The Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10452",
+               "short_name" : "10452",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "167 Street Station, The Bronx, NY 10452, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8345085,
+               "lng" : -73.9177328
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8358574802915,
+                  "lng" : -73.91638381970849
+               },
+               "southwest" : {
+                  "lat" : 40.8331595197085,
+                  "lng" : -73.91908178029149
+               }
+            }
+         },
+         "place_id" : "ChIJlefaTDf0wokRBEllmJQGSeQ",
+         "plus_code" : {
+            "compound_code" : "R3MJ+RW The Bronx, NY, USA",
+            "global_code" : "87G8R3MJ+RW"
+         },
+         "types" : [
+            "establishment",
+            "point_of_interest",
+            "subway_station",
+            "transit_station"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

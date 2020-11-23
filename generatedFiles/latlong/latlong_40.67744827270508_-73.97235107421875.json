@@ -1,0 +1,131 @@
+{
+   "plus_code" : {
+      "compound_code" : "M2GH+X3 New York, NY, USA",
+      "global_code" : "87G8M2GH+X3"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "7 Avenue Station",
+               "short_name" : "7 Avenue Station",
+               "types" : [
+                  "establishment",
+                  "point_of_interest",
+                  "subway_station",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Park Slope",
+               "short_name" : "Park Slope",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11217",
+               "short_name" : "11217",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "7 Avenue Station, Brooklyn, NY 11217, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6773274,
+               "lng" : -73.9725591
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.67867638029149,
+                  "lng" : -73.97121011970849
+               },
+               "southwest" : {
+                  "lat" : 40.6759784197085,
+                  "lng" : -73.97390808029149
+               }
+            }
+         },
+         "place_id" : "ChIJn8AhiqhbwokRylWwMqpR-J0",
+         "plus_code" : {
+            "compound_code" : "M2GG+WX New York, NY, USA",
+            "global_code" : "87G8M2GG+WX"
+         },
+         "types" : [
+            "establishment",
+            "point_of_interest",
+            "subway_station",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Island",
+               "short_name" : "Long Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Island, New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            },
+            "location" : {
+               "lat" : 40.789142,
+               "lng" : -73.13496099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            }
+         },
+         "place_id" : "ChIJy6Xu4VRE6IkRGA2UhmH59x0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

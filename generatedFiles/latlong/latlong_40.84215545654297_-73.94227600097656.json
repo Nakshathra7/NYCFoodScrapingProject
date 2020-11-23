@@ -1,0 +1,130 @@
+{
+   "plus_code" : {
+      "compound_code" : "R3R5+V3 New York, NY, USA",
+      "global_code" : "87G8R3R5+V3"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "ft Washington Av/w 168 St",
+               "short_name" : "ft Washington Av/w 168 St",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10032",
+               "short_name" : "10032",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "ft Washington Av/w 168 St, New York, NY 10032, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.84215349999999,
+               "lng" : -73.94228
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.84350248029149,
+                  "lng" : -73.9409310197085
+               },
+               "southwest" : {
+                  "lat" : 40.8408045197085,
+                  "lng" : -73.94362898029151
+               }
+            }
+         },
+         "place_id" : "ChIJ5Rjj85v2wokRQ9MRfJi-TS4",
+         "plus_code" : {
+            "compound_code" : "R3R5+V3 New York, NY, USA",
+            "global_code" : "87G8R3R5+V3"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10032",
+               "short_name" : "10032",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "180 Fort Washington Avenue @ West 168th Street 9th Floor, Room HP9-924, New York, NY 10032, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.84213949999999,
+               "lng" : -73.9422811
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8434884802915,
+                  "lng" : -73.94093211970849
+               },
+               "southwest" : {
+                  "lat" : 40.8407905197085,
+                  "lng" : -73.94363008029151
+               }
+            }
+         },
+         "place_id" : "ChIJo-7k85v2wokRcB1Ov6XaOho",
+         "plus_code" : {
+            "compound_code" : "R3R5+V3 New York, NY, USA",
+            "global_code" : "87G8R3R5+V3"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,294 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "100",
+            "short_name" : "100",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "West Mosholu Parkway South",
+            "short_name" : "W Mosholu Pkwy S",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "West Bronx",
+            "short_name" : "West Bronx",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "The Bronx",
+            "short_name" : "The Bronx",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bronx County",
+            "short_name" : "Bronx County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10468",
+            "short_name" : "10468",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e100 W Mosholu Pkwy S\u003c/span\u003e, \u003cspan class=\"locality\"\u003eThe Bronx\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10468\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "100 W Mosholu Pkwy S, The Bronx, NY 10468, USA",
+      "formatted_phone_number" : "(718) 543-1000",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.8815104,
+            "lng" : -73.88682059999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.8828948302915,
+               "lng" : -73.88534326970849
+            },
+            "southwest" : {
+               "lat" : 40.8801968697085,
+               "lng" : -73.88804123029149
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "international_phone_number" : "+1 718-543-1000",
+      "name" : "DeWitt Clinton High School",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0815"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0815"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0815"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0815"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0815"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0815"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0815"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:15 AM – 4:00 PM",
+            "Tuesday: 8:15 AM – 4:00 PM",
+            "Wednesday: 8:15 AM – 4:00 PM",
+            "Thursday: 8:15 AM – 4:00 PM",
+            "Friday: 8:15 AM – 4:00 PM",
+            "Saturday: 8:15 AM – 4:00 PM",
+            "Sunday: 8:15 AM – 4:00 PM"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115139383240135243719\"\u003eRich Lee\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKEIpnQHAAV4R-19zGyzlSPpkJfYeP2naDUtcdSPDJqSphLNjubpy_PwcZc3nq39vkypWhto_ZLct4o_8NuU0qvdMnSYyiJlybZdjAgOxwQVIDiK4jF5u8mLZzt_joQd7aTWEb97y-LiGduaElsnathksUYI9DYS4f-nK8W7d1CxXcJ",
+            "width" : 1840
+         },
+         {
+            "height" : 1024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100177110908438366767\"\u003ePrincess Poku\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwL4ODXXdhEHwCaV-bVD-uuRMpd2Ivy2B80dFywHT8NdikINpHWBNR4M2_V3s9YnL9YSTdmLdSf2BQo8XpEVbEzGdIUBa8FB4VBH7raKh4FifnN8qhxa8NlTPvmFsCCtDk0ClkwXpCsIavtN29t17TGaHR4bJtBscLo2R6lbiUyNa7Gh",
+            "width" : 768
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104361967429519480629\"\u003eJason Zhang\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwL9n47m5Ck10R70vXSCnX_diwPnf3U2bQxw8DYL-e_je9YhukzSVtTeeiiSflQbLQwPbdHESflg0NMbu7HmESIbMtAqwjE_4vMtlB9Fj1xFBC13Lg28_NRFDfZHfW08hK8-mxedk4e3CKI9jwVdEaS4u6PghqNZtkjVIOrR84MfzRV0",
+            "width" : 3024
+         },
+         {
+            "height" : 1024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100177110908438366767\"\u003ePrincess Poku\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJAWfcrd03R95KxBR_DPUJYpy4lCv1dBsik64FKmjJkaAJd0tmHbKgmKZGpj7Es04paXokhcUmpNhepMZdS7wEyT16bvAlVwksT6bvPw0kZfq_o5Igr2VeXfKUgx2cOS7y2IDYtWt_P8MKBVqMy_fuwZ6eaNE9ZCUvLLVWv9ruAdyne",
+            "width" : 768
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110045422909326069322\"\u003eDainty Steph\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJMCg4ZEdIZERZNAxXYSItTh8916jO_Pi62jWyH_i9tNT1Hp2eWcNiKy5NnOz_JIEZkdHLcN4K2qfltTdFK2lWJkRpUG2_yw0T3RUw0AmiBIVwUxGpQZfdzck_UyYbqlMmqOM7tloRR0J_6Q9FbCzKsOFfyhUjeFXRzNq7NnmHKzKml",
+            "width" : 2268
+         },
+         {
+            "height" : 960,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104305108193825662804\"\u003eGabriel Guilarte\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJtWczfPhPK3BktH3efeAMPS0SEuhvtLO6j329jxitAFNdhcRthtRHlP00B1tsSD3OovliBZFQxJBTNwyrpLMkwpHuzXTbOwsSFJyduHIXPjwB80RmPZyj3bFcKpXGMJ7thgNzxyFQ1GOpdOgGlZlkhuAqmvKh99IMyOmuLnIOvlHCq",
+            "width" : 1362
+         },
+         {
+            "height" : 5312,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103200026869046923969\"\u003eEisa Nagi\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLzMFHFCt81vhrvYAEoAbscHjKTF1dDG2DXZZqVyKnz0WuAJGYCBehzIwssb55-VdnDT7aB3wjeKR2TwXAiU6UCmdgqQBU-RVDDZJhpnnjpkYCDOGuUjHWfH8eDf6MbPVT6jcI-J24o08xuSF_os2yNyxEI3wL8ecrV4ZxAlDFgRJzy",
+            "width" : 2988
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102316884008064555871\"\u003eClub Internacional FC NY\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLoU3N3lKER08fwnUneDeJ1kc1zJ8DZflSlf7dHHlg-kpT8luoxNW2iODGa0MQmzM2liwYh8ee2w7yB23qpxD_zanHQW2EWse6KCAPh_-IM05jEOb25ajPOTV7Lo-4kuBbzwaD0c1_-U7-8sQqBkY9rCmnJVCPNTlTROvor5r7r4BHp",
+            "width" : 1152
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114709495512415415498\"\u003eHenry Rottinghaus\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIAC_U-SxlEzRaOXk7ZniYnZ_XstEs6b0_obeQ5GI9bl0quEEPBs0xe9MKdH6BryZtaP-Fu1Me3XVkS2qL_51a13n111wUhIKGSvv1sCpqemPaQdgP4jwhnf-fJVzFqJHrJK_EqpD4dN0ve-l7YEQceexU-IoVg0U1933xCrsmgYgI_",
+            "width" : 3264
+         }
+      ],
+      "place_id" : "ChIJl083yQrzwokRt-qY3O_dFzw",
+      "plus_code" : {
+         "compound_code" : "V4J7+J7 The Bronx, NY, USA",
+         "global_code" : "87G8V4J7+J7"
+      },
+      "rating" : 3.4,
+      "reference" : "ChIJl083yQrzwokRt-qY3O_dFzw",
+      "reviews" : [
+         {
+            "author_name" : "rubi J",
+            "author_url" : "https://www.google.com/maps/contrib/109549488709922351641/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gi8U43Z_XzxkJDfvunY9cEyWwse4uWZTMRVo4qlrQ=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "3 years ago",
+            "text" : "I graduated in 2006. Best years of my life with wonderful friends. Married now but Rubi Cabrera if any old friends are looking for me.",
+            "time" : 1494880915
+         },
+         {
+            "author_name" : "NBA2K CLIPS",
+            "author_url" : "https://www.google.com/maps/contrib/103120896797423532546/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GieOjODXOQYYZ4XEsEf_jOSBzbgzha7FtBB-JRQaA=s128-c0x00000000-cc-rp-mo",
+            "rating" : 1,
+            "relative_time_description" : "2 years ago",
+            "text" : "Have you heard, this is one of the most dangerous schools ever!!!!!! I WOULD DEFINITELY NOT GO THERE! There are so much bullies and violence there. Screw this school",
+            "time" : 1518227858
+         },
+         {
+            "author_name" : "Carmen Soto",
+            "author_url" : "https://www.google.com/maps/contrib/101857485904781487362/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-18N-Zg7C4qg/AAAAAAAAAAI/AAAAAAAAJQk/AMZuucmivQpZTJ5R8DuI8pRkumbBTAz41A/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating" : 4,
+            "relative_time_description" : "3 years ago",
+            "text" : "This used to be an all boys school back in the sixties and seventies. One of my children attended there a few years ago and it wasn't a pleasant experience. There was a lot of gang activity at the time. I don't know if anything's changed since then",
+            "time" : 1488465433
+         },
+         {
+            "author_name" : "Rich Lee",
+            "author_url" : "https://www.google.com/maps/contrib/115139383240135243719/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GhxbFhlUMCGQBFSTp8WkfCLLvi-VBsxwC2UwqhDhA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 5,
+            "relative_time_description" : "2 years ago",
+            "text" : "DeWitt Clinton high school alumnae: Richard Avedon and James Baldwin. 'nuff said.",
+            "time" : 1513873814
+         },
+         {
+            "author_name" : "Ell-J T.",
+            "author_url" : "https://www.google.com/maps/contrib/118028566740059775925/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh5.googleusercontent.com/-dq5owzq88SU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnSCVNljzB9mHaL35H0YZgDegMm8g/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating" : 1,
+            "relative_time_description" : "2 years ago",
+            "text" : "Never been there,but my dad used to go to school here. I hear bad things about this school though.",
+            "time" : 1516063640
+         }
+      ],
+      "types" : [ "secondary_school", "school", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=4330173589007952567",
+      "user_ratings_total" : 53,
+      "utc_offset" : -300,
+      "vicinity" : "100 West Mosholu Parkway South, The Bronx",
+      "website" : "http://dwchs.net/"
+   },
+   "status" : "OK"
+}

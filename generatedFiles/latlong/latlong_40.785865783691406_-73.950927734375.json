@@ -1,0 +1,82 @@
+{
+   "plus_code" : {
+      "compound_code" : "Q2PX+8J New York, NY, USA",
+      "global_code" : "87G8Q2PX+8J"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "96 Street Station",
+               "short_name" : "96 Street Station",
+               "types" : [
+                  "establishment",
+                  "point_of_interest",
+                  "subway_station",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10029",
+               "short_name" : "10029",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "96 Street Station, New York, NY 10029, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7858701,
+               "lng" : -73.95093469999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7872190802915,
+                  "lng" : -73.94958571970849
+               },
+               "southwest" : {
+                  "lat" : 40.7845211197085,
+                  "lng" : -73.9522836802915
+               }
+            }
+         },
+         "place_id" : "ChIJ0UjnhaZYwokR4OcdIT_rvOA",
+         "plus_code" : {
+            "compound_code" : "Q2PX+8J New York, NY, USA",
+            "global_code" : "87G8Q2PX+8J"
+         },
+         "types" : [
+            "establishment",
+            "point_of_interest",
+            "subway_station",
+            "transit_station"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

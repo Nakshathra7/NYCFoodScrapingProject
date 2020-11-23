@@ -1,0 +1,216 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "342",
+            "short_name" : "342",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Pleasant Avenue",
+            "short_name" : "Pleasant Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10035",
+            "short_name" : "10035",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e342 Pleasant Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10035\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "342 Pleasant Ave, New York, NY 10035, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.7966543,
+            "lng" : -73.931782
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7980382302915,
+               "lng" : -73.9305180197085
+            },
+            "southwest" : {
+               "lat" : 40.7953402697085,
+               "lng" : -73.93321598029152
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "Pleasant Village Community Garden",
+      "photos" : [
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101281315224701229986\"\u003eMauritania Romano\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwL28WrglS61X4N7Pvt-Bma0BZPSJZs-3BDIt4UalqDCgBluW1Tc2kPjO0HwzVXJUEKzhYNS9bFtuvcorB4TOxslbtCsSxwvBEHWSRlhIvisREiJY_6V6CxnS8WFr869FijnYqhh5dyRY8yOUaT1oM8lYcyk6BWSaNLc27_7CoHw8UCG",
+            "width" : 4032
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105932020059027050962\"\u003eArlene wilson\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKw_Vwq7AMRYmvD5v3cgLSXxj0hsMJvZy7QQdjpbLP28Lq5u2cIFE_IMm4bmV7JKVS5LER8_m55oXBsREf2l4ZEWS2CLYedME_EgfYlLki3qcUxzy4-L2wnYoURdngdwcETApmjJCu9gBpCoYTobo50CePk1QbW_3jGXWCNojKJ-X48",
+            "width" : 2448
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105932020059027050962\"\u003eArlene wilson\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLdojfxZJabswNTN5HRB6WIv-dMQv_4yE9TABgmKyG3M-p3bNnPRNHdM1CXg_HcoeJIH5zJp41PI44MFbPI1sYuq_5GHWo64BrKh2x2J7tAoXcZ3TYPA047bZduQHQLy9IfZYs3hrnhtrWll8rZQUYmLBYgKUtlnT_N6i2ryMQRWpW_",
+            "width" : 3264
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108544487565506648839\"\u003eAlicia Koledin\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwK6ColLGa0o777smRwBKszto0MzofZsq3frf5Kg4YZL2iVn4fDWrvs5ckgbK9XU1ic_HsCF-jInHQF8QSaz5AmjkgJ0RsoUxxvppA5rlmQ_PWYrM-BP2LNr3hXMg45dlKEa3bLIe0o45lgTWgxHzqAeQu2cEnILQjsILTvIYfeikTYW",
+            "width" : 2268
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113951070756062020890\"\u003eWilliam Pape\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJa84GcmErY0UENtnOMcJ4wokf4zq2MQ4k0tm_KAktncPjyC_lA95YxeLWBdHxq3u51ODi_lUB17qlOZa1-d5QHur87NUwb9bFq1NaNuxD3tEr9drjCAERhlDMV4M0u2OoC6j_MYnYJmq_jmbcS5LeYv8cgqIY0KBaFwEr77g8NJ_XK",
+            "width" : 3024
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/118399383553344425706\"\u003eAssia Nakova\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJVNsq2pYjuEjjxJ2sX6XKhE28PCQVtYtoDXdrJov716K-x4-TWxY2xOkDEg1d5NV6D1nxOomQAkWHkWH1mTOWfku3kb5kCRhMBW57kga-e752S5ntPZugkJ0SY1exwMnOfUG6oyETgGfO_pIol4c5fU2InWYFFjZVU8J8-_gKdSvf_",
+            "width" : 3024
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101281315224701229986\"\u003eMauritania Romano\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIO6ywMuZfFNdEBCqv21JfIbGFhvtsmeRiisedaVZk1T4N3Dhzf20JPNJWayyWE3CTudi63-hKzpd6AAAmzi8ESQXrWvvaJREFM1gjelT_HP8s3SnVomJ3cQyZtThlVcJJrgp3h8NbHWiOaQ-NSNhHG8eIy6dvcLJ1nC8VPxhQ6EdXZ",
+            "width" : 4032
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110423428854615047252\"\u003eSpray The News\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwL5lHDY3K7Elc34b6SWTZ13V3xlLEVEuHXGns2P71OYvutzVhfxpsLbiJyTnRorQTCiWc9rpA5MK5srl_awJ7oH15xRYaMgQmIf7iTlqg4JUOkTtk4Es0dorN5ga-U0GpnkDamuxfq-b9swR4znC5Uk4LH8RCnDSZOC9M5DKBrK9Kvr",
+            "width" : 2448
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101281315224701229986\"\u003eMauritania Romano\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLdwk2KNZK86Ylj0WjPbYS9wdC0Bws_Bjm7vDi_qmqRH2O9wgw5rxjGJC7y7XspKEUbfnWFTAph1I66AwU43hB98NZidEmjuMPezTJhf1DhAYbMbkeqG81gaTuQ_PHj_S97vqq260qLd5iaKS2o-rTuy6wpt0vRwuS2ZTV-oslNbTHm",
+            "width" : 4032
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110423428854615047252\"\u003eSpray The News\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwK_f4Pa7DSE-ub8t0uzSuBdEwvRIDGpiwZ_Qv43DAT-LjpxBadpddsMa-Utrb6ZUT1k-0VZ6qrkxKvu5tlFORUoIwz6AfCXZn7CbwqJFSo8ev_j7IaiQ7n-HG58Kc5ifu6P8DyAGRRDjpGUXJmxLXBx76CcEZJ3ITPv7k7RjFOtEma9",
+            "width" : 2448
+         }
+      ],
+      "place_id" : "ChIJo1vzyPz1wokRtvdmpPGBezc",
+      "plus_code" : {
+         "compound_code" : "Q3W9+M7 New York, NY, USA",
+         "global_code" : "87G8Q3W9+M7"
+      },
+      "rating" : 4.7,
+      "reference" : "ChIJo1vzyPz1wokRtvdmpPGBezc",
+      "reviews" : [
+         {
+            "author_name" : "Arlene wilson",
+            "author_url" : "https://www.google.com/maps/contrib/105932020059027050962/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GgQC5WwFnSSYrCm1fI-BRFijrpefDqltlZFgpvB2g=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 5,
+            "relative_time_description" : "2 months ago",
+            "text" : "Beautiful peaceful space. Enjoyed sitting under,the tree and chatting with the neighborhood gardeners!",
+            "time" : 1599570025
+         },
+         {
+            "author_name" : "Mauritania Romano",
+            "author_url" : "https://www.google.com/maps/contrib/101281315224701229986/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GgCitTvK1PzVdy8zDaDLO-CtDmzBWthXHouXAo5MQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating" : 5,
+            "relative_time_description" : "8 months ago",
+            "text" : "Very nice and calm place. You can enjoy a nice lunch in there.",
+            "time" : 1584059822
+         },
+         {
+            "author_name" : "William Pape",
+            "author_url" : "https://www.google.com/maps/contrib/113951070756062020890/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GjhmTU5CN_-rUKRYE06luzzOMmZqHe2FpeGz2BIGA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "Quiet oasis garden in East Village. Chickens and much more.",
+            "time" : 1562115674
+         },
+         {
+            "author_name" : "Alicia Koledin",
+            "author_url" : "https://www.google.com/maps/contrib/108544487565506648839/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gjwqp62THfQ1R75RtfV7A70SZX0YnVQswCfK7TiUEA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 5,
+            "relative_time_description" : "3 years ago",
+            "text" : "A great place to get to know your friendly neighborhood gardeners and volunteers.I just joined this year and help take care of our 6 chickens. Lots of little spots to sit in the sun or in the shade and just enjoy the peace and quiet. A nice respite from urban life.\n\nUnfortunately,  the garden might lose part of our land, the best part on the southern side,  that allows the sun to come through and where the chickens and composting are located. HPD wants to use it to develop a residential building, which will be very detrimental to our garden operations. Please alert your council and community representatives and tell them to help us fight to keep it.",
+            "time" : 1490969057
+         },
+         {
+            "author_name" : "Felipe Atanacio",
+            "author_url" : "https://www.google.com/maps/contrib/113937972249647623476/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-oVSglbr4rSY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucknkALr-GricUtaeBJQ1AwBcr3nuQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "2 years ago",
+            "text" : "This is great and if you happen to run into CHRIS(MUSEUM CURATOR) she's the nicest person you'll ever meet, next door to them is a group of people that should not be there (drunken every day and drug activity stay away) but the garden is awesome ask about the activities for kids",
+            "time" : 1526200629
+         }
+      ],
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=3997931969066760118",
+      "user_ratings_total" : 13,
+      "utc_offset" : -300,
+      "vicinity" : "342 Pleasant Avenue, New York",
+      "website" : "https://pvcghpdland.wixsite.com/pleasantvillagegarde"
+   },
+   "status" : "OK"
+}

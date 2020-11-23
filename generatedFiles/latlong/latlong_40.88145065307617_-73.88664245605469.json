@@ -1,0 +1,140 @@
+{
+   "plus_code" : {
+      "compound_code" : "V4J7+H8 New York, NY, USA",
+      "global_code" : "87G8V4J7+H8"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Mosholu Parkway South",
+               "short_name" : "W Mosholu Pkwy S",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West Bronx",
+               "short_name" : "West Bronx",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "The Bronx",
+               "short_name" : "The Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10468",
+               "short_name" : "10468",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "100 W Mosholu Pkwy S, The Bronx, NY 10468, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8815104,
+               "lng" : -73.88682059999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8828593802915,
+                  "lng" : -73.88547161970848
+               },
+               "southwest" : {
+                  "lat" : 40.8801614197085,
+                  "lng" : -73.8881695802915
+               }
+            }
+         },
+         "place_id" : "ChIJl083yQrzwokRt-qY3O_dFzw",
+         "plus_code" : {
+            "compound_code" : "V4J7+J7 The Bronx, NY, USA",
+            "global_code" : "87G8V4J7+J7"
+         },
+         "types" : [ "establishment", "point_of_interest", "school", "secondary_school" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "W Mosholu Pkwy S/Paul Av",
+               "short_name" : "W Mosholu Pkwy S/Paul Av",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "West Bronx",
+               "short_name" : "West Bronx",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "The Bronx",
+               "short_name" : "The Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10468",
+               "short_name" : "10468",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "W Mosholu Pkwy S/Paul Av, The Bronx, NY 10468, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.88061099999999,
+               "lng" : -73.886055
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.88195998029149,
+                  "lng" : -73.88470601970849
+               },
+               "southwest" : {
+                  "lat" : 40.87926201970849,
+                  "lng" : -73.8874039802915
+               }
+            }
+         },
+         "place_id" : "ChIJ1Qvr3wrzwokRtD-1Y1v03JE",
+         "plus_code" : {
+            "compound_code" : "V4J7+6H New York, NY, USA",
+            "global_code" : "87G8V4J7+6H"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      }
+   ],
+   "status" : "OK"
+}

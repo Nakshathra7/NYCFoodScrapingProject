@@ -1,0 +1,126 @@
+{
+   "plus_code" : {
+      "compound_code" : "Q386+6X New York, NY, USA",
+      "global_code" : "87G8Q386+6X"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3355",
+               "short_name" : "3355",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "11th Street",
+               "short_name" : "11th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Astoria",
+               "short_name" : "Astoria",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11106",
+               "short_name" : "11106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3355 11th St, Astoria, NY 11106, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.76556799999999,
+               "lng" : -73.93752599999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7669169802915,
+                  "lng" : -73.9361770197085
+               },
+               "southwest" : {
+                  "lat" : 40.7642190197085,
+                  "lng" : -73.9388749802915
+               }
+            }
+         },
+         "place_id" : "ChIJI-shIstYwokRyhRjxqWGR0k",
+         "plus_code" : {
+            "compound_code" : "Q386+6X New York, NY, USA",
+            "global_code" : "87G8Q386+6X"
+         },
+         "types" : [ "establishment", "general_contractor", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Island",
+               "short_name" : "Long Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Island, New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            },
+            "location" : {
+               "lat" : 40.789142,
+               "lng" : -73.13496099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            }
+         },
+         "place_id" : "ChIJy6Xu4VRE6IkRGA2UhmH59x0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

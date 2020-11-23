@@ -1,0 +1,135 @@
+{
+   "plus_code" : {
+      "compound_code" : "Q238+M5 New York, NY, USA",
+      "global_code" : "87G8Q238+M5"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West 41st Street",
+               "short_name" : "W 41st St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10036",
+               "short_name" : "10036",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "41 街, W 41st St, New York, NY 10036, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7541918,
+               "lng" : -73.9846242
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7555407802915,
+                  "lng" : -73.98327521970849
+               },
+               "southwest" : {
+                  "lat" : 40.7528428197085,
+                  "lng" : -73.98597318029151
+               }
+            }
+         },
+         "place_id" : "ChIJs9pOwKpZwokR2VllObQvhOY",
+         "plus_code" : {
+            "compound_code" : "Q238+M5 New York, NY, USA",
+            "global_code" : "87G8Q238+M5"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6 Av/W 40 St",
+               "short_name" : "6 Av/W 40 St",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10018",
+               "short_name" : "10018",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "6 Av/W 40 St, New York, NY 10018, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7540342,
+               "lng" : -73.98456589999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7553831802915,
+                  "lng" : -73.98321691970848
+               },
+               "southwest" : {
+                  "lat" : 40.7526852197085,
+                  "lng" : -73.9859148802915
+               }
+            }
+         },
+         "place_id" : "ChIJsSd87qpZwokRqQ6mpCBAZ4o",
+         "plus_code" : {
+            "compound_code" : "Q238+J5 New York, NY, USA",
+            "global_code" : "87G8Q238+J5"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      }
+   ],
+   "status" : "OK"
+}

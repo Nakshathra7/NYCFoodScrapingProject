@@ -1,0 +1,210 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Queens",
+            "short_name" : "Queens",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Long Island City",
+            "short_name" : "LIC",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Queens County",
+            "short_name" : "Queens County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11101",
+            "short_name" : "11101",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eQueens\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11101\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "Queens, NY 11101, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.7426713,
+            "lng" : -73.9537248
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.74404933029149,
+               "lng" : -73.95161239999999
+            },
+            "southwest" : {
+               "lat" : 40.74135136970849,
+               "lng" : -73.955038
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name" : "Vernon Boulevard-Jackson Avenue Station",
+      "photos" : [
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101580679594295106213\"\u003eJay Kindell\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIUe6LSNjFEpXO1EtsVtvhdmpwMThn1BPGJdTd-dKPoB5YxdNx4FfXvBEyEfb_rqc7VK6vYco4z9O_9Yq0qjHnvIzlM2UygiyRRJaoQZYWgEidm_KoUi6KLyiciw4rSCHWC-MnnqIXOOhFJPnRV2irmHdY7fQSdOwQGGHtPiDgU8Nk",
+            "width" : 4608
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103288533764768186360\"\u003eAdnan Javed\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKbBnN97udrOACLFTL_g-mR3WyNSWRROU0Bk0baxhwElPzoL6c0wbzzfk5ttWR-amEsxwLs3FsNgL03MTMXna6-yhVmIL1DJtI6oBkDk4GPEetYArprM71aMVF_IQTfI4ovlyYjUr0pwJU_OVKTDFouLm4pjPNkvGfDJ7WnCdfWeLbz",
+            "width" : 4032
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101015554978145899212\"\u003eBooker Arnold\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwINwAIIafixS6C_y2hs_Y4Whpma_wSuH_GbyVoTuzXn_agTbV1SXgUXQXq_QjCWUq3Rcx4rum8R7oofGu3VyMtTzbr_XRNo2ajzElkimpiHVKc2opYXb9b6uz6rlDsJC4OsHcUccN4Mc5xCdbrGzFSy5ZWeW-vmPIyOpqTbwnH6GgTV",
+            "width" : 3264
+         },
+         {
+            "height" : 3440,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101580679594295106213\"\u003eJay Kindell\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIrSIl7da6jOYh22LL-Y-PjTuzE_bf7yE0uwio3pmthMV3pppIntPjZjxsYidlvad2zJ7O2NuFHRmSQtdfLbzBoqkI9b2BWBW1Xgwp53BBWK4R8T690PbL8Wu8vhpnLmEpz45BtcYX4LBRemFwcwVHGlqsj_HPT-dSZbttV5o3oBmM",
+            "width" : 2182
+         },
+         {
+            "height" : 1080,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102270916178756585218\"\u003eStephan Grütering\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLV_d6B3TjnCG25c0qo4Eawyorpd8oUW68fU92WJ30oRBUvXosO-VoZTJhtksJQR14i7KgjkVnQu-yQ4_DTyt5ojGiitn_GIDehgZ0AUKKQacMJ5hLUrLT1N6okNS-nsamHkMIGRbhSvWcJ68DMLOUHxPc-h0fMYH9bKW92ooXTf7hQ",
+            "width" : 1920
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103288533764768186360\"\u003eAdnan Javed\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKK6L3jbzOm0oXdFhxf1VxcO0t42dg2RMgNAQAjLtL71w1z7NCFdI1E3c7pPh6QaJFxnBUPxYHvuKyn24Hki61R-9TQkyvmB7Cr5-5kEjSzekgdePEkflAWHeFzzjl9pVSTp-W8k3_n4HIQdmG9g-6nhXxHb7Y0fGUI2d3GarA5Rv8T",
+            "width" : 3024
+         },
+         {
+            "height" : 1932,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113853455775900059487\"\u003eOscar rebollo\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLSmlXgyXcapA6eDFzFanHKwjbeeQOkFW9s4lnPgv3-2aOOv-gkP1yRajHXeK7ZoxmxjtvdpjZ8DmHhBWVl47Rq8nigb0-6WOBpRkC5HUCMPV_hdLq86KMzkZtrpEcT7gquaEavJgWRcf-T35p73CzQPq4z1mxXsK1-3DrQn2y_DQlX",
+            "width" : 2576
+         },
+         {
+            "height" : 735,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102270916178756585218\"\u003eStephan Grütering\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIvLeQFvSx-vbzv1ry7SfMQf083UBCzXaPGQK4IpDo3ObtgziyOJkgCdlBdxfea4IAPw8v-n4C4xxbxmlCHlFDBUjSwSH6DjYt8WyljbzuObXyOzxfeN2k0Oli2F1MrxbXAHDWPVnd8fGwVWCO6rNrPokjAmfqZinzamrAJl068s-Rl",
+            "width" : 800
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109423256543178277190\"\u003eRock n roll joel Rock N Roll Joel\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLRLAMmJ5t0vNjUzGO_-6L4i_pitb7yWkFv1sCxieqpMyAdjLzFwCmwXz-iTgkQRue7gUgwqJ_J77upmFBfZchF7fDvrLP5OeHZcIfhyN9ep9iAytp2i3mG1FjKIx1YUKDBI8HYdRNGpoHI7lBNyvjIBUq4YvreCuh7E7id8WkwDxVe",
+            "width" : 3024
+         },
+         {
+            "height" : 853,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102270916178756585218\"\u003eStephan Grütering\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwK79M7MollGQaerheiJPLCt2i9dmxYseG6rheLRCaPYKP_CsK8bSifJ6jivMisispBF3X0qJaOz0Aj7iiUU6Zm947_GcY_GNBt0rS0PuvLeLUCUIqVxz-RzcccMe_HJ4j0CK4VMEusi2l7t-sTx6rTdIr77mh9tHiqjywMlVtDCsv22",
+            "width" : 1280
+         }
+      ],
+      "place_id" : "ChIJ11nwnSRZwokRREp3r3kJP3U",
+      "plus_code" : {
+         "compound_code" : "P2VW+3G Queens, NY, USA",
+         "global_code" : "87G8P2VW+3G"
+      },
+      "rating" : 3.7,
+      "reference" : "ChIJ11nwnSRZwokRREp3r3kJP3U",
+      "reviews" : [
+         {
+            "author_name" : "Ira Gershenhorn",
+            "author_url" : "https://www.google.com/maps/contrib/106545457486765510928/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GgDrMTUbr7sd-6M6TSFA8uV_XYzAf9KXgI1c1Dt=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating" : 4,
+            "relative_time_description" : "a month ago",
+            "text" : "I use this station when going to HarborLab.  I get on at the front of the 7 in Times Square and exit at 50th and Jackson where there is no plug to block water from coming in.  I enter the station at Vernon Blvd and 50th to return to Manhattan.  There is a plug there.  Why is there one at one end and not at the other?  Is this MTA BS?  The elevation seems the same.  The distance to Newtown Creek seems the same.",
+            "time" : 1602808672
+         },
+         {
+            "author_name" : "Leonardo Torres",
+            "author_url" : "https://www.google.com/maps/contrib/110068034998075350365/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-ztauRUKg5_I/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucljImZADxufxBZDj2T8FNwpyWMDoA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 3,
+            "relative_time_description" : "3 months ago",
+            "text" : "There is only one train here (7 train). It's not too dirty",
+            "time" : 1597157788
+         },
+         {
+            "author_name" : "Tyler E.",
+            "author_url" : "https://www.google.com/maps/contrib/103074585003757574521/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GgujvSEZGcWScwVBc5PiHSVNnIzqdnsEkENKKSKvQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 4,
+            "relative_time_description" : "2 months ago",
+            "text" : "Trains stop here.",
+            "time" : 1600008909
+         },
+         {
+            "author_name" : "rafia rifat",
+            "author_url" : "https://www.google.com/maps/contrib/104585786379451198353/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GhjwpDnuubtr0K_7StWkFNzlJibhOkH4ZwGu0kX=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "5 months ago",
+            "text" : "It’s my 2nd love in Queens. If you live in Queens best fits for you.",
+            "time" : 1591866970
+         },
+         {
+            "author_name" : "Adnan Javed",
+            "author_url" : "https://www.google.com/maps/contrib/103288533764768186360/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gg9rC2LQ-B8xl3ZZvkA3s8IIWgj9sTA5R1gDvXPpQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 4,
+            "relative_time_description" : "2 months ago",
+            "text" : "Nice place for calm and peaceful mind",
+            "time" : 1598591881
+         }
+      ],
+      "types" : [
+         "subway_station",
+         "transit_station",
+         "point_of_interest",
+         "establishment"
+      ],
+      "url" : "https://maps.google.com/?cid=8448481844209863236",
+      "user_ratings_total" : 54,
+      "utc_offset" : -300,
+      "vicinity" : "Queens"
+   },
+   "status" : "OK"
+}

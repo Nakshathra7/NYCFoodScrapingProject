@@ -1,0 +1,74 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "78-09",
+            "short_name" : "78-09",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "34th Avenue",
+            "short_name" : "34th Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Jackson Heights",
+            "short_name" : "Jackson Heights",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Queens",
+            "short_name" : "Queens",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Queens County",
+            "short_name" : "Queens County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11372",
+            "short_name" : "11372",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e78-09 34th Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eJackson Heights\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11372\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "78-09 34th Ave, Jackson Heights, NY 11372, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.7536903,
+            "lng" : -73.8882586
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7549204802915,
+               "lng" : -73.8868871197085
+            },
+            "southwest" : {
+               "lat" : 40.7522225197085,
+               "lng" : -73.88958508029151
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name" : "Salem House",
+      "place_id" : "ChIJPYrtnKdfwokRNCYL_0OYcJA",
+      "reference" : "ChIJPYrtnKdfwokRNCYL_0OYcJA",
+      "types" : [ "premise", "establishment" ],
+      "url" : "https://maps.google.com/?q=78-09+34th+Ave,+Jackson+Heights,+NY+11372,+USA&ftid=0x89c25fa79ced8a3d:0x90709843ff0b2634",
+      "utc_offset" : -300,
+      "vicinity" : "Queens"
+   },
+   "status" : "OK"
+}

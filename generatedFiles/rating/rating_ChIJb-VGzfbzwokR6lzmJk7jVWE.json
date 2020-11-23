@@ -1,0 +1,235 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Cooper Street",
+            "short_name" : "Cooper St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10034",
+            "short_name" : "10034",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Isham St between Seaman Ave. and, \u003cspan class=\"street-address\"\u003eCooper St\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10034\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "Isham St between Seaman Ave. and, Cooper St, New York, NY 10034, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.86903470000001,
+            "lng" : -73.9203232
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.8703756802915,
+               "lng" : -73.91899191970849
+            },
+            "southwest" : {
+               "lat" : 40.8676777197085,
+               "lng" : -73.9216898802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name" : "Inwood Greenmarket",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 8:00 AM – 3:00 PM",
+            "Sunday: Closed"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 2268,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/118134265658812607923\"\u003eWallace Flores\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLRx9q3ijQoHOZJbU-3E-7LmA8hZ0jii8y0xLvY4SWCg4vIil7aZHzNSdSq3aRvP5JdilpR8rmja-z5p1V4jrFCVX-6zeD1g7dZklD1rhkggMa2K2jblvaFMA0AA4LxJnzNfkP7EGQ6dVSZSlSWsz-scx9DEVhDX7_zeav_BRyChuJT",
+            "width" : 4032
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117154598332195689625\"\u003eMichael Lindquist\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLx0FGKcw70LWbfzxYGFs4pslVPPTzyDwDjifz2n_WCVgCp0Alg8oOJEeTkj87NoJYIfY6VRlPI9GiwnIoUk4ETAf09bu432Ei7vlluVSpPOKi_Bv1KPsgxZkbe0YyMDgpmGMBGFvo79danQi6FTNym7Y5WSBboSDBFEK4_MD84VvoX",
+            "width" : 4032
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109338344038440413492\"\u003eFabrício Kury\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLlIsvKhO_a-gN3Ii4oOarLcV-BoKv0m9jN5TWqIqnjzwf4FTD8Ui8nQG94d18G2-LIln3LaYhuH6e78Ka06op2O4C_XnW1q6AwUo5XKBCZlqAjiQIcapxKoSELx820zx_7JXLRBBofZZJB3kJWlTwwdq6-zLd2VevvuL95hMB32bVF",
+            "width" : 4032
+         },
+         {
+            "height" : 2268,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/118134265658812607923\"\u003eWallace Flores\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwK9kgBcctm5GqsrGOE92ACcY1SVHM_Ca5h76wx1WrBjl5wwRdZtKP4QDgTfszjMHO9ohHAApK4UhZWPGnWGJJtUkQCOVonL3rbK2VG5aKlmHn0Qi0XN7B9iuCWbT_-MwgPc88aJRm3MAa5SnopYAuiF7FRGt4VXLHwMzMvJuNMtlK1l",
+            "width" : 4032
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103711283801632334378\"\u003eLeah D&#39;Antonio\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIViUJL4y09ODVztvUEUETUnQT8g8wH1-9TmWtMNzJjsXEGAGSiO3XcOTAqkB6TYbw0X2-URU6bWrP9o04QiA1ogGvmQF1pGJtipegnHr4R-C4BdLo5pkLM6lJQI1avoVIP_nIiLm33dqMZOs-xJk6ak9pvot45PuiGCw7yO4ptEW0Q",
+            "width" : 3024
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109338344038440413492\"\u003eFabrício Kury\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIchTtlWRG6odHctiOq_RSn-YkJctM_PvjZMBz1jwWFVYujDh2TLopq_h2_ASe8E0HV4qCUngyFq93B2OPBjPUSxCiZC7O4Z0CXbDBUnbx_SYMJ2jWBz3HV0643inCmw6-_w2Y7oFM1ZHJfHKgNPRGoN108kf33R_AKIyUN06eG9pV5",
+            "width" : 3024
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110265389654028006212\"\u003eXIJING CHEN\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKM2m7fd5SoUbKZ5nvVnNF107A-Yv4F8KAgxTxaLSiBYfo9HVv1ZuaVPz1XuEfCbpqH3wOLDq1MiHPunCUJxupoTjkqXHCR7YDpSdxKF6laPEqpEiy3t_v_j2-kF7XSP6b9HoE1iWq41nNVJH2qaVkquZ8-6YuTCj7RGxCdJYTVF58m",
+            "width" : 3024
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109338344038440413492\"\u003eFabrício Kury\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJWg0l1-CnPaJq3LIFesqlJL0itkP5fXB_PnccNeyXXT3P8v4s-xXm9slwbYbgE_3A-XrWPLRq5ITaZooTlbXS4x3aibhSh4ozVK7oE_ntUtVDBiv9Jy-IDXMbhfob-Spi0xetpc5cjmv7Adp9hovLh5K8SKY1IN3XiFtZ4m0Yk6h7F",
+            "width" : 3024
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103711283801632334378\"\u003eLeah D&#39;Antonio\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwL0Xzkn75uQ4FA9hpbSwpRs8IZapDnAU2jzx-73PEmdCrPDhtEXNStZEJ7uCaNr6z3VdhbFVLBBae-SI6D6OULDCd1aLNm-0JzTuRRJMpxyEe50T5ugQ9gG4qaAuDGwK-YOhJBTihneLeQpoTh46mqd4gkf-6ZszQrXwsA7xtBIHl_-",
+            "width" : 4032
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109338344038440413492\"\u003eFabrício Kury\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLUv5SqPr_aV-RzYJ3Z5eMxKHWOaRJHI-K2b4thntFftvRoRyIYj-dOfOcWPGezYwBb0bYkltbDFKJkHPHWAoBhj3G2fodjbUQvOSjkMSZJt5P0stj4OR6huWIZSHK8zRbk1JAOD3-vozQoRYMdarzVE-r_gJJDYx567bE0E1R0yAtX",
+            "width" : 4032
+         }
+      ],
+      "place_id" : "ChIJb-VGzfbzwokR6lzmJk7jVWE",
+      "plus_code" : {
+         "compound_code" : "V39H+JV New York, NY, USA",
+         "global_code" : "87G8V39H+JV"
+      },
+      "rating" : 4.7,
+      "reference" : "ChIJb-VGzfbzwokR6lzmJk7jVWE",
+      "reviews" : [
+         {
+            "author_name" : "Christine Williams",
+            "author_url" : "https://www.google.com/maps/contrib/117535276257828812160/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-f8ag1VmOOO0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckbq3kwgRl1bdkauoO97aO64B322g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "a week ago",
+            "text" : "Today my first time to this market and I loved it! It is in a lovely location, one feels part of a welcoming community and pooh those farm grown veges. I filled my back pack with fingerling potatoes, bunches of spinach, onions, a bottle of craft vodka and a beautiful dried flower bouquet! There are many stalls full of a variety foods...going back next week.",
+            "time" : 1605389363
+         },
+         {
+            "author_name" : "Aden Irwin",
+            "author_url" : "https://www.google.com/maps/contrib/117497644702512207273/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GgY51G3s506mP2nxryG3LWskuiL9zWZz49ts0w5=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "3 weeks ago",
+            "text" : "AWESOME! This farmer's market really is the best place for vegan people, just like me. I'm so thankful that they have it all, especially when it comes to fresh fruits, veggies, spices, and many more. Also, the prices around here are not that high, and I would like to commend the vendors for being so polite and attentive to all of my requests. THANKS!",
+            "time" : 1603733257
+         },
+         {
+            "author_name" : "Trudy Chan",
+            "author_url" : "https://www.google.com/maps/contrib/117776974552545947019/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GjpMaqpq1XSgISDjRbvr9wynQchwo3mVhY3qDgYOA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating" : 5,
+            "relative_time_description" : "2 weeks ago",
+            "text" : "Great selection of seasonal, local, and organic items from dedicated farmers. Friendly vibe! Well-managed social-distancing protocols and orderly lines. Always a safe and fun shopping experience there.",
+            "time" : 1604412098
+         },
+         {
+            "author_name" : "nadine michel",
+            "author_url" : "https://www.google.com/maps/contrib/118319209298277093655/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh5.googleusercontent.com/-S736Z5RzAcA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclnU3E-NNEAZZIVeTTxaVnZ1K8GLg/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "2 weeks ago",
+            "text" : "Beautiful green market. Great veggies, fresh meat from the Turkey 🦃 farmer and fresh bread and 🥧 s. Great place to go on a Fall day, then grab a cup of ☕ at a Inwood Bagel on 207 and stroll in to Inwood Park. Perfect Day!",
+            "time" : 1604618703
+         },
+         {
+            "author_name" : "Frank Noboa",
+            "author_url" : "https://www.google.com/maps/contrib/115010686516325256247/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-1j9969ObgLU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucljIsn5ZlGg2WolApIL44DxZpdtQg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 4,
+            "relative_time_description" : "3 months ago",
+            "text" : "Very highly organized. Everyone is indeed practicing social distancing as well as wearing masks, and the merchants make sure that no one is grabbing or putting their hands on items being sold. As such, creating a welcomed shopping experience.\n\nAnd the true icing, nothing like purchasing fresh fruit, vegetables, and a variety of other items.",
+            "time" : 1598290010
+         }
+      ],
+      "types" : [ "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=7013761919499001066",
+      "user_ratings_total" : 173,
+      "utc_offset" : -300,
+      "vicinity" : "Isham St between Seaman Ave. and, Cooper Street, New York",
+      "website" : "https://www.grownyc.org/greenmarket/manhattan/inwood"
+   },
+   "status" : "OK"
+}

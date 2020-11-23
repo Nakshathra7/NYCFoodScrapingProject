@@ -1,0 +1,82 @@
+{
+   "plus_code" : {
+      "compound_code" : "R325+24 New York, NY, USA",
+      "global_code" : "87G8R325+24"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lydia's Magic Garden (El Gardin Magico de Lydia)",
+               "short_name" : "Lydia's Magic Garden (El Gardin Magico de Lydia)",
+               "types" : [ "establishment", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East 118th Street",
+               "short_name" : "E 118th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10035",
+               "short_name" : "10035",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lydia's Magic Garden (El Gardin Magico de Lydia), 100 E 118th St, New York, NY 10035, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8001084,
+               "lng" : -73.94221580000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8014573802915,
+                  "lng" : -73.94086681970852
+               },
+               "southwest" : {
+                  "lat" : 40.7987594197085,
+                  "lng" : -73.94356478029152
+               }
+            }
+         },
+         "place_id" : "ChIJ--MtNA_2wokRkeA4yxpWDqw",
+         "plus_code" : {
+            "compound_code" : "R325+24 New York, NY, USA",
+            "global_code" : "87G8R325+24"
+         },
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

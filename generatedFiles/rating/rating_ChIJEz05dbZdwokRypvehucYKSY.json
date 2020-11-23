@@ -1,0 +1,167 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "3030",
+            "short_name" : "3030",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Fulton Street",
+            "short_name" : "Fulton St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Cypress Hills",
+            "short_name" : "Cypress Hills",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Brooklyn",
+            "short_name" : "Brooklyn",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kings County",
+            "short_name" : "Kings County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11208",
+            "short_name" : "11208",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e3030 Fulton St\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBrooklyn\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11208\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "3030 Fulton St, Brooklyn, NY 11208, USA",
+      "formatted_phone_number" : "(212) 333-2552",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.680249,
+            "lng" : -73.8829552
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.68169938029151,
+               "lng" : -73.8816611197085
+            },
+            "southwest" : {
+               "lat" : 40.67900141970851,
+               "lng" : -73.8843590802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "international_phone_number" : "+1 212-333-2552",
+      "name" : "Essex Street Community Garden",
+      "photos" : [
+         {
+            "height" : 1592,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100878658596411256466\"\u003eJay T.\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwK2tX_fNVhv8YO1_dm_t0-Wz2YFTt1fBXxqugaUXf6eMgqtxMkrt1FbB2fJ5P9885PNpR6KV-utUUxIfWSGvGf4YsV7xYBpvzn4WseyF9zJMj6SpM7C7gIg1H7KnOba5v1MA7kHEFldmRGiL_kZptQdRW2nyF8I2GvuyBnBhcDQQ_-O",
+            "width" : 2144
+         },
+         {
+            "height" : 1494,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100878658596411256466\"\u003eJay T.\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIpwpZAxKH0lehUb28dw3kmHxozGOoakC-O24JehKzSi-nFmHAOFnEoDO9sNl0-DBy77m4mdnlzNpsdYgsXWABS9hUwZ5fQWuFYk-MTCTxDGrDeIdEG3VpUhEkk_fkMXXtpBLD9qdMoUFXvnayXRiFptKR50w7YgiHbDf3-7VUgB-AW",
+            "width" : 2656
+         },
+         {
+            "height" : 1494,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100878658596411256466\"\u003eJay T.\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJOqgNpUSV9N9Ukpwm3olYkerVVgt13vYaBXLJyKMA4ktxzJFEkv-C57L-ckcxrpjxtKkDleSH0EfOAUUX2V9bI-R4DSyoVI53RUNEfE3bhI4hzieEN4VTLDWPABZ5JLr_n5TQiBd78IFG_qrT0DmPcpghmKU-SNPShHbda4kNENiTD",
+            "width" : 2656
+         },
+         {
+            "height" : 1494,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100878658596411256466\"\u003eJay T.\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwK1XH6kZamO2tht2Jr8hN8kOsnr1ZvEFtSe32OuDIPCwtuu5BS9mczfwhvYij3zHMMvUcWovzD2y2P3XGW5WJ7eR4K24pbUwK4Nxq-0ry1FIc7zhMIDeH0HFnCUAtXfiboiNYo6fTKn-Y6WPU2VZ3EmA0DUlqbWltV_guNW6tHdNV7z",
+            "width" : 2656
+         }
+      ],
+      "place_id" : "ChIJEz05dbZdwokRypvehucYKSY",
+      "plus_code" : {
+         "compound_code" : "M4J8+3R Brooklyn, NY, USA",
+         "global_code" : "87G8M4J8+3R"
+      },
+      "rating" : 4.3,
+      "reference" : "ChIJEz05dbZdwokRypvehucYKSY",
+      "reviews" : [
+         {
+            "author_name" : "alice O",
+            "author_url" : "https://www.google.com/maps/contrib/113658833509015608546/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-6Up8TjgBptc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm8iRyJRJy0p0yiJwT_ZQ5WwuCOew/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating" : 2,
+            "relative_time_description" : "a year ago",
+            "text" : "To crowed. ..not a friendly place",
+            "time" : 1563675067
+         },
+         {
+            "author_name" : "Manpreet Singh",
+            "author_url" : "https://www.google.com/maps/contrib/110138284583747132774/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GisNwhDqibvFKJ0GsT7Wi-W72qGureGQU5Ejo2d=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "4 years ago",
+            "text" : "I like it",
+            "time" : 1471292614
+         },
+         {
+            "author_name" : "Shawn Clarke",
+            "author_url" : "https://www.google.com/maps/contrib/111260734516879056856/reviews",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GgSdH_DC_xsBma1NCI3ZSHbtoGd9g6i13q8abvH=s128-c0x00000000-cc-rp-mo",
+            "rating" : 4,
+            "relative_time_description" : "a year ago",
+            "text" : "",
+            "time" : 1561526499
+         },
+         {
+            "author_name" : "Zonobia Crowell",
+            "author_url" : "https://www.google.com/maps/contrib/100793206483681575977/reviews",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-rToiKzcfBco/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmT1s2L2ExDQbmNEtRKbnLYS0Lm4w/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "",
+            "time" : 1562256887
+         },
+         {
+            "author_name" : "Pat Turen",
+            "author_url" : "https://www.google.com/maps/contrib/109250155391527632725/reviews",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-Kbc4mnfSC14/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclHWKfK2z_8YDi9EyF9NnucF3FDyQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "3 years ago",
+            "text" : "",
+            "time" : 1488029849
+         }
+      ],
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=2749756430165646282",
+      "user_ratings_total" : 8,
+      "utc_offset" : -300,
+      "vicinity" : "3030 Fulton Street, Brooklyn",
+      "website" : "http://www.nyrp.org/Parks_and_Gardens/Community_Gardens/Brooklyn/Essex_Street_Community_Garden"
+   },
+   "status" : "OK"
+}

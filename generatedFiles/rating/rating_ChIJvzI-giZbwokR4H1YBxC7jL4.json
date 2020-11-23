@@ -1,0 +1,267 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "173",
+            "short_name" : "173",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "East 4th Street",
+            "short_name" : "E 4th St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Windsor Terrace",
+            "short_name" : "Windsor Terrace",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Brooklyn",
+            "short_name" : "Brooklyn",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kings County",
+            "short_name" : "Kings County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11218",
+            "short_name" : "11218",
+            "types" : [ "postal_code" ]
+         },
+         {
+            "long_name" : "1708",
+            "short_name" : "1708",
+            "types" : [ "postal_code_suffix" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e173 E 4th St\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBrooklyn\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11218-1708\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "173 E 4th St, Brooklyn, NY 11218, USA",
+      "formatted_phone_number" : "(212) 602-5300",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.6483475,
+            "lng" : -73.97722100000001
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.6496862802915,
+               "lng" : -73.97596191970851
+            },
+            "southwest" : {
+               "lat" : 40.64698831970851,
+               "lng" : -73.97865988029152
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "international_phone_number" : "+1 212-602-5300",
+      "name" : "East 4th Street Community Garden",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0400"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: 4:00 AM – 6:00 PM",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 9:00 AM – 1:00 PM",
+            "Sunday: 10:00 AM – 2:00 PM"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102585987159531163461\"\u003eCésar Rodríguez\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwISadtqKrcKrBBy6Faplfrds5RZ9gafWpgV6Ni8pG58_K413780NVQPBeHIG-svG4hT4zpGSCEyA6RNDFSZBa3dB0jIwpSjo2vSDI0UueS3_las2jLuzVqP32VCeZKpnKcuo2t3XICsi_cUoiDtAPiB-BEVDD4adJheAoxbmL01iyjU",
+            "width" : 4032
+         },
+         {
+            "height" : 1944,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102585987159531163461\"\u003eCésar Rodríguez\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKRuhnstNrj0NCKz3IaUvjym-1ayNMxLy02PAEjNLJ6GZfL2lZSTm5qrobuR6LCB_m2IGyDSWR5933PnbMFCNuOvJbzpz6Ct4MiKcBI2hr4VBwJJBGMDEfsAAmbuNGLr9U2Di5fbUgNkzYEO_uzCUfq4NtqCtoNA4mFchSAMfp1YYsM",
+            "width" : 2592
+         },
+         {
+            "height" : 1944,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102585987159531163461\"\u003eCésar Rodríguez\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIRG2erRPi16T-tCSRMGJ5gmcwuyShnmg3gke-SJOft9zcNlSw5Ezk-Qnlu6kN53Sfq7OkEJcjE-73NAZysDzGEnDdcmH265ScGAUskfMn7vZZ5hxv3UCmAf3apANw-6aiRVPybn5s4lGUhid1Xw7fxXmDS3Izf6VakToPScr9KCNwO",
+            "width" : 2592
+         },
+         {
+            "height" : 4000,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111051311411004707699\"\u003eDouglas Ennis\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKHx3SGELGuB6bqUkHWfDPspyywo8_Nx2G0kkBAA74sM3tXPVsLXWDSKXv0856XtMNXW-lktOV6NWPdyRHAPJdiKtYWkU96_cRfy_k6s46RJWbVkBfW4Fc26DIEcGQSgyjF7uKthQxRt2BMBJ64jvXBxDzGoZ9_JeLCS6CTxjYw8vHp",
+            "width" : 3000
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111139687199272305347\"\u003eMichelle Elliott\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwK7QhkskpwD5_ZlsQ9BId8RzbAYw7pJB4D4xA9kj-s4rlOw5fCWJmsBsB-Cl3AtBkFPwGJNy0TzKjMvKw80uHccRtttrBif006POA-JbXLvX5Ayjn7yBw-e6Htf23oqxdixQrnVOX9s_wmPxau_ie9_CSrW0_3bmjQuDm8u2BiduDN6",
+            "width" : 3024
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102585987159531163461\"\u003eCésar Rodríguez\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIdmWLxIahECMNI6YFE6_bm8dBNbO_ECbhBG0GpidsPLLe3aHN6PEtSBlQ9NZmg6PU6g3uri-N3C8LvaOCSb6EhfGD5wnnDftfhoknVFtmqW3hieaDf8xDgCShWoIC0GOPygV3UgFF0uASTNM3cwPFFHx2TPoEiwOdwAQPOmj2uk7Dq",
+            "width" : 4032
+         },
+         {
+            "height" : 4000,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111051311411004707699\"\u003eDouglas Ennis\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKUCq4DMgZHETHU_7rOS9_AhAK7JIHenRCix_SHZotLTofVEHnU8Y4OarjeUL25lbwm4BDoly0Ss7XtLjUtP5fZF1EkRRa3QVz62iPt6adU9OpGxyD2C5QeYktGQ2Xh6zYlO3lxcUuop5ScUst9kw72zlniAhy3drpmrvbhkmELkUYB",
+            "width" : 3000
+         },
+         {
+            "height" : 4000,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111051311411004707699\"\u003eDouglas Ennis\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIXVEUC8Dmjg-puhbpBd9FifGjBrjmn--hVK1ua778QyhCPoBmcMsOmdmWgTILOi9kdcr-Uu4cjQtd-ti5Jp6PE7PodTgMY3vDhe9Vqab1QofxEM9vniBNRXIMOjj-kZOjY57p3Iln3eymMhh7R3MxVC9rxOqOrUNDJYBmUdBp2jYaD",
+            "width" : 3000
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102585987159531163461\"\u003eCésar Rodríguez\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwITgkqiT4k0Yk9KJK8G7qPwEEClU1XktRSpVcKL5HWScHrjXcw3O8TkhjwQO2nnfAFKAw1PnfDk9qsn3462Yg7gADQlVJJ5HxrXsaOv2vQ2_9lF4hM7xVjXK6hsraZOsvLPfwOkIg6rP2gwJdFBqg5watDMIosLPHk-C_HiMcpeOKH-",
+            "width" : 4032
+         },
+         {
+            "height" : 4608,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111051311411004707699\"\u003eDouglas Ennis\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLrSZSm3OoKDUxdbd9kOxlBeO-NHJ4d-g1950pvv4PpZWaegwBUuwP44_sz1p5VGIQOua8bRbLC1QBxca2ykLN_DKps0PYlDjnBlK9XYtlLr5DqF5PWXoSDmbV1uyqNjLHCAO_XC2qqyeDFuIN-Ov2i9SZk-l55SSAXjoxdtPz69drx",
+            "width" : 3456
+         }
+      ],
+      "place_id" : "ChIJvzI-giZbwokR4H1YBxC7jL4",
+      "plus_code" : {
+         "compound_code" : "J2XF+84 Brooklyn, NY, USA",
+         "global_code" : "87G8J2XF+84"
+      },
+      "rating" : 4.7,
+      "reference" : "ChIJvzI-giZbwokR4H1YBxC7jL4",
+      "reviews" : [
+         {
+            "author_name" : "Michelle Elliott",
+            "author_url" : "https://www.google.com/maps/contrib/111139687199272305347/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GhAXPUZg3kEkbLwlzOKHkOVorA_WeOflSgvAXB0Tw=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "Very nice and quiet place. Clean streets and well kept yards. Felt like the real taste of a Brooklyn neighbourhood.",
+            "time" : 1552846225
+         },
+         {
+            "author_name" : "Connie Coleman",
+            "author_url" : "https://www.google.com/maps/contrib/115172822169111492211/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh6.googleusercontent.com/-J0eX972tZ6Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmyMJiXgMk5IvKEgMFNVho7HsCAZg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "We have been members for many years. It’s truly a beautiful place for the community to come together,",
+            "time" : 1559824686
+         },
+         {
+            "author_name" : "Shani Finbar",
+            "author_url" : "https://www.google.com/maps/contrib/114659247975912437102/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-r7Eifybjcus/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucltB1pRWdJKuQFwO-Dsa8ainlkO2w/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "2 years ago",
+            "text" : "Anyone can come in during the open hours Wed afternoon, and weekend mornings. The volunteers do a great job making an appealing space for visitors.",
+            "time" : 1520860951
+         },
+         {
+            "author_name" : "Chung Chiang",
+            "author_url" : "https://www.google.com/maps/contrib/115445749879755794540/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-eQQTwfGIpqM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnlt1vnZMEY9q970lMbw_vLp6d9dw/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating" : 4,
+            "relative_time_description" : "3 years ago",
+            "text" : "An oasis in the neighborhood with good programs and friendly people.",
+            "time" : 1507214583
+         },
+         {
+            "author_name" : "My dad & me",
+            "author_url" : "https://www.google.com/maps/contrib/113032248353409079942/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GimQw_zpMh9feHeW04-lLH8AR08kpG7BQuomepv=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating" : 4,
+            "relative_time_description" : "11 months ago",
+            "text" : "Very nice place",
+            "time" : 1575343680
+         }
+      ],
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=13730555041462910432",
+      "user_ratings_total" : 19,
+      "utc_offset" : -300,
+      "vicinity" : "173 East 4th Street, Brooklyn",
+      "website" : "http://eastfourthstreetgarden.tumblr.com/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,82 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "344",
+            "short_name" : "344",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "East 14th Street",
+            "short_name" : "E 14th St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10003",
+            "short_name" : "10003",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e344 E 14th St\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10003\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "344 E 14th St, New York, NY 10003, USA",
+      "formatted_phone_number" : "(212) 533-3570",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.7312619,
+            "lng" : -73.98341619999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7327804302915,
+               "lng" : -73.98194246970849
+            },
+            "southwest" : {
+               "lat" : 40.7300824697085,
+               "lng" : -73.98464043029149
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "international_phone_number" : "+1 212-533-3570",
+      "name" : "Educational Alliance",
+      "place_id" : "ChIJwQw99nVZwokRMu1Hldvvta8",
+      "plus_code" : {
+         "compound_code" : "P2J8+GJ New York, NY, USA",
+         "global_code" : "87G8P2J8+GJ"
+      },
+      "reference" : "ChIJwQw99nVZwokRMu1Hldvvta8",
+      "types" : [ "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=12661289653803412786",
+      "utc_offset" : -300,
+      "vicinity" : "344 East 14th Street, New York",
+      "website" : "http://www.edalliance.org/"
+   },
+   "status" : "OK"
+}

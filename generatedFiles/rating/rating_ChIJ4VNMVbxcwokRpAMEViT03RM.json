@@ -1,0 +1,258 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "5816",
+            "short_name" : "5816",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Clarendon Road",
+            "short_name" : "Clarendon Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "East Flatbush",
+            "short_name" : "East Flatbush",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Brooklyn",
+            "short_name" : "Brooklyn",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kings County",
+            "short_name" : "Kings County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11203",
+            "short_name" : "11203",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e5816 Clarendon Rd\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBrooklyn\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11203\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "5816 Clarendon Rd, Brooklyn, NY 11203, USA",
+      "formatted_phone_number" : "(718) 629-5400",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.6443479,
+            "lng" : -73.92082839999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.6459948302915,
+               "lng" : -73.91950716970848
+            },
+            "southwest" : {
+               "lat" : 40.6432968697085,
+               "lng" : -73.9222051302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "international_phone_number" : "+1 718-629-5400",
+      "name" : "The Wyckoff House Museum",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1300"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1300"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: 1:00 – 4:00 PM",
+            "Saturday: 1:00 – 4:00 PM",
+            "Sunday: Closed"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1152,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105296654321706254566\"\u003eThe Wyckoff House Museum\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLVfkIOMvRacYUv2Yu_7GJ9f7EwiuowGv43hdnPyUtnmubkHEINUBwsJr2Oh-outAv4Fy-ih1LATbtAi54dWRGEE11ne2rc7-JVq1RKF3RFt8D2zog9qFhWOcWbixYlbkYrQURjjVCkoLg_HA4Ke8cU1TSltLLHO4Gh-VxFyb2AncIC",
+            "width" : 2048
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102076510007913415794\"\u003eEvelyn Roberts\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIndIJ9r_4BhyUrK2JFQMn-P3aED6KBEe9dtgFt2eNRc0YoFg7yNf2xoab9OzWk-XlsSGqYvdTf9PTDbGJNE0ihtp4xfk92Q6_OpcKUllOHbn1Q24PgAGgOWc7kkdBmBPRY6nQ0hivRwE1T4_1wscffqfwxj0CFCzW94fF5cEv7_ZVm",
+            "width" : 3024
+         },
+         {
+            "height" : 1456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105296654321706254566\"\u003eThe Wyckoff House Museum\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKfLjxQgoTB2tN2rmvd4rNnun6NTJ4k45CZ65V_nCRIMTnJ-7ok1hMWg3c9Hj6-MUJ2IN6V-GjNadgF19z1Kod2UpPDBzegbI1Lll3aAv2CC-Luy6SHvcFtdu1FmqSCq36sdMdx478o1vb4wmta6YfoIEpIAFyyPP8T8sAtwtRfT54w",
+            "width" : 2592
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101297066560129094499\"\u003eJohn Redshaw\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIwDIM1ZHMCUPPyFsZdChCv3MZbjPOiQp5SEZuNEKsIVRY3nvrA9FbSGciooUO7u-8zWGvq-209JgPq82Aw-7SGCLFnn3MK-SQ-iXorwYP3C7Kl9yRqXp3J2vYSvsCb1amOGWW9JslYBurfgpQeBc920S6JuWYxe51Q6o_drd5UrSiy",
+            "width" : 3024
+         },
+         {
+            "height" : 1365,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105296654321706254566\"\u003eThe Wyckoff House Museum\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJIf7PKVKdnmSrOpZ-DJV3lZ6ozbT0L9BPClaXTTiWXnk7ttpI4Jh_wEmvNNmPGMq0OrwjoojDp_fObutCkHQjWhAi-Ib1Qclpn3gh-n14V43FX7t3VVDenymQQfOhiDSpil7c2oNYiyw6dsKO7rJL-gb0LtVLO732MWgn8Vn7LUTWH",
+            "width" : 2048
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115219619538282842571\"\u003eNone None\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLZI4NGJDp8xqpypOhAQ7u6SqT2kadLX-bzy5S0ABbpVEhCtfc6A3RYKiInnkNWbJ4QYLLkhOSf1MzTJa3f-zbVa9cS4B0f2J--g091F3kVN6fuw5ybNUplLMDuTETs2mY4MNvUuc22g6Kab1243iIa04YvOZ54wlRjWezj_PaHQFno",
+            "width" : 4032
+         },
+         {
+            "height" : 1080,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115219619538282842571\"\u003eNone None\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKSSuDK6Kcef0iSRvIPb-AFK-CzTTwdf0GfEPNwulmgjU_SAFOFbAjAgV8Mk-XglnRqJqZdNh8Plz8WxP8siDptQJ-cSUjkED6103hVRs3FH3P9D-Mfok_cwtitijOVim5UUX8Z6LEOPTDzp623Ys9xZapmtJqCXXGnxAEDTUbVFEBc",
+            "width" : 1920
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102076510007913415794\"\u003eEvelyn Roberts\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJ30NA4IFUOSvJytaaw3p3oT3ahUWP1zQ7qLgdyPhrBooLlP_bbSJEumXQUyrHhEU0MovvQptSOT-l-Ce4AdEfQVlrMyHebAXx1qEHYk0Z7eF6Cq1ep8o7sWyjrdU69S0bkRjdPrWB_TjM7__q-GouH_ccZDk0dbJ8qf3M8cApqe3a5",
+            "width" : 4032
+         },
+         {
+            "height" : 3006,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101539847089667922696\"\u003ePeter Fagella\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIgbziVtLL_bssUAUi8VcYR4CLXjWTZYCzzXCNjDt5785bNREGbZsph-o2oaYZKfx9WmntSRNJggTuW-YxV54viHFwM0VSxbwvh1e0OXBNnwEI41iAppctzh3do2RsqVYADydaJWx4hDnMgvRzEtgqJlQuhTaW7t6jPtC-umea2APJy",
+            "width" : 5344
+         },
+         {
+            "height" : 2160,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100294760491882210246\"\u003eMsLisaLive NYC Local Guide\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJ9nmgxZZpAZWARauwZUyzR4JtBJx0dsJ4rau2L7oyx8udrul5xp5yZrnYMnV6B7UQ1R8OBYwVCBabYEsszx7tneI034w1-dCf3WtfVPSNMl_DmZtuWq9UABF9TdBlk0TMvgd_XuEo_D_vJ0ZndMywA9x0qcE8eZQDmCoa8Fxxjqc2g",
+            "width" : 2160
+         }
+      ],
+      "place_id" : "ChIJ4VNMVbxcwokRpAMEViT03RM",
+      "plus_code" : {
+         "compound_code" : "J3VH+PM Brooklyn, NY, USA",
+         "global_code" : "87G8J3VH+PM"
+      },
+      "rating" : 4.5,
+      "reference" : "ChIJ4VNMVbxcwokRpAMEViT03RM",
+      "reviews" : [
+         {
+            "author_name" : "Anthony Bernard",
+            "author_url" : "https://www.google.com/maps/contrib/111553848020024107374/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GjERAL3A8n3LumMFyA25VxfpNf75gcUltTfdp9HoY0=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 4,
+            "relative_time_description" : "2 months ago",
+            "text" : "Good",
+            "time" : 1598839231
+         },
+         {
+            "author_name" : "Yisroel Messik",
+            "author_url" : "https://www.google.com/maps/contrib/117377069025816506283/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh6.googleusercontent.com/-xzC8UooX1yM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckVbEalee6fyh2bJx6lICx_gBqQjg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "3 months ago",
+            "text" : "Thanks again for showing us the oldest house in Brooklyn",
+            "time" : 1597513986
+         },
+         {
+            "author_name" : "Anjel",
+            "author_url" : "https://www.google.com/maps/contrib/109717743004984700354/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GjPje23Qp489yNu_RtcE9GWHJ52EdoYWWQOoOP7cA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 5,
+            "relative_time_description" : "3 months ago",
+            "text" : "Enjoyed my visit with kids, the sunflowers are beautiful.",
+            "time" : 1597554664
+         },
+         {
+            "author_name" : "Camille Edwards",
+            "author_url" : "https://www.google.com/maps/contrib/115005181503976979693/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-6nequ1-V56Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnVRYshIX498YyoXwOLMiCvER1XuQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "Very nice old house. The staff there are just the best and are very knowledgeable about the house and surrounding area. Went today to watch Avengers Endgame and it was great! There was pizza, popcorn and drinks! The kids had a blast.",
+            "time" : 1568432404
+         },
+         {
+            "author_name" : "Jason Cumberbatch",
+            "author_url" : "https://www.google.com/maps/contrib/113570384471500201826/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gj9LvYcexBzFpNtTh_5VwV6siX1hab31MD8qKXihZY=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating" : 5,
+            "relative_time_description" : "a month ago",
+            "text" : "Nice picnic venue",
+            "time" : 1602730602
+         }
+      ],
+      "types" : [
+         "museum",
+         "tourist_attraction",
+         "park",
+         "point_of_interest",
+         "establishment"
+      ],
+      "url" : "https://maps.google.com/?cid=1431568693472789412",
+      "user_ratings_total" : 101,
+      "utc_offset" : -300,
+      "vicinity" : "5816 Clarendon Road, Brooklyn",
+      "website" : "http://www.wyckoffmuseum.org/"
+   },
+   "status" : "OK"
+}

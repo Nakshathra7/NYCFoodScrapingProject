@@ -1,0 +1,77 @@
+{
+   "plus_code" : {
+      "compound_code" : "PXQR+F5 New York, NY, USA",
+      "global_code" : "87G7PXQR+F5"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Horatio Street",
+               "short_name" : "Horatio St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10014",
+               "short_name" : "10014",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "110 Horatio St, New York, NY 10014, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.738624,
+               "lng" : -74.00943099999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7399729802915,
+                  "lng" : -74.00808201970848
+               },
+               "southwest" : {
+                  "lat" : 40.73727501970851,
+                  "lng" : -74.0107799802915
+               }
+            }
+         },
+         "place_id" : "ChIJmTxKhOpZwokRRV2b0kkArLQ",
+         "plus_code" : {
+            "compound_code" : "PXQR+C6 New York, NY, USA",
+            "global_code" : "87G7PXQR+C6"
+         },
+         "types" : [ "establishment", "point_of_interest", "real_estate_agency" ]
+      }
+   ],
+   "status" : "OK"
+}

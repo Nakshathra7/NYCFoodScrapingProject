@@ -1,0 +1,214 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "100",
+            "short_name" : "100",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "East 118th Street",
+            "short_name" : "E 118th St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10035",
+            "short_name" : "10035",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e100 E 118th St\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10035\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "100 E 118th St, New York, NY 10035, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.8001084,
+            "lng" : -73.94221580000001
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.8016413302915,
+               "lng" : -73.94073106970851
+            },
+            "southwest" : {
+               "lat" : 40.7989433697085,
+               "lng" : -73.94342903029151
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "Lydia's Magic Garden (El Gardin Magico de Lydia)",
+      "photos" : [
+         {
+            "height" : 1125,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102489585626017256364\"\u003eLydia&#39;s Magic Garden (El Gardin Magico de Lydia)\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLHmm4zkOHihACO3NTits75ZM6PJGjB1fVK1RoWumsPHUdF-fg1TTKvi-X_G7591GIwIPkH6U3GtMUlB3KgzQLcW_D_ASIZQz5UZB39a9d-UReIZLQ4hK_eOzcEkp8IFPEz3L5B8N4ahpZUf4JDiNCbRfGLrhccoyZk3b32ZD7DnYwx",
+            "width" : 2794
+         },
+         {
+            "height" : 2988,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102489585626017256364\"\u003eLydia&#39;s Magic Garden (El Gardin Magico de Lydia)\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLQgVndf-QR6Mg4ylt3ClLJaw8kWIFnbQtw6OgeaTe2RuMTxWscicziGoeY7s6V0ceUTFKP0bYHlKD4nmSgypslfyBBhYqbRM2ywVDLUs78UR__ZCH2Z2lu0WBRXOKbMUVXEJjd0_P8_W-78nGelifXuWN21D-wGyX_kHZUNEXzaVdH",
+            "width" : 5312
+         },
+         {
+            "height" : 1632,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102489585626017256364\"\u003eLydia&#39;s Magic Garden (El Gardin Magico de Lydia)\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIUQevwrQj4eH6pmHuHqKxAArHYUnjCkvpY888XIYKYfr5S9OISbEmTZ4kj51G-HuKFs0KgNDvX4FNMhyKNs-_hnPyAUhhbwlnRG4Jnv6KmiP2vU_hw4TC63ng-H1q04cKbv7zvZ34F5m1-a4z_OPIYhNpyiE5Inmhp_RuOe5SZaYaG",
+            "width" : 2448
+         },
+         {
+            "height" : 2988,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102489585626017256364\"\u003eLydia&#39;s Magic Garden (El Gardin Magico de Lydia)\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwL8BuPRSRfU0_ZIZ7mnpmVtovTH6zgWNYfDIJDguPyzqsoOTqSA6YJVQv88-TgnKsDLyW2wAqP0cuTZr4r7h-sKOwern4oq7nlNQfn-J3E0vyGeO6flf-fKIIJSz11dK8lb8tdnO1acvUm3aPvTuZxKCRrmqIB0zW8XVCpHcyeKflk0",
+            "width" : 5312
+         },
+         {
+            "height" : 1632,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102489585626017256364\"\u003eLydia&#39;s Magic Garden (El Gardin Magico de Lydia)\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLlS1VQ4vH1l-2bvX1lSbxfOqlmYX52PvX38BrEGz5xDtShhYg_NYUp9D73sldNjHVCvlQYsUD5x_tDoIkQjv3yzqJO6iKaHy4wYocCrQMx9Do795QQX8F2i20u1RAVIHmWASjWEFQ5R05-SCUDBFDjZ83024oOjeeTLBdsXJtvK9mS",
+            "width" : 2448
+         },
+         {
+            "height" : 2988,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109367516522295139818\"\u003eOrios Designs\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIrq-vd95XyXPiHTX5zwVc_OoZfG0jb5gDF72Ef8A0slexO5ZrR0xQLD5qIViTVp22_lH7-XWww6_HfDgsH7iquNhxAWr3tWxGoy1athOMttsUMt0vDuAi-SqRku1hrypc5M_25DpS6UqSTk-Qc-Tl2Kl4DIDlf3GN2jVoudgY2Y4vw",
+            "width" : 5312
+         },
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103401641317379092945\"\u003eShawn Hill\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJf1cevwtnRbSCoPGqLrBPkprazJr4j-Cpt4SCvBkj_wwPz2Cd73l148Sa3Am3pBROk6bPC4HdSWVyKrbUKLKQAO-hZcJdPPyKn5wiBe5XkcOwIJsDVqG0LIqzCwefz1d7DKtnj4F6eTHeErYtzkRHQ4PiuS33cbQD9FP2mrQS9Y28z",
+            "width" : 4608
+         },
+         {
+            "height" : 1632,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109367516522295139818\"\u003eOrios Designs\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKtw7MIlXwTlb8hYSox6v_p46aeb6tDnywucPqyFYXe5WDDotqAyecxg9VH87L_pEPVuDYqvJta7AL5py6czPAIjwkYN-mqDACt2UoJYzK8w36N9-uJQsjm5Jote3cJkFT69wfT7MGHp5ko8dvea-AiL_yDwynPWJpnpulmJfYpa9en",
+            "width" : 2448
+         },
+         {
+            "height" : 843,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112134876082113984520\"\u003eAdelya Aksanova\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKF43Jgtn5KtzQv3yRacAFeVNrpxwu3csYzvqNrxfbsc_I5NQwg-G3AAB6glaytP_n_jj4Bodn5bhbBImO7cz9PaDZuwAKntiMs1jYVDCpqhYmfGA9upjhfYWYdf3ya6_fX4dqSJU3KeujAWCSlPl8D8jvuyCSW40vBl5yk88irOIS_",
+            "width" : 843
+         },
+         {
+            "height" : 2988,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109367516522295139818\"\u003eOrios Designs\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKHL2yjfB01qhnSckYlKEyji7kzL4VbXmNC7zon6AXt47VrUr9tq6-t91XR9YrpFkkxfM2G9a5UHGVVJCrgGV0LwdpeXngVzSQyq8n8l06A47rTOEw7hz97Qc1Un2mkccfqZCTTfFShCY2nbmGhVJgAfKDMu-FQdfdf7PHpr_iDzOvw",
+            "width" : 5312
+         }
+      ],
+      "place_id" : "ChIJ--MtNA_2wokRkeA4yxpWDqw",
+      "plus_code" : {
+         "compound_code" : "R325+24 New York, NY, USA",
+         "global_code" : "87G8R325+24"
+      },
+      "rating" : 4.8,
+      "reference" : "ChIJ--MtNA_2wokRkeA4yxpWDqw",
+      "reviews" : [
+         {
+            "author_name" : "Adelya Aksanova",
+            "author_url" : "https://www.google.com/maps/contrib/112134876082113984520/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GiIPFE6iIqFYzgZVI84rd5Evdm8jehbfZePNUvtjAk=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "Really nice community garden by garden hub (UGC &UGC Cafe). I'm not entirely sure how got get a spot but they have their info up by the gate so you can get latest contact details. Have a friend w a spot & he really enjoys it.",
+            "time" : 1551797453
+         },
+         {
+            "author_name" : "Christina Trivelli",
+            "author_url" : "https://www.google.com/maps/contrib/112094661606072294272/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh6.googleusercontent.com/-1aJegQUa3gI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnzc9YVvC09rLJ3_nGujfWvzUEbSw/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "My daughter is a Girl Scout & helps plant & keep it clean. It is so cute.",
+            "time" : 1556788260
+         },
+         {
+            "author_name" : "Nicole Rodriguez",
+            "author_url" : "https://www.google.com/maps/contrib/106804060397754574059/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-0tEWHeXSsj4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckenjGT5KXHeQUIThd5GzZ8MSPxRA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "It was beautiful and thank you for the bookbags and supplies for the kids",
+            "time" : 1566771407
+         },
+         {
+            "author_name" : "Crystal Brown",
+            "author_url" : "https://www.google.com/maps/contrib/108461825473482597511/reviews",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-2j0tPzIolyM/AAAAAAAAAAI/AAAAAAAAJoA/AMZuucku5ngVZhMjynr93dxMJUVcA3qVJQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "10 months ago",
+            "text" : "",
+            "time" : 1579267711
+         },
+         {
+            "author_name" : "Yvonne D",
+            "author_url" : "https://www.google.com/maps/contrib/107933862662765810641/reviews",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GhrBokWvr_oZrD1KkmjBYKqWnDCATce7qs2LGdK3w=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "",
+            "time" : 1559580048
+         }
+      ],
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=12397941497276194961",
+      "user_ratings_total" : 8,
+      "utc_offset" : -300,
+      "vicinity" : "100 East 118th Street, New York",
+      "website" : "https://oriosdesigns.com/lydiasmagicgarden"
+   },
+   "status" : "OK"
+}

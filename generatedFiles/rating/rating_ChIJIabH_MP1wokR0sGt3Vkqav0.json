@@ -1,0 +1,262 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "494",
+            "short_name" : "494",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "East 141st Street",
+            "short_name" : "E 141st St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Mott Haven",
+            "short_name" : "Mott Haven",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "The Bronx",
+            "short_name" : "The Bronx",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bronx County",
+            "short_name" : "Bronx County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10454",
+            "short_name" : "10454",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e494 E 141st St\u003c/span\u003e, \u003cspan class=\"locality\"\u003eThe Bronx\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10454\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "494 E 141st St, The Bronx, NY 10454, USA",
+      "formatted_phone_number" : "(212) 639-9675",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.8095801,
+            "lng" : -73.91862189999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.8110192302915,
+               "lng" : -73.91720621970849
+            },
+            "southwest" : {
+               "lat" : 40.8083212697085,
+               "lng" : -73.91990418029151
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "international_phone_number" : "+1 212-639-9675",
+      "name" : "Brook Park",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1400"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: 2:00 – 6:00 PM",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 10:00 AM – 6:00 PM",
+            "Sunday: 10:00 AM – 6:00 PM"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112688658677850803838\"\u003eOmar Canales\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKF9PcoJu880K1zuA2dacC45h-Gn1neDhxDv_Yg1qC32ecsTrPvRT0M_Qpo-5m7QetVVuQ1PdfTl43gbCwlRxe0R64XmlGILRI0n_DegE9UCYUoCkndEWM30gen-a0a7ehNgG5Yum1rlQSCFHDmdQeatRcGPfm7rGPFRanGGU8aj-R1",
+            "width" : 4608
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116479204494174704857\"\u003eLily Kesselman\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwI4zbOU1DgL6_xUIqVa4YD1uLtoM8lrNGRtun8rLp22wfeWvZKVxA1zKJugMAK50c9pD3hNV5x9ojt_WGtqcsarasukCgjkOU9uw1ZiEP9YDbwfZwk4UTqNZlpbTcbo3yjlrfrUFq1EFGk4FY1fUnsZpjPoWw5pEKEWg-M1NohmjOwi",
+            "width" : 3024
+         },
+         {
+            "height" : 2576,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105376859889815135271\"\u003eSheila Al-Awdi\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKqhzkX3LwMvho9a3GUWmriMiUe77_uknGtrjbVQTJGYeY5hftVa2xZENQBp6-Fyq-YuLeUq8wCW_A5EnZl_vTU_wfy7x4ygWo3rAVCwKpkmM6V1M37CuGNdWhHJSOkmJ14F7E-VOmJnIFcvJdQ8tox9e2snG-tRXtEHkUenc5tiyhJ",
+            "width" : 1932
+         },
+         {
+            "height" : 1456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101488543892140664230\"\u003eLucy Wang\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJ9sYZV-M7YR8nBXS-I-COYoG_nnpzrHo5ilZOt80ZWh0vFYpKEztvX-QQjMB4cI1UI_CrkBQLsn5ePYfy9RQtnSk2LFNIszr0Am-rLvnXiodTGRx_sFXt7siG0ohbkrsMrToTCDV9rs0-SeTP5Ivbx52BfWqUENHTgAv22H_KVAxcB",
+            "width" : 2592
+         },
+         {
+            "height" : 1225,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104341634576376544821\"\u003eRayquan Ethridge\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLV2QpGuFVTPmGrtc0N-8sAJa39j105k_xa77Z15Su7Nv7EMEljwuVxNgHNGrhMy24-wJ3SOm_pBNKJ9orIbMa5DJfkNBjC7US4oG_c279dz1NzYqt74H02UjCl3ptlP5MGlH1ke8ZXNeJycTAT8Mv_1Yp7YSlj3kwzas1K7weAAzhk",
+            "width" : 2177
+         },
+         {
+            "height" : 4048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100581454464932535639\"\u003eChris Quackenbush\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIEeMR5Oc0f4ETJgsJu0DgwlAe0mz1181beTVL4iEbYcpUXIDrj38oJUIUhD7tic48_tB-eJf0y30A-3v2IaPP-w-GDEgkvaVNLVW5j7VUaubWeTPF3YLw0IOOeebitvosGyy6km6KipLNhabDLTu4-EoDzfUCNEDdT0u-wPcThzrAd",
+            "width" : 3036
+         },
+         {
+            "height" : 1920,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106545457486765510928\"\u003eIra Gershenhorn\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIuevRrGF5PyT800VG9wwGPMVXde1RZ3xEwjX-KE0EHiOSe4MXdulk96oDmIveZMbUJw2s7wkYKIWi6Ztubdb45mCitDFE7cGJf_OPADyFBSAWFgJghsiKYt0S1t2OZKZ7rC5-wT5rapplmERevPtfmkhyQbTHGw7NvJmgZoGk0GDzp",
+            "width" : 2560
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103128292292650759652\"\u003eYarimar Allen\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKCD__nFHCvAxZwy5_UZu8QNJwUEXifqEg3eWtvNoPPAyl13qQ8zmN4VSluq57v-Hm_Gz80Dx9DVxkfdQU0QHbWuZ-LllMYxXoqXeFeFr1L_mrFbihwCdlb84Vxz41GmNitAq-dMAwnUv-KTeUFazL9ELau6UAXxSw70qB883oe3Lep",
+            "width" : 4032
+         },
+         {
+            "height" : 2560,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116793415615303565396\"\u003eelvin cruz\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJ1poFnFKpeJItESdrjmgaooaUrecB72Ww57RBwwXRvPKUDWKj-eoY76ATWHAsomAm4l2qQ3JGLCk4I9LGirqa8YfWcqzTG39gDjcDZVLwXrQAwcs5TyzjUIC9CLnBV3LhSOfweU2_1ZzHwPFG0rBeBKAKLKSVMF9HgqQRRAMlOmrYl",
+            "width" : 1440
+         },
+         {
+            "height" : 2560,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100553842979107785477\"\u003ejes p\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKdkdeDrtPiHUMx6V4ZZ7QMewSs_0kns4SKuj5Jygt13Ll-sMgXA15qI_6kJ_k_4KEYSFpIu7ciudLc57GBz-0IqjqH-5Ct6B-1xbfR6hq2Oio-1jVVpIF_1D4EM308ac2i6EufwmuhINsUECABT3lhtRf141ZgpSC_79dzAw2QDVKB",
+            "width" : 1440
+         }
+      ],
+      "place_id" : "ChIJIabH_MP1wokR0sGt3Vkqav0",
+      "plus_code" : {
+         "compound_code" : "R35J+RH The Bronx, NY, USA",
+         "global_code" : "87G8R35J+RH"
+      },
+      "rating" : 4.3,
+      "reference" : "ChIJIabH_MP1wokR0sGt3Vkqav0",
+      "reviews" : [
+         {
+            "author_name" : "Rosalyn Jones",
+            "author_url" : "https://www.google.com/maps/contrib/104384616190921586997/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GinwFSmAYqpbYG_VB13Iz8vvYwfCM_suVB_wp_A7g=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating" : 5,
+            "relative_time_description" : "in the last week",
+            "text" : "I would frequent this group years ago. You will always meet a dedicated group of people, devote followers and an amazing, longstanding group of devotees.",
+            "time" : 1605597296
+         },
+         {
+            "author_name" : "Lily Kesselman",
+            "author_url" : "https://www.google.com/maps/contrib/116479204494174704857/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GgECa5qpGCDzm20IEJ1m5WGSSHLa4goYDc_i-M2Czk=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating" : 5,
+            "relative_time_description" : "2 months ago",
+            "text" : "Just the most amazing community garden in New York City.",
+            "time" : 1600536878
+         },
+         {
+            "author_name" : "Ira Gershenhorn",
+            "author_url" : "https://www.google.com/maps/contrib/106545457486765510928/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GgDrMTUbr7sd-6M6TSFA8uV_XYzAf9KXgI1c1Dt=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating" : 4,
+            "relative_time_description" : "6 months ago",
+            "text" : "This was just a drive by visit.  I had been inside many years before.  Its a reasonable bike ride from the Upper West Side of Manhattan.",
+            "time" : 1588473827
+         },
+         {
+            "author_name" : "Omar Canales",
+            "author_url" : "https://www.google.com/maps/contrib/112688658677850803838/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gjyz2QFV1uiis4yyGXoUw0bPjqrxGrcaQgCRAQS4A=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "The place where community meets and shines. It's a slice of heaven in the South Bronx, Love this place",
+            "time" : 1569817029
+         },
+         {
+            "author_name" : "Isabella Valderrama",
+            "author_url" : "https://www.google.com/maps/contrib/108790256525177763546/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GiS3wfvmk4OBIS0aNTv6bdBWIbG_8G4hAeM12JS35Q=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "I visited this park for the first time today and I learned so much!  Danny was so kind and willing to share all his knowledge about bee keeping.  I'm really hoping I get a chance to go back later this summer!",
+            "time" : 1553544854
+         }
+      ],
+      "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=18260454204586705362",
+      "user_ratings_total" : 109,
+      "utc_offset" : -300,
+      "vicinity" : "494 East 141st Street, The Bronx",
+      "website" : "http://www.friendsofbrookpark.org/"
+   },
+   "status" : "OK"
+}

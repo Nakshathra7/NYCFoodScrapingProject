@@ -1,0 +1,237 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Hyatt Street",
+            "short_name" : "Hyatt St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Mid Island",
+            "short_name" : "Mid Island",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Staten Island",
+            "short_name" : "Staten Island",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Richmond County",
+            "short_name" : "Richmond County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10301",
+            "short_name" : "10301",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "St Marks Pl &amp;, \u003cspan class=\"street-address\"\u003eHyatt St\u003c/span\u003e, \u003cspan class=\"locality\"\u003eStaten Island\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10301\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "St Marks Pl &, Hyatt St, Staten Island, NY 10301, USA",
+      "formatted_phone_number" : "(212) 788-7900",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.6417451,
+            "lng" : -74.07780749999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.6430789802915,
+               "lng" : -74.07644846970848
+            },
+            "southwest" : {
+               "lat" : 40.6403810197085,
+               "lng" : -74.0791464302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "international_phone_number" : "+1 212-788-7900",
+      "name" : "Saint George Greenmarket",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 8:00 AM – 1:00 PM",
+            "Sunday: Closed"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1440,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110858448226981403302\"\u003eKathleen McCarthy\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLTq-_zXMWcsPaxBceSTzMyHeH4zIn5O9IAtw5St9wqq_xnfKjYrIPpflvSYBlkwsZQJy65aCOMmVuxl6WME2D4eXX13llLZbWkUgoGwfGRMmpmZivzFPvPQoLZQxXAhbxRW3czXGoLxZ1FohvAmI9JA-SMT1Zzy39tXLrYxiegTPHN",
+            "width" : 2560
+         },
+         {
+            "height" : 2322,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100210267032409306972\"\u003eSaint George Greenmarket\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJ6M0J0gt35U_U8o8K2IWr8clvHFB363S2NXngeLAxl4pTHcLcnLfU2C0mhRG5_uSqUJS5NOjM4XdcT50GtSIi8mfqlEsefy5FsQmavXunIyUMm0YRJwbdTRXdNEIzQh3j8wbX802pfUEANWHjNJb1wpBTbq3CZZTvcrS5CJoHZicPn",
+            "width" : 4128
+         },
+         {
+            "height" : 2304,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103168273616542448494\"\u003ePeter Kidd\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIkAOs1-aR8-HlhwHeMO3x-BRVhPU-XYc7q5X0JXwUD5-2NOGCNCn_KqOkYDnyXtGEbUMmi2fOM4y3V4uuIQLpLm67JD3tao2emHFoH-jMAmFLkbClQf_w5sasQTtZFIv1BswFxz57ZwYkhJv0ZR1KDUfz8o0niN8sH1kFWTU8sxaUb",
+            "width" : 1728
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100978441586225984007\"\u003eAdriana Tejada\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKU2tYgfNbQsyL0XceQeKM49p7EGIZ-Cb7rdNFtJyT9TGizjgAEQYRepRu_4Uz4dLKFQc9sB1n0NV7oqVafPLJjGOS8GrVfEBrvDnraey-XB-M2tUjSJS5dGumURnP7drz5w0Qfar-LN2UF9GjdlS-9u7vrzspnob9eGopD8tba_7qD",
+            "width" : 3024
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100978441586225984007\"\u003eAdriana Tejada\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwL6RwIo2LbN1ixaZgb5ceOxHDXrn3GrmimA2xYAHFVgZFwPHc7fu2R-GoCzKZyIuInBaR2GGo3QvnfoV_xM0RL3LFx_W0DoKvd-Rn-v4ZSRl3jX7DpvfyTHV0Ql4KdiwCAJGpqDD-IJmjFvvGj8OCwtTo0io4jjhuRLHkcNYApx0KNJ",
+            "width" : 3024
+         },
+         {
+            "height" : 1728,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103168273616542448494\"\u003ePeter Kidd\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKpwleH6MB1BhWiUs2Py18vmtSfYGB27LU1N7z2jJ-mq8yGC1Es_6AwUCdiQ-1V67WYgEIXy3m0873uERsOkujxjwiPZd-_Ff8YyJB9v7oMvWTfXbOT71l2uVtOtNG5QaVp5kKuGgrHD3XMvvNp_I-JSOdVS_MsKmIuESUhRSHK6ris",
+            "width" : 2304
+         },
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116413674000317435934\"\u003eThe black otaku\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwK6yFjcX2blOZRwkUEvR89OU7ePT9BHX_2CTqtDtXrnM4uSW3XGvGDlUqfrrfPZqc0FDWLe_V6xreSGPRAx8qNz2Xtq0dJd9-hNZIMmlWhUL1pLKSwv-3aupWbXLIWFiXYsSF-FWDQE19c5KezP-u_Hrs2OzDze2uWJAGWXl2s4VjIl",
+            "width" : 3456
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100978441586225984007\"\u003eAdriana Tejada\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwI-niHkepzijO2ZyY6NJFrU8gNvgayS6vBooin7x_JtP2bn--Ok_lH13KV_eKqYsoVTO78MwJmbjOF-IuIF-UQL80tM0-VKgTF9j5qFs7lCS0ldFNILguIxn9c7UZ-17ajXzXKcyJ_ErNFD62SVPx-3ikPW0s06mrrJBXM-BltHkKB0",
+            "width" : 3024
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100978441586225984007\"\u003eAdriana Tejada\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwL7mNafckevkVae9Fva1NExtkdv_MIBplj7Xn19h1hOgoi3Lrecw-1mRlKECjDtuiaI76rUA1EEsMHF7PjIM5b2Xuv1ile0vzfR249JnnWpydofIr5qY9yJ260XXPZ9JkVUy1G7tW32gBj9HVWdf1rp1mFY3jS0UgjRLfFQaHFKBPSP",
+            "width" : 3024
+         },
+         {
+            "height" : 1440,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110858448226981403302\"\u003eKathleen McCarthy\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIjnxoAg7esMb-MppcxV1XN8swIo2-0HH1Rf3WDv7GwO06BGLODJPRMICQNeRIj9nFsPnbtdszbKK6BySPHxG9iyvGYqF2JrGgBG-WyvgD2pMy8VBjTL6HTd5sjBHOAJ6tFyzUeuqMsoVljN2ifkQWGfQyxA3esamjE3swyrAoZEWcw",
+            "width" : 2560
+         }
+      ],
+      "place_id" : "ChIJ9RNMOi1OwokRaRGRYoqcho8",
+      "plus_code" : {
+         "compound_code" : "JWRC+MV Staten Island, NY, USA",
+         "global_code" : "87G7JWRC+MV"
+      },
+      "rating" : 4.6,
+      "reference" : "ChIJ9RNMOi1OwokRaRGRYoqcho8",
+      "reviews" : [
+         {
+            "author_name" : "Cindy Capers",
+            "author_url" : "https://www.google.com/maps/contrib/107129034242673042061/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-3Pb7JUnjWOA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmdWZTNCeNNOqrRsZRSHzqFN9z1NA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "in the last week",
+            "text" : "Awesome fresh produce and the best fish. . Terrific bakery.",
+            "time" : 1605979634
+         },
+         {
+            "author_name" : "I. Gandy",
+            "author_url" : "https://www.google.com/maps/contrib/116583119845186888066/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GgzilsX1DhuPYhtWr0BmaPdvapOXGatV7iTLkr7IA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating" : 5,
+            "relative_time_description" : "3 months ago",
+            "text" : "Perfect! Great choices. Everything you need is right here! Fresh great quality food from our local farmers!",
+            "time" : 1597593907
+         },
+         {
+            "author_name" : "Judy Nardiello",
+            "author_url" : "https://www.google.com/maps/contrib/108485653669802177145/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh6.googleusercontent.com/-fWNKvdzJwCs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckCQppgq-5o0aD2dwVWt3fsP9R_Bw/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating" : 4,
+            "relative_time_description" : "a week ago",
+            "text" : "unfortunately not what it once was.  more often than not, I'm not buying much at all.  Sorry to see changes, but COVID has taken its toll here as well",
+            "time" : 1605297103
+         },
+         {
+            "author_name" : "helen wodzinski",
+            "author_url" : "https://www.google.com/maps/contrib/111112049202475308167/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh5.googleusercontent.com/-qZwt6mWVu6Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclRHB4ZQY1yheg0IwE2yolHDjOtPA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "2 months ago",
+            "text" : "There needs to be more vendors to pull in more people. I do like it that you can park for free in the lot next to the vendors.",
+            "time" : 1600544631
+         },
+         {
+            "author_name" : "Susanne Vejdemo",
+            "author_url" : "https://www.google.com/maps/contrib/101422108049991617387/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gg-JABYxqHK4F80YHuOFHa-H9Yg20ImgBnDUtUr=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating" : 5,
+            "relative_time_description" : "2 months ago",
+            "text" : "A great greenmarket. We love the bakery!",
+            "time" : 1599702465
+         }
+      ],
+      "types" : [ "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=10342125712476017001",
+      "user_ratings_total" : 51,
+      "utc_offset" : -300,
+      "vicinity" : "St Marks Pl &, Hyatt Street, Staten Island",
+      "website" : "http://www.grownyc.org/greenmarket/staten-island/saint-george"
+   },
+   "status" : "OK"
+}

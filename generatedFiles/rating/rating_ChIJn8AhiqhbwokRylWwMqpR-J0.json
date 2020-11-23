@@ -1,0 +1,210 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "Park Slope",
+            "short_name" : "Park Slope",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Brooklyn",
+            "short_name" : "Brooklyn",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kings County",
+            "short_name" : "Kings County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "11217",
+            "short_name" : "11217",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eBrooklyn\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11217\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "Brooklyn, NY 11217, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.67732739999999,
+            "lng" : -73.9725591
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.67873658029149,
+               "lng" : -73.97112301970849
+            },
+            "southwest" : {
+               "lat" : 40.67603861970849,
+               "lng" : -73.97382098029151
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name" : "7 Avenue Station",
+      "photos" : [
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101580679594295106213\"\u003eJay Kindell\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwI8BIuw0o--ofHJ_E5HHb5lMiFg2q1tIsS7IyM2Ag1GmM5PWST1tT47S5L0zXnSHLCEBWbVPxrhWdL0X5ks74aTrKACOZCj9pl6Suv9vbwO3sPAIYGzl519SxzlJaffHoBux-GxBf9b_NiVU2CAceK_CobSPjETu_rKxMLa7X8l54M",
+            "width" : 4608
+         },
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101580679594295106213\"\u003eJay Kindell\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKluDvfQwJPwJVvxH1vD6AQr08Z9nR68OL_BAtDRfzRbtq_Ic6VVcMjN4abLSI0qavXOXrBauvSjefYHz2EDovdXiCXqx1unaTvM6C9tqUZdJj9roUXfV8831gHpNNi6yyCY57SiR814oplVOwK2NqtjMtDxCsspj9xmxvy2-zz61M",
+            "width" : 4608
+         },
+         {
+            "height" : 1080,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110704277929257697150\"\u003eDaryush Nourbaha\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJA0mjdYlwZ3WTB5Wq3eyEYALNHp9ixPF3NZrlRSXAMBWt4XGDh4duwJU2eGaVZolZjuS11vPqq-dW5py8ZUtGYk0OKN0Dvu2UQpb6k1tdRLKNi59h6SNuktREki190plwZEkApv5qW7CTfjrckFosMAooyjm9GF7Y4w_orXv4QrGU2",
+            "width" : 1920
+         },
+         {
+            "height" : 2592,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110672748634950085321\"\u003eCharles Stewart\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIGJ6jV3i53GlWES_JFKI_6Zf8SoH4Nmr3ryjXaNT1qxbH4xxhmoTBKG31sBIe1XbMmkTw2S2KlDrdG0zsWBeg9wfRCi-E7c7-Yxi7ENkkWkvSwYFFnuNXBSUstiE2sIsjKPtyXYIm-erTWg70hXfmcDRDaTQvHCxRqgNQkDR5EiL3P",
+            "width" : 1944
+         },
+         {
+            "height" : 2160,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117217836385806665886\"\u003eTewfik - B\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKAXTkfZkQqE1hDbJfpG0wynYmZ-NAElO5hehCt-2b_iQP5WdRvOWOx10kJE0EdDSnkY9DsU0_253s2Jxqwjx-DDi7iMBa0RKfXpVMpyoiBwSGBA9LVEC6tpAKhBEusejgkxxNvpnJhEvGdkPMtNun9hgNzaEw66DJLBuPR-6apYWfs",
+            "width" : 3840
+         },
+         {
+            "height" : 5312,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111882007188411790051\"\u003eGulshan Rai\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLN0kneVf_SYrtyuKXe_v-7M5oUDWS6P7rJzLkU99r6ITF2-H844W-EDc55EoE9ahG4rRCTz6EoVTVC7oKd7oqeYI5p13bNHr6g_HKMn3gwjoeTyf0ul_O_7dEGuKS6Vf0eis_CgscDAl-ofkX4UBU2fmiEvDKMj2XODjPmiHOTUGnP",
+            "width" : 2988
+         },
+         {
+            "height" : 452,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102121166191067864779\"\u003eSunil Shah\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJgfoSMmsIjEIxgU2scjCK-jrxlBYPZyPZzsUc5wW6TenrPVGlrjtHvFpmFOCq--elznyTgdDK1sXiBYnX2W9eK9nzg00pSDv-OaWeVPXmKWoVJ8t7ln3cTyKg8WUfoux4WDUraSCBXjFmB5lGgUa9FJgGAxDYZpyaFM35Fbda5s5F7",
+            "width" : 678
+         },
+         {
+            "height" : 480,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102121166191067864779\"\u003eSunil Shah\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIde7Alqw0WS1UE8_banYmNTqzhy0MVrR09mqpjKctc3H3EztAh99MXlpxY3LI10zCFFZSd2DuRO2lzkUNksDt8I0IQSoosYDLebpqbxqMUsSfamVOh2GRS8Aejv-fTcasRvyVSX8HPOfeXnLxd3BCBvTbyreBbICie2aN8EEa5taRz",
+            "width" : 640
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107048308239777445040\"\u003eScott Kleinberg\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLbOxKoX-tPILAD_8kM4vPY5gIWmzrA88suIFpGly5gqnhJ6kHMGeXQvSppdbXowNdblIRvEx_GeZjgnOx6K62FF9IrX14-4SXSRYSlKrJPPaDM2KDi5xg7I3k3APFx8Qps6kRxBYHTelVUNpqV13DPru1B7BvWIU6BaKk99k4ZJ21N",
+            "width" : 3024
+         },
+         {
+            "height" : 3211,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101580679594295106213\"\u003eJay Kindell\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKVYneO0alo2LdqAmOsx9FNlb7zjuwu4BT1ZRFu0-PWjM2Bo2_pLch3wgqCchawYBsRqTO2s6TdBYewlCaawD052g8ZpaUBo4acdJkGBC8zVifFyLnQfsCdvUYSIVr7bFMIL4JL3gSqLeBr4gYGkoYxN7mRpbwcVzfZWcyRJMio1IM",
+            "width" : 3123
+         }
+      ],
+      "place_id" : "ChIJn8AhiqhbwokRylWwMqpR-J0",
+      "plus_code" : {
+         "compound_code" : "M2GG+WX New York, NY, USA",
+         "global_code" : "87G8M2GG+WX"
+      },
+      "rating" : 3.5,
+      "reference" : "ChIJn8AhiqhbwokRylWwMqpR-J0",
+      "reviews" : [
+         {
+            "author_name" : "Sunil Shah",
+            "author_url" : "https://www.google.com/maps/contrib/102121166191067864779/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GgXNlckPeksYjKf5UcGSKyN7gxltkbMv7zRUrKI=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating" : 5,
+            "relative_time_description" : "7 months ago",
+            "text" : "💸😍",
+            "time" : 1586072551
+         },
+         {
+            "author_name" : "Alivia Romansa",
+            "author_url" : "https://www.google.com/maps/contrib/106248008854117453321/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-B0GGorOXO8s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl-Oeanf2GIe5ItICuGjfcchamgOA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 3,
+            "relative_time_description" : "7 months ago",
+            "text" : "its ok, lots of homeless and sometimes smell not good",
+            "time" : 1585529397
+         },
+         {
+            "author_name" : "Hunted_jupiter",
+            "author_url" : "https://www.google.com/maps/contrib/115389442185821233188/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GgXJ6EoULs2_T3ZyewGrcCeXrIwwVSQT3-r6ExqAg=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating" : 5,
+            "relative_time_description" : "11 months ago",
+            "text" : "ok station i mean it's pretty good so imma give it 5 stars",
+            "time" : 1575566482
+         },
+         {
+            "author_name" : "Jasmine H",
+            "author_url" : "https://www.google.com/maps/contrib/104731006993930939215/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh6.googleusercontent.com/-qzsnmz_nnWw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck9hYcE91cdKeMrVJHqLMlL9lLf9Q/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 4,
+            "relative_time_description" : "a year ago",
+            "text" : "Pretty nice station.",
+            "time" : 1573058889
+         },
+         {
+            "author_name" : "Robbie King",
+            "author_url" : "https://www.google.com/maps/contrib/102670288399843283398/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GixPetyeoIo-gj8Dthrz2kYTXNsBnRUsTJa-wEesA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating" : 3,
+            "relative_time_description" : "4 years ago",
+            "text" : "It's windy, but a guy plays violin down there basically every morning and he's pretty good. 3/5 would be forced to commute through this station every day again",
+            "time" : 1479082017
+         }
+      ],
+      "types" : [
+         "subway_station",
+         "transit_station",
+         "point_of_interest",
+         "establishment"
+      ],
+      "url" : "https://maps.google.com/?cid=11382937849615635914",
+      "user_ratings_total" : 42,
+      "utc_offset" : -300,
+      "vicinity" : "United States"
+   },
+   "status" : "OK"
+}

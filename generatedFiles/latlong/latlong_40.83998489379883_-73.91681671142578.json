@@ -1,0 +1,77 @@
+{
+   "plus_code" : {
+      "compound_code" : "R3QM+X7 New York, NY, USA",
+      "global_code" : "87G8R3QM+X7"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "23",
+               "short_name" : "23",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East 170th Street",
+               "short_name" : "E 170th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mount Eden",
+               "short_name" : "Mount Eden",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "The Bronx",
+               "short_name" : "The Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10452",
+               "short_name" : "10452",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "23 E 170th St, The Bronx, NY 10452, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8400594,
+               "lng" : -73.9168596
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8414083802915,
+                  "lng" : -73.91551061970848
+               },
+               "southwest" : {
+                  "lat" : 40.8387104197085,
+                  "lng" : -73.91820858029149
+               }
+            }
+         },
+         "place_id" : "ChIJiVbLyT70wokRk8W_PF9RhFI",
+         "plus_code" : {
+            "compound_code" : "R3RM+27 The Bronx, NY, USA",
+            "global_code" : "87G8R3RM+27"
+         },
+         "types" : [ "accounting", "establishment", "finance", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

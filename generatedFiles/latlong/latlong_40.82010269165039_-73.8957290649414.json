@@ -1,0 +1,87 @@
+{
+   "plus_code" : {
+      "compound_code" : "R4C3+2P New York, NY, USA",
+      "global_code" : "87G8R4C3+2P"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kelly Street Garden",
+               "short_name" : "Kelly Street Garden",
+               "types" : [ "establishment", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "924",
+               "short_name" : "924",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Kelly Street",
+               "short_name" : "Kelly St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Woodstock",
+               "short_name" : "Woodstock",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "The Bronx",
+               "short_name" : "The Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10459",
+               "short_name" : "10459",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "4237",
+               "short_name" : "4237",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "Kelly Street Garden, 924 Kelly St, The Bronx, NY 10459, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.820139,
+               "lng" : -73.895697
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.82148798029149,
+                  "lng" : -73.8943480197085
+               },
+               "southwest" : {
+                  "lat" : 40.81879001970849,
+                  "lng" : -73.89704598029151
+               }
+            }
+         },
+         "place_id" : "ChIJRzgwl6z1wokRNBqtfS4LHcg",
+         "plus_code" : {
+            "compound_code" : "R4C3+3P The Bronx, NY, USA",
+            "global_code" : "87G8R4C3+3P"
+         },
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,150 @@
+{
+   "plus_code" : {
+      "compound_code" : "R3M4+J2 New York, NY, USA",
+      "global_code" : "87G8R3M4+J2"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "157 Street Station",
+               "short_name" : "157 Street Station",
+               "types" : [
+                  "establishment",
+                  "point_of_interest",
+                  "subway_station",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10032",
+               "short_name" : "10032",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "157 Street Station, New York, NY 10032, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.83418289999999,
+               "lng" : -73.94481549999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.83553188029149,
+                  "lng" : -73.94346651970848
+               },
+               "southwest" : {
+                  "lat" : 40.8328339197085,
+                  "lng" : -73.9461644802915
+               }
+            }
+         },
+         "place_id" : "ChIJHfwh04X2wokRWQQqiYl1nEk",
+         "plus_code" : {
+            "compound_code" : "R3M4+M3 New York, NY, USA",
+            "global_code" : "87G8R3M4+M3"
+         },
+         "types" : [
+            "establishment",
+            "point_of_interest",
+            "subway_station",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3787A",
+               "short_name" : "3787A",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Broadway",
+               "short_name" : "Broadway",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10032",
+               "short_name" : "10032",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3787A Broadway, New York, NY 10032, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8339752,
+               "lng" : -73.9446495
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8353241802915,
+                  "lng" : -73.94330051970849
+               },
+               "southwest" : {
+                  "lat" : 40.8326262197085,
+                  "lng" : -73.94599848029149
+               }
+            }
+         },
+         "place_id" : "ChIJ6QL2HqX3wokRWATWYkkflYk",
+         "plus_code" : {
+            "compound_code" : "R3M4+H4 New York, NY, USA",
+            "global_code" : "87G8R3M4+H4"
+         },
+         "types" : [ "establishment", "point_of_interest", "store" ]
+      }
+   ],
+   "status" : "OK"
+}

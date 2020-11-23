@@ -1,0 +1,72 @@
+{
+   "plus_code" : {
+      "compound_code" : "R3CF+FX New York, NY, USA",
+      "global_code" : "87G8R3CF+FX"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Grand Concourse/E 153 St",
+               "short_name" : "Grand Concourse/E 153 St",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Concourse Village",
+               "short_name" : "Concourse Village",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "The Bronx",
+               "short_name" : "The Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10451",
+               "short_name" : "10451",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Grand Concourse/E 153 St, The Bronx, NY 10451, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.821102,
+               "lng" : -73.92575099999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8224509802915,
+                  "lng" : -73.92440201970848
+               },
+               "southwest" : {
+                  "lat" : 40.8197530197085,
+                  "lng" : -73.92709998029149
+               }
+            }
+         },
+         "place_id" : "ChIJU4HpH9L1wokRZPek5cX6XK8",
+         "plus_code" : {
+            "compound_code" : "R3CF+CM New York, NY, USA",
+            "global_code" : "87G8R3CF+CM"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      }
+   ],
+   "status" : "OK"
+}

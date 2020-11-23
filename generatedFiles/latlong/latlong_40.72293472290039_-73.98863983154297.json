@@ -1,0 +1,150 @@
+{
+   "plus_code" : {
+      "compound_code" : "P2F6+5G New York, NY, USA",
+      "global_code" : "87G8P2F6+5G"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2nd Avenue",
+               "short_name" : "2nd Avenue",
+               "types" : [
+                  "establishment",
+                  "point_of_interest",
+                  "subway_station",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10003",
+               "short_name" : "10003",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2nd Avenue, New York, NY 10003, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7239419,
+               "lng" : -73.9913057
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7252908802915,
+                  "lng" : -73.98995671970849
+               },
+               "southwest" : {
+                  "lat" : 40.7225929197085,
+                  "lng" : -73.99265468029149
+               }
+            }
+         },
+         "place_id" : "ChIJhfzlZYRZwokRLsR-L1xQc4E",
+         "plus_code" : {
+            "compound_code" : "P2F5+HF New York, NY, USA",
+            "global_code" : "87G8P2F5+HF"
+         },
+         "types" : [
+            "establishment",
+            "point_of_interest",
+            "subway_station",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "200",
+               "short_name" : "200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Allen Street",
+               "short_name" : "Allen St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10002",
+               "short_name" : "10002",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "200 Allen St, New York, NY 10002, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7226768,
+               "lng" : -73.9884926
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7240257802915,
+                  "lng" : -73.9871436197085
+               },
+               "southwest" : {
+                  "lat" : 40.7213278197085,
+                  "lng" : -73.98984158029151
+               }
+            }
+         },
+         "place_id" : "ChIJ6VYvy4BZwokRU_eZiIgNhJE",
+         "plus_code" : {
+            "compound_code" : "P2F6+3J New York, NY, USA",
+            "global_code" : "87G8P2F6+3J"
+         },
+         "types" : [ "bakery", "establishment", "food", "point_of_interest", "store" ]
+      }
+   ],
+   "status" : "OK"
+}

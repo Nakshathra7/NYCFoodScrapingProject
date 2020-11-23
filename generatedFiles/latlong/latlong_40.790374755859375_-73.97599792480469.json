@@ -1,0 +1,82 @@
+{
+   "plus_code" : {
+      "compound_code" : "Q2RF+4J New York, NY, USA",
+      "global_code" : "87G8Q2RF+4J"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "270",
+               "short_name" : "270",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West 89th Street",
+               "short_name" : "W 89th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10024",
+               "short_name" : "10024",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1705",
+               "short_name" : "1705",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "270 W 89th St, New York, NY 10024, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.790389,
+               "lng" : -73.976001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7917379802915,
+                  "lng" : -73.97465201970849
+               },
+               "southwest" : {
+                  "lat" : 40.7890400197085,
+                  "lng" : -73.97734998029149
+               }
+            }
+         },
+         "place_id" : "ChIJ__97xoNYwokRefagF4zd5zQ",
+         "plus_code" : {
+            "compound_code" : "Q2RF+5H New York, NY, USA",
+            "global_code" : "87G8Q2RF+5H"
+         },
+         "types" : [ "establishment", "point_of_interest", "school" ]
+      }
+   ],
+   "status" : "OK"
+}

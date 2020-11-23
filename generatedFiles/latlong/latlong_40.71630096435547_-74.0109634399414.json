@@ -1,0 +1,130 @@
+{
+   "plus_code" : {
+      "compound_code" : "PX8Q+GJ New York, NY, USA",
+      "global_code" : "87G7PX8Q+GJ"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chambers St/Greenwich St",
+               "short_name" : "Chambers St/Greenwich St",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chambers St/Greenwich St, New York, NY, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7163145,
+               "lng" : -74.0109865
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.71766348029149,
+                  "lng" : -74.00963751970849
+               },
+               "southwest" : {
+                  "lat" : 40.71496551970849,
+                  "lng" : -74.0123354802915
+               }
+            }
+         },
+         "place_id" : "ChIJyXDckh5awokRH5efXZ4O3GU",
+         "plus_code" : {
+            "compound_code" : "PX8Q+GJ New York, NY, USA",
+            "global_code" : "87G7PX8Q+GJ"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chambers Street",
+               "short_name" : "Chambers St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10007",
+               "short_name" : "10007",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Greenwich St and, Chambers St, New York, NY 10007, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7161721,
+               "lng" : -74.0110124
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7175210802915,
+                  "lng" : -74.00966341970849
+               },
+               "southwest" : {
+                  "lat" : 40.7148231197085,
+                  "lng" : -74.01236138029151
+               }
+            }
+         },
+         "place_id" : "ChIJ05PlosNbwokRCZnUJoELu9g",
+         "plus_code" : {
+            "compound_code" : "PX8Q+FH New York, NY, USA",
+            "global_code" : "87G7PX8Q+FH"
+         },
+         "types" : [ "bicycle_store", "establishment", "point_of_interest", "store" ]
+      }
+   ],
+   "status" : "OK"
+}

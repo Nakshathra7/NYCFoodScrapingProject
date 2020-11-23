@@ -1,0 +1,145 @@
+{
+   "plus_code" : {
+      "compound_code" : "R3JX+FP New York, NY, USA",
+      "global_code" : "87G8R3JX+FP"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "McKinley Square",
+               "short_name" : "McKinley Square",
+               "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+            },
+            {
+               "long_name" : "1272",
+               "short_name" : "1272",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Boston Road",
+               "short_name" : "Boston Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Morrisania",
+               "short_name" : "Morrisania",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "The Bronx",
+               "short_name" : "The Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10456",
+               "short_name" : "10456",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "McKinley Square, 1272 Boston Rd, The Bronx, NY 10456, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8311056,
+               "lng" : -73.9006631
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8324545802915,
+                  "lng" : -73.89931411970851
+               },
+               "southwest" : {
+                  "lat" : 40.8297566197085,
+                  "lng" : -73.90201208029151
+               }
+            }
+         },
+         "place_id" : "ChIJta4h4E_0wokRRZxdbUl68dg",
+         "plus_code" : {
+            "compound_code" : "R3JX+CP New York, NY, USA",
+            "global_code" : "87G8R3JX+CP"
+         },
+         "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "E 169 St/Boston Rd",
+               "short_name" : "E 169 St/Boston Rd",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Morrisania",
+               "short_name" : "Morrisania",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "The Bronx",
+               "short_name" : "The Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10456",
+               "short_name" : "10456",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "E 169 St/Boston Rd, The Bronx, NY 10456, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.831173,
+               "lng" : -73.900558
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8325219802915,
+                  "lng" : -73.89920901970849
+               },
+               "southwest" : {
+                  "lat" : 40.8298240197085,
+                  "lng" : -73.9019069802915
+               }
+            }
+         },
+         "place_id" : "ChIJQ-aU30_0wokRY_2jaa8AOwk",
+         "plus_code" : {
+            "compound_code" : "R3JX+FQ New York, NY, USA",
+            "global_code" : "87G8R3JX+FQ"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      }
+   ],
+   "status" : "OK"
+}

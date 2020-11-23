@@ -1,0 +1,185 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1025",
+            "short_name" : "1025",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Anderson Avenue",
+            "short_name" : "Anderson Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Highbridge",
+            "short_name" : "Highbridge",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "The Bronx",
+            "short_name" : "The Bronx",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bronx County",
+            "short_name" : "Bronx County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10452",
+            "short_name" : "10452",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e1025 Anderson Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eThe Bronx\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10452\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "1025 Anderson Ave, The Bronx, NY 10452, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.83283100000001,
+            "lng" : -73.9270726
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.83412968029151,
+               "lng" : -73.92560986970851
+            },
+            "southwest" : {
+               "lat" : 40.83143171970851,
+               "lng" : -73.92830783029152
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "Target Community Garden",
+      "photos" : [
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102689774357696496085\"\u003eJessica Garcia\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKQB5vjZtvRBKF1Pb506-bnTXrgqGrd2xBj8P7JNUkBZPEe9V-zXZgBZbvMdRd2j0lMWj_EPvaCo4ZGim8TxXyoOSjFOeRzyqNK65uvQrGfgWEK80289fUi7rVmj06tklQYaxEvyK_ryIf50qpFhk1H7L13FuG35JUkPOEgWp7l45JR",
+            "width" : 1960
+         },
+         {
+            "height" : 1960,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102689774357696496085\"\u003eJessica Garcia\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJroJZTUfxFBfMov59Nnl7RV2-vvbl6COh0qb8FRfpHBihap3gor40M6PeqRb0EbSX4ZELIL2EhAdbCrw7XLLInZZlHBtaWgAsMJEHzQfS7n1aBEfnRLVYhIGxcvjlQe4d5v_zYFzYrK3iUy2oUI0UV5DzIOluL7BSvrWfAU4tL4zgA",
+            "width" : 4032
+         },
+         {
+            "height" : 1960,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102689774357696496085\"\u003eJessica Garcia\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJeqg4M1fe1rHt2MOe29nsUbwFibNm0z9wYn3SVYNISuuahKqgVy6S9DxsRf8KQ9aMHNhlMAMT4eEHGEpxW_SIJIXFRz9ZDQziosu_v1R58_k6arHZpSPXdjhHXtxRy8iK3d_4uyIG2bMOy1oMsjtVO6duxnsmuU3QqOfeafuO2l1ad",
+            "width" : 4032
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102689774357696496085\"\u003eJessica Garcia\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJhBbbbk7fsoHzhOsuIzafHlAlCBHs9IqkQksEhPcJZlgoKNpqfsyVUqEfHcdnIBkiFu2IVZax8MOL54c3cXYyIcDhFCvsa3PzmXEqHhpY8Xu8RcknhyQ1uJUTlWjMHrwgqvbYe7BEus5UAz6-qxF1ohpyjs_Z6iZcS0NdYFuv1iGqB",
+            "width" : 1960
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112002697166742510076\"\u003eEDWARD Vidaln5mjcl n w65 t esq\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLrRue-wr7b4lNvV2hlFChAwdh4otdVc2WZWOMzbLRmCbZP2K3fk3sktGnAfwQb5Xxd6sMPErlgmKMnxCqg4EiXGHLEcwEpy_QU79lRrXr0vybQ_tIzRxIhPOLLnuX3nUoMoekhMnUcTayMauXVR1e9--WgMKRaeZAEt6XbyR_1rj5F",
+            "width" : 2268
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102689774357696496085\"\u003eJessica Garcia\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKTjVOpMuUsNUCqruxOkhJmAEPQTo7riONkpt1lP9szFwAfR4LYoyw97ZmOZYCdJ1AxgsrmcQsRfqMKxsk2LKBXYXDpOJOBxLrSqfsV8SvlCunPjOh59b-wLx88rU_9EuhDpxKqaQXQS5vV9fMrr_B12B_W7gtw7Ba8k90oUTw-gMzh",
+            "width" : 1960
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112002697166742510076\"\u003eEDWARD Vidaln5mjcl n w65 t esq\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIWV34YxYzzu9GggjUMV5Q_fZ-nT9VHeKB-gRxHLpTD3TUeNJW8IbqOAzXEedWPLOUBzPXfD1v1JODkpIWaOvdnCGxF25n9kMehJFapo3PoMTWrcYz3EnUmzZAw0PDzCNmPJvfZn5TLkD3r828hnkJ_bWHVJxgC2y78hdC7F9XvHql8",
+            "width" : 2268
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112002697166742510076\"\u003eEDWARD Vidaln5mjcl n w65 t esq\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKVDDKBXqP4vb4KemOB62y8_qf9xTLdYCkjA1_ROA2vBbJFNm3HhDgAA42AYtmURnN-H3-azhBLvJ5ZxIP55PwXSXqoqFK-DG7n8rnXTU-AwBbb0ScKltt2fzjZMpPvqszaNVnX_NXvLruAUc1hnCqOr3z5JoIbVuwhDzRbgDbjRrHw",
+            "width" : 2268
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102689774357696496085\"\u003eJessica Garcia\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJJeEis4fiCGQVPsaLvseG77s1mrsy9hwv1HbVUjPZtfM12ES6_e7rXKEELeiEjFNY6OYH-Z3_xu60-b-crW3jXzfDQ2i9lAwk_nH95sBwuSCnfrNf1gmdhHTRDYcSyhbJbIzZPGwaWh4iG6mq63jCOWIoRV-lBkkQX4dUJ5L7tk3hN",
+            "width" : 1960
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102689774357696496085\"\u003eJessica Garcia\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKvnft61uXv2R3BRX5dSdddZxIAYkgqOuY0_sfPHm4tKF7-MAYTUdE4hM3UXPsN0qRn6GHNUqL76RmvPRE5wvhWk8lzrvhGRzy66RUKbIyzlVb0krjHQiN_3M48UPvZV1CDp0WhIUoD2kwA5gGmACPLC4d673UooJIAazJNVZiktunA",
+            "width" : 1960
+         }
+      ],
+      "place_id" : "ChIJLbq-hOv1wokRqLiH1qHJNgU",
+      "plus_code" : {
+         "compound_code" : "R3MF+45 The Bronx, NY, USA",
+         "global_code" : "87G8R3MF+45"
+      },
+      "rating" : 5,
+      "reference" : "ChIJLbq-hOv1wokRqLiH1qHJNgU",
+      "reviews" : [
+         {
+            "author_name" : "Phyllis Norton",
+            "author_url" : "https://www.google.com/maps/contrib/109786898696634213526/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh6.googleusercontent.com/-R9WYQD648oo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmnznvvXhKin6Sx1-xl2vmYYWtnmg/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "2 years ago",
+            "text" : "Absolutely the Best Health Fair I've attended. It compared 2 a day spa at the 3rd Annual Health Fair Sept 22, 2018",
+            "time" : 1537754645
+         },
+         {
+            "author_name" : "Jessica Garcia",
+            "author_url" : "https://www.google.com/maps/contrib/102689774357696496085/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GgusGaoiaPFkd7meyaD8IrxqleYkTfEn9MZJZt9Cg=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "Beautiful place to be in the community.",
+            "time" : 1568334549
+         }
+      ],
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=375709315858151592",
+      "user_ratings_total" : 2,
+      "utc_offset" : -300,
+      "vicinity" : "1025 Anderson Avenue, The Bronx"
+   },
+   "status" : "OK"
+}

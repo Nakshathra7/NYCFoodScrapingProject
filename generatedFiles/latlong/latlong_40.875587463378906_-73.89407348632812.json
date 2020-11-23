@@ -1,0 +1,135 @@
+{
+   "plus_code" : {
+      "compound_code" : "V4G4+69 New York, NY, USA",
+      "global_code" : "87G8V4G4+69"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Goulden Av/Bedford PK Bl",
+               "short_name" : "Goulden Av/Bedford PK Bl",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "West Bronx",
+               "short_name" : "West Bronx",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "The Bronx",
+               "short_name" : "The Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Goulden Av/Bedford PK Bl, The Bronx, NY, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8755265,
+               "lng" : -73.89411149999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8768754802915,
+                  "lng" : -73.89276251970848
+               },
+               "southwest" : {
+                  "lat" : 40.8741775197085,
+                  "lng" : -73.8954604802915
+               }
+            }
+         },
+         "place_id" : "ChIJQ43TApzzwokRFIZDR6WQ6Mc",
+         "plus_code" : {
+            "compound_code" : "V4G4+69 New York, NY, USA",
+            "global_code" : "87G8V4G4+69"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3165-3599",
+               "short_name" : "3165-3599",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Goulden Avenue",
+               "short_name" : "Goulden Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West Bronx",
+               "short_name" : "West Bronx",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "The Bronx",
+               "short_name" : "The Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10463",
+               "short_name" : "10463",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3165-3599 Goulden Ave, The Bronx, NY 10463, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8750721,
+               "lng" : -73.89407880000002
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8764210802915,
+                  "lng" : -73.89272981970852
+               },
+               "southwest" : {
+                  "lat" : 40.8737231197085,
+                  "lng" : -73.89542778029153
+               }
+            }
+         },
+         "place_id" : "ChIJB5atGpzzwokRB67yX4vv8Ks",
+         "plus_code" : {
+            "compound_code" : "V4G4+29 The Bronx, NY, USA",
+            "global_code" : "87G8V4G4+29"
+         },
+         "types" : [ "establishment", "point_of_interest", "school" ]
+      }
+   ],
+   "status" : "OK"
+}

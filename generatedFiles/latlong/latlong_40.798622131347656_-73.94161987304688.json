@@ -1,0 +1,145 @@
+{
+   "plus_code" : {
+      "compound_code" : "Q3X5+C9 New York, NY, USA",
+      "global_code" : "87G8Q3X5+C9"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "116 Street",
+               "short_name" : "116 Street",
+               "types" : [
+                  "establishment",
+                  "point_of_interest",
+                  "subway_station",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10035",
+               "short_name" : "10035",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "116 Street, New York, NY 10035, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.79863,
+               "lng" : -73.94162
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7999789802915,
+                  "lng" : -73.94027101970849
+               },
+               "southwest" : {
+                  "lat" : 40.7972810197085,
+                  "lng" : -73.94296898029151
+               }
+            }
+         },
+         "place_id" : "ChIJLddxqgj2wokRYq4WAcc35mE",
+         "plus_code" : {
+            "compound_code" : "Q3X5+F9 New York, NY, USA",
+            "global_code" : "87G8Q3X5+F9"
+         },
+         "types" : [
+            "establishment",
+            "point_of_interest",
+            "subway_station",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lexington Avenue",
+               "short_name" : "Lexington Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10029",
+               "short_name" : "10029",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "E 116 St, Lexington Ave, New York, NY 10029, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.79865100000001,
+               "lng" : -73.94178029999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.79999998029151,
+                  "lng" : -73.94043131970848
+               },
+               "southwest" : {
+                  "lat" : 40.79730201970851,
+                  "lng" : -73.9431292802915
+               }
+            }
+         },
+         "place_id" : "ChIJm2K7mAz3wokR1Gx-KFVJj0U",
+         "plus_code" : {
+            "compound_code" : "Q3X5+F7 New York, NY, USA",
+            "global_code" : "87G8Q3X5+F7"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

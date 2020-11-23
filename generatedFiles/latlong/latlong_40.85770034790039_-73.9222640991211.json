@@ -1,0 +1,82 @@
+{
+   "plus_code" : {
+      "compound_code" : "V35H+33 New York, NY, USA",
+      "global_code" : "87G8V35H+33"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Swindler Cove",
+               "short_name" : "Swindler Cove",
+               "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+            },
+            {
+               "long_name" : "3703",
+               "short_name" : "3703",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Harlem River Drive",
+               "short_name" : "Harlem River Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10034",
+               "short_name" : "10034",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Swindler Cove, 3703 Harlem River Dr, New York, NY 10034, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8573445,
+               "lng" : -73.9221203
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8586934802915,
+                  "lng" : -73.92077131970849
+               },
+               "southwest" : {
+                  "lat" : 40.8559955197085,
+                  "lng" : -73.9234692802915
+               }
+            }
+         },
+         "place_id" : "ChIJ_zeYAg_0wokR-LXoX8rMZSI",
+         "plus_code" : {
+            "compound_code" : "V34H+W5 New York, NY, USA",
+            "global_code" : "87G8V34H+W5"
+         },
+         "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,87 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "613",
+            "short_name" : "613",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "New Lots Avenue",
+            "short_name" : "New Lots Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "East New York",
+            "short_name" : "East New York",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Brooklyn",
+            "short_name" : "Brooklyn",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kings County",
+            "short_name" : "Kings County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11207",
+            "short_name" : "11207",
+            "types" : [ "postal_code" ]
+         },
+         {
+            "long_name" : "7214",
+            "short_name" : "7214",
+            "types" : [ "postal_code_suffix" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e613 New Lots Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBrooklyn\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11207-7214\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "613 New Lots Ave, Brooklyn, NY 11207, USA",
+      "formatted_phone_number" : "(718) 385-1201",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.6649396,
+            "lng" : -73.8866761
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.6663201802915,
+               "lng" : -73.88522726970849
+            },
+            "southwest" : {
+               "lat" : 40.6636222197085,
+               "lng" : -73.8879252302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "international_phone_number" : "+1 718-385-1201",
+      "name" : "Morris L. Eisenstein Learning Center",
+      "place_id" : "ChIJz0DOAqtdwokRt_8z4fOrAUs",
+      "plus_code" : {
+         "compound_code" : "M477+X8 Brooklyn, NY, USA",
+         "global_code" : "87G8M477+X8"
+      },
+      "reference" : "ChIJz0DOAqtdwokRt_8z4fOrAUs",
+      "types" : [ "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=5404790091764989879",
+      "utc_offset" : -300,
+      "vicinity" : "613 New Lots Avenue, Brooklyn",
+      "website" : "https://ucceny.org/preschool/"
+   },
+   "status" : "OK"
+}

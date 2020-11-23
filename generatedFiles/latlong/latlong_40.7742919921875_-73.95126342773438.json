@@ -1,0 +1,84 @@
+{
+   "plus_code" : {
+      "compound_code" : "Q2FX+PF New York, NY, USA",
+      "global_code" : "87G8Q2FX+PF"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1577",
+               "short_name" : "1577",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "1st Avenue",
+               "short_name" : "1st Avenue",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10028",
+               "short_name" : "10028",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1577 1st Avenue, New York, NY 10028, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7744444,
+               "lng" : -73.9513889
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7757933802915,
+                  "lng" : -73.9500399197085
+               },
+               "southwest" : {
+                  "lat" : 40.7730954197085,
+                  "lng" : -73.95273788029151
+               }
+            }
+         },
+         "place_id" : "ChIJny01brlYwokRpRIu5hBYHyo",
+         "plus_code" : {
+            "compound_code" : "Q2FX+QC New York, NY, USA",
+            "global_code" : "87G8Q2FX+QC"
+         },
+         "types" : [
+            "beauty_salon",
+            "establishment",
+            "hair_care",
+            "point_of_interest",
+            "spa",
+            "store"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

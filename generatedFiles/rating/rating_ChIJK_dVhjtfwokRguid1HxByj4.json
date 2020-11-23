@@ -1,0 +1,268 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "40-20",
+            "short_name" : "40-20",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Broadway",
+            "short_name" : "Broadway",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Astoria",
+            "short_name" : "Astoria",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Queens",
+            "short_name" : "Queens",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Queens County",
+            "short_name" : "Queens County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11103",
+            "short_name" : "11103",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e40-20 Broadway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eQueens\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11103\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "40-20 Broadway, Queens, NY 11103, USA",
+      "formatted_phone_number" : "(718) 721-2462",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.7585421,
+            "lng" : -73.91853859999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7599701802915,
+               "lng" : -73.91712396970848
+            },
+            "southwest" : {
+               "lat" : 40.7572722197085,
+               "lng" : -73.91982193029149
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "international_phone_number" : "+1 718-721-2462",
+      "name" : "Queens Public Library at Broadway",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1300"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1200"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 AM – 5:00 PM",
+            "Tuesday: 1:00 – 6:00 PM",
+            "Wednesday: 10:00 AM – 6:00 PM",
+            "Thursday: 12:00 – 8:00 PM",
+            "Friday: 10:00 AM – 6:00 PM",
+            "Saturday: 10:00 AM – 5:00 PM",
+            "Sunday: Closed"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112565480839284581991\"\u003ePAUCAR\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJNkaLIAcU1riLsPZGUYOf5jn2V4dmWswOKgfqPLV87MxjkopXRA5Esc7UYnUVqE3cBCSPWnYrulqZd4J41qVwcm1Av1FT6kQPgjTPFoCJyoPFzHj7qNO-54Y31AhaBq0o-jCEqFPcXQdPw1PPp2IStfGZLBexHAOr20Azit2R-XVAp",
+            "width" : 4608
+         },
+         {
+            "height" : 1872,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117181294801242243807\"\u003eThomas Helton\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKVZhWuEL9BtNA3MeuEuzhfl-umyH0VqArEAFgRyJqFX6NR6X0rA02MW7NCr58tjGbq5SYx4EN8RgFwswP2ljx6PvFCaC3BhmDtIU5O83Gxylal-kagDQtSdxYFXYZiemQBwr5FMnv8M3TqkEBrCYwjjLEbki1AYwcbRANmIr-JuQuG",
+            "width" : 3328
+         },
+         {
+            "height" : 2340,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106885318692105197067\"\u003ePeter Dobrowolski\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJIe-SMH5OneqNd9PYaxpLCdSEaxPqivf1YDycBFDZKuU45aLtCFlG8Nl6agwuBL_xTgNvg3pJSsp5-McBtTqXNlZ_K1Y2njR_BwzsyyYyvmik3T_znJHIE-ElObUra5tYeF613jd9is8xP5A-dNiibbJQrMJ194_GkZlCD8QbapWGt",
+            "width" : 4160
+         },
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112565480839284581991\"\u003ePAUCAR\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKBg7L9gJZ6oH7-xTMkpA1JBXmLtDGp-9qdYZkYuWdIvqQkKtUwBwvVbh0aXb41xfB7Ozl9ej5KLQ7cwBp3ENWKGQYu7sI9A79yKn14J-Gr1JjwTwkxF9FfahIWsu-uVGZZIMJ_MaX1KHgcIyfmMjszyQfHtM5jivnah3oZENhSrhM7",
+            "width" : 4608
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102543004369030510813\"\u003eAnuj Pant\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJ-q5R9oXpA1tfIy91gi0De81n6yQeOH8fs-SdLbF_xd3iweBo8m3DBWCxtiapzzitNhYoXZFKRzgVOPnPIBolFBxq052u5PmJpahH_FNNYMd57CJQI-KsRZCMy3o84qm3HvDX4bupfBLqjGBNy5K-L2xih2BmCeFc-x7L7hYyXAb-2",
+            "width" : 3024
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114592143269096100906\"\u003eJesse Spector\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwI7JRekVUAJHjEQkEa8nQUu_pM2IXKoMfKyqAT3bPjzxstyrESFbFnbm40D-nAddjLiFXjXhQYXVZ2XtE58pWEhWnTBzebFBCJKc9-_qBvJUcKLuN8tVX-gYPNIsaRvbmxuipCfXcYtfCVMcjUf6iW1yVtdO-3ny6wY_8NuiKSw5NCZ",
+            "width" : 2448
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114592143269096100906\"\u003eJesse Spector\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKFMcEJkh8mh4xdR0C0T4loaJZgm0QJL8hipMCgiIxMOTdq3XqXlBeGCdt_6glD8_8GW1m5c3BDZE9DrBZRvEvTiEshSYQBc81Q17uFumLbccUoTbZtjPMQws8dfhrvxC3DVfFwXOlaFv7NToQnKjlXI7d7fk0Isa9r_49k55x3jAM5",
+            "width" : 2448
+         }
+      ],
+      "place_id" : "ChIJK_dVhjtfwokRguid1HxByj4",
+      "plus_code" : {
+         "compound_code" : "Q35J+CH New York, NY, USA",
+         "global_code" : "87G8Q35J+CH"
+      },
+      "rating" : 3.9,
+      "reference" : "ChIJK_dVhjtfwokRguid1HxByj4",
+      "reviews" : [
+         {
+            "author_name" : "Shah I. Rahim",
+            "author_url" : "https://www.google.com/maps/contrib/104788606493727387217/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh6.googleusercontent.com/-JzWexcfAJ7E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmk5CjydiTC3630E32w0mZQRgoH_w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 4,
+            "relative_time_description" : "6 months ago",
+            "text" : "I miss my library. I don’t know when they open ?? Hope soon. Best library in Queens, Astoria. I’m been going there since 20 years. Employees very nice and friendly. I don’t ask any more. God bless. See you soon. Love you all.",
+            "time" : 1590196808
+         },
+         {
+            "author_name" : "PERRY ZOU",
+            "author_url" : "https://www.google.com/maps/contrib/100671929243462090865/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gh81d70Bfai_iallfDwEULz7iPqIG1RbjT5wDU9BQ=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "5 months ago",
+            "text" : "I always went to this library when Covid wasn’t here yet. Plenty of books for many topics, staff is friendly and always there to help you, and very clean. No doubt this is one of the best libraries yet.",
+            "time" : 1592344826
+         },
+         {
+            "author_name" : "James Kilminster",
+            "author_url" : "https://www.google.com/maps/contrib/104851002044337478950/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GiuAsiPFgupuYjBVFuOsM13ECptB_D7jxWeHdUlKQ=s128-c0x00000000-cc-rp-mo",
+            "rating" : 1,
+            "relative_time_description" : "9 months ago",
+            "text" : "There are no quiet spaces. In a library. Not even kidding, it’s louder than Grand Central in there. Avoid this place; find a quiet cafe instead if you want to read or study in peace.",
+            "time" : 1582143019
+         },
+         {
+            "author_name" : "MUSSAFFA KHAN",
+            "author_url" : "https://www.google.com/maps/contrib/101088431998691136678/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh5.googleusercontent.com/-JT0juFk6wks/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnUpwCIb0_qrZUJeH4oE1xmuRVQzQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "6 months ago",
+            "text" : "really great place. ive been coming here since i was a child.",
+            "time" : 1588483136
+         },
+         {
+            "author_name" : "Balixah. Yama.",
+            "author_url" : "https://www.google.com/maps/contrib/111505559866962084131/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GgcajANztKRg5Sj_a7BTT5OOjpq0OMcLQpItEI8=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "I observe the workers behind the help desk doing acts of kindness on a regular basis at this library. I think they all deserve a gold medal (and a raise🌝) for their gracious, patient service.",
+            "time" : 1569036006
+         }
+      ],
+      "types" : [ "library", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=4524500780045953154",
+      "user_ratings_total" : 55,
+      "utc_offset" : -300,
+      "vicinity" : "40-20 Broadway, Queens",
+      "website" : "http://www.queenslibrary.org/"
+   },
+   "status" : "OK"
+}

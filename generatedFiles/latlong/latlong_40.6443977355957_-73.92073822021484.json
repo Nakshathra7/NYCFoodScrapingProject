@@ -1,0 +1,143 @@
+{
+   "plus_code" : {
+      "compound_code" : "J3VH+QP New York, NY, USA",
+      "global_code" : "87G8J3VH+QP"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "The Wyckoff House Museum",
+               "short_name" : "The Wyckoff House Museum",
+               "types" : [
+                  "establishment",
+                  "museum",
+                  "park",
+                  "point_of_interest",
+                  "tourist_attraction"
+               ]
+            },
+            {
+               "long_name" : "5816",
+               "short_name" : "5816",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Clarendon Road",
+               "short_name" : "Clarendon Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "East Flatbush",
+               "short_name" : "East Flatbush",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11203",
+               "short_name" : "11203",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "The Wyckoff House Museum, 5816 Clarendon Rd, Brooklyn, NY 11203, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6443479,
+               "lng" : -73.92082839999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6456968802915,
+                  "lng" : -73.91947941970848
+               },
+               "southwest" : {
+                  "lat" : 40.6429989197085,
+                  "lng" : -73.9221773802915
+               }
+            }
+         },
+         "place_id" : "ChIJ4VNMVbxcwokRpAMEViT03RM",
+         "plus_code" : {
+            "compound_code" : "J3VH+PM Brooklyn, NY, USA",
+            "global_code" : "87G8J3VH+PM"
+         },
+         "types" : [
+            "establishment",
+            "museum",
+            "park",
+            "point_of_interest",
+            "tourist_attraction"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Island",
+               "short_name" : "Long Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Island, New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            },
+            "location" : {
+               "lat" : 40.789142,
+               "lng" : -73.13496099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            }
+         },
+         "place_id" : "ChIJy6Xu4VRE6IkRGA2UhmH59x0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

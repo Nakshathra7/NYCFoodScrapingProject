@@ -1,0 +1,82 @@
+{
+   "plus_code" : {
+      "compound_code" : "V36X+HW New York, NY, USA",
+      "global_code" : "87G8V36X+HW"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2431",
+               "short_name" : "2431",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Morris Avenue",
+               "short_name" : "Morris Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fordham Heights",
+               "short_name" : "Fordham Heights",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "The Bronx",
+               "short_name" : "The Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10468",
+               "short_name" : "10468",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "6577",
+               "short_name" : "6577",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "2431 Morris Ave, The Bronx, NY 10468, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8614521,
+               "lng" : -73.90022189999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8628010802915,
+                  "lng" : -73.8988729197085
+               },
+               "southwest" : {
+                  "lat" : 40.8601031197085,
+                  "lng" : -73.9015708802915
+               }
+            }
+         },
+         "place_id" : "ChIJ8_IYBHj0wokR6cczAy4UbBE",
+         "plus_code" : {
+            "compound_code" : "V36X+HW The Bronx, NY, USA",
+            "global_code" : "87G8V36X+HW"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,300 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "4746",
+            "short_name" : "4746",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Broadway",
+            "short_name" : "Broadway",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10040",
+            "short_name" : "10040",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e4746 Broadway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10040\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "4746 Broadway, New York, NY 10040, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.8650507,
+            "lng" : -73.92846969999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.8663487802915,
+               "lng" : -73.9270730197085
+            },
+            "southwest" : {
+               "lat" : 40.8636508197085,
+               "lng" : -73.92977098029152
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "Anne Loftus Playground",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "0100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "0100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "0100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "0100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "0100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "0100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "0100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0600"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 6:00 AM – 1:00 AM",
+            "Tuesday: 6:00 AM – 1:00 AM",
+            "Wednesday: 6:00 AM – 1:00 AM",
+            "Thursday: 6:00 AM – 1:00 AM",
+            "Friday: 6:00 AM – 1:00 AM",
+            "Saturday: 6:00 AM – 1:00 AM",
+            "Sunday: 6:00 AM – 1:00 AM"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116632696058506058974\"\u003eCristina Mota\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJ13HyFWlLmeY79RGz6yCeSe6aXqJOyLqlac7IcamU5fVUndoER7HU67fYQ4lrgqsiikSInmt2XXQZUDHRHclxTHwCJxrPrFj2je9ED6lBpcatCw0aq--CZhLqlizzd-f5a9LG5JxvBQMxWKZfPJlyan_QXdl85c3CryHNZLcqN0-ni",
+            "width" : 4032
+         },
+         {
+            "height" : 1080,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113542957184687536106\"\u003eDaniel Call\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwI3R1bb1fP392yP89QBKnQ_iQrex9-AuRLQdHgc99Sdf_zlWE7SJfU8-1PB5svt4M2TUmpdZZRbUbwcnTmIubCOpGCtaHNUYWBZib7wPeWT8ax8yZGXv3osihJmiiS49t6f3WPd0GRFcNphiyZOHYkm246qPLtJABYjHEsVGy1LlnIi",
+            "width" : 1920
+         },
+         {
+            "height" : 2268,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103109628742399408454\"\u003eDave Donars\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIQmwTCKg0dL0yEds7HzWSel1v-rEqXllyhAIRVQaFl4Quq4JuX4gIjAnBBB5dl2nfNqJnj2SgsOrBXm8-OQJVVd4N4mX6YTTtvlt43ezwyzL9Er91xQTX2_-HPDx7dYMbWhfqr99SrPoRF8MXR-50Syg7I0FPFP0gRYGoYBs82ha5J",
+            "width" : 4032
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103109628742399408454\"\u003eDave Donars\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJ3QsSlnXoACnHEOMtUup0baK3jvrttQ-wSkaS6YB5iSsho8qMaWE_S-baXwygZ1IZTSK9c55MjfJ1JlkwALcT2JvA3gwskeTk9BYcbqsFfDDzQJR5lf6c694Hqpms6MIZgBBeOYgXwbZTcYTkt-o6pA2cAFU_ZxX_mS5j5K70hKw3w",
+            "width" : 4032
+         },
+         {
+            "height" : 768,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117606218579553483268\"\u003eJose Marquez\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLxNHSepm4XZb5fhMLvt12tZBWYf8bXrJMF1kFyXhrjd-C-DSwkA_4uTjVynX4epPXUB9fJObSbQsnRY7GxAMoNxoouaqRwizUc2kwRiHCsZqvbIVCFb6fo4INOdRn7uwS2yuyPAZL6lafA66W862zM2nefGdLl--SQ_q0QLbrpQYMV",
+            "width" : 768
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114460643226469447538\"\u003eNancy Serrano\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLtkiJGddZBk9G15-yWRHre_H95GBvSQqVHlCz4YIUEuVcZsQOua1Mpqz09p3oEuw_PsimelKAUaI8HonAtEDIdU__Ihk7bkc6C9oo8sOs9SLUBdMdue_4_qDsd7EfNI0jmYQTKZSuNizM126km-qaVu9-pdJFQq32kNSetKk4C73zo",
+            "width" : 2560
+         },
+         {
+            "height" : 4160,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116475332459800676888\"\u003ePamela De Asis\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLNyCI7GUMM1euVPiUci3H0CDfcQTUpBZhuRJN_aZqYJ4SrTb9Rt9o5p3tydZ2Bpj3lmvy8GWupUqVEpiB9KjM47hHFaHlkZUIgLt-qcHH7TW1CQ8OGpZdBAzXWQbF4dwDoVJs7OMndPlxDmPd1CGyITmLL39_rNYhj0VmE9bhMWGHU",
+            "width" : 3120
+         },
+         {
+            "height" : 4160,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117606218579553483268\"\u003eJose Marquez\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIaUGOwtWeOExatWnpw-w0tc_8hMIX84Xy_LjcXbqvO6YMGXmBOBQ2Cs5Dd6cL7P_i3gIxs8MUk_xIhvzvyhCSvwshXacJNmtQgaMXZzvwHxkOdLv1Tcz8M-Hl45m6OnD4qIopYhIAqNMi3IySglzEDWOOLXvp6oaDaNHCxBg7Ht3En",
+            "width" : 3120
+         },
+         {
+            "height" : 3120,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109424607544641173704\"\u003eJaytee Starr\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwK3YLrB_7RkaIXwAkHv2_lFVHBeBb08rmzSQCm4QjOlGHwHvncIFvzKrxEx_ZjSTOHlNuDC29VlKklabJCRt98Xm1g64D12QGM5EjxC9NBJPCxX4mXPYeaEaUJonKlKHzUq7fWTVdUl3Knzib7g1clKTXuukrNdkQkO_XhhpnrlRDb4",
+            "width" : 4160
+         },
+         {
+            "height" : 1080,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113542957184687536106\"\u003eDaniel Call\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLqnE4Usx2FZS5y4RuKt9ZZaCnUQH-VnuNkrH294BGmKZLlypot_GUdTBfNKKIoVd3bgF6ZLZiN_TWa7bgPICIGtiLN9XFefMjuHN8hifqwXfVmvr2MqNVz18mJT4n4rpR6icBYt0gxsJnX-87vfVae6EELH-pzt0Eyk0ddCgJWJNDc",
+            "width" : 1920
+         }
+      ],
+      "place_id" : "ChIJ-cW3fAf0wokRmOni1IFiO9w",
+      "plus_code" : {
+         "compound_code" : "V38C+2J New York, NY, USA",
+         "global_code" : "87G8V38C+2J"
+      },
+      "rating" : 4.4,
+      "reference" : "ChIJ-cW3fAf0wokRmOni1IFiO9w",
+      "reviews" : [
+         {
+            "author_name" : "Antonia M.",
+            "author_url" : "https://www.google.com/maps/contrib/103470761525567620292/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GhfwIfhEOtGdV77jthKtYOdtfTy_Mi973KHuu9GbLc=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating" : 4,
+            "relative_time_description" : "2 months ago",
+            "text" : "Nice park",
+            "time" : 1599764556
+         },
+         {
+            "author_name" : "Beth Raymer",
+            "author_url" : "https://www.google.com/maps/contrib/111576239910420513852/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh5.googleusercontent.com/-F2NrTsuyfNk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckuSa9uLa4kPzluTuBMhULX5HBt4w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "2 months ago",
+            "text" : "Big, lively park. Music, ice cream, very family-oriented. Water feature in the summer. Clean bathrooms. My 3-year old loves the playground and monkey bars.",
+            "time" : 1600081372
+         },
+         {
+            "author_name" : "Dennis Samuels",
+            "author_url" : "https://www.google.com/maps/contrib/110356951044441936040/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gi2mtm1jTUmB1RAdVElJjpSYrCOBAtCBY0FGSd2OA=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "3 months ago",
+            "text" : "It was awesome and  very family oriented",
+            "time" : 1596049644
+         },
+         {
+            "author_name" : "Noobo The Noob",
+            "author_url" : "https://www.google.com/maps/contrib/114982520716973639993/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gij_YF5GPK-lWIVGdIGT5Ey9lNNeiptvA3mLTXZ0w=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "As always this park it's so pleasant. And big   the bathroom are lit and clean.( this depends entirely on the users,the toilet flushes, there's  a garbage can and water on the sink). The swings are working the people always nice. The best community park in that area.",
+            "time" : 1568117148
+         },
+         {
+            "author_name" : "Tracey Fine",
+            "author_url" : "https://www.google.com/maps/contrib/109938795878460958568/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-zG1Wfv1mDoQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucno6NjDvTO_2sc0eOSXRR9c_K7BYw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "9 months ago",
+            "text" : "Great playground for my 2 and a half year old granddaughter.",
+            "time" : 1582138717
+         }
+      ],
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=15869386021732018584",
+      "user_ratings_total" : 83,
+      "utc_offset" : -300,
+      "vicinity" : "4746 Broadway, New York",
+      "website" : "https://www.nycgovparks.org/parks/fort-tryon-park/highlights/11234"
+   },
+   "status" : "OK"
+}

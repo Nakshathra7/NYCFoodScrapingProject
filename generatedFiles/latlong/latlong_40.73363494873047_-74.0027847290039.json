@@ -1,0 +1,82 @@
+{
+   "plus_code" : {
+      "compound_code" : "PXMW+FV New York, NY, USA",
+      "global_code" : "87G7PXMW+FV"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Christopher St Station",
+               "short_name" : "Christopher St Station",
+               "types" : [
+                  "establishment",
+                  "point_of_interest",
+                  "subway_station",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10014",
+               "short_name" : "10014",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Christopher St Station, New York, NY 10014, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.73357840000001,
+               "lng" : -74.00287279999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.73492738029151,
+                  "lng" : -74.00152381970848
+               },
+               "southwest" : {
+                  "lat" : 40.73222941970851,
+                  "lng" : -74.0042217802915
+               }
+            }
+         },
+         "place_id" : "ChIJK5zGeZRZwokRjEM4Qsnb7tI",
+         "plus_code" : {
+            "compound_code" : "PXMW+CV New York, NY, USA",
+            "global_code" : "87G7PXMW+CV"
+         },
+         "types" : [
+            "establishment",
+            "point_of_interest",
+            "subway_station",
+            "transit_station"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

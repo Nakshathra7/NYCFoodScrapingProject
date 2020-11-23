@@ -1,0 +1,82 @@
+{
+   "plus_code" : {
+      "compound_code" : "R4V7+X2 New York, NY, USA",
+      "global_code" : "87G8R4V7+X2"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2007",
+               "short_name" : "2007",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Mapes Avenue",
+               "short_name" : "Mapes Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West Bronx",
+               "short_name" : "West Bronx",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "The Bronx",
+               "short_name" : "The Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10460",
+               "short_name" : "10460",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1220",
+               "short_name" : "1220",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "2007 Mapes Ave, The Bronx, NY 10460, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8449087,
+               "lng" : -73.88725029999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8462576802915,
+                  "lng" : -73.88590131970849
+               },
+               "southwest" : {
+                  "lat" : 40.8435597197085,
+                  "lng" : -73.8885992802915
+               }
+            }
+         },
+         "place_id" : "ChIJZ8AfJ4r0wokR3_hbFZakY7Q",
+         "plus_code" : {
+            "compound_code" : "R4V7+X3 New York, NY, USA",
+            "global_code" : "87G8R4V7+X3"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

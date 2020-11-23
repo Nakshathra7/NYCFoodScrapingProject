@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>Food Scrap Drop Off Location List</h1>
+    <a href="dashboard">Return to Main Dashboard View</a> 
+    <br/>
+    <br/>
+    <table>
+    	<tr>
+    		<th>NTA Name</th>
+            <th>Borough</th>
+            <th>Food_Scrap_Drop_Off_Site_Name</th>
+            <th>Location</th>
+            <th>Serviced_By</th>
+    	</tr>
+    {% for foodScrapRating in foodScrapRatings %}
+    	<tr>
+            <td>{{ foodScrapRating.ntaname }}</td>
+            <td>{{ foodScrapRating.borough }}</td>
+    		<td>{{ foodScrapRating.food_scrap_drop_off_site_name }}</td>
+            <td>{{ foodScrapRating.location }}</td>
+    		<td>{{ foodScrapRating.serviced_by }}</td>
+    	</tr>  
+    {% endfor %}
+    </table>
+   
+{% endblock %}

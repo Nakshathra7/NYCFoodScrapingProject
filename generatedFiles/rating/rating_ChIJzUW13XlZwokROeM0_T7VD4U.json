@@ -1,0 +1,166 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "115",
+            "short_name" : "115",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Loisaida Avenue",
+            "short_name" : "Loisaida Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10009",
+            "short_name" : "10009",
+            "types" : [ "postal_code" ]
+         },
+         {
+            "long_name" : "5935",
+            "short_name" : "5935",
+            "types" : [ "postal_code_suffix" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e115 Loisaida Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10009-5935\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "115 Loisaida Ave, New York, NY 10009, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.72446050000001,
+            "lng" : -73.9787753
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7257807302915,
+               "lng" : -73.9773576697085
+            },
+            "southwest" : {
+               "lat" : 40.7230827697085,
+               "lng" : -73.9800556302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "Community GARDEN",
+      "photos" : [
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102275318759709177741\"\u003eJosé Antonio\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLop-VrNpecycRb_-m17EWbXB5iALemQ3WSEwAXs1f-4Ayz_kflycGZ2szHdZGZR8auSq5SMdWRpauDJikPljkqHfyz3ykRIINXpGIEEhFkw3bHoWgmbeVeXyML38CnPnR9LRoJnNN92gw8qHlQGnaAOU5rvIwGYbzIPLsRDlPnYrY1",
+            "width" : 4032
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102275318759709177741\"\u003eJosé Antonio\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIPWw_bxChZBLxswjEupnI9x4JsMUsflrJwg2ghuRgh0lhrreTkogCJP1fFLg8xDedBP8YHxlFUFGYo45zbdjL6H2O8da8-QE8JDVD0-eQPn40dTEFeTemSBE619nbfmljPvRqj4KZ5uHFe-qS_2O27lwz5GsdrtNkm7x3EpIDGRcIT",
+            "width" : 3024
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102275318759709177741\"\u003eJosé Antonio\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLvLiWlLjVWiFZTRS5No18ik1ts1hMBQ_cJCWXUsQSjf3UeHo6lXBNdec7iBHAJOq2qDiiy0ijgYYpIc2GhcRWVbDhbnjfvhwe5Dx5SRTpgMP-rmbT3-LQ5EFNbrtgSZ2fN_0GkHyjrVn-92IemA4h9SO-BehrVx-r54Zk3wkMeNADA",
+            "width" : 4032
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102275318759709177741\"\u003eJosé Antonio\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJswTJjmicu-eZrLyiOOStRLkCSWDgUb11bOUoq9ee6AOwwymeGnBUSxRbpfT0VDXf8jGfWm4TWyzxLxAPnQR1idJghzHsp5pClXckVELilBzde4vUBbppc7bRhtVOhseij7HpGaujvco7Pof9APxpTsI3LKZM4iHUeaSzuMq6A7it2",
+            "width" : 3024
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102275318759709177741\"\u003eJosé Antonio\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKAZ7mlhHEBHdfOIVBZA-QcPog2F4ZdYWYVaKjdYuL29GU_NUl9P4oNLz1dkZsng98NaPdaZki_WJmoFvbYlkJzVzs4eO5fPnG_7B0nOHTiKttwTvKYkdrrUskYkkTpTCLsEIQXR0-bX96pxa1f9zszbkb69MV5r-J3CrJx6udFXR2w",
+            "width" : 3024
+         },
+         {
+            "height" : 4608,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102275318759709177741\"\u003eJosé Antonio\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIzF34eKXqFLaUs41YW2bXCXuO9kRienoPJ8sqW684Uzsj7fw7Za4orlktYAkbmGDlgNZkN-hM4wbU5u0ACLl5w7cBRVAAvGX5X5-kYPoIyf454CVdNcyFYgt5da7A-If2DZstdxkEvC-altidPTixFsq2VKhTtsaZJfbIJcK23GuPn",
+            "width" : 3456
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102275318759709177741\"\u003eJosé Antonio\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLO0PsY1Co1wkV27olfUIsK4jLkcJH-B2twiTJU0RdBBbHWsTtR_3wobIg7QlPhNC9U2fRjeFF8tJ5hZ5Fva02wDsBpLNDUVaElK-Mu4IweaNNR0pF-YCg3HETJfDmWTGqiFqTGKEyzZq2sd0jhN-q2TZUK3a_tW3iXLxnLOzdyunGw",
+            "width" : 3024
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102275318759709177741\"\u003eJosé Antonio\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIp7dcY2nDkH45di7Hl8_6po7mjJAwWNPWahNBUyYATxfu7swR7LDAnQWU47EXyWJ5mNA8tPh-RBSRGf86TYx3yXWYvMf6CNrH-8D6GEeAzXdEgQC3pYPitCCDXv7IEutSxRE8RKdgvhi3-SjTdzW5HYiR9tNZapUaYQaksgzRjVLvB",
+            "width" : 3024
+         },
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102275318759709177741\"\u003eJosé Antonio\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIg0Z_z8O0MESozFxTTJWXjX3MW6yrna_xE3Vsd2ghwFq3073JE-ViPZx4ALGx-AkKbjwTIryjNYsyc0MjLPmvZ6obH_L485GyZBeVql0DvO_mUKtILm1BpfVDqujjidEo69m_zN80psHAEHjTpbYk4SqPDgruJIPAcRyVonSwb3fm2",
+            "width" : 4608
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110458403154538002704\"\u003eL Prosser\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwI4LGDGAhnypYz6qyK45LhJQ3yHQqNkPzP8BOgFsvTdW6OikuY29acc7lCNDQDdUaeHkT-ggmg_LaAAMQQ_dM0RPVTqzepfWIl7lZt1wZqPQByWH0VOH8_01t8lxOA3pkrutMu71iAaZxAb2xlF3CAGAdshymaKsRCtKySYQoEdOnZY",
+            "width" : 3024
+         }
+      ],
+      "place_id" : "ChIJzUW13XlZwokROeM0_T7VD4U",
+      "plus_code" : {
+         "compound_code" : "P2FC+QF New York, NY, USA",
+         "global_code" : "87G8P2FC+QF"
+      },
+      "reference" : "ChIJzUW13XlZwokROeM0_T7VD4U",
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=9588116598207865657",
+      "utc_offset" : -300,
+      "vicinity" : "115 Loisaida Avenue, New York"
+   },
+   "status" : "OK"
+}

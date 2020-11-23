@@ -1,0 +1,131 @@
+{
+   "plus_code" : {
+      "compound_code" : "M2HJ+6W New York, NY, USA",
+      "global_code" : "87G8M2HJ+6W"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Prospect Heights Community Farm",
+               "short_name" : "Prospect Heights Community Farm",
+               "types" : [ "establishment", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "252-256",
+               "short_name" : "252-256",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Saint Marks Avenue",
+               "short_name" : "St Marks Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Prospect Heights",
+               "short_name" : "Prospect Heights",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11238",
+               "short_name" : "11238",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Prospect Heights Community Farm, 252-256 St Marks Ave, Brooklyn, NY 11238, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6781101,
+               "lng" : -73.9676214
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6794590802915,
+                  "lng" : -73.9662724197085
+               },
+               "southwest" : {
+                  "lat" : 40.6767611197085,
+                  "lng" : -73.96897038029151
+               }
+            }
+         },
+         "place_id" : "ChIJIRpEhaZbwokRsy4Mr6icMNw",
+         "plus_code" : {
+            "compound_code" : "M2HJ+6X Brooklyn, NY, USA",
+            "global_code" : "87G8M2HJ+6X"
+         },
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Island",
+               "short_name" : "Long Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Island, New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            },
+            "location" : {
+               "lat" : 40.789142,
+               "lng" : -73.13496099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            }
+         },
+         "place_id" : "ChIJy6Xu4VRE6IkRGA2UhmH59x0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

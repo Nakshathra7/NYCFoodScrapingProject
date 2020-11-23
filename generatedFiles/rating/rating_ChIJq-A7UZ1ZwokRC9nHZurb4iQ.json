@@ -1,0 +1,308 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "112",
+            "short_name" : "112",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Avenue A",
+            "short_name" : "Avenue A",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10009",
+            "short_name" : "10009",
+            "types" : [ "postal_code" ]
+         },
+         {
+            "long_name" : "6106",
+            "short_name" : "6106",
+            "types" : [ "postal_code_suffix" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e112 Avenue A\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10009-6106\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "112 Avenue A, New York, NY 10009, USA",
+      "formatted_phone_number" : "(212) 420-9517",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.7259134,
+            "lng" : -73.98346140000001
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7273015802915,
+               "lng" : -73.98215331970849
+            },
+            "southwest" : {
+               "lat" : 40.7246036197085,
+               "lng" : -73.98485128029149
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "international_phone_number" : "+1 212-420-9517",
+      "name" : "Niagara",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1400"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1500"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1500"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1500"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1500"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1400"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1400"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 3:00 – 11:00 PM",
+            "Tuesday: 3:00 – 11:00 PM",
+            "Wednesday: 3:00 – 11:00 PM",
+            "Thursday: 3:00 – 11:00 PM",
+            "Friday: 2:00 – 11:00 PM",
+            "Saturday: 2:00 – 11:00 PM",
+            "Sunday: 2:00 – 11:00 PM"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1960,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103005887758747716005\"\u003eDebo Da Pro\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIOGvQgHRFBBLlSTcw2j9R_dN0yxwIB7OlV6kizpS9RUZi_vPmgqoHuSkIwb4YokwkBlqoOwRfpENHCndEucEK90dP_IBAMq01tD6lIrgItZbQXWASkVhyTxozssUsI0DzZ_kuqQz651eoa7Fgqw07LMoKPmdhomc-ig41H6TqptkqO",
+            "width" : 4032
+         },
+         {
+            "height" : 2988,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102024654335281845693\"\u003eSara Carse\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwK3ZXzNYm4k36YJe9cWMAU717Mo5jC5sZ2mvCmBbxh8sY8_egL1Dn1JQmvjkPhug1a2P5Qm6kLmNtxcCZoJhPdR18rk5tviXnBXEG498S7ozyw2D7RkiIqefQgsI3r3JfJOL0Geajd2XsDDssNtJEMn_D9tVOo3mdQoK9ofUCHZrCFp",
+            "width" : 5312
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117808460219123378764\"\u003eRuwan J.\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJTcax68RqGEhnWe1UVDgHwjl7ITW-OFS8SXMKWA0b0N8st8ktQEbghkHKOPDIdGQs-rbc5jCynyAkPNiy6XQpTAitEmwKSjsgSJXTeosvZc2J6kFFZF7Wq10ijq1_Hj_NkAZy2ZyxtvUArlunLzMZCX_DF8AH9EmjNRAfI7BqKq2yt",
+            "width" : 3024
+         },
+         {
+            "height" : 2268,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117629781732537956601\"\u003eMehmet Rezan Altinkaynak\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJFCyLvHYtpVT-hoHiCd_BWGCFZhFb6v-1MRtIBzpVR1c4G6edpKq2pmVKNIkyfEHPqDMCxQP-OV4qidlQK-Al7T0WfdnUC5uQ8HCX1L1f7imdP-23tQZumxlEfKM5XN8Ukw1aIR6ZJo3Soyan8vFZEEzgo0FUr4BrX5NVGQue9R5G_",
+            "width" : 4032
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104407509577124376292\"\u003eHelen Fong\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKt2DPPlu_LADMelrnYI4fKIoIIFp1VokSWvZeAJHTcOx3NgMP5c2h1as-r43ax4twMs727T7U8r3rGlilMnyFZ6GyvVxL9rdvRon9UEOADDeQCKjvCMAt7NX5r1ACONiWB-4PEOAQ39arbNVJLPItEWPoZNnOxtYw7bEmhxYNSpJBC",
+            "width" : 3024
+         },
+         {
+            "height" : 4608,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112288334322612997283\"\u003eSANKARANARAYANAN MUTHUKRISHNAN\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIs23S1OylNqpJ9YBL28L0862QfYI-WJM-anf9iapfy8797smgwitPynqnH1ur91hawn1TFur6nFAS_R413st28beVFy6MIDUUlACmca6SGxU9DYbHfbBRU9hm7nrImtz3_dbilm8XQjJmXeJdVrYTLNKmWE5vBid9nVhB0kbzGH0SD",
+            "width" : 3456
+         },
+         {
+            "height" : 4608,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112288334322612997283\"\u003eSANKARANARAYANAN MUTHUKRISHNAN\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwL5Ox6HmqJ7ORv1YgdTIGyUL7KE7YvrwzqvvG02vSS6oPAkHsBIWFVd_9hQD_UYJ2PZX1pWXONfevYmbIVsS6hFTZLfqFeB5_H5kDtRGRXSn0QjGSQyj8x59LY9TnxsQ-6b7Gv7WuanG1IDyOhejh16H8dmPQOAASoY-riMSQEMc2Qw",
+            "width" : 3456
+         },
+         {
+            "height" : 2691,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101611958540029729931\"\u003eKasey H\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIBTYN4QdUmO54sEhqPrgvF1zWSUHIjVqYeQ-kVGXgTou7wnFrtNlXsp37Yy7LvSZEIqFfwHKJI-CBukUbE4wEEIhXtZ8htk3zWw4rLbVMyTgvzvj8Y-gkejpTVoqgxeBgpAWMh75K7W81pptGFlzArRiJ4oBXm7k7KO0Dw39bmCiWs",
+            "width" : 3316
+         },
+         {
+            "height" : 4608,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112288334322612997283\"\u003eSANKARANARAYANAN MUTHUKRISHNAN\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwK1k_eJCT1h-jO4GBk2F_ITl72hTmmd8yBXwc79iiP6nVfznjLmduTW5jvAjWjPe74y1azwkETwuRZTnTal7GsYDvd5Bvvg_rgtz0ta4YIYaEwMWxtSSusgOwGdPGUUPeuFxcBeNmquDvBAli5z62z8z5tqgDbn8YA91dULxwUri0Tn",
+            "width" : 3456
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104061246038924954336\"\u003eMichael Foss\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKNk8aJ4c9sUX3iRSgAPsEBI5cAWejP0Er1dhWpjEUtkWb7E4JI1LF0iBO96wpHJOgw9vIzCw1pzBREXrM2iA2FJO5gvaCWZt3EdDuGBnY-cVOBVkLFLGYZeglB-gzb9P2gsbwHZ74qzLn0hzdUWJ5q88S4k82w1GoPtI5nTsbOztOq",
+            "width" : 4032
+         }
+      ],
+      "place_id" : "ChIJq-A7UZ1ZwokRC9nHZurb4iQ",
+      "plus_code" : {
+         "compound_code" : "P2G8+9J New York, NY, USA",
+         "global_code" : "87G8P2G8+9J"
+      },
+      "price_level" : 1,
+      "rating" : 4,
+      "reference" : "ChIJq-A7UZ1ZwokRC9nHZurb4iQ",
+      "reviews" : [
+         {
+            "author_name" : "Rheia Edgar-nemec",
+            "author_url" : "https://www.google.com/maps/contrib/112571490416639662666/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GjTpMFrEjXbt1yWfRiA2XoQGKJXOPlAg12jmTc1MQ=s128-c0x00000000-cc-rp-mo",
+            "rating" : 1,
+            "relative_time_description" : "3 months ago",
+            "text" : "When my friends and I decided not to tip as we ordered takeaway drinks, the server, Levi, turned to the crowd and yelled, “ If you aren’t going to tip, go to the liquor store down the street. Don’t waste my time“. He repeated this quite a few times to the crowd and then began to yell about something else. My friend was shocked by this and said “sorry we did not tip as the drinks are takeaway, but I don’t think you needed to yell to the crowd like that” to which Levi replied “get out of my face”.",
+            "time" : 1597946026
+         },
+         {
+            "author_name" : "Kasey H",
+            "author_url" : "https://www.google.com/maps/contrib/101611958540029729931/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GjX_44RBsfLQ-ppkAFg_rE7Aufse62SQl6sRvyyTeY=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating" : 4,
+            "relative_time_description" : "3 weeks ago",
+            "text" : "I only gave 4 stars because this vibe might not be for everybody. It wouldn’t be my choice for kiddos or grandparents. Girls night, fellas, couples most definitely ok.\n\nIf you like to be on the scene and in the mix this is the spot! Located on prime real estate on Avenue A this is the place to see and be seen.\n\nYou can take your drinks inside, outside or if you’re really feelin secretive head to their speakeasy in the basement. We came for after dinner drinks...but had to order from the menu. Post COVID money maker. No complaints on their fries.\n\nWARNING: the bathrooms are beyond small and and not kept up.",
+            "time" : 1604083522
+         },
+         {
+            "author_name" : "Annie Vu",
+            "author_url" : "https://www.google.com/maps/contrib/104698674356796229806/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GilP3RxtSGMUZ3Z-g4T6dGRDJcq64Jfq6fwd7S9tg=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating" : 3,
+            "relative_time_description" : "a month ago",
+            "text" : "On an active corner of East Village. Tiny food portions. Had a draft beer for $8 (Coney Island Mermaid Pilsner.) Waitresses were friendly and wore masks.",
+            "time" : 1602450575
+         },
+         {
+            "author_name" : "Leanne M",
+            "author_url" : "https://www.google.com/maps/contrib/108114307597706562624/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GgXXgO58D6r-AY3XGWDls8glPEEAxL2AUdnDbwYbBA=s128-c0x00000000-cc-rp-mo-ba7",
+            "rating" : 5,
+            "relative_time_description" : "2 months ago",
+            "text" : "I loved the vibe here! The bartender was awesome and the other patrons were lovely!",
+            "time" : 1600629837
+         },
+         {
+            "author_name" : "Emily Heller",
+            "author_url" : "https://www.google.com/maps/contrib/111787709468229474257/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Ghmt_ANoRVAfiJGdCTGH-tgSXlNIXxoxk3fYVM1kg=s128-c0x00000000-cc-rp-mo",
+            "rating" : 2,
+            "relative_time_description" : "2 weeks ago",
+            "text" : "Usually enjoy Niagara, but unfortunately tonight we were turned away at 24 because the male server couldn’t figure out our out of state IDs. Went to Bull McCabes instead. Probably won’t go back to Niagara.",
+            "time" : 1604803880
+         }
+      ],
+      "types" : [ "bar", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=2657928529895217419",
+      "user_ratings_total" : 329,
+      "utc_offset" : -300,
+      "vicinity" : "112 Avenue A, New York",
+      "website" : "http://niagaranyc.com/"
+   },
+   "status" : "OK"
+}

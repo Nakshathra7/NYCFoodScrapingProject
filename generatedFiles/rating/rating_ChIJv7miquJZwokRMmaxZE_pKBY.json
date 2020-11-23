@@ -1,0 +1,237 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East 93rd Street",
+            "short_name" : "E 93rd St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10128",
+            "short_name" : "10128",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "1st Ave between 92nd St &amp;, \u003cspan class=\"street-address\"\u003eE 93rd St\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10128\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "1st Ave between 92nd St &, E 93rd St, New York, NY 10128, USA",
+      "formatted_phone_number" : "(212) 788-7900",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.7811048,
+            "lng" : -73.9464543
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7825928802915,
+               "lng" : -73.94501271970849
+            },
+            "southwest" : {
+               "lat" : 40.7798949197085,
+               "lng" : -73.94771068029149
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "international_phone_number" : "+1 212-788-7900",
+      "name" : "92nd Street Greenmarket",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: Closed",
+            "Sunday: 9:00 AM – 4:00 PM"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 2304,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103638848031768110548\"\u003e92nd Street Greenmarket\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJcjfzN6xI7pM7c0VlHbxyqj_KyUq-MRr4WTu1cgaGvMmUco3vQ7rV6QIdIbln1PCsov-nFD5CnzI9ievuRyFxSMyrP10T80OxdvfMUoL48MTdqXyIP2ibIt2N2uStnbIQJ9NpjQvhg-qx9HnwSrClnoDvuvFqPGZzIx7ZzpEwCJf0U",
+            "width" : 3072
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112526695689298897856\"\u003eLeah Cummings\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKPE5M93DolQEcSlaMPao-VAY19sU62Tbq9hjzJ9dk_5RZ0AJnqjBk4ll8chJGHpjOp0DYvwdSDuBk162npQNfs3DqjxmGVOFlXBilmX8Uskbe-ggQzScdIp1UKboMiiYs2nwbjBF7edmecd1zs-7KulVftw-6HKxbal1XwIrleK-RZ",
+            "width" : 3024
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112526695689298897856\"\u003eLeah Cummings\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJl1UHSRVijkVTsTMmgp2fxeuUJMwrIsItLpuc6Q2WMtpKIPMFd95teMg9m3Q5Hgv3Ir4tRaQBeROfPQHhVd3auXu_bCma7y8DHsjCZfuPiAZ95RSFz8brKOC9wKwFKGHEEaIXFW_pPTO2q0YdZujenZCjMV6WXLgg2jSwPOj6A1WTw",
+            "width" : 3024
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102506462063137807305\"\u003eMadhurim Gupta\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKf62yVx-RXrBIyKW0_gKB4BQv2Uf20zpdMQ8iP59PJgk2qpNdGkdL5Nl9M_CFyxsH2bODj5RO5K2ZdLsBJFN8J05jcwMCbelxlhINpc9rilLLuodDFDcPRBNtbAR7MyjaRK6sh2db77IPnHa6UV9ToDTuyHunYAhETn7-4y0J9QMPw",
+            "width" : 4032
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112526695689298897856\"\u003eLeah Cummings\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKzdXev9xvuAhOeRMocUHgJQQ2yyaBXkvcrJXN37EMHkzTpesNgVHryYkjHbfp1XcT-LzBjOeCimNj6zK9stNV8l5dKxlhQr-IlwP097W50KrxHa_N-MtunAqMVJcTem_oh2mzwgNcZzBzo1GUs_reye5VFsLUdyyYLetinumx6_PCi",
+            "width" : 3024
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112526695689298897856\"\u003eLeah Cummings\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKgPKNz85oixxElruLfn0asHr-omr1Yw7gmoAMxrtg4b-ljR6ODKElc4B9M5id-8EhHyfasjZQ0HNDNs1Zc0OHWXawhZLGxOojDg_0tzYMiWjYswq6K2jBhVXv3GpWeVKVvksfNwhZPsniQsgoFvtr1b-6euiYLe2DLeoabckeiPG8q",
+            "width" : 3024
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112526695689298897856\"\u003eLeah Cummings\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJP5MjkwSGz_IIE7aZOmi7l4vMxEMim_4PCDXbhUAHUzkAadjG5m_1y3tlExL2yGQTXcAUgEkRBWUzLVATflhr43yLF_FX3OQrJAsrACSRYqP-ox8BWMKLeBbe94whLgujn9MzoPr6vcFHJEMuaamh11K6Zwgc1JASFYuxYXi5fh7Oo",
+            "width" : 3024
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102506462063137807305\"\u003eMadhurim Gupta\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwK7NQwFsKk63RPzygEKD9UavnmaosRqemvmYVfO1LH9g3tEn33a1eZkEORt07XnDIeLeYzyHcyDK6C3tg6vko_vJxn2103IKAM_OG31Z5hjA9OmWUsRcvBVP75jun34oBNsvY5zDa6RPoqDplyHgA-Uiq5czTX28UeaH5S7ybihOnRH",
+            "width" : 4032
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102506462063137807305\"\u003eMadhurim Gupta\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwK-tl1ixj6rabpWsttuqSmJVI_D7c_5tL4qgAPv625s3pYKTdqZfVcgRRvIopZk_TEQdn3SC8VQnnqUUOZfnfGlANgThgRCR3Ds1tiRJejFjMvs3RjUKaRyKOlB11UsVG3cADxjJnJkx3pzTEUhiqhve50i8ITZyYkb1aAl7OWw_46y",
+            "width" : 4032
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112526695689298897856\"\u003eLeah Cummings\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJcybNuebCJKhICZ9O4BKdP6jWxWKUXhWP4A7HxAd_FhFYrWc-qpZVIkrwgaWJPX66b2e0ge6_Bo6J8wGYi0MEB9i5GmzMBqOTumoszU4SNj3jUjGZW6a2hSlBu2Qtby-cw3ohivQDizko0yzEhYI-j6Ljtuy0a-muAUKlf_Nryg5Fj",
+            "width" : 3024
+         }
+      ],
+      "place_id" : "ChIJv7miquJZwokRMmaxZE_pKBY",
+      "plus_code" : {
+         "compound_code" : "Q3J3+CC New York, NY, USA",
+         "global_code" : "87G8Q3J3+CC"
+      },
+      "rating" : 4.4,
+      "reference" : "ChIJv7miquJZwokRMmaxZE_pKBY",
+      "reviews" : [
+         {
+            "author_name" : "Leah Cummings",
+            "author_url" : "https://www.google.com/maps/contrib/112526695689298897856/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GhzUgv2ADzDyphj0A20DpUAXHWyBh8bFzaCyx6RbA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 4,
+            "relative_time_description" : "a week ago",
+            "text" : "Stumbled on this little market on my way to the river!\n\nThere are about 10 or so vendors - most selling fresh vegetables, fruits, and flowers, with a few stands selling cheese and fish as well. It’s very cute and has a good amount of options for its size and given the neighborhood.\n\nNot very crowded when I went. Would recommend to check out if you live in the area and want to support local vendors!",
+            "time" : 1605058474
+         },
+         {
+            "author_name" : "Madhurim Gupta",
+            "author_url" : "https://www.google.com/maps/contrib/102506462063137807305/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GiWJz-847vqDQH4D2N5Qo5qsTnSIRqwdJPZEnHc8g=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating" : 5,
+            "relative_time_description" : "a month ago",
+            "text" : "Few shops but great produce and good selection. It does get busy but people move through fast.\n(Strict about distancing and mask! 🙌🏼🙌🏼🙌🏼)",
+            "time" : 1601765886
+         },
+         {
+            "author_name" : "Kaleria Knox",
+            "author_url" : "https://www.google.com/maps/contrib/117433092434457246757/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GiT-4PPrAbM-uHqcUBOPqqHL7cJHEjkNaxwADlS=s128-c0x00000000-cc-rp-mo",
+            "rating" : 3,
+            "relative_time_description" : "5 months ago",
+            "text" : "I am love this place very convinent location for me-nice product!, today is the first day for first opening for 2020 !  We undestand that difficult time for us during the Covid and we all keep the distance 6 feet away from each other!... But soon I came to this place one of the worker manager woman with glasses start to ataking me seriously I felt like I attacked by her... First she came to me to close anoth -much less than 6 feet... And she is was very nurvesness and she told me don't stay this place you have to move around ... The street byyourself so narrow there I just stop for a second and was more than 6 feet from the sales table and just take a look what they sailing and when I move around but she is continuously following me and scream on me! I ask her to leave me along! She was so desperate to follow me! Obviously it's no way to keep 6 feet away from the sales table when you walking walking throug the walking side!  I not sure why she is ataked me but she seriously sceared me!",
+            "time" : 1592753671
+         },
+         {
+            "author_name" : "Marie Raperto",
+            "author_url" : "https://www.google.com/maps/contrib/115885224499331021939/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GhbzoyMyoX10qCNoMSdf7gZPZi4TBjLI3EjjucF=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 5,
+            "relative_time_description" : "2 months ago",
+            "text" : "Great fruit and vegetables",
+            "time" : 1599867001
+         },
+         {
+            "author_name" : "Marie Whitman",
+            "author_url" : "https://www.google.com/maps/contrib/117051700538143262857/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-lJL65QZW3Kc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmwCKG1RbLKYFXxIWz3Hso7YfXCHw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "4 months ago",
+            "text" : "This is a great market!!",
+            "time" : 1593838415
+         }
+      ],
+      "types" : [ "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=1596782595103876658",
+      "user_ratings_total" : 8,
+      "utc_offset" : -300,
+      "vicinity" : "1st Ave between 92nd St &, East 93rd Street, New York",
+      "website" : "http://www.grownyc.org/"
+   },
+   "status" : "OK"
+}

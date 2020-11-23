@@ -1,0 +1,126 @@
+{
+   "plus_code" : {
+      "compound_code" : "Q32F+RV New York, NY, USA",
+      "global_code" : "87G8Q32F+RV"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "37-18",
+               "short_name" : "37-18",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Northern Boulevard",
+               "short_name" : "Northern Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Long Island City",
+               "short_name" : "LIC",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11101",
+               "short_name" : "11101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "37-18 Northern Blvd, Long Island City, NY 11101, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7519546,
+               "lng" : -73.92532799999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7533035802915,
+                  "lng" : -73.92397901970848
+               },
+               "southwest" : {
+                  "lat" : 40.7506056197085,
+                  "lng" : -73.9266769802915
+               }
+            }
+         },
+         "place_id" : "ChIJ4XEqNC9fwokR4kfi-NqAemU",
+         "plus_code" : {
+            "compound_code" : "Q32F+QV New York, NY, USA",
+            "global_code" : "87G8Q32F+QV"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Island",
+               "short_name" : "Long Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Island, New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            },
+            "location" : {
+               "lat" : 40.789142,
+               "lng" : -73.13496099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            }
+         },
+         "place_id" : "ChIJy6Xu4VRE6IkRGA2UhmH59x0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

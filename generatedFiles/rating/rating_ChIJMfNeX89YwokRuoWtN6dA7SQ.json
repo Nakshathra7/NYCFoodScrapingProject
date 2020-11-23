@@ -1,0 +1,119 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10044",
+            "short_name" : "10044",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Motorgate, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10044\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "Motorgate, New York, NY 10044, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.7639089,
+            "lng" : -73.9477213
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.76525773029149,
+               "lng" : -73.9463720697085
+            },
+            "southwest" : {
+               "lat" : 40.7625597697085,
+               "lng" : -73.94907003029151
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name" : "Citi Bike",
+      "photos" : [
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107186167682632737422\"\u003eDavid Ontopi\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLX4b0JwCC6uiIZREkBH0Qi69G01ueOCaAvFpiPuaEYgbGeuP_ELWcQeL7otLcwB9K56u7blCOk7j8eQocKSyd5vyMELTkKo7u0k1Enh5CBOuKl1Q0sBsn1Twd2pq7mkoIr9HzFKDdnePgZVbVt8sn74NybETB2gQb2kMMN3E-0Tse7",
+            "width" : 4032
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107186167682632737422\"\u003eDavid Ontopi\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLsqmcwJwVyeyqqpdvyuuTM3Dn21DkT5UuIke_FOtiVRejRKbvLgEGUoVaESQXMbotxXl4IsE4iLvU8sh6UhFg3bf5lAf_NmkjRHVB9AeNv_7fIuw1z9BHQd19wZiC9p_eA-o1h7j1lJI_dRPBoBm1_8pEK5OTePlURYKwqmrPpf-I1",
+            "width" : 3024
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107186167682632737422\"\u003eDavid Ontopi\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKLjltkzQY04zCle8o-UVBG6lzN1GNhMCqF-Fxknvx82mRgwZWUK6mtOUbcx-bXxikZKSdt8Q_Uhlfg2MuOW7Z8OqGwzPvOwtO_bx9LITpYV7ifGStcXtro3dk7hhdYI1l-6dqyZVZ8sCmUpS0S5GXphOZkHoKY0LxLazHlufJ2YYAN",
+            "width" : 4032
+         }
+      ],
+      "place_id" : "ChIJMfNeX89YwokRuoWtN6dA7SQ",
+      "plus_code" : {
+         "compound_code" : "Q372+HW New York, NY, USA",
+         "global_code" : "87G8Q372+HW"
+      },
+      "rating" : 4,
+      "reference" : "ChIJMfNeX89YwokRuoWtN6dA7SQ",
+      "reviews" : [
+         {
+            "author_name" : "Ken Chester Jr",
+            "author_url" : "https://www.google.com/maps/contrib/100261532920038207691/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GiXEPjFKBogRHtNZeCALcPIQMhPP8b1Cr59qoT3dlI=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating" : 3,
+            "relative_time_description" : "2 weeks ago",
+            "text" : "Easy access to bikes in a quick & efficient manner. Just wish they wouldn't cap ride time with monthly plans. What's the purpose of having to dock the bike every 45 minutes if I pay by the month?",
+            "time" : 1604444408
+         },
+         {
+            "author_name" : "David Ontopi",
+            "author_url" : "https://www.google.com/maps/contrib/107186167682632737422/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GgnJCov4DVkYB4QMEv_H-QLw25OZStHfPi9iRYYGg=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 5,
+            "relative_time_description" : "3 months ago",
+            "text" : "Citibike docks on Main St by the Motorgate and Foodtown grocery store, in front of the public school",
+            "time" : 1595904017
+         }
+      ],
+      "types" : [ "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=2660854041783666106",
+      "user_ratings_total" : 2,
+      "utc_offset" : -300,
+      "vicinity" : "Motorgate, New York"
+   },
+   "status" : "OK"
+}

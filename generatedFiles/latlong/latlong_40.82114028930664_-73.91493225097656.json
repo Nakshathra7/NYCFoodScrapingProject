@@ -1,0 +1,140 @@
+{
+   "plus_code" : {
+      "compound_code" : "R3CP+F2 New York, NY, USA",
+      "global_code" : "87G8R3CP+F2"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "760",
+               "short_name" : "760",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Melrose Avenue",
+               "short_name" : "Melrose Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Melrose",
+               "short_name" : "Melrose",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "The Bronx",
+               "short_name" : "The Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10451",
+               "short_name" : "10451",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "760 Melrose Ave, The Bronx, NY 10451, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8211547,
+               "lng" : -73.9150556
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8225036802915,
+                  "lng" : -73.91370661970851
+               },
+               "southwest" : {
+                  "lat" : 40.8198057197085,
+                  "lng" : -73.91640458029151
+               }
+            }
+         },
+         "place_id" : "ChIJc2EpTMr1wokR_wadPY6r5es",
+         "plus_code" : {
+            "compound_code" : "R3CM+FX New York, NY, USA",
+            "global_code" : "87G8R3CM+FX"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Melrose Av/E 156 St",
+               "short_name" : "Melrose Av/E 156 St",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Melrose",
+               "short_name" : "Melrose",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "The Bronx",
+               "short_name" : "The Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10451",
+               "short_name" : "10451",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Melrose Av/E 156 St, The Bronx, NY 10451, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8211983,
+               "lng" : -73.9153254
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8225472802915,
+                  "lng" : -73.91397641970849
+               },
+               "southwest" : {
+                  "lat" : 40.8198493197085,
+                  "lng" : -73.91667438029151
+               }
+            }
+         },
+         "place_id" : "ChIJQe--U8r1wokRfAbTbk3Vz5U",
+         "plus_code" : {
+            "compound_code" : "R3CM+FV New York, NY, USA",
+            "global_code" : "87G8R3CM+FV"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      }
+   ],
+   "status" : "OK"
+}

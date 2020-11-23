@@ -1,0 +1,189 @@
+{
+   "plus_code" : {
+      "compound_code" : "Q3CC+XG New York, NY, USA",
+      "global_code" : "87G8Q3CC+XG"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "14-01",
+               "short_name" : "14-01",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Astoria Boulevard",
+               "short_name" : "Astoria Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Astoria",
+               "short_name" : "Astoria",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11102",
+               "short_name" : "11102",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "14-01 Astoria Blvd, Astoria, NY 11102, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7723867,
+               "lng" : -73.9287274
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7737356802915,
+                  "lng" : -73.9273784197085
+               },
+               "southwest" : {
+                  "lat" : 40.7710377197085,
+                  "lng" : -73.93007638029151
+               }
+            }
+         },
+         "place_id" : "ChIJ--bItU5fwokR0ulfExRojzk",
+         "plus_code" : {
+            "compound_code" : "Q3CC+XG New York, NY, USA",
+            "global_code" : "87G8Q3CC+XG"
+         },
+         "types" : [ "establishment", "library", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Astoria Blvd/14 St",
+               "short_name" : "Astoria Blvd/14 St",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Astoria",
+               "short_name" : "Astoria",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11102",
+               "short_name" : "11102",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Astoria Blvd/14 St, Queens, NY 11102, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.77226599999999,
+               "lng" : -73.92881799999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.77361498029149,
+                  "lng" : -73.92746901970848
+               },
+               "southwest" : {
+                  "lat" : 40.77091701970849,
+                  "lng" : -73.93016698029149
+               }
+            }
+         },
+         "place_id" : "ChIJg82stU5fwokRpFePWwuOXGQ",
+         "plus_code" : {
+            "compound_code" : "Q3CC+WF New York, NY, USA",
+            "global_code" : "87G8Q3CC+WF"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Island",
+               "short_name" : "Long Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Island, New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            },
+            "location" : {
+               "lat" : 40.789142,
+               "lng" : -73.13496099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            }
+         },
+         "place_id" : "ChIJy6Xu4VRE6IkRGA2UhmH59x0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

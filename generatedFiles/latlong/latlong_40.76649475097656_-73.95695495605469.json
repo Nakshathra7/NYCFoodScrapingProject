@@ -1,0 +1,140 @@
+{
+   "plus_code" : {
+      "compound_code" : "Q28V+H6 New York, NY, USA",
+      "global_code" : "87G8Q28V+H6"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1300",
+               "short_name" : "1300",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "1st Avenue",
+               "short_name" : "1st Avenue",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10021",
+               "short_name" : "10021",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1300 1st Avenue, New York, NY 10021, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7663983,
+               "lng" : -73.95701219999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7677472802915,
+                  "lng" : -73.95566321970848
+               },
+               "southwest" : {
+                  "lat" : 40.7650493197085,
+                  "lng" : -73.9583611802915
+               }
+            }
+         },
+         "place_id" : "ChIJYfrdhsFYwokRKQMo9sLswC4",
+         "plus_code" : {
+            "compound_code" : "Q28V+H5 New York, NY, USA",
+            "global_code" : "87G8Q28V+H5"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1 Av & E 70 St",
+               "short_name" : "1 Av & E 70 St",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10021",
+               "short_name" : "10021",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1 Av & E 70 St, New York, NY 10021, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.76672000000001,
+               "lng" : -73.956632
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.76806898029151,
+                  "lng" : -73.95528301970849
+               },
+               "southwest" : {
+                  "lat" : 40.76537101970851,
+                  "lng" : -73.9579809802915
+               }
+            }
+         },
+         "place_id" : "ChIJdz-VgsFYwokRwkqqCjf-KZw",
+         "plus_code" : {
+            "compound_code" : "Q28V+M8 New York, NY, USA",
+            "global_code" : "87G8Q28V+M8"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      }
+   ],
+   "status" : "OK"
+}

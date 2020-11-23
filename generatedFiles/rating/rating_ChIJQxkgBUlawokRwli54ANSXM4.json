@@ -1,0 +1,146 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "198",
+            "short_name" : "198",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Montague Street",
+            "short_name" : "Montague St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Downtown Brooklyn",
+            "short_name" : "Downtown Brooklyn",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Brooklyn",
+            "short_name" : "Brooklyn",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kings County",
+            "short_name" : "Kings County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11201",
+            "short_name" : "11201",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e198 Montague St\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBrooklyn\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11201\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "198 Montague St, Brooklyn, NY 11201, USA",
+      "formatted_phone_number" : "(718) 679-9728",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.6937158,
+            "lng" : -73.9903978
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.6950509302915,
+               "lng" : -73.98905611970849
+            },
+            "southwest" : {
+               "lat" : 40.6923529697085,
+               "lng" : -73.9917540802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "international_phone_number" : "+1 718-679-9728",
+      "name" : "Parliament Tutors",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 AM – 6:00 PM",
+            "Tuesday: 9:00 AM – 6:00 PM",
+            "Wednesday: 9:00 AM – 6:00 PM",
+            "Thursday: 9:00 AM – 6:00 PM",
+            "Friday: 9:00 AM – 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJQxkgBUlawokRwli54ANSXM4",
+      "plus_code" : {
+         "compound_code" : "M2V5+FR Brooklyn, NY, USA",
+         "global_code" : "87G8M2V5+FR"
+      },
+      "reference" : "ChIJQxkgBUlawokRwli54ANSXM4",
+      "types" : [ "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=14869850246279157954",
+      "utc_offset" : -300,
+      "vicinity" : "198 Montague Street, Brooklyn",
+      "website" : "http://www.parliamenttutors.com/"
+   },
+   "status" : "OK"
+}

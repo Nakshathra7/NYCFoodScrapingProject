@@ -1,0 +1,199 @@
+{
+   "plus_code" : {
+      "compound_code" : "H6R6+QM New York, NY, USA",
+      "global_code" : "87G8H6R6+QM"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "58-03",
+               "short_name" : "58-03",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rockaway Beach Boulevard",
+               "short_name" : "Rockaway Beach Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Edgemere",
+               "short_name" : "Edgemere",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11692",
+               "short_name" : "11692",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "58-03 Rockaway Beach Blvd, Queens, NY 11692, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.5918629,
+               "lng" : -73.7882809
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.5932118802915,
+                  "lng" : -73.78693191970849
+               },
+               "southwest" : {
+                  "lat" : 40.5905139197085,
+                  "lng" : -73.78962988029151
+               }
+            }
+         },
+         "place_id" : "ChIJ04C6eoxowokRasAAgJITs_E",
+         "plus_code" : {
+            "compound_code" : "H6R6+PM New York, NY, USA",
+            "global_code" : "87G8H6R6+PM"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beach 60 St",
+               "short_name" : "Beach 60 St",
+               "types" : [
+                  "establishment",
+                  "point_of_interest",
+                  "subway_station",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Arverne",
+               "short_name" : "Arverne",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11692",
+               "short_name" : "11692",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Beach 60 St, Queens, NY 11692, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.59244,
+               "lng" : -73.78928300000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.5937889802915,
+                  "lng" : -73.78793401970852
+               },
+               "southwest" : {
+                  "lat" : 40.5910910197085,
+                  "lng" : -73.79063198029152
+               }
+            }
+         },
+         "place_id" : "ChIJN8yZc4xowokRJBklGCaxGZI",
+         "plus_code" : {
+            "compound_code" : "H6R6+X7 New York, NY, USA",
+            "global_code" : "87G8H6R6+X7"
+         },
+         "types" : [
+            "establishment",
+            "point_of_interest",
+            "subway_station",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Island",
+               "short_name" : "Long Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Island, New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            },
+            "location" : {
+               "lat" : 40.789142,
+               "lng" : -73.13496099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            }
+         },
+         "place_id" : "ChIJy6Xu4VRE6IkRGA2UhmH59x0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

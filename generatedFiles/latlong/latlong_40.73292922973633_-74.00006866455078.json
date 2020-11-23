@@ -1,0 +1,92 @@
+{
+   "plus_code" : {
+      "compound_code" : "PXMX+5X New York, NY, USA",
+      "global_code" : "87G7PXMX+5X"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "W 4 St - Wash Sq",
+               "short_name" : "W 4 St - Wash Sq",
+               "types" : [
+                  "establishment",
+                  "point_of_interest",
+                  "subway_station",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "340",
+               "short_name" : "340",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "6th Avenue",
+               "short_name" : "6th Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10011",
+               "short_name" : "10011",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "W 4 St - Wash Sq, 340 6th Ave, New York, NY 10011, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7311137,
+               "lng" : -74.00122329999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7324626802915,
+                  "lng" : -73.9998743197085
+               },
+               "southwest" : {
+                  "lat" : 40.72976471970851,
+                  "lng" : -74.0025722802915
+               }
+            }
+         },
+         "place_id" : "ChIJTbWiV5FZwokRsywIOc28k3Q",
+         "plus_code" : {
+            "compound_code" : "PXJX+CG New York, NY, USA",
+            "global_code" : "87G7PXJX+CG"
+         },
+         "types" : [
+            "establishment",
+            "point_of_interest",
+            "subway_station",
+            "transit_station"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

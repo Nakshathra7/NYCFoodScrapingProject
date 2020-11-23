@@ -1,0 +1,72 @@
+{
+   "plus_code" : {
+      "compound_code" : "V39H+HV New York, NY, USA",
+      "global_code" : "87G8V39H+HV"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cooper Street",
+               "short_name" : "Cooper St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10034",
+               "short_name" : "10034",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Isham St between Seaman Ave. and, Cooper St, New York, NY 10034, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8690347,
+               "lng" : -73.9203232
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8703836802915,
+                  "lng" : -73.91897421970849
+               },
+               "southwest" : {
+                  "lat" : 40.8676857197085,
+                  "lng" : -73.92167218029149
+               }
+            }
+         },
+         "place_id" : "ChIJb-VGzfbzwokR6lzmJk7jVWE",
+         "plus_code" : {
+            "compound_code" : "V39H+JV New York, NY, USA",
+            "global_code" : "87G8V39H+JV"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

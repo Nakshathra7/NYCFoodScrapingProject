@@ -1,0 +1,145 @@
+{
+   "plus_code" : {
+      "compound_code" : "V4C8+9C New York, NY, USA",
+      "global_code" : "87G8V4C8+9C"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bainbridge Avenue Garden",
+               "short_name" : "Bainbridge Avenue Garden",
+               "types" : [ "establishment", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "2980",
+               "short_name" : "2980",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bainbridge Avenue",
+               "short_name" : "Bainbridge Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West Bronx",
+               "short_name" : "West Bronx",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "The Bronx",
+               "short_name" : "The Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10458",
+               "short_name" : "10458",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bainbridge Avenue Garden, 2980 Bainbridge Ave, The Bronx, NY 10458, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.87094,
+               "lng" : -73.88394699999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.87228898029149,
+                  "lng" : -73.88259801970848
+               },
+               "southwest" : {
+                  "lat" : 40.8695910197085,
+                  "lng" : -73.8852959802915
+               }
+            }
+         },
+         "place_id" : "ChIJ0W5QOnfzwokRqbLNsl9bLOI",
+         "plus_code" : {
+            "compound_code" : "V4C8+9C The Bronx, NY, USA",
+            "global_code" : "87G8V4C8+9C"
+         },
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bainbridge Av/E 201 St",
+               "short_name" : "Bainbridge Av/E 201 St",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "West Bronx",
+               "short_name" : "West Bronx",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "The Bronx",
+               "short_name" : "The Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10458",
+               "short_name" : "10458",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bainbridge Av/E 201 St, The Bronx, NY 10458, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.871197,
+               "lng" : -73.884109
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8725459802915,
+                  "lng" : -73.8827600197085
+               },
+               "southwest" : {
+                  "lat" : 40.8698480197085,
+                  "lng" : -73.88545798029151
+               }
+            }
+         },
+         "place_id" : "ChIJOayjJHfzwokRbIYmZFNMSp4",
+         "plus_code" : {
+            "compound_code" : "V4C8+F9 New York, NY, USA",
+            "global_code" : "87G8V4C8+F9"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      }
+   ],
+   "status" : "OK"
+}

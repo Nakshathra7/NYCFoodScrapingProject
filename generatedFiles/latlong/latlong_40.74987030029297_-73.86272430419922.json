@@ -1,0 +1,194 @@
+{
+   "plus_code" : {
+      "compound_code" : "P4XP+WW New York, NY, USA",
+      "global_code" : "87G8P4XP+WW"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Roosevelt Avenue",
+               "short_name" : "Roosevelt Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "North Corona",
+               "short_name" : "North Corona",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11368",
+               "short_name" : "11368",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "103 Roosevelt Ave, Queens, NY 11368, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7498836,
+               "lng" : -73.86270589999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7512325802915,
+                  "lng" : -73.8613569197085
+               },
+               "southwest" : {
+                  "lat" : 40.7485346197085,
+                  "lng" : -73.8640548802915
+               }
+            }
+         },
+         "place_id" : "ChIJ-W6w76dfwokRFbiC916wqsY",
+         "plus_code" : {
+            "compound_code" : "P4XP+XW New York, NY, USA",
+            "global_code" : "87G8P4XP+XW"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "103 St-Corona Plaza",
+               "short_name" : "103 St-Corona Plaza",
+               "types" : [
+                  "establishment",
+                  "point_of_interest",
+                  "subway_station",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11368",
+               "short_name" : "11368",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "103 St-Corona Plaza, Queens, NY 11368, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7498268,
+               "lng" : -73.862746
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7511757802915,
+                  "lng" : -73.86139701970851
+               },
+               "southwest" : {
+                  "lat" : 40.7484778197085,
+                  "lng" : -73.86409498029151
+               }
+            }
+         },
+         "place_id" : "ChIJwSZRrMdfwokRV6lmrhZstc4",
+         "plus_code" : {
+            "compound_code" : "P4XP+WW New York, NY, USA",
+            "global_code" : "87G8P4XP+WW"
+         },
+         "types" : [
+            "establishment",
+            "point_of_interest",
+            "subway_station",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Island",
+               "short_name" : "Long Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Island, New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            },
+            "location" : {
+               "lat" : 40.789142,
+               "lng" : -73.13496099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            }
+         },
+         "place_id" : "ChIJy6Xu4VRE6IkRGA2UhmH59x0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,135 @@
+{
+   "plus_code" : {
+      "compound_code" : "JWRC+JR New York, NY, USA",
+      "global_code" : "87G7JWRC+JR"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hyatt Street",
+               "short_name" : "Hyatt St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mid Island",
+               "short_name" : "Mid Island",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Staten Island",
+               "short_name" : "Staten Island",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Richmond County",
+               "short_name" : "Richmond County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10301",
+               "short_name" : "10301",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "St Marks Pl &, Hyatt St, Staten Island, NY 10301, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6417451,
+               "lng" : -74.07780749999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6430940802915,
+                  "lng" : -74.07645851970848
+               },
+               "southwest" : {
+                  "lat" : 40.6403961197085,
+                  "lng" : -74.0791564802915
+               }
+            }
+         },
+         "place_id" : "ChIJ9RNMOi1OwokRaRGRYoqcho8",
+         "plus_code" : {
+            "compound_code" : "JWRC+MV Staten Island, NY, USA",
+            "global_code" : "87G7JWRC+MV"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "St Marks Pl/Hyatt St",
+               "short_name" : "St Marks Pl/Hyatt St",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Mid Island",
+               "short_name" : "Mid Island",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Staten Island",
+               "short_name" : "Staten Island",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Richmond County",
+               "short_name" : "Richmond County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10301",
+               "short_name" : "10301",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "St Marks Pl/Hyatt St, Staten Island, NY 10301, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.641956,
+               "lng" : -74.078011
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6433049802915,
+                  "lng" : -74.07666201970851
+               },
+               "southwest" : {
+                  "lat" : 40.6406070197085,
+                  "lng" : -74.07935998029151
+               }
+            }
+         },
+         "place_id" : "ChIJsxz1JC1OwokRJPIHKr0a3bw",
+         "plus_code" : {
+            "compound_code" : "JWRC+QQ New York, NY, USA",
+            "global_code" : "87G7JWRC+QQ"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      }
+   ],
+   "status" : "OK"
+}

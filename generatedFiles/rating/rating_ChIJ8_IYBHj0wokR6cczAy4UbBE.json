@@ -1,0 +1,86 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "2431",
+            "short_name" : "2431",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Morris Avenue",
+            "short_name" : "Morris Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Fordham Heights",
+            "short_name" : "Fordham Heights",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "The Bronx",
+            "short_name" : "The Bronx",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bronx County",
+            "short_name" : "Bronx County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10468",
+            "short_name" : "10468",
+            "types" : [ "postal_code" ]
+         },
+         {
+            "long_name" : "6577",
+            "short_name" : "6577",
+            "types" : [ "postal_code_suffix" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e2431 Morris Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eThe Bronx\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10468-6577\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "2431 Morris Ave, The Bronx, NY 10468, USA",
+      "formatted_phone_number" : "(718) 220-4760",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.8614521,
+            "lng" : -73.90022189999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.8627778302915,
+               "lng" : -73.89879196970848
+            },
+            "southwest" : {
+               "lat" : 40.8600798697085,
+               "lng" : -73.9014899302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "international_phone_number" : "+1 718-220-4760",
+      "name" : "Vamos Unidos",
+      "place_id" : "ChIJ8_IYBHj0wokR6cczAy4UbBE",
+      "plus_code" : {
+         "compound_code" : "V36X+HW The Bronx, NY, USA",
+         "global_code" : "87G8V36X+HW"
+      },
+      "reference" : "ChIJ8_IYBHj0wokR6cczAy4UbBE",
+      "types" : [ "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=1255400583984302057",
+      "utc_offset" : -300,
+      "vicinity" : "2431 Morris Avenue, The Bronx"
+   },
+   "status" : "OK"
+}

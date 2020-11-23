@@ -1,0 +1,237 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Grand Concourse",
+            "short_name" : "Grand Concourse",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Concourse",
+            "short_name" : "Concourse",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "The Bronx",
+            "short_name" : "The Bronx",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bronx County",
+            "short_name" : "Bronx County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10452",
+            "short_name" : "10452",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "E 161st St &amp;, \u003cspan class=\"street-address\"\u003eGrand Concourse\u003c/span\u003e, \u003cspan class=\"locality\"\u003eThe Bronx\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10452\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "E 161st St &, Grand Concourse, The Bronx, NY 10452, USA",
+      "formatted_phone_number" : "(212) 788-7900",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.8274022,
+            "lng" : -73.92297979999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.82870398029149,
+               "lng" : -73.92147856970848
+            },
+            "southwest" : {
+               "lat" : 40.8260060197085,
+               "lng" : -73.92417653029149
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "international_phone_number" : "+1 212-788-7900",
+      "name" : "Bronx Borough Hall Greenmarket",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 8:00 AM – 4:00 PM",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1408,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111491247586572706642\"\u003eBronx Borough Hall Greenmarket\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwL9aBRl-a-gbPT3lWs36XEDYnmmRnoeRR0pmB9eqDhsLr1ZvMtoOk7MxDf94j9RCktlkxOXtC89ADQl7bgFZyHIhTXa1EUtStAwVcEYJWdh9jYZMaVWP5nFOIYHloP6yFfjEgU9ogtfy_W9Z17v5qMKBCpEB01fBI8GBMMxP3143DFJ",
+            "width" : 2288
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111258072128771349766\"\u003eNorma Henley\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJAOuxeBWJG5N1pPokjfR2idiL8egdgLGDYW_fiZhsOEe0gPUfsiuRNSO3RJU4lti9lNJCPCBP8Ff_VVlptkwDUqKyt-CI0c735jbGz0R71oKXCFEBcz3vI0nMwGW1H7TvN_bB3YLtSMXB4O4AhVcUyxD4mMH8jzq-VS4EkMwgHWU3t",
+            "width" : 2448
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111258072128771349766\"\u003eNorma Henley\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwK2NMkVzHb18bwZJW9oTAYsETUlXWbqGEZYBLOlcOd0ENy7eo0IkdDCfTNyaXKmo7nOF_HInub0X7iDG9Wi2hex41_1vh1lYZGNxuTUZJoUnPcUI9MPao7mF3JGUoh1N4fHK2jPJAFufKS1rdlJp0fbueEnVwyYszDkSP9K01Nta3x9",
+            "width" : 2448
+         },
+         {
+            "height" : 2545,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111258072128771349766\"\u003eNorma Henley\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKyxgRXlH8MOJjmAuaGJMI57C_PVQEKCPDY_KVm6V0TUeBS1ogEK-mculsxWDTTeuOaC13JLXQ6bLQ6cwF_0e4idwK-gnroa3ir1c_qHvbpjsjIuQfX2hAIrY3yAj13sLquftU1fDJXUcoLhuVAqpyZVPQ32S6GzmysN9IAJiRhHzbv",
+            "width" : 1826
+         },
+         {
+            "height" : 4000,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115123207455288599972\"\u003eJose Lopez\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwK1AbkuXDXWUyVrdJGJlV-pGzqVKckvKRTR1owyihKsrD2BBH0U6Ql3GZWWhtVdpJuaARzTIDz7GJG9VtRfPXO5EVusw3WLp19EqXn329w-uF-cZllAsHQDA5mQ0h5Q8CbvkgdXQXjnvVC0NF7gvkdjHc0zNE6s_lnZyKhFCLQ1Qk42",
+            "width" : 3000
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111258072128771349766\"\u003eNorma Henley\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIrdxB1-pJ34_94sAn2LnsnsysBYFQQMQcbCArTW8FKEAT0RbGQNPEzB6Nn206P1qRp0QmiQ05_182JI5J-t9gzHOPrJiRSaNIShEN5B8BY5T_VeohQblH2SLyR5q0JpQNvBxvRkou4tUnxD7eV9nz7lRVEkzpCnt_1mRr6uElcHGgY",
+            "width" : 2448
+         },
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115123207455288599972\"\u003eJose Lopez\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLPxjO5Qz7sAAk6_koFp_AN8Usr2wV3kKXGE3PrYPyudDoU_zqtvzttRUHHbtmn3uh1d_yiEjfmGBLByePY40a1tFCts0EK5jqzkzKKBmH1-typCLEAPKsAi6HEk2n7WuJGLgCMVhl0I_NE2bOEjRjHT0BbZ8M05BVi8WKcME2QnoK3",
+            "width" : 4608
+         },
+         {
+            "height" : 3000,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115123207455288599972\"\u003eJose Lopez\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJQgk0A0MYreGa_IqT-HXHeJqS-AXZ3TDaU_iJi765hEVQMFMAmSaDNPDNPmxt_5l080xyOckDX-PaT9z4-E-YLySxU4mGYlZUq77xIukcoKPTXM1DsWsJB438-iGASyu9thO-smIe8IUADVPoofZW1acDu_FsdLhEkS9cujWmc7SgJ",
+            "width" : 4000
+         },
+         {
+            "height" : 3000,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115123207455288599972\"\u003eJose Lopez\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJ0r6iOnhjnrzEdcHZz8ohQD2zY6eTw5OCLnBULjg6_YBXO7Dj4o3eQBR1kvYCbbMllqmZFotuTXrsVw26wSK8ZgvyVoZc07XGPNUoklnV7UB0qDUwih6E_mHKQHqlGJKbqy_8SsMJ35Gr4ALMMQtfYTgGcE-9QgfcQsN6cuVhfOHK7",
+            "width" : 4000
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107413123868379739255\"\u003eKeittisha Weekes-Toney\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLGmdSuLP3p_bu5urfastZ8WkQY-ZrVv3feLV8KtaqbpmRYv2nfRne5W8IYjmdcCOhzzcPTUntpZPKzhM_UpyJeKqmcxyy_PmHnUDpjXGnbROgW3QTWOpxyXdJ7nG86PeceAUm7hUGx0r3NRePzAXuFVyWRFFe-oqaJ2D8kwp4TpcN7",
+            "width" : 2448
+         }
+      ],
+      "place_id" : "ChIJ9xmykzL0wokRocE92OkTzLE",
+      "plus_code" : {
+         "compound_code" : "R3GG+XR The Bronx, NY, USA",
+         "global_code" : "87G8R3GG+XR"
+      },
+      "rating" : 4.6,
+      "reference" : "ChIJ9xmykzL0wokRocE92OkTzLE",
+      "reviews" : [
+         {
+            "author_name" : "Tarnisha DePass",
+            "author_url" : "https://www.google.com/maps/contrib/105141183140872858065/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh6.googleusercontent.com/-dxJTYfHNrzg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnoXBLBXPSYhL-YKwU5xeGt4hadng/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "2 months ago",
+            "text" : "Vendors were super cool and attentive. Produce and baked goods were on point.",
+            "time" : 1599587713
+         },
+         {
+            "author_name" : "Michael James",
+            "author_url" : "https://www.google.com/maps/contrib/109996061766497187145/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-GSfi8WL7do8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnTP2R090toiWiceSmT0ofErliS6g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "a week ago",
+            "text" : "My experience is I'm going to try to do my best to keep you informed and I hope y'all keep doing the same for me peace love God bless",
+            "time" : 1605020166
+         },
+         {
+            "author_name" : "Raccinia Olivero",
+            "author_url" : "https://www.google.com/maps/contrib/104762327352305298442/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Ggi0HqEHRKOoSmHP4SMBbbaD28Rz9UiKgGvys_BQg=s128-c0x00000000-cc-rp-mo",
+            "rating" : 1,
+            "relative_time_description" : "2 months ago",
+            "text" : "The fruits and vegetables were over priced. I had farmer market checks and because of the prices you really can't get much. I feel they make the prices higher then they should be because ppl have the checks. Don't think that is right.",
+            "time" : 1599243800
+         },
+         {
+            "author_name" : "Miriam Chevere",
+            "author_url" : "https://www.google.com/maps/contrib/114085722925607785356/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh5.googleusercontent.com/-ftl5fys8zdk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmUXOZUBJNMrn1arBrPEJZ3ZikWug/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating" : 4,
+            "relative_time_description" : "3 months ago",
+            "text" : "Shop with your Eyes not your Hands!\n\nThe Farmer's Market courtesy of upstate farmers ontinues to service the community every Tuesday. Although setup on the sidewalk, social distancing &masks protocols are being implemented. In addition, you are not permitted to physically handle/touch produce to survey/check your preference. Only the farmers handle produce while you endeavor to scrutinize selections by sight, then pay, thereafter are given your shopping bag of goods. As usual, they carry fresh radishes ($1.50 bunch), celery ($2.00), freshly harvested corn with husks (.50 each or 5 for #2.00), peppers ($2.00 lb), kale($3.00 bunch), carrots, beets, zucchini, eggplants, squash, cilantro, homemade granola for $8.00, assorted pound cakes at $7.00, honey, apple cider, assorted apples, peaches, and berries. Within their non elaborate 5 to 6 tents, they carry sufficient items for those who are organically conscious and utilize fresh produce for creating healthy vegetarian meals or juice concoctions. All is paid in cash since this time I did not see debit/credit or EBT systems setup as in previous years. Enjoy a quick Farmer's Market pit stop!😊🌶🍑🌽🍞🥒🥧🍆🥕",
+            "time" : 1597778203
+         },
+         {
+            "author_name" : "John Valentin",
+            "author_url" : "https://www.google.com/maps/contrib/105358621990729160849/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-vYeJJYU1l-g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnMuZ5DLTZZVieEtygzpBLtEuG1YQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "2 weeks ago",
+            "text" : "Love this market. A great selection of fruits, vegetables, pastries.",
+            "time" : 1604427375
+         }
+      ],
+      "types" : [ "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=12811636935038452129",
+      "user_ratings_total" : 53,
+      "utc_offset" : -300,
+      "vicinity" : "E 161st St &, Grand Concourse, The Bronx",
+      "website" : "http://www.grownyc.org/greenmarket/bronx/bronx-borough-hall"
+   },
+   "status" : "OK"
+}

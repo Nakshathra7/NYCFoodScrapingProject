@@ -1,0 +1,77 @@
+{
+   "plus_code" : {
+      "compound_code" : "P2HC+66 New York, NY, USA",
+      "global_code" : "87G8P2HC+66"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "190",
+               "short_name" : "190",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenue B",
+               "short_name" : "Avenue B",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10009",
+               "short_name" : "10009",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "190 Avenue B, New York, NY 10009, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7280242,
+               "lng" : -73.97937189999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7293731802915,
+                  "lng" : -73.97802291970848
+               },
+               "southwest" : {
+                  "lat" : 40.7266752197085,
+                  "lng" : -73.9807208802915
+               }
+            }
+         },
+         "place_id" : "ChIJFezZeHVZwokRd82QnTPGVzI",
+         "plus_code" : {
+            "compound_code" : "P2HC+67 New York, NY, USA",
+            "global_code" : "87G8P2HC+67"
+         },
+         "types" : [ "bar", "establishment", "food", "point_of_interest", "restaurant" ]
+      }
+   ],
+   "status" : "OK"
+}

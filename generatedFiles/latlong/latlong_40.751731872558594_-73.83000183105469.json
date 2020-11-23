@@ -1,0 +1,126 @@
+{
+   "plus_code" : {
+      "compound_code" : "Q529+MX New York, NY, USA",
+      "global_code" : "87G8Q529+MX"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "42-85",
+               "short_name" : "42-85",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Crommelin Street",
+               "short_name" : "Crommelin St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Flushing",
+               "short_name" : "Flushing",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11355",
+               "short_name" : "11355",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "42-85 Crommelin St, Flushing, NY 11355, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7519769,
+               "lng" : -73.82976459999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7533258802915,
+                  "lng" : -73.82841561970849
+               },
+               "southwest" : {
+                  "lat" : 40.7506279197085,
+                  "lng" : -73.8311135802915
+               }
+            }
+         },
+         "place_id" : "ChIJ_79rXG1gwokRdhYFm7t3ln8",
+         "plus_code" : {
+            "compound_code" : "Q52C+Q3 New York, NY, USA",
+            "global_code" : "87G8Q52C+Q3"
+         },
+         "types" : [ "accounting", "establishment", "finance", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Island",
+               "short_name" : "Long Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Island, New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            },
+            "location" : {
+               "lat" : 40.789142,
+               "lng" : -73.13496099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            }
+         },
+         "place_id" : "ChIJy6Xu4VRE6IkRGA2UhmH59x0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

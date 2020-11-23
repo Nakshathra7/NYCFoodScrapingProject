@@ -1,0 +1,150 @@
+{
+   "plus_code" : {
+      "compound_code" : "R4MQ+86 New York, NY, USA",
+      "global_code" : "87G8R4MQ+86"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "8394",
+               "short_name" : "8394",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Westchester Avenue",
+               "short_name" : "Westchester Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "East Bronx",
+               "short_name" : "East Bronx",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "The Bronx",
+               "short_name" : "The Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10472",
+               "short_name" : "10472",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "8394 Westchester Ave, The Bronx, NY 10472, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8332749,
+               "lng" : -73.8618103
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8346238802915,
+                  "lng" : -73.86046131970849
+               },
+               "southwest" : {
+                  "lat" : 40.8319259197085,
+                  "lng" : -73.8631592802915
+               }
+            }
+         },
+         "place_id" : "ChIJ_YMxDsH0wokRR3AgeZm41_g",
+         "plus_code" : {
+            "compound_code" : "R4MQ+87 The Bronx, NY, USA",
+            "global_code" : "87G8R4MQ+87"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Parkchester",
+               "short_name" : "Parkchester",
+               "types" : [
+                  "establishment",
+                  "point_of_interest",
+                  "subway_station",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "East Bronx",
+               "short_name" : "East Bronx",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "The Bronx",
+               "short_name" : "The Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10472",
+               "short_name" : "10472",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Parkchester, The Bronx, NY 10472, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8332116,
+               "lng" : -73.86100879999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.83456058029149,
+                  "lng" : -73.8596598197085
+               },
+               "southwest" : {
+                  "lat" : 40.8318626197085,
+                  "lng" : -73.8623577802915
+               }
+            }
+         },
+         "place_id" : "ChIJB7ngPMH0wokRNkQDxZMas1E",
+         "plus_code" : {
+            "compound_code" : "R4MQ+7H New York, NY, USA",
+            "global_code" : "87G8R4MQ+7H"
+         },
+         "types" : [
+            "establishment",
+            "point_of_interest",
+            "subway_station",
+            "transit_station"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

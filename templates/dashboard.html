@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>Main Menu</h1>
+    {% if msg %}
+   		<div id="msg">
+    		{{ msg}}
+   		 </div>					
+    {% endif %}
+    <br>
+    <br>
+    <a href="ntaPopulation">View Neighborhood Wise Population List</a>
+    <br/>
+    <br/>
+    <a href="getByFoodScrapDropOffLocation">View Food Scrap Dropoff Location</a>
+    <br/>
+    <br/>
+    <a href="foodScrapLocationByRating?rating=5.0">View Food Scrap Site By Rating List</a>
+    <br/>
+    <br/>
+
+{% endblock %}

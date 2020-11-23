@@ -1,0 +1,135 @@
+{
+   "plus_code" : {
+      "compound_code" : "Q296+JH New York, NY, USA",
+      "global_code" : "87G8Q296+JH"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "W 57 St/10 Av",
+               "short_name" : "W 57 St/10 Av",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10019",
+               "short_name" : "10019",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "W 57 St/10 Av, New York, NY 10019, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.769102,
+               "lng" : -73.988541
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.77045098029149,
+                  "lng" : -73.98719201970849
+               },
+               "southwest" : {
+                  "lat" : 40.76775301970849,
+                  "lng" : -73.98988998029151
+               }
+            }
+         },
+         "place_id" : "ChIJj13xY1lYwokRSKYr0q7Qcjo",
+         "plus_code" : {
+            "compound_code" : "Q296+JH New York, NY, USA",
+            "global_code" : "87G8Q296+JH"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "West 57th Street",
+               "short_name" : "W 57th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10019",
+               "short_name" : "10019",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "10th Ave &, W 57th St, New York, NY 10019, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7691522,
+               "lng" : -73.9883368
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7705011802915,
+                  "lng" : -73.98698781970849
+               },
+               "southwest" : {
+                  "lat" : 40.7678032197085,
+                  "lng" : -73.9896857802915
+               }
+            }
+         },
+         "place_id" : "ChIJHVGVKBtZwokRFhM8URBujdI",
+         "plus_code" : {
+            "compound_code" : "Q296+MM New York, NY, USA",
+            "global_code" : "87G8Q296+MM"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

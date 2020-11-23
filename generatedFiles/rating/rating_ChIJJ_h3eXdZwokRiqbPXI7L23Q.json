@@ -1,0 +1,217 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "311",
+            "short_name" : "311",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "East 8th Street",
+            "short_name" : "E 8th St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10009",
+            "short_name" : "10009",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e311 E 8th St\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10009\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "311 E 8th St, New York, NY 10009, USA",
+      "formatted_phone_number" : "(212) 639-9675",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.7254348,
+            "lng" : -73.979766
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7267180302915,
+               "lng" : -73.97846456970849
+            },
+            "southwest" : {
+               "lat" : 40.7240200697085,
+               "lng" : -73.98116253029151
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "international_phone_number" : "+1 212-639-9675",
+      "name" : "De Colores Community Yard & Cultural Center",
+      "photos" : [
+         {
+            "height" : 2268,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111822684239143309470\"\u003eSolo Choi\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIy2W8ryJ2zubZi6jeTAhtSd-wiROdVV5pbsyo_nWuyoCqMyL0yRF9QFoUSKg5LPtCUQrcurldgm0pt1suzwZ6cjAFO834YnAUPMR4L1pfZ6RsQZDfu5lmLs8W_V57NoonQFtcezgMxv-_tdg6QbfFbEUqNnFrksBQHgn_KL28jKAMn",
+            "width" : 4032
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117808460219123378764\"\u003eRuwan J.\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKSUjq3g5x0BozuyDRQTVYqS7vINXwUk3vdRuBn1ScPR_z2oFC4R5Ms_gjcoxMR7ST9-bAcWkYfE01yBI2HSrkTKURqtT3zJmScX1OzUVSx_TIAFlfqMZ0Bc0Lm05wDN6497k-mBiwy8GVvtKcNlUPix4jkJx11vvzJZyzJ3qgrdgqG",
+            "width" : 4032
+         },
+         {
+            "height" : 4160,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116696017552371518830\"\u003eA- OK\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJI8KLIs9ffGlfHGeR5h4FWkqACiOBA42h78RwlV1IiRTV_s9tXSsKE9e84aCowAgBKsHu_is4PbrZmKixOFTHrlS10zYb5IAzSSjt4vLQ4q3G6SPOV5t91FXd2OG5bP_QsVXJ50QPKFs3lExE3BH44xHdgDRs6qe_XSUX_MZlhIccn",
+            "width" : 2080
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117808460219123378764\"\u003eRuwan J.\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKJvEaVOanKrXTeWRFQlkMk0QDuE-LsM-KABUCkgyd4ZE0GdbZn2R9falkjF_DXusYMuZSf6TJNDrEHNhkNJCxQ30Ye4PKTAgXF-WmAcEFZHiVsbm_iCNOOB6DVXv6bZoFMnvoe2X7u90avYO4kHapGlT6UgA7GX84hcAgY5HIqREF-",
+            "width" : 3024
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117808460219123378764\"\u003eRuwan J.\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIj0wLPPmFG9N4sMYZzYpRhjzo214Zzl5R2x62iGcvBGNiqW8MAl6B_cMWbxCVt6YJdIlnDbkeHCVdfI7NQ6IEdfM2vlq4Z5YdV10dy6AZY2kHx0FkvLsxvwAmBo6KVN-2M4aWnD0X0yRNINrIsG7BqwIGEjDmEw7C7I93Nm6M2nJHJ",
+            "width" : 3024
+         },
+         {
+            "height" : 2234,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100297789121333945731\"\u003eMarie-Andrée Ouimet\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKmCoEu82J2tlpI0rrycEt_jZxJCgmzFiEm8N0lYtTqS9-r59PdGzWn5wcyQCgu84T0Cul38xWhI4CC3nrC0Vceet8Q4uhCSlw5VJHv6Ify0rYKAxVK0o1JxLKD5S5OEmh9FRwVWVG89y67qj_6MH0Xy7LQYr-NtrqDHQUVa6bOV9Ac",
+            "width" : 3407
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117808460219123378764\"\u003eRuwan J.\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLJW82XtiYrsI_6zwa23xKgCd7whizKAiWqz6Kh-QRLQ_6lO8MyDrrgD5mX15b-Jdhi1b1m26uDAUxS1JtuS_6ViJtGKhnATGAs_3WI-FR7zgxeqvQ4gfU0m141s39Ycna0cf7mEcSx9cWWyRNkmEMNnDOPlUUBFyaQukTVlfc2R6SM",
+            "width" : 3024
+         },
+         {
+            "height" : 2304,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111254095461883536463\"\u003ezzxppoppit\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIyDlGSDxGZJjgl1ccuPje9Vt3F1yQVjWZhKL-FILNhO0cYj5w2iIq4xTtojAtU5Dus11Yvsqi7BFjAgwrmA_SdLBVSHp-aOCsqX159KeMJjALwma6gPHp3IxstapmsDPAeqyp0B7QzHkG1z3bwCW_dV95ToN7Z5NAdj68MWzj-xuNQ",
+            "width" : 4096
+         },
+         {
+            "height" : 2268,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111822684239143309470\"\u003eSolo Choi\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwICmMdYarwcmlHeQtC4ce5ncIJuN5R0Rpss6q-m6yM6JYp065-XVs1b_85vB_gBfwXys86cfuIYYRzm7Oemf6w4gKH9VY6ieyOZPNbiay8u2LLv6-3D1zOKM2OI3H_RliUe_1zY7LLeuysukZY8sI5nohwWTLQJDA6DlR4M-SfWqaiR",
+            "width" : 4032
+         },
+         {
+            "height" : 1920,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112385368499191158966\"\u003eAnnalisa Rivera\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJij_XXkqpcxWMjZr-9Lu_ZzcrzUGLWub2k11EIor8phfYn3tvFR1VhouzCgVe1bgB5k3MkQkiyRZqZTAXP4F_bQ6EeK7Sgg4Wkp1HG5V7FPKpgt7VTZj-DcFAVvs-tl3kzPkocQwmj8ruEe_fzeq7YqKlEe7aIMYciQ43xomUgf7a8",
+            "width" : 1080
+         }
+      ],
+      "place_id" : "ChIJJ_h3eXdZwokRiqbPXI7L23Q",
+      "plus_code" : {
+         "compound_code" : "P2GC+53 New York, NY, USA",
+         "global_code" : "87G8P2GC+53"
+      },
+      "rating" : 5,
+      "reference" : "ChIJJ_h3eXdZwokRiqbPXI7L23Q",
+      "reviews" : [
+         {
+            "author_name" : "Ameet Kamath",
+            "author_url" : "https://www.google.com/maps/contrib/107359432418815856503/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gjx4BHbbPpr-7UhYu-PGjEVKIpLSJ3qHhAt4G-lTQ=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating" : 5,
+            "relative_time_description" : "a month ago",
+            "text" : "An oasis in the east village",
+            "time" : 1601471341
+         },
+         {
+            "author_name" : "Gianni Simplicio",
+            "author_url" : "https://www.google.com/maps/contrib/106072608213482397592/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GjFNT_EHG9XKg3jmEUF9CHCxIUJreo_20tz_kvgtw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 5,
+            "relative_time_description" : "4 years ago",
+            "text" : "Amazing garden. Ask for Charles.",
+            "time" : 1464889418
+         },
+         {
+            "author_name" : "alexander hatzidakis",
+            "author_url" : "https://www.google.com/maps/contrib/103455016459710256799/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GjJPBWAc46HLMZ6snuPmSRmjfYC0QnJg99kEXWl_DQ=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "3 years ago",
+            "text" : "Easy to find and pretty",
+            "time" : 1490748556
+         },
+         {
+            "author_name" : "A- OK",
+            "author_url" : "https://www.google.com/maps/contrib/116696017552371518830/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-z7-dSmpj04E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckjCFRA0vFHo_DDmjcQdJZ0Vg-VfA/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "2 weeks ago",
+            "text" : "Wow...",
+            "time" : 1604405779
+         },
+         {
+            "author_name" : "Volodymyr Gayovyy",
+            "author_url" : "https://www.google.com/maps/contrib/110281558180158782476/reviews",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GhtAZcjJJv2lpuXa0fR-nf1oyiH2nEz1AHDrm-9qg=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating" : 5,
+            "relative_time_description" : "a month ago",
+            "text" : "",
+            "time" : 1601597927
+         }
+      ],
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=8420547740602181258",
+      "user_ratings_total" : 8,
+      "utc_offset" : -300,
+      "vicinity" : "311 East 8th Street, New York",
+      "website" : "https://www.nycgovparks.org/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,199 @@
+{
+   "plus_code" : {
+      "compound_code" : "Q36F+JQ New York, NY, USA",
+      "global_code" : "87G8Q36F+JQ"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "32-5",
+               "short_name" : "32-5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "31st Street",
+               "short_name" : "31st St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Astoria",
+               "short_name" : "Astoria",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11106",
+               "short_name" : "11106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "32-5 31st St, Astoria, NY 11106, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7615944,
+               "lng" : -73.9254433
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7629433802915,
+                  "lng" : -73.92409431970849
+               },
+               "southwest" : {
+                  "lat" : 40.7602454197085,
+                  "lng" : -73.92679228029151
+               }
+            }
+         },
+         "place_id" : "ChIJvR3uDkdfwokR9a-8botadCg",
+         "plus_code" : {
+            "compound_code" : "Q36F+JR New York, NY, USA",
+            "global_code" : "87G8Q36F+JR"
+         },
+         "types" : [ "establishment", "point_of_interest", "real_estate_agency" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Broadway",
+               "short_name" : "Broadway",
+               "types" : [
+                  "establishment",
+                  "point_of_interest",
+                  "subway_station",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Astoria",
+               "short_name" : "Astoria",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11106",
+               "short_name" : "11106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Broadway, Queens, NY 11106, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7619643,
+               "lng" : -73.9255316
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.76331328029149,
+                  "lng" : -73.92418261970849
+               },
+               "southwest" : {
+                  "lat" : 40.7606153197085,
+                  "lng" : -73.9268805802915
+               }
+            }
+         },
+         "place_id" : "ChIJx8IfSzdfwokR0Ex76RLhSwU",
+         "plus_code" : {
+            "compound_code" : "Q36F+QQ New York, NY, USA",
+            "global_code" : "87G8Q36F+QQ"
+         },
+         "types" : [
+            "establishment",
+            "point_of_interest",
+            "subway_station",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Island",
+               "short_name" : "Long Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Island, New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            },
+            "location" : {
+               "lat" : 40.789142,
+               "lng" : -73.13496099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            }
+         },
+         "place_id" : "ChIJy6Xu4VRE6IkRGA2UhmH59x0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

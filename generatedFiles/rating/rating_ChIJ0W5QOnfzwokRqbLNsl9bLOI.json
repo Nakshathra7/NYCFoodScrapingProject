@@ -1,0 +1,208 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "2980",
+            "short_name" : "2980",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Bainbridge Avenue",
+            "short_name" : "Bainbridge Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "West Bronx",
+            "short_name" : "West Bronx",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "The Bronx",
+            "short_name" : "The Bronx",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bronx County",
+            "short_name" : "Bronx County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10458",
+            "short_name" : "10458",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e2980 Bainbridge Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eThe Bronx\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10458\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "2980 Bainbridge Ave, The Bronx, NY 10458, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.87094,
+            "lng" : -73.88394699999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.8722161802915,
+               "lng" : -73.88251786970849
+            },
+            "southwest" : {
+               "lat" : 40.8695182197085,
+               "lng" : -73.8852158302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "Bainbridge Avenue Garden",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1530"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1530"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 9:30 AM – 12:00 PM, 3:30 – 5:00 PM",
+            "Sunday: 9:30 AM – 12:00 PM, 3:30 – 5:00 PM"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 5312,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115368141768761717300\"\u003eRockey Neff\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwI_MyraswAOQqPRV6B77MiBrFuOXkdInI5tcKI39akeMTbibVn8DnLhZ4M05mxuH5rAMo0dwmq0ann5V42Rn1iWD5KkszOgXv8W-gOXumyEctHHIxSgkzZGOGDSkc4DXSG7JV0_pJTs97_cRayBntBXBkBo1XR5-rFk4FCA3yZhwOmv",
+            "width" : 2988
+         },
+         {
+            "height" : 5312,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115368141768761717300\"\u003eRockey Neff\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLGtpk_h4Fb3JaNWmobN5MlxL-J24G6VuPdRyuRrn08usjV7TGd4XiuAnPLDlH0S5GTOM0T9s5VAwL2Y3Q0EOpLR1mdAQS4b3IOw-SHcBO8exMsj0gGMd4mf_sSZGhKRzOMw1DNe-aE9lwxhHl5GRvx2Pb_zNbwd-z3oewG1aidOJqY",
+            "width" : 2988
+         },
+         {
+            "height" : 2988,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115368141768761717300\"\u003eRockey Neff\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKLJy7zAY2lxCGlXhS1Cm2HvweCOPUufolWwCIXh73_IHM2MjKdcCYmuxYdUlD6PT_Q7v6GLIlcewJoymPO-E8ctUUTmQcMW-lDbOtO8mCPT20PYqauCrblA0b_zicIyMj0iDyvixA5Y428FilujDoYzAyUYO7uWgkn9NQmNtb90v-o",
+            "width" : 5312
+         },
+         {
+            "height" : 5312,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115368141768761717300\"\u003eRockey Neff\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLrtng7Z_V4gswB2fo9wQZ4UbhqScV0hsV4GfcfOy0NbEWPD9T1k59dNTi7nySPx4wGmcrVJziQbYtrH2cOVaVDon8pKTKpICTGaO6QgVUxB3poID412fneicsyTMMFxuhqdepnru0RV3ywiosE8mhZGnnuNoWtj_JqdncQJfnjcQ3g",
+            "width" : 2988
+         }
+      ],
+      "place_id" : "ChIJ0W5QOnfzwokRqbLNsl9bLOI",
+      "plus_code" : {
+         "compound_code" : "V4C8+9C The Bronx, NY, USA",
+         "global_code" : "87G8V4C8+9C"
+      },
+      "rating" : 5,
+      "reference" : "ChIJ0W5QOnfzwokRqbLNsl9bLOI",
+      "reviews" : [
+         {
+            "author_name" : "Rockey Neff",
+            "author_url" : "https://www.google.com/maps/contrib/115368141768761717300/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gg1SyMVcilWipGClISzMJaVBXWvwdKS8MKEMCaFCDE=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating" : 5,
+            "relative_time_description" : "2 years ago",
+            "text" : "Nice Community Garden.  Special Events and Workshops.",
+            "time" : 1527177501
+         },
+         {
+            "author_name" : "Arishkegal 2020",
+            "author_url" : "https://www.google.com/maps/contrib/108785332874379241101/reviews",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gj5mxdilnCBobfTuND42kzTy7RpNvQXFQ4cKVVJ9g=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "",
+            "time" : 1543323916
+         },
+         {
+            "author_name" : "Ma Inaru Guarinara",
+            "author_url" : "https://www.google.com/maps/contrib/103691014662354744790/reviews",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GhAL8Ckcr-2BhXi3VF_nWiEW9evdkoafmNSOS4kPZU=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "",
+            "time" : 1562455662
+         },
+         {
+            "author_name" : "luz morte",
+            "author_url" : "https://www.google.com/maps/contrib/111809049560067166170/reviews",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Giaegc3RU_RtJIB-Q8ZaTuXO11LBiP2G_Fx6sBY8A=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "",
+            "time" : 1565567332
+         }
+      ],
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=16297501618126828201",
+      "user_ratings_total" : 4,
+      "utc_offset" : -300,
+      "vicinity" : "2980 Bainbridge Avenue, The Bronx"
+   },
+   "status" : "OK"
+}

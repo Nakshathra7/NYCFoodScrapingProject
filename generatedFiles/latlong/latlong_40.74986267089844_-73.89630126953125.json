@@ -1,0 +1,200 @@
+{
+   "plus_code" : {
+      "compound_code" : "P4X3+WF New York, NY, USA",
+      "global_code" : "87G8P4X3+WF"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "35-69",
+               "short_name" : "35-69",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "69th Street",
+               "short_name" : "69th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jackson Heights",
+               "short_name" : "Jackson Heights",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11372",
+               "short_name" : "11372",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "35-69 69th St, Queens, NY 11372, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7498213,
+               "lng" : -73.8964328
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7511702802915,
+                  "lng" : -73.8950838197085
+               },
+               "southwest" : {
+                  "lat" : 40.7484723197085,
+                  "lng" : -73.89778178029151
+               }
+            }
+         },
+         "place_id" : "ChIJ8d2bSQRfwokRt1y1cK1lF0c",
+         "plus_code" : {
+            "compound_code" : "P4X3+WC New York, NY, USA",
+            "global_code" : "87G8P4X3+WC"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "35-20",
+               "short_name" : "35-20",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Leverich Street",
+               "short_name" : "Leverich St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jackson Heights",
+               "short_name" : "Jackson Heights",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11372",
+               "short_name" : "11372",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "35-20 Leverich St, Jackson Heights, NY 11372, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7505018,
+                  "lng" : -73.8951682
+               },
+               "southwest" : {
+                  "lat" : 40.7495802,
+                  "lng" : -73.8962597
+               }
+            },
+            "location" : {
+               "lat" : 40.7500272,
+               "lng" : -73.8956895
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.75138998029149,
+                  "lng" : -73.8943649697085
+               },
+               "southwest" : {
+                  "lat" : 40.74869201970849,
+                  "lng" : -73.89706293029151
+               }
+            }
+         },
+         "place_id" : "ChIJsyfzLARfwokRWNVIPtQWTKk",
+         "types" : [ "establishment", "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Island",
+               "short_name" : "Long Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Island, New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            },
+            "location" : {
+               "lat" : 40.789142,
+               "lng" : -73.13496099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            }
+         },
+         "place_id" : "ChIJy6Xu4VRE6IkRGA2UhmH59x0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,126 @@
+{
+   "plus_code" : {
+      "compound_code" : "P4HQ+R4 New York, NY, USA",
+      "global_code" : "87G8P4HQ+R4"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Queens Bl/63 Dr",
+               "short_name" : "Queens Bl/63 Dr",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Queens Boulevard",
+               "short_name" : "Queens Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rego Park",
+               "short_name" : "Rego Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11374",
+               "short_name" : "11374",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Queens Bl/63 Dr, Queens Blvd, Rego Park, NY 11374, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.72973169999999,
+               "lng" : -73.8620243
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.73108068029149,
+                  "lng" : -73.86067531970851
+               },
+               "southwest" : {
+                  "lat" : 40.7283827197085,
+                  "lng" : -73.86337328029151
+               }
+            }
+         },
+         "place_id" : "ChIJe6o-DzdewokRageB1-UrK_Q",
+         "plus_code" : {
+            "compound_code" : "P4HQ+V5 New York, NY, USA",
+            "global_code" : "87G8P4HQ+V5"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Island",
+               "short_name" : "Long Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Island, New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            },
+            "location" : {
+               "lat" : 40.789142,
+               "lng" : -73.13496099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            }
+         },
+         "place_id" : "ChIJy6Xu4VRE6IkRGA2UhmH59x0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

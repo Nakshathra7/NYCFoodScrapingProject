@@ -1,0 +1,82 @@
+{
+   "plus_code" : {
+      "compound_code" : "R2FX+PX New York, NY, USA",
+      "global_code" : "87G8R2FX+PX"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "512",
+               "short_name" : "512",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West 143rd Street",
+               "short_name" : "W 143rd St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10031",
+               "short_name" : "10031",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "6501",
+               "short_name" : "6501",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "512 W 143rd St, New York, NY 10031, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8242959,
+               "lng" : -73.950003
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8256448802915,
+                  "lng" : -73.94865401970848
+               },
+               "southwest" : {
+                  "lat" : 40.8229469197085,
+                  "lng" : -73.95135198029149
+               }
+            }
+         },
+         "place_id" : "ChIJNxsng2T2wokRC9MfRwsOg1w",
+         "plus_code" : {
+            "compound_code" : "R2FX+PX New York, NY, USA",
+            "global_code" : "87G8R2FX+PX"
+         },
+         "types" : [ "establishment", "food", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,207 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "236",
+            "short_name" : "236",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "East 2nd Street",
+            "short_name" : "E 2nd St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10009",
+            "short_name" : "10009",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e236 E 2nd St\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10009\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "236 E 2nd St, New York, NY 10009, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.72162709999999,
+            "lng" : -73.9819969
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7228956302915,
+               "lng" : -73.98070686970848
+            },
+            "southwest" : {
+               "lat" : 40.7201976697085,
+               "lng" : -73.98340483029151
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "Peach Tree Garden",
+      "photos" : [
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117808460219123378764\"\u003eRuwan J.\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKybt9-fi07OxNh9OaGil_Ua72zzImde1FBuqpTg_HG5v5INMDMtLzzc6gMdb9wfjDe7uRABhC9JfX4g0CIzcmjiQrj-ZeuikQc7XvPtZ2TRCCuhVCrF_XzgjYRJDptMzFiaN1M_xqFB_eOkWw_z7JsNTnnb_iTKthLNzv0EBr6ee19",
+            "width" : 3024
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101929106446860654128\"\u003eRick G.\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJT9SoAkwRfB1lSuzuH5scYfY6sDmCxLJ9tevVRuufj9SE78jOPf4T5VenHT1vgaG4HLC2seHv9v5VQ0JU9O4gH_lQSj9NgxzLyWC5SAqFUVZyDytGsCLtRdWEw6cMGYa_quwjug7cwibgIEmM7CdUpEuc7dHJUNb-mCvCbWwT5c2Qh",
+            "width" : 3024
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117808460219123378764\"\u003eRuwan J.\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJVwDSVVsVqsYYl_3nUDAhC2ce6Jlnte9_QtqWunfpR10ZvbTm8UyKddrTsGGS8QDDtP3Nl921bjIcgRneByxf6XmYOJ8aQKOqtYZDwimg-Owz1pFrJlqQDP6yt447tIqSA2gaaDjuugZFYq_lWDbiA1ph3MWBESZhEKJMN8TlQRmzR",
+            "width" : 4032
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101929106446860654128\"\u003eRick G.\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIwPNjYd4hW6lTobIvomIlrKdQwKxME-jwe9jzJeT_oIxJATr9ofGtat90ZqtB2kg3L2zmuD_AZ800WTTcx7O-Sr8J8wFp9blohvPZE4CMa5kazVO92DpVjmg3nYgg0af6RWNgX9C1ntmJuhFeZWhk2FavXvOJZKoU7LopcEbLyVIk6",
+            "width" : 3024
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101929106446860654128\"\u003eRick G.\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJKU-lzBe4ToO4GreoEpEi1wgpGgJlbQMOYUMav1ZVHlDQhb_u9Da7iGpcReswSRl4BzDtLFAgUUEBugT-hD0g6UCxyhzr3aJOZhCMNxh-evGpmMAnRAuNBOBhhiGrfPRjU5DzXqWgJy2nV0Uehwo0FCiY19lv5iSBAmtoIWAm6GZR0",
+            "width" : 3024
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117808460219123378764\"\u003eRuwan J.\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJ2iFrU7KzoDPHNCGeLCYFuc9Ca_e5x7cdf5IOtI8t8h9yBeqX2E8LZ7Lsatt0UBNovAnzKrKG83An8_4U5XiaEzoE6qe7JIMLOx0faxdOwEdI3roZsonulCNQTMQIqeco9cRd_VuPLV-eXY67ow_FNXNsHEunAG_EXSUqxf8TOho8-",
+            "width" : 3024
+         },
+         {
+            "height" : 3096,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114653400743594870239\"\u003eMagnolia Li\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLfw5ooot1fB4UNNlgDZCrW77VRyRTOFwTD7cfYE0Nk9iySKirpme8yUyDBwiX8MkuGEoU3KvGgl14tmjQOQD4Pht1_P6a07frAJOvMTdAJF1cuhslrL-_Q3pRp9bVBImk8iKK9cVh7P4UItxO6AB8-gVC8JBQapBhFl6e6eGx25ALG",
+            "width" : 4128
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101929106446860654128\"\u003eRick G.\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIrNn9Pssk0k0Bzu0ef_LfjFBfIEaIgd7_STrGoEci-FIzwHoxqnXtqRlKvsCDg1awA__ADiZVU8Z-DQVAVN0ljzoPCDxSVWAh0FHxV9xq7UhIP3Ud6Fz9o6dwa0FlYe-jn9hY7hOEKFESesdBVuGtUa24Ps8dC5uX8qL0dZfDW-NuX",
+            "width" : 3024
+         },
+         {
+            "height" : 1269,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117808460219123378764\"\u003eRuwan J.\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJm7R3RmaA6t2eraixFRAJ4KuFNU7ay1bgr-x02lu8zfDayhSGoYSovas3yzKMA-hVbsLdQv031vXQy8nNqsqyhvw9bkcrLouD7EzK9ZzJ1UeuDYtCUFNxo-FwYHuJE4JfAPqK2CQwVW36lyLma2Xga7phX_prW5RvHXfWhrPEdhP2n",
+            "width" : 2099
+         }
+      ],
+      "place_id" : "ChIJMzcflnhZwokRrmeykmzrmAU",
+      "plus_code" : {
+         "compound_code" : "P2C9+M6 New York, NY, USA",
+         "global_code" : "87G8P2C9+M6"
+      },
+      "rating" : 4.5,
+      "reference" : "ChIJMzcflnhZwokRrmeykmzrmAU",
+      "reviews" : [
+         {
+            "author_name" : "Evelyn Gonzalez",
+            "author_url" : "https://www.google.com/maps/contrib/110810490136442343572/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GicVvR-UBRK0xdfT9n0Ko1ZAqheHXk508Ad_pnS_g=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating" : 4,
+            "relative_time_description" : "10 months ago",
+            "text" : "Excellent place to teach kids all about gardening.",
+            "time" : 1579182425
+         },
+         {
+            "author_name" : "Juan Rodriguez",
+            "author_url" : "https://www.google.com/maps/contrib/105120724017030605107/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Ghh4QOPd5B9n6dN6smR9N1uyxbZhM44TV2VnQ0L=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 5,
+            "relative_time_description" : "3 years ago",
+            "text" : "Nice place to relax",
+            "time" : 1509985491
+         },
+         {
+            "author_name" : "Ms. Anonymous",
+            "author_url" : "https://www.google.com/maps/contrib/107636880560335414667/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GgDE9JoI_MlPzy1z0iZqcHSW8-_uXURPm6jREARLw=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating" : 5,
+            "relative_time_description" : "3 years ago",
+            "text" : "Nice n cozy",
+            "time" : 1506436597
+         },
+         {
+            "author_name" : "N Rosario",
+            "author_url" : "https://www.google.com/maps/contrib/100320248426739724365/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GjfgnPBOh5aEz5BnXTi4jlq_8nxD72zf6R-dTE2=s128-c0x00000000-cc-rp-mo",
+            "rating" : 2,
+            "relative_time_description" : "a year ago",
+            "text" : "Overpriced",
+            "time" : 1565451448
+         },
+         {
+            "author_name" : "Magnolia Li",
+            "author_url" : "https://www.google.com/maps/contrib/114653400743594870239/reviews",
+            "language" : "en-US",
+            "profile_photo_url" : "https://lh6.googleusercontent.com/-raUSJeXdlBg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckSOj3biMAh9XP_5265j7EIHrrVUA/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "A dream place",
+            "time" : 1564436410
+         }
+      ],
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=403331018199820206",
+      "user_ratings_total" : 17,
+      "utc_offset" : -300,
+      "vicinity" : "236 East 2nd Street, New York"
+   },
+   "status" : "OK"
+}

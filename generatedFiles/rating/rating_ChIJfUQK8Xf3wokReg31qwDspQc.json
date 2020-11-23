@@ -1,0 +1,310 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "741",
+            "short_name" : "741",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Columbus Avenue",
+            "short_name" : "Columbus Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10025",
+            "short_name" : "10025",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e741 Columbus Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10025\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "741 Columbus Ave, New York, NY 10025, USA",
+      "formatted_phone_number" : "(212) 316-0436",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.79326449999999,
+            "lng" : -73.966881
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7946732802915,
+               "lng" : -73.96567421970849
+            },
+            "southwest" : {
+               "lat" : 40.7919753197085,
+               "lng" : -73.9683721802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "international_phone_number" : "+1 212-316-0436",
+      "name" : "Rite Aid",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0700"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 7:00 AM – 11:00 PM",
+            "Tuesday: 7:00 AM – 11:00 PM",
+            "Wednesday: 7:00 AM – 11:00 PM",
+            "Thursday: 7:00 AM – 11:00 PM",
+            "Friday: 7:00 AM – 11:00 PM",
+            "Saturday: 7:00 AM – 11:00 PM",
+            "Sunday: 8:00 AM – 10:00 PM"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 2268,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107552759642521144775\"\u003eErin Knight\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJ94SZGw9Sq2Df22O-YapN9GLxJlxYc0_NRqIEE-2f5N-oILFV2_yBOuOzhXhj6ZhSXpjozV25DMz7EB1_eF9Th4CyuPwk_yCsuZ6Be10uztE6t1bJo9UmsA5aFMtiP8OXUToAomA5TaQEhL0aqQArqHjTzQ6nI1lYpok5xZtSsyxwf",
+            "width" : 4032
+         },
+         {
+            "height" : 270,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104180952163932982128\"\u003eRite Aid\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKJE6NyGvqx0RgUPkHMZLRlHzyYhITxiDHa2Tw1KaqCHI_novJkHYsbsSoU6W8KcXEJ27zsflO3PLi3hR65I4JjDP2vrHZsOtN5nt0XmxdZ6__mRybzKngVDMN-eKK8acHhF7JirF2EJp73KdY_CU7Bk-jCNJ49CkqoEkGBNK43ATDR",
+            "width" : 480
+         },
+         {
+            "height" : 250,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104180952163932982128\"\u003eRite Aid\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJsinaoNQ9Pkbgg1PLLGisAh5fa0xmAPxDM8n96_RRQglogIy_frB55p0V-l63HhrooDZixHxbYKbx6E4CtKhgmUvRO4CDvXLDz_SCT-YNlh630rOoExsG2joRH9bcb8PgkPeLOa-D1k2N2UL_aaNtTCxsvPksApsr1-LAg9JswVCYh",
+            "width" : 251
+         },
+         {
+            "height" : 2988,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107331535121516232959\"\u003eJeremy Gordon\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLwY8L6C_Vdlw5xlmVkoBejLITwLU81WjlfCT38-Xx26Da9-pSCNSFXC92GjigCsP2KVPZPWdZX3A765_nrlD0dV_ccJVZq8ZbbnYO6tUKcJsUcJwaaC3CVTAw98qu_sJQgEGRpk7yg59lxyQf4-Wy_J3LKP6zO0nh-G8CuW2SUIFzD",
+            "width" : 5312
+         },
+         {
+            "height" : 250,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104180952163932982128\"\u003eRite Aid\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwITVotmuR2visH_Jg3WTgUm9V0o3Md74AI_IVS11LMlffuJnsy3MSTviEjQrNSW3_yLfEfCzE5c3qqe3YOWZJOl5WypEslM1VCZSH56KNiDF5v1Cax5AUAtaUu31uPPu_RENbuJ4FIyZTPF_aK_lIyB_yb8ZmjmYcUcQGlKTbZcpa9q",
+            "width" : 251
+         },
+         {
+            "height" : 3036,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107068838566965446335\"\u003eMoe Friedman\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJQkXxdIbtivqESIHZvKhEv00TYuy2r8bUyzyUXpO1yw8Yo8uZZIGpdO8Swxer9H7jCJBgM7EMK5dJ6G_GsiyWepy9zaEAkdTj_L7ek732HbneY-cN8dGnTBtt8zWRtnowvXAGvXanJarmTSdTBPWgyJPtwIcyolY1Xul_W_k4pt16A",
+            "width" : 4048
+         },
+         {
+            "height" : 1366,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112817364767515018862\"\u003eKeith Yearwood\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwK93pFwfoi96j1gcutTqaZj8tOaEDgaqetegsmNYNHQCkW7p7LPnG21ipxT3hEnmioMdiaVPSl175NSml7bgQaLvZuWIuQgJt5gazhFAJoisCzq3bga1vBgB1o6TPGY25idj7aWx3TLXO2m_EKb8dxn3ebJJCME_UYGaR0DzOtZAlaS",
+            "width" : 2048
+         },
+         {
+            "height" : 2988,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108081002342523964867\"\u003eGerard Rose\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwI-bxzkTo-N8l9SEIbhPELcywAnnb2C7JBdYLv4d6gabgAAEO4cDnE41-L1_JBwIuge1F9JMCvrr4gCG93x1IgBCuyCb_lo7EOZIt18ITUZkCjUvWrnIhrcwytprAG6cGc7MRxdj-hZpwMonZbOawrYzx8LddQkp1N6b_vywnFKmes4",
+            "width" : 5312
+         },
+         {
+            "height" : 500,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104180952163932982128\"\u003eRite Aid\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKuLv1CKP65a6LRonN-xxqVqnQCkoDNNVtlUD05ElplFkp9y-Lm0uzpPxDrusxlM9bqGvd0Cn-QC99xSBSQKFw8cdoWiNTJFbsxjgUgvRQSEu8jCDfYSPWm-0og5S-32ulGF5mpVFaCxk3Wd-hPCS2_MtkEAUE4hlSV6z5-BEM8aU7r",
+            "width" : 500
+         },
+         {
+            "height" : 250,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104180952163932982128\"\u003eRite Aid\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKnHXMJMGkOMHfiCiqmW9LY-5xavZe6d1SkD_Y_UYOm_Oi7VQp-dwRqYvJuJQvDEVOVV_jrbk4NegH2rb34-gzf9uIUOJk-qBgedXrpNmSkLwnaVpA8wtw-PObiXf4Qy5c6vSdqrbskdsEjrmltL1BL10ULG8BVisLiJEdYC8f8Plfk",
+            "width" : 251
+         }
+      ],
+      "place_id" : "ChIJfUQK8Xf3wokReg31qwDspQc",
+      "plus_code" : {
+         "compound_code" : "Q2VM+86 New York, NY, USA",
+         "global_code" : "87G8Q2VM+86"
+      },
+      "rating" : 2.9,
+      "reference" : "ChIJfUQK8Xf3wokReg31qwDspQc",
+      "reviews" : [
+         {
+            "author_name" : "krazykat",
+            "author_url" : "https://www.google.com/maps/contrib/102966603821640527962/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gj6ir6qqEXgpnje3S3eQZPbThnFwHa47NS9pTcPKg=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating" : 1,
+            "relative_time_description" : "7 months ago",
+            "text" : "I was thinking of applying to work there. I'm glad I read the reviews first. No way.",
+            "time" : 1586058248
+         },
+         {
+            "author_name" : "Shauna Stoltz-Laurie",
+            "author_url" : "https://www.google.com/maps/contrib/117580212331819910993/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gi3BCkPiSb2o7SMJQQWHdnKBxHwhOvb8XqsyxnKsA=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "8 months ago",
+            "text" : "Best RiteAid ever. Sales especially every Monday. Pharmacists bend over backwards to help with troublesome filling of prescriptions. Clean store, pleasant employees. Very well managed store. Prefer them over Walgreens, CVS or Duane Reade any day!",
+            "time" : 1584905967
+         },
+         {
+            "author_name" : "Timothy Smith",
+            "author_url" : "https://www.google.com/maps/contrib/100198736648503200163/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-TF_aKm-WN-g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnlW29EhlJyCsr8WgRxJtc4Jknj2Q/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "11 months ago",
+            "text" : "The best pharmacy on the UWS. Been coming here for years. They always have sale items. The pharmacy is amazing. One time my doctor forgot to call in my rx for anti biopics after an operation and the technician I think her name was luanna and the pharmacist Jeannie was so kind and called the doctor and got it for me.",
+            "time" : 1577218709
+         },
+         {
+            "author_name" : "Sandra Franco Iborra",
+            "author_url" : "https://www.google.com/maps/contrib/101385006166806771944/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-HmqLWw2Qrq8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn1HGFdVsgWU1ouLnLKNoWjyP2iaQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating" : 1,
+            "relative_time_description" : "a year ago",
+            "text" : "I will NEVER EVER come to this shop again. I wanted some passport photos and I asked one of the cashiers that was not attending clients. She barely look at me and just told to another cashier that I wanted photos. That cashier was talking on speakers about some personal stuff. Then, another client with a PARROT came in, started to talk with them, they were playing with the parrot and just ignoring me. Honestly, the fact that the cashier was touching the parrot was disgusting and the attitude of the cashiers was very disrespectful.",
+            "time" : 1572037997
+         },
+         {
+            "author_name" : "Jude Olney",
+            "author_url" : "https://www.google.com/maps/contrib/106902748950060020432/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gj30hb3t0QA7a0cA03SGON2su08mN8cgnHEuT2hkA=s128-c0x00000000-cc-rp-mo",
+            "rating" : 4,
+            "relative_time_description" : "a year ago",
+            "text" : "Decent and reliable. Sale prices are nice. Pretty cramped inside and kind of outdated.",
+            "time" : 1568253078
+         }
+      ],
+      "types" : [
+         "drugstore",
+         "convenience_store",
+         "food",
+         "health",
+         "point_of_interest",
+         "store",
+         "establishment"
+      ],
+      "url" : "https://maps.google.com/?cid=551106017051872634",
+      "user_ratings_total" : 33,
+      "utc_offset" : -300,
+      "vicinity" : "741 Columbus Avenue, New York",
+      "website" : "https://www.riteaid.com/locations/ny/new-york/741-columbus-avenue.html"
+   },
+   "status" : "OK"
+}

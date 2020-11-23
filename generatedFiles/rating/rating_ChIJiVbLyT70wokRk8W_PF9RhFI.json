@@ -1,0 +1,228 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "23",
+            "short_name" : "23",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "East 170th Street",
+            "short_name" : "E 170th St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Mount Eden",
+            "short_name" : "Mount Eden",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "The Bronx",
+            "short_name" : "The Bronx",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bronx County",
+            "short_name" : "Bronx County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10452",
+            "short_name" : "10452",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e23 E 170th St\u003c/span\u003e, \u003cspan class=\"locality\"\u003eThe Bronx\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10452\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "23 E 170th St, The Bronx, NY 10452, USA",
+      "formatted_phone_number" : "(718) 293-8855",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.8400594,
+            "lng" : -73.9168596
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.8413568802915,
+               "lng" : -73.91554576970849
+            },
+            "southwest" : {
+               "lat" : 40.8386589197085,
+               "lng" : -73.91824373029149
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "international_phone_number" : "+1 718-293-8855",
+      "name" : "P Alvarez Associates Corporation",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 AM – 7:00 PM",
+            "Tuesday: 9:00 AM – 7:00 PM",
+            "Wednesday: 9:00 AM – 7:00 PM",
+            "Thursday: 9:00 AM – 7:00 PM",
+            "Friday: 9:00 AM – 7:00 PM",
+            "Saturday: 10:00 AM – 5:00 PM",
+            "Sunday: Closed"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 614,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117804299053730533534\"\u003eP Alvarez Associates Corporation\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLcHV_kfL7MCr-IB1zBDLggPkb79sCXzOb1ogbKwGYZDvdbl1E1SX9NKpZ_AXhg3TwCm6JosbmFBTUENvcWzpVoVX98Dd2h8NNcQww8YS5jwBwO_HG7e4o1WNjPu8nr6OzPEVt0GBcr3rrw4FI-gpcS95y6TquKfscXV-OrxUHagul8",
+            "width" : 768
+         },
+         {
+            "height" : 768,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117804299053730533534\"\u003eP Alvarez Associates Corporation\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIIp3FwkZpilsL6q78XkAKOwvLt5___FPpE4m6XKQCMyyPC87ZriVYkOrpGrQ-Q2VWcRQjDOa9gaQXc8WyR13pLUY-jd-7EI5xlmm5gtw7Rudd1dbMJA-1epTGQ4RA6fUBeBhihoecN4O_C07tjgbQ3zzxg3pHdbmcXexmyGSnpvdIS",
+            "width" : 768
+         }
+      ],
+      "place_id" : "ChIJiVbLyT70wokRk8W_PF9RhFI",
+      "plus_code" : {
+         "compound_code" : "R3RM+27 The Bronx, NY, USA",
+         "global_code" : "87G8R3RM+27"
+      },
+      "rating" : 3.2,
+      "reference" : "ChIJiVbLyT70wokRk8W_PF9RhFI",
+      "reviews" : [
+         {
+            "author_name" : "Charline Gager",
+            "author_url" : "https://www.google.com/maps/contrib/102675908201683900735/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GgwNLeTQ13EjI9ccGvc5oss555fJQuh8YI1wJJIWw=s128-c0x00000000-cc-rp-mo",
+            "rating" : 1,
+            "relative_time_description" : "7 months ago",
+            "text" : "It cost me over $250.00..to do my taxes..people be very careful what you sign to..this company ripping people off that way..",
+            "time" : 1587747052
+         },
+         {
+            "author_name" : "Noemi Minaya",
+            "author_url" : "https://www.google.com/maps/contrib/116039649562594219530/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh5.googleusercontent.com/-0NIS4FirUPw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm9-k_t2cBE8MUAymU56laGZLVdBw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "Great staff everyone very helpful , they get the most money you can get out of your income tax!! reasonable pricing",
+            "time" : 1557368445
+         },
+         {
+            "author_name" : "drzfinest27",
+            "author_url" : "https://www.google.com/maps/contrib/110812870471867307300/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh5.googleusercontent.com/-G-pxQYw8WuM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmqDLTteYL6SxIYyOCJrqYuM3vzPQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "Great service great people been doing my taxes with Griselda for 15 years never had any problem ..",
+            "time" : 1557367180
+         },
+         {
+            "author_name" : "Miguel Ortiz",
+            "author_url" : "https://www.google.com/maps/contrib/111794120583258848089/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GhmsVra0jhY__-IgjP3bRr6jd5v8z6NnQyjAGAb_g=s128-c0x00000000-cc-rp-mo",
+            "rating" : 1,
+            "relative_time_description" : "2 years ago",
+            "text" : "Don't come to this agency at Jerome Ave. Bronx, NY 10453.   They mislead you in Consultation. Not professional. They send me out of there office for asking questions that they where suppose answer pertaining their services.  Also they overcharge for their services. If I was you go elsewhere, less headache and money.",
+            "time" : 1538233907
+         },
+         {
+            "author_name" : "Francisco Ramos",
+            "author_url" : "https://www.google.com/maps/contrib/114012468123926311923/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-lr7i6MYo4PI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckK5AvEK3LDO0rVnC7L5zTRREVqjw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "3 years ago",
+            "text" : "I have been with this tax firm over ten years and I have yet to say anything negative.  I have been treat with nothing but respect and professionalism from the staff.  Never had any problems with my returns.  They do a great job.",
+            "time" : 1486415062
+         }
+      ],
+      "types" : [ "accounting", "finance", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=5945966877518841235",
+      "user_ratings_total" : 11,
+      "utc_offset" : -300,
+      "vicinity" : "23 East 170th Street, The Bronx",
+      "website" : "http://www.palvarezcorp.com/"
+   },
+   "status" : "OK"
+}

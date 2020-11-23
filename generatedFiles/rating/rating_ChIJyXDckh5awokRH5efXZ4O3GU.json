@@ -1,0 +1,64 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "New York, NY, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.7163145,
+            "lng" : -74.0109865
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7176893302915,
+               "lng" : -74.00961691970849
+            },
+            "southwest" : {
+               "lat" : 40.7149913697085,
+               "lng" : -74.0123148802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name" : "Chambers St/Greenwich St",
+      "place_id" : "ChIJyXDckh5awokRH5efXZ4O3GU",
+      "plus_code" : {
+         "compound_code" : "PX8Q+GJ New York, NY, USA",
+         "global_code" : "87G7PX8Q+GJ"
+      },
+      "reference" : "ChIJyXDckh5awokRH5efXZ4O3GU",
+      "types" : [ "transit_station", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=7339757566045427487",
+      "utc_offset" : -300,
+      "vicinity" : "United States"
+   },
+   "status" : "OK"
+}

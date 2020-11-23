@@ -1,0 +1,297 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1130",
+            "short_name" : "1130",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Grand Concourse",
+            "short_name" : "Grand Concourse",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Concourse Village",
+            "short_name" : "Concourse Village",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "The Bronx",
+            "short_name" : "The Bronx",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bronx County",
+            "short_name" : "Bronx County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10456",
+            "short_name" : "10456",
+            "types" : [ "postal_code" ]
+         },
+         {
+            "long_name" : "3902",
+            "short_name" : "3902",
+            "types" : [ "postal_code_suffix" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e1130 Grand Concourse\u003c/span\u003e, \u003cspan class=\"locality\"\u003eThe Bronx\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10456-3902\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "1130 Grand Concourse, The Bronx, NY 10456, USA",
+      "formatted_phone_number" : "(718) 508-3040",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.8326053,
+            "lng" : -73.9187582
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.8340238302915,
+               "lng" : -73.91757041970851
+            },
+            "southwest" : {
+               "lat" : 40.8313258697085,
+               "lng" : -73.92026838029152
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "international_phone_number" : "+1 718-508-3040",
+      "name" : "BronxWorks",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 AM – 7:00 PM",
+            "Tuesday: 8:00 AM – 7:00 PM",
+            "Wednesday: 8:00 AM – 7:00 PM",
+            "Thursday: 8:00 AM – 7:00 PM",
+            "Friday: 9:00 AM – 5:00 PM",
+            "Saturday: 8:00 AM – 4:00 PM",
+            "Sunday: Closed"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1836,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107494470379783046745\"\u003eThurito Martinez\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIi2chbtwnFMPdSwKIjRWlGkd7ds_qnHLf90kvJPbJfRhLZ7Iz6OUZ87H7vOBWvSiuGBBLTSGuO3Q41VW4hw2X5x0H7LHsw3KakrniMSNa9obkbbejANeQjpUqNPGbduiF2Mjh0pp0BCMW3E9cewaB5xKdA3HcnDq0P5Fy4KslGfLSZ",
+            "width" : 3264
+         },
+         {
+            "height" : 4160,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103097812765239301427\"\u003eNigel O&#39;Shea\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwK1YBU4bsUf6rlGzQSfeMzwzskgnPAaBSWURH-8tIWcfK7E9xmDtB7UQsXyGpdTtpmGViF4WWBZprgXpnmBqWAqMCp5ST4nH0Z4wzYpEaGWZicg-d9Vv65qDXpAkeIPfVJV5HMZLiTvCMe8KDyWJQd5TfPyMGYygLdn25HpG_68ILuT",
+            "width" : 3120
+         },
+         {
+            "height" : 3120,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117552029093731693282\"\u003eBambi Lambchop\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLw1emjNE983tXNwWkhc7RtDC2kzatPzjx317JsmjUf7IggnqWXO3HWOzh235nr1jzsAeo-iAoslcmQAsQEh_iJe57qxp6oSwnK9IKdoH-yE9IvuGZSN4ZJU22gUEZZkeMFADPQqD0xhhXZaJu508EosLghhORIpkkFfkBpJ6w93CyQ",
+            "width" : 4160
+         },
+         {
+            "height" : 2988,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111520672279126605493\"\u003eHenry Lauture\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwI_7wG0SnuXNSIC8dyMLBR8nWcxjDbRt2rgc9FT7w8dn6jUAc2sWR4mXTgRnyYfgb_ZKZcXIN82KzjqAO3zbgCrgVbJj0Us__ARuMrMAJzNo6DgYzbL8yd1e3FT5a7x6WqIRTYF0FzsMJdQBIFRS-faGQQwRTsUWbRSy5gm_rWgNyCa",
+            "width" : 5312
+         },
+         {
+            "height" : 1836,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103839744440156740854\"\u003eAlexander Soto\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLYpD370b5XCxO6k6vX1RzGm_DEbrpyKwq4iYarBKRh5tuFCLHrVgGp4FJU6d3owHW66uGVLbQ6uzS4UNoZpIV24mkXefPsXXdGZWKlnymusp5oMiH1OAJV464ZwcP5SMPv7BHSAZJlmXmGgZBkIfPbvcsHrxSVuLvT6hyZvGbc__fa",
+            "width" : 3264
+         },
+         {
+            "height" : 2988,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111520672279126605493\"\u003eHenry Lauture\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwK_25hVOwdqtHJ4NMctR9KNu_BRE-94obuyRU49p7FA0JnQLi8xX3ZL2MvRWtwu-fygck4aDmIluJsyQZb5Rpk5m9RjjB7WkY3stjtIdFwpLSHchNUUysmH3BdKfTdbf5ZptYhI79_xTrNe11JVA9BHeOfH3stteBc3ry-CGMaHgm21",
+            "width" : 5312
+         },
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108585025234485852384\"\u003eDavid Herszenson\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKv4eSxBd5ZtmMljrEZRYhRVb3O_cn56x8u3QCnvbVSjAPMtVoWmI5txlDdyo5zL4-H79Dyyf_Zipi_Mb3l5_M6Lel3RknrmKygck-_Yf1gBfbRMyWVi4crcbcJm2DzQOUdsXdLgMnLDe-Hbf0fGUVPPylGfLHOPMKXACTEjd2JOvwS",
+            "width" : 4608
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103839744440156740854\"\u003eAlexander Soto\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwK8cwqAHGOY4xrTt294VIXjRv0UGE_SQyX4L07EK8LMRDbi-mV95AAf_B-RjMkc_zuagsc1aU2hwxw4GgHMygMd7Qg7-f4pAZVJdjQvWW9rswn3DN_KcPSECY1rM6DwJnUC06oMys2dFSTOkYqOn4t_IcHlbu53au8951uyr__W1oSF",
+            "width" : 4032
+         },
+         {
+            "height" : 5312,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111520672279126605493\"\u003eHenry Lauture\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJmrvDazYBnkmyaSCTI7wg9696TS_aJMY07WaEKQNd55BKVVLnhlzYtpxTUGrYJwZ2Hkg3HIGxN7Odpk6D7J5kYLBfcLN-Xh8geIJRWyf2MYaA3QsSPNSRM4j50vqluUXmAoQRFUhQL_pvYDWF1f0BISRbi9bZPrBnw05VmuJtKzYrZ",
+            "width" : 2988
+         },
+         {
+            "height" : 3120,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117552029093731693282\"\u003eBambi Lambchop\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJIUEbagzwVKfkUShh2yTa6-JytbJBr9p48yOV08SYhYlZf37n-QXaeSoESy1HqNKU1dF1MwxFffNWKf6IKMWC0D3HDhc8AqraiNe5Tfkzdp18MPoaCm2uMENRqW7LjMdCThfdrcrR4IqIxEaTiRHw1V0i94aZy0t3P3x1yVdqN7P7A",
+            "width" : 4160
+         }
+      ],
+      "place_id" : "ChIJWX0K2jD0wokRswVkau5oVCI",
+      "plus_code" : {
+         "compound_code" : "R3MJ+2F New York, NY, USA",
+         "global_code" : "87G8R3MJ+2F"
+      },
+      "rating" : 4.2,
+      "reference" : "ChIJWX0K2jD0wokRswVkau5oVCI",
+      "reviews" : [
+         {
+            "author_name" : "Alex W.",
+            "author_url" : "https://www.google.com/maps/contrib/106825062266394156456/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh5.googleusercontent.com/-uN4j-fcliS4/AAAAAAAAAAI/AAAAAAAAAQU/AMZuucn8ILD7dgcrVd0DfBtuuYCOj1Pl5g/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating" : 1,
+            "relative_time_description" : "2 weeks ago",
+            "text" : "Their legal office is useless. They didn't respond to me back, unless I didn't call back, after two weeks. Also, they look for an easy case. If it isn't they transfer to another legal organization. Emma was supposed to set up an appointment with another organization, but when that appointment date comes, I found out she didn't do that. Don't waste your time with those people.",
+            "time" : 1604626162
+         },
+         {
+            "author_name" : "REDD REDD",
+            "author_url" : "https://www.google.com/maps/contrib/115210445689727476238/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-gdrVps87raI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck_DrbhqX5lTvw7c9pAmp4pclLaRQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 4,
+            "relative_time_description" : "4 months ago",
+            "text" : "I liked it because they were very professional as well as informative all's I can say overall it was a great experience... they all deserve a raise and pay as well as more vacation days",
+            "time" : 1593816647
+         },
+         {
+            "author_name" : "Claristine Gardner",
+            "author_url" : "https://www.google.com/maps/contrib/102725594432627433600/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-uZfqGHe2CeA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmOerhplh30YiBeliiU-_3LRzDUkQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 4,
+            "relative_time_description" : "2 months ago",
+            "text" : "Assist senior with ALL kind if assistance . Thanks.",
+            "time" : 1600542219
+         },
+         {
+            "author_name" : "bolivar munoz",
+            "author_url" : "https://www.google.com/maps/contrib/103009658656527261641/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-VClHoucusj0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmxISCgSuJ2FtM7BliaeUo3ZZLd3g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "a month ago",
+            "text" : "It very nice place",
+            "time" : 1603030385
+         },
+         {
+            "author_name" : "John Doe",
+            "author_url" : "https://www.google.com/maps/contrib/109924408008740335264/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh5.googleusercontent.com/-Gsftol8rr8Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckrR1YNBbslPB7lDIGekUTtvuXAMg/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "I use to live on Grant Ave in 1985 for two years as a child my brother and I remember this place being called the Girls Club. It was a summer camp program we attended and I remember nothing but good times, swimming, trips, etc. How time fly's and I haven't seen this place since then. I thought it would of had been demolished like everything else.",
+            "time" : 1573155779
+         }
+      ],
+      "types" : [ "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=2473717468529690035",
+      "user_ratings_total" : 338,
+      "utc_offset" : -300,
+      "vicinity" : "1130 Grand Concourse, The Bronx",
+      "website" : "http://www.bronxworks.org/"
+   },
+   "status" : "OK"
+}

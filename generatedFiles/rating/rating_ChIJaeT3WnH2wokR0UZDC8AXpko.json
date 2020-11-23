@@ -1,0 +1,302 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "118",
+            "short_name" : "118",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "West 134th Street",
+            "short_name" : "W 134th St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10030",
+            "short_name" : "10030",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e118 W 134th St\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10030\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "118 W 134th St, New York, NY 10030, USA",
+      "formatted_phone_number" : "(212) 870-0113",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.8138186,
+            "lng" : -73.9428195
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.8152585302915,
+               "lng" : -73.9414035697085
+            },
+            "southwest" : {
+               "lat" : 40.8125605697085,
+               "lng" : -73.9441015302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "international_phone_number" : "+1 212-870-0113",
+      "name" : "Harlem Grown",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 AM – 4:00 PM",
+            "Tuesday: 9:00 AM – 4:00 PM",
+            "Wednesday: 9:00 AM – 4:00 PM",
+            "Thursday: 9:00 AM – 4:00 PM",
+            "Friday: 9:00 AM – 4:00 PM",
+            "Saturday: 9:00 AM – 4:00 PM",
+            "Sunday: 9:00 AM – 4:00 PM"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100064013623092368692\"\u003eBrocha Mishulovin\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKSr37WtRaIJE1Ay4ajW_XDa8SJA0Qs0SU8RSOKn15-45CJo3xehVZSUifg9pEhNOKYwBn8FcYxE4fPunoJSbyQkdLJLDYQ_gtvB1SNOuQoHvIanuIdUGnH048U6sNzFpNbFhKoFBzbZkdrvedkUBou9iI90sU84ZASeBo0rFe8o8q0",
+            "width" : 4032
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107767926386849505275\"\u003eDavid Choi\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIiEcoR0fG5P9deyGIvEXPJAmORyR1PaSlgRwkaD3_JIilGhExMDectL2tzdfbvIClwxGlT92sLhy2dGNG7zmFvavqTvti8gCnrjgvX5bn4S6EUQVRCd2OIKQ1UTBYdThpGD154rcP7xXNtGjYvr0LGVf6dqIDA-USD4DsHaAKEsgZ9",
+            "width" : 4032
+         },
+         {
+            "height" : 3492,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109665035918198386615\"\u003eJason Elmer\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJR_vOyN0BKh1m-N1-lx5daCnXk73dyjB5RGqky20Ko3j3RxtUnv8LWHh9FnVRj2IHrFh7nWAY7n--F018FhnWtgf4OKm84molVCtEb6BSav3-YaZcM91NFZ1tTDlYpLcY4Qfol8TwzyS_qnfC9thZ7XdR3H7N-Hb91yvjKQayochPB",
+            "width" : 4656
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117755571909842896597\"\u003eKristel Rodriguez\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJyPXfrTY2d2lAFO440NMrRowW6DEeOymPXVM_kjWXMnfuEVCWuFUKfgJElcPeKMJr48FWlUWLVWCaSjuuh6CaLLfJmo89z-HVbITSpmQqLEVB8551-5eikEwtBRI_ePXPiBgduTlCvobDisNM7nNQkdWNMUsutaS89U-qAZy7oyHyq",
+            "width" : 3024
+         },
+         {
+            "height" : 3492,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109665035918198386615\"\u003eJason Elmer\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKLfrVSKtcWpqCGNxixAiQUofp-YDndZZ_0DFJiMtOmA-L7PicV_drWYMZpH1PHsqmVP-UsYo-hyXIDLeJ7-dftCk94jEBzmJ2wFroG6Q6n8Pqn0TMnBMiyqisUGYKxAhghHKHK493-XHxH5eZ_8zEMXUMZ17AtfKj8KbbIojkwrfAd",
+            "width" : 4656
+         },
+         {
+            "height" : 4656,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109665035918198386615\"\u003eJason Elmer\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIqfHbfDgoweh6A-lrQvdaqF00ZO1b3IgbbsKmbkJmYkITuBJDnr7aJnOauCjkhwdHXPusQQRZaGMgj6wQekfaysDwtC4w7SulirDyeGJFCzRdw_iwIhhM0ySR4JXWsan0xFcR9Q2ZUN5w0DPxCje7JdL5IW2OZCo-AZ-JtTgK-UWaG",
+            "width" : 3492
+         },
+         {
+            "height" : 2340,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106911245078886825696\"\u003eShana Darabie\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKZ-u2gGSzZOPtBXp4Zta1gANmiV5xrLE5gqINq9pQ9ddnZHTOAfFJNbV9JIbLE-GwiLDb1fReEeA6zAbyLVVow9S_CvehY98mpE_bkg1nyBb-O5rUE53joVDY23qVG1avDLIaVoFtZQ2QxAt5LcFsNl8ZhTfIoxJvQXGQ-Kchtv2bv",
+            "width" : 4160
+         },
+         {
+            "height" : 2322,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112694501167701627227\"\u003eJullie Mars\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIssx6vP44o5lVCm3D3B-2YptcxUSxqK9-eAldJ5WX0PJc6KIsmWCCHIyDi6tfqmqGCY5Ld8Su5GySWVpZPwT2zkj4rTSN1EcQHyj1ii4dKAJ_WeEvbOFwG3-nskLkAMaAavtNgq_pM9pNNKK50L51mvj6atoYf3qIegw8r0EEE-fn0",
+            "width" : 4128
+         },
+         {
+            "height" : 3492,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109665035918198386615\"\u003eJason Elmer\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLW1K6pxiOqicP8c6bb4MmJ1xD-l-fPumr5hIyAE9kWVMB0w6AFeQB55RWUfV2BflpBADhHRmPzVFyNx-Y5r-oa0Zyv7VUZuRXBR6C2udeAdK1jYcQC0o-htjggbjN2GLwKPVUCoHvPyWwnDu20bA9SLaZg85RSPYuRYAWQP7cFpEHj",
+            "width" : 4656
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107767926386849505275\"\u003eDavid Choi\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwI9TKnn3GMnpAzJtNN0GBJdGD77cNU5oFqeWqBXk4vFmNjmbUhgORnd8yuxUzkp8Mfv6J52RG4kpZ30VLKqzOc_AJvtJa7jYbgZSZhmPAn1bPs7j_giKOI4VhSMPNRlndtF4xfDuKkRDDJcHRwC5H1xJ9YoMJ4zA269hQ5Q1h8U0Tvx",
+            "width" : 4032
+         }
+      ],
+      "place_id" : "ChIJaeT3WnH2wokR0UZDC8AXpko",
+      "plus_code" : {
+         "compound_code" : "R374+GV New York, NY, USA",
+         "global_code" : "87G8R374+GV"
+      },
+      "rating" : 4.7,
+      "reference" : "ChIJaeT3WnH2wokR0UZDC8AXpko",
+      "reviews" : [
+         {
+            "author_name" : "Aimee Berazate",
+            "author_url" : "https://www.google.com/maps/contrib/102396625980410909276/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh5.googleusercontent.com/-ugrtiOMRKsw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmXV-vm_odu8b8t2uKQO0MMREiBeA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "Always an amazing place to visit. Feels like home! My kids love it and I never have to worry about them when we're there. The staff is outstanding and always welcoming. Can't wait to go back!",
+            "time" : 1572560643
+         },
+         {
+            "author_name" : "Jennifer Taveras",
+            "author_url" : "https://www.google.com/maps/contrib/116889738079165565848/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-kfZuuP0a80o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnkFNxBsu-FUA8zxtl6NqJhIq_Evw/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "Came here on a school trip with my daughter and I could not be happier to have helped chaperone this trip. The staff was amazing and the experience not just educational but encouraging. I am amazed by the work and dedication that happens here, the chickens were a bit smelly but hey its live chickens what can we expect and I loved how they showed the kids the process of making compost",
+            "time" : 1558155883
+         },
+         {
+            "author_name" : "Keisha Rowe",
+            "author_url" : "https://www.google.com/maps/contrib/101618337973070613538/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-2Tkvs-WWZ34/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmmIz6myR6Ni2abhtJogBki24K1Iw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "They have chicken there that you can see also they are very greeting people and welcome you and nice people",
+            "time" : 1566747387
+         },
+         {
+            "author_name" : "justine jackson",
+            "author_url" : "https://www.google.com/maps/contrib/110832334319216816447/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-ePKVXvybZWU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmjiQFXKjV_lxL6dFrOsPBwFwDmCQ/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "I'M very excited about this place being so near to my home!!!! They have several unique programs, including a native plants restoration project, a greenhouse that provides wonderful baby salad greens for the use of the neighborhood low income folk's, and free-range chicken eggs!!!!\nYUMMY!",
+            "time" : 1549068764
+         },
+         {
+            "author_name" : "Angelique Boone",
+            "author_url" : "https://www.google.com/maps/contrib/105830031462306835312/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-Wi9XPemep0E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclkjeqjUlLwyLZvdj1_fKfhr-go4w/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "BEAUTIFUL space to visit with children/family to learn about the vegetables grown there, free of chemicals! Water,  touch them , speak with them . Very pleasant space in the Midst of City. Let's not forget about the chickens and their eggs!!",
+            "time" : 1546584206
+         }
+      ],
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=5379012918530754257",
+      "user_ratings_total" : 52,
+      "utc_offset" : -300,
+      "vicinity" : "118 West 134th Street, New York",
+      "website" : "http://www.harlemgrown.org/"
+   },
+   "status" : "OK"
+}

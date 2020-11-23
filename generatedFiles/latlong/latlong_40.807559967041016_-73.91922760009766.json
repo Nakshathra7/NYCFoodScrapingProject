@@ -1,0 +1,140 @@
+{
+   "plus_code" : {
+      "compound_code" : "R35J+28 New York, NY, USA",
+      "global_code" : "87G8R35J+28"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brook Av",
+               "short_name" : "Brook Av",
+               "types" : [
+                  "establishment",
+                  "point_of_interest",
+                  "subway_station",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Mott Haven",
+               "short_name" : "Mott Haven",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "The Bronx",
+               "short_name" : "The Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10454",
+               "short_name" : "10454",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Brook Av, The Bronx, NY 10454, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.807568,
+               "lng" : -73.91924299999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.80891698029149,
+                  "lng" : -73.91789401970848
+               },
+               "southwest" : {
+                  "lat" : 40.80621901970849,
+                  "lng" : -73.92059198029149
+               }
+            }
+         },
+         "place_id" : "ChIJZVFRMsL1wokRkvFLNCKqQv0",
+         "plus_code" : {
+            "compound_code" : "R35J+28 New York, NY, USA",
+            "global_code" : "87G8R35J+28"
+         },
+         "types" : [
+            "establishment",
+            "point_of_interest",
+            "subway_station",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "The Bronx",
+               "short_name" : "The Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Mott Haven",
+               "short_name" : "Mott Haven",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10454",
+               "short_name" : "10454",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Brook Ave & E 138 St, The Bronx, NY 10454, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.807408,
+               "lng" : -73.91924
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8087569802915,
+                  "lng" : -73.91789101970851
+               },
+               "southwest" : {
+                  "lat" : 40.8060590197085,
+                  "lng" : -73.92058898029151
+               }
+            }
+         },
+         "place_id" : "ChIJPXOEMcL1wokRnqVpE2yyX28",
+         "plus_code" : {
+            "compound_code" : "R34J+X8 The Bronx, NY, USA",
+            "global_code" : "87G8R34J+X8"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

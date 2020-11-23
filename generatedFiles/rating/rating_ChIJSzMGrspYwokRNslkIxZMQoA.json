@@ -1,0 +1,64 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "Astoria",
+            "short_name" : "Astoria",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Queens",
+            "short_name" : "Queens",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Queens County",
+            "short_name" : "Queens County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eQueens\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "Queens, NY, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.76763999999999,
+            "lng" : -73.93636099999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7690132302915,
+               "lng" : -73.9350265697085
+            },
+            "southwest" : {
+               "lat" : 40.7663152697085,
+               "lng" : -73.9377245302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name" : "Vernon Bl/Broadway",
+      "place_id" : "ChIJSzMGrspYwokRNslkIxZMQoA",
+      "plus_code" : {
+         "compound_code" : "Q397+3F New York, NY, USA",
+         "global_code" : "87G8Q397+3F"
+      },
+      "reference" : "ChIJSzMGrspYwokRNslkIxZMQoA",
+      "types" : [ "transit_station", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=9242033043284478262",
+      "utc_offset" : -300,
+      "vicinity" : "United States"
+   },
+   "status" : "OK"
+}

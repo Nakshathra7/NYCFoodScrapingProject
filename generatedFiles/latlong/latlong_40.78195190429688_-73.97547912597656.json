@@ -1,0 +1,72 @@
+{
+   "plus_code" : {
+      "compound_code" : "Q2JF+QR New York, NY, USA",
+      "global_code" : "87G8Q2JF+QR"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Columbus Avenue",
+               "short_name" : "Columbus Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10024",
+               "short_name" : "10024",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "W 79th St &, Columbus Ave, New York, NY 10024, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7818379,
+               "lng" : -73.9752026
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7831868802915,
+                  "lng" : -73.97385361970849
+               },
+               "southwest" : {
+                  "lat" : 40.7804889197085,
+                  "lng" : -73.97655158029151
+               }
+            }
+         },
+         "place_id" : "ChIJH_8BGZZZwokReRKUY_AjnKc",
+         "plus_code" : {
+            "compound_code" : "Q2JF+PW New York, NY, USA",
+            "global_code" : "87G8Q2JF+PW"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

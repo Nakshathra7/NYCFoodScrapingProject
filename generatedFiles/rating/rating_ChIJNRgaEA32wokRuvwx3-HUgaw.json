@@ -1,0 +1,314 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "112",
+            "short_name" : "112",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "West 116th Street",
+            "short_name" : "W 116th St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10026",
+            "short_name" : "10026",
+            "types" : [ "postal_code" ]
+         },
+         {
+            "long_name" : "2520",
+            "short_name" : "2520",
+            "types" : [ "postal_code_suffix" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e112 W 116th St\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10026-2520\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "112 W 116th St, New York, NY 10026, USA",
+      "formatted_phone_number" : "(212) 665-9600",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.8021675,
+            "lng" : -73.95068879999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.8036265302915,
+               "lng" : -73.94925846970848
+            },
+            "southwest" : {
+               "lat" : 40.8009285697085,
+               "lng" : -73.9519564302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "international_phone_number" : "+1 212-665-9600",
+      "name" : "Jumbo Hamburgers",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0700"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 7:00 AM – 7:00 PM",
+            "Tuesday: 7:00 AM – 7:00 PM",
+            "Wednesday: 7:00 AM – 7:00 PM",
+            "Thursday: 7:00 AM – 7:00 PM",
+            "Friday: 7:00 AM – 7:00 PM",
+            "Saturday: 7:00 AM – 7:00 PM",
+            "Sunday: 7:00 AM – 6:00 PM"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1200,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114842423457155589163\"\u003eJumbo Hamburgers\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIsvCtn-c2nCAlKOP2gR6nNFMRpbfz4B8zkhxWQ9B6NhytExAxYQevqnDKgyNydSphPzI7bxNeQHfb3BJoaP4S-8U5D6tnzMmxkK7Yq1RgXmdcxC3j5WcujbgRn6pEV9aByuPFhhwgRCSEPNAw51EmacV_lT7MVa88jeTMxUR4kVJ47",
+            "width" : 1800
+         },
+         {
+            "height" : 1200,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114842423457155589163\"\u003eJumbo Hamburgers\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwK0SQrFj9ukuIe3t_FCoMHSnq4S8ZVMsXrtB588MywKiUH8h92XEur8U6m6SG5rHKXZPX_oPSfH1SfNXL_kgFOY9cgneNUgheMfiiLmTfQ1RJFaAikMptiJ5zIZ5nYlUOutJjB2IVPXz3MYqSYFM_LKZbYFkK2zoj9Xhq0dRrztAxbj",
+            "width" : 1800
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107752915547754884459\"\u003ebrandon christian\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKL1QVEaZdSkkGEQaSYtxeYOh1d2yohTIbPNyIOFbtxChiCps2CnqS0ndbVLUq_SyqQJTLdmEEg2OYMNEQFUmfXDMvJ0u5Yb2K15uTZHkY54dgMVmDZ7nYDUF3c8DLCdVZgZFHK349kBM5mBuYQ4yJY-UNd22_BXDk-ZqTPujEriaxB",
+            "width" : 1960
+         },
+         {
+            "height" : 1200,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114842423457155589163\"\u003eJumbo Hamburgers\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKvMtT2zv6nKuGsnEXgRYsVaPvWH6onZ_Jv26hPng821x7ErtfZyMMpicOrehmZA8bwLlZ6JY1I0ZWodQOfcljbX5J4_9ax9GR9tdO3wFI3-pfeUWMThqMlFugRAsMp1lCCSs3BnPGqH4Ft9ZYzIWANDG5K8ZDEigpDRJxvgj3-Hu4T",
+            "width" : 1800
+         },
+         {
+            "height" : 1200,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114842423457155589163\"\u003eJumbo Hamburgers\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwI4asJGHozRthVnvJrJLgg27eDrnP0vmWWQ9IZTAKOKDY75hs0oEWd_qDjE_SGV3nJlTwaoL4jg08Dw09qAkZcHGyARVHsVPOhu8z2t_Pq6s20jKDzWhc5rRQektwY17lRTDoZ__s9wIEGL99ys6rSi_PyBFBHgbncrYiVhQ7TESGzD",
+            "width" : 1800
+         },
+         {
+            "height" : 1200,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114842423457155589163\"\u003eJumbo Hamburgers\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIirQZphF82yuBUlWgt_TuPLUxzJP9-3AQLaoum-ggCBkqw5RFljzo6AYAe4tQRZyIUxm4rAAjKj6amq7g2gYmnvlc9LUqEc-xIDSpmCMffUftBhjGqqrgBFl29uH1vLr2I4Hog062bdaZg90URZ8MrmSNZcpYCzH5AIVu1rJKel0pU",
+            "width" : 1800
+         },
+         {
+            "height" : 1200,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114842423457155589163\"\u003eJumbo Hamburgers\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJ2f0wBSs8vywMnGLzUJ9XyQHWxxh5HOPnzvmcjVHQiYerFbtPSM9FkIzJeHJKNvzxdlUUSgzConfUXzkjndSUGD8WnoV32OkHZgjhnqMncZXLDxy0Lchow99OsPjXumBdVaCJ8o7N_zOdYUVZHh-9W9mKl1Uc35ZLGe-WkniO5wR8i",
+            "width" : 1800
+         },
+         {
+            "height" : 1800,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114842423457155589163\"\u003eJumbo Hamburgers\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLsjXFD1ZRAi8nHWncr-n1hc8AxsCRleuL-K8Ht1Qzl4ggLrk1jaSJ6HZObPqXZccSxPHxC29vVYBMzr6K8tfzN0XOL9tslWCtAFEe1dAzMYcUMmWnPEmznmhh9BhJTg6QLWK35SL7Kzmxju97WqHjqYBLi_MYU57KJsnhHOhrnqtLE",
+            "width" : 1200
+         },
+         {
+            "height" : 1800,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114842423457155589163\"\u003eJumbo Hamburgers\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJcSmOHKhqrr-r0SwRAYdUMRQ8ShUaVYDrrQd8ykrS0SiWvRQguAqrxk69QM1jJakqe0ETWou0aOZ2l0M66HlH5mJb8jd7kSb4o8HOxj4r4ebG8ZPs-EmLjTTYT0dndj9tdOEfxFIcBjqbxbbV6D4oLOI14vwffPJMM2oekIpg7a3lr",
+            "width" : 1200
+         },
+         {
+            "height" : 1200,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114842423457155589163\"\u003eJumbo Hamburgers\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwItOkci2KTPRx4yjKpTbWudKYcpJEnNOI6tj4uCQIzgqL8LMlrZ1jebk_Hcueqsq45QllyVTnfOTPXoy1NxFo2wa4Qd6N1GAuoJ5fRU5w_baKJp8GgLggmTv8eUU_00Ikal5OOdG2RHClyirUihL-kUKh9JUP8LfQR2GPBnzw9aQ3-K",
+            "width" : 1800
+         }
+      ],
+      "place_id" : "ChIJNRgaEA32wokRuvwx3-HUgaw",
+      "plus_code" : {
+         "compound_code" : "R22X+VP New York, NY, USA",
+         "global_code" : "87G8R22X+VP"
+      },
+      "price_level" : 1,
+      "rating" : 4.2,
+      "reference" : "ChIJNRgaEA32wokRuvwx3-HUgaw",
+      "reviews" : [
+         {
+            "author_name" : "hoang mai",
+            "author_url" : "https://www.google.com/maps/contrib/114576731884981175166/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GhiKY6KaQLezPIHmCeYIsTGkwe3mYmTU9MyfcUJ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating" : 5,
+            "relative_time_description" : "a month ago",
+            "text" : "We had a great time in this spot. We enjoyed the great ambience and the food. The staff are super friendly. I am happy we ultimately decided to eat here.",
+            "time" : 1601588387
+         },
+         {
+            "author_name" : "Martin Redman",
+            "author_url" : "https://www.google.com/maps/contrib/111400607501757523553/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh6.googleusercontent.com/-punNUf6ZZCM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclrC8C6WmU0IxubAdv2Kf1r9wL9aQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating" : 4,
+            "relative_time_description" : "a month ago",
+            "text" : "This Jumbo's location is on 116 street between Lenox and Adam Clayton Powell blvd. (7th ave).  Obviously by the name this place sells burgers but they also serve all day breakfast.\n\nThe prices are very reasonable (no more than $10.00 for a meal for one), the location is well kept, and they deliver (without an app).\n\nWould definitely recommend for a quick bite or some breakfast food.",
+            "time" : 1602663306
+         },
+         {
+            "author_name" : "Janniece Frederick",
+            "author_url" : "https://www.google.com/maps/contrib/115625687068216989156/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gh20RCz7R60uWrLMTy3Dwozg5HxqSs0t-NmYp3uLw=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating" : 4,
+            "relative_time_description" : "2 months ago",
+            "text" : "This the hood spot always good.",
+            "time" : 1599180240
+         },
+         {
+            "author_name" : "Jenna Fleming",
+            "author_url" : "https://www.google.com/maps/contrib/115209381493146497082/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-AsCW4n3b1Ao/AAAAAAAAAAI/AAAAAAAAGGU/AMZuuclsXqjUybKQG6SAjD7utwM9AtmJug/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "2 months ago",
+            "text" : "Great spot for a eat and run.😘💞",
+            "time" : 1599684526
+         },
+         {
+            "author_name" : "Davina Edwards",
+            "author_url" : "https://www.google.com/maps/contrib/108431170890330610146/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GgG9J7UNiJl3tOaf5LPNa3QywQ4vqVqjMNKYTs9_w=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "3 months ago",
+            "text" : "They burgers be on point!! Love their garlic pickles",
+            "time" : 1597942207
+         }
+      ],
+      "types" : [
+         "meal_delivery",
+         "restaurant",
+         "food",
+         "point_of_interest",
+         "establishment"
+      ],
+      "url" : "https://maps.google.com/?cid=12430450513096604858",
+      "user_ratings_total" : 285,
+      "utc_offset" : -300,
+      "vicinity" : "112 West 116th Street, New York",
+      "website" : "https://www.jumbohamburgersny.com/"
+   },
+   "status" : "OK"
+}

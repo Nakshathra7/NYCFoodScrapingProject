@@ -1,0 +1,82 @@
+{
+   "plus_code" : {
+      "compound_code" : "P2FC+V4 New York, NY, USA",
+      "global_code" : "87G8P2FC+V4"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lower East Side Ecology Center Community Garden",
+               "short_name" : "Lower East Side Ecology Center Community Garden",
+               "types" : [ "establishment", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "210",
+               "short_name" : "210",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East 7th Street",
+               "short_name" : "E 7th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10009",
+               "short_name" : "10009",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lower East Side Ecology Center Community Garden, 210 E 7th St, New York, NY 10009, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7246269,
+               "lng" : -73.97965119999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.72597588029149,
+                  "lng" : -73.97830221970848
+               },
+               "southwest" : {
+                  "lat" : 40.72327791970849,
+                  "lng" : -73.9810001802915
+               }
+            }
+         },
+         "place_id" : "ChIJuVFg0XlZwokRXSO9twoSA_I",
+         "plus_code" : {
+            "compound_code" : "P2FC+V4 New York, NY, USA",
+            "global_code" : "87G8P2FC+V4"
+         },
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

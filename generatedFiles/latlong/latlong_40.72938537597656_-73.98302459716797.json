@@ -1,0 +1,77 @@
+{
+   "plus_code" : {
+      "compound_code" : "P2H8+QQ New York, NY, USA",
+      "global_code" : "87G8P2H8+QQ"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lower East Side Playground",
+               "short_name" : "Lower East Side Playground",
+               "types" : [ "establishment", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "Avenue A",
+               "short_name" : "Avenue A",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10009",
+               "short_name" : "10009",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lower East Side Playground, E. 12 St, E. 11 St. Bet 1 Ave. And, Avenue A, New York, NY 10009, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7292723,
+               "lng" : -73.98294319999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7306212802915,
+                  "lng" : -73.98159421970848
+               },
+               "southwest" : {
+                  "lat" : 40.7279233197085,
+                  "lng" : -73.9842921802915
+               }
+            }
+         },
+         "place_id" : "ChIJsfRLHnZZwokRes_tIvFJbLY",
+         "plus_code" : {
+            "compound_code" : "P2H8+PR New York, NY, USA",
+            "global_code" : "87G8P2H8+PR"
+         },
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

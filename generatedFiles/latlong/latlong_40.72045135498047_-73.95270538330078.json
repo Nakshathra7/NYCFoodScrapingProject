@@ -1,0 +1,189 @@
+{
+   "plus_code" : {
+      "compound_code" : "P2CW+5W New York, NY, USA",
+      "global_code" : "87G8P2CW+5W"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Driggs Av/Union Av",
+               "short_name" : "Driggs Av/Union Av",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Williamsburg",
+               "short_name" : "Williamsburg",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11211",
+               "short_name" : "11211",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Driggs Av/Union Av, Brooklyn, NY 11211, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.72051219999999,
+               "lng" : -73.9527403
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7218611802915,
+                  "lng" : -73.95139131970851
+               },
+               "southwest" : {
+                  "lat" : 40.7191632197085,
+                  "lng" : -73.95408928029151
+               }
+            }
+         },
+         "place_id" : "ChIJU8F_RVtZwokRfvSmG2hl0Yc",
+         "plus_code" : {
+            "compound_code" : "P2CW+6W New York, NY, USA",
+            "global_code" : "87G8P2CW+6W"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "McCarren Park Dog Run",
+               "short_name" : "McCarren Park Dog Run",
+               "types" : [ "establishment", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "Union Avenue",
+               "short_name" : "Union Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Williamsburg",
+               "short_name" : "Williamsburg",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11211",
+               "short_name" : "11211",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "McCarren Park Dog Run, North 12th Street & Driggs Avenue &, Union Ave, Brooklyn, NY 11211, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7200908,
+               "lng" : -73.9528866
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7214397802915,
+                  "lng" : -73.9515376197085
+               },
+               "southwest" : {
+                  "lat" : 40.7187418197085,
+                  "lng" : -73.95423558029151
+               }
+            }
+         },
+         "place_id" : "ChIJq1_VXFtZwokRJeRTzdbq5X4",
+         "plus_code" : {
+            "compound_code" : "P2CW+2R Brooklyn, NY, USA",
+            "global_code" : "87G8P2CW+2R"
+         },
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Island",
+               "short_name" : "Long Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Island, New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            },
+            "location" : {
+               "lat" : 40.789142,
+               "lng" : -73.13496099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            }
+         },
+         "place_id" : "ChIJy6Xu4VRE6IkRGA2UhmH59x0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

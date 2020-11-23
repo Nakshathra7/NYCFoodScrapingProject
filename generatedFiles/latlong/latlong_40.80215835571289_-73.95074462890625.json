@@ -1,0 +1,88 @@
+{
+   "plus_code" : {
+      "compound_code" : "R22X+VP New York, NY, USA",
+      "global_code" : "87G8R22X+VP"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West 116th Street",
+               "short_name" : "W 116th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10026",
+               "short_name" : "10026",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2520",
+               "short_name" : "2520",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "112 W 116th St, New York, NY 10026, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8021675,
+               "lng" : -73.95068879999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.80351648029149,
+                  "lng" : -73.9493398197085
+               },
+               "southwest" : {
+                  "lat" : 40.8008185197085,
+                  "lng" : -73.9520377802915
+               }
+            }
+         },
+         "place_id" : "ChIJNRgaEA32wokRuvwx3-HUgaw",
+         "plus_code" : {
+            "compound_code" : "R22X+VP New York, NY, USA",
+            "global_code" : "87G8R22X+VP"
+         },
+         "types" : [
+            "establishment",
+            "food",
+            "meal_delivery",
+            "point_of_interest",
+            "restaurant"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

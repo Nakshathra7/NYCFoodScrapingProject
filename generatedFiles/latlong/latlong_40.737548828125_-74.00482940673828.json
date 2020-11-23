@@ -1,0 +1,88 @@
+{
+   "plus_code" : {
+      "compound_code" : "PXQW+23 New York, NY, USA",
+      "global_code" : "87G7PXQW+23"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "11",
+               "short_name" : "11",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "8th Avenue",
+               "short_name" : "8th Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10014",
+               "short_name" : "10014",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1802",
+               "short_name" : "1802",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "11 8th Ave, New York, NY 10014, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7376743,
+               "lng" : -74.0049296
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.73902328029151,
+                  "lng" : -74.0035806197085
+               },
+               "southwest" : {
+                  "lat" : 40.73632531970851,
+                  "lng" : -74.00627858029151
+               }
+            }
+         },
+         "place_id" : "ChIJs5fLaZVZwokRwTMnjZjpRng",
+         "plus_code" : {
+            "compound_code" : "PXQW+32 New York, NY, USA",
+            "global_code" : "87G7PXQW+32"
+         },
+         "types" : [
+            "convenience_store",
+            "establishment",
+            "food",
+            "point_of_interest",
+            "store"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>Error</h1>
+    <div class="errorText">
+        {% if msg %}
+            {{msg}}
+        {% else %}
+            General Error
+        {% endif %}
+    </div>
+   	<br/>
+    <a href="dashboard">Return to Main Dashboard View</a> 
+    <br/>
+    <p>Please Provide Ratings From Below List...</p>
+    {% for allRating in allRatings %}
+        <p>{{ allRating.rating }}</p>
+    {% endfor %}
+    <br/>
+    <br/>
+{% endblock %}

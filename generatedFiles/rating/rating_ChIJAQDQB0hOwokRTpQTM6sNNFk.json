@@ -1,0 +1,106 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "97",
+            "short_name" : "97",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Myrtle Avenue",
+            "short_name" : "Myrtle Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "West Brighton",
+            "short_name" : "West Brighton",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Staten Island",
+            "short_name" : "Staten Island",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Richmond County",
+            "short_name" : "Richmond County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10310",
+            "short_name" : "10310",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e97 Myrtle Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eStaten Island\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10310\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "97 Myrtle Ave, Staten Island, NY 10310, USA",
+      "formatted_phone_number" : "(718) 600-8220",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.6301989,
+            "lng" : -74.11604249999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.6315700302915,
+               "lng" : -74.11451496970848
+            },
+            "southwest" : {
+               "lat" : 40.6288720697085,
+               "lng" : -74.1172129302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+      "international_phone_number" : "+1 718-600-8220",
+      "name" : "Richmond Christian Church",
+      "place_id" : "ChIJAQDQB0hOwokRTpQTM6sNNFk",
+      "plus_code" : {
+         "compound_code" : "JVJM+3H Staten Island, NY, USA",
+         "global_code" : "87G7JVJM+3H"
+      },
+      "rating" : 5,
+      "reference" : "ChIJAQDQB0hOwokRTpQTM6sNNFk",
+      "reviews" : [
+         {
+            "author_name" : "Utmost Blessed",
+            "author_url" : "https://www.google.com/maps/contrib/104137894992277078303/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GgJXiO3ih-Q5VXfhNmma8_g2khUnAyCI-zs5CPjrHk=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating" : 5,
+            "relative_time_description" : "6 months ago",
+            "text" : "My Google Picture Says Utmost Blessed For A 100 Percent Reason  Thank You Jesus Hallelijuiah I Have Been With Richmond Christian For A Long Time  Never Experienced Nothing But Rejoicing Healing.My Pastor Teddy Otobo- Sheriff,First Lady Almena Two Great Blessed Praying100 Percent Couples Of God,Pastor Teddy Otobo-Sheriff\nAlways Preaching Jesus,Powerful Holy Spirit Anointed Touching Sermons , Prays,Preaching Jesus Loving People,Dedicated Reaching Out To People.First Lady Also.Powerful Anointed Worship Team,Music Band, Music Audio, Pray Team, Pray Line,Face Book Live, Hallelijuiah Amen, Thank You Jesus,For What You Done For Me ,\nWonderful Children's Ministry ,\nVery Helpful Ushers,Volunteer Staff\nYou Never Leave Out The Same Way You Came To Church Service.\nYou Will Be Truly Blessed .",
+            "time" : 1589450379
+         },
+         {
+            "author_name" : "L D L D",
+            "author_url" : "https://www.google.com/maps/contrib/100613627036913257194/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GhHbkLfWthNhE-voT6AJAjIIZy_V44yy5eFUv2v=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "I’d give ten stars if I could. More than a church,  you come here and you are family. Very anointed with the Holy Spirit. This is a meat and potatoes church, not just milk and honey. My life has changed. Pastor Teddy is incredibly loyal to the Lord and sacrificial. He shares his message on SoundCloud and they even have prayer times. Thanks is not enough for having this church in my life.\n\nYou must experience yourself. Pastor Teddy is truly a blessing. The worship/music team is outstanding.",
+            "time" : 1562521635
+         }
+      ],
+      "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=6427777597112030286",
+      "user_ratings_total" : 2,
+      "utc_offset" : -300,
+      "vicinity" : "97 Myrtle Avenue, Staten Island",
+      "website" : "http://www.richmondnyc.org/contact-.html"
+   },
+   "status" : "OK"
+}

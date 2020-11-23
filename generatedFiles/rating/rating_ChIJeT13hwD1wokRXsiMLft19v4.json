@@ -1,0 +1,137 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "854",
+            "short_name" : "854",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Hunts Point Avenue",
+            "short_name" : "Hunts Point Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Hunts Point",
+            "short_name" : "Hunts Point",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "The Bronx",
+            "short_name" : "The Bronx",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bronx County",
+            "short_name" : "Bronx County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10474",
+            "short_name" : "10474",
+            "types" : [ "postal_code" ]
+         },
+         {
+            "long_name" : "5420",
+            "short_name" : "5420",
+            "types" : [ "postal_code_suffix" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e854 Hunts Point Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eThe Bronx\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10474-5420\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "854 Hunts Point Ave, The Bronx, NY 10474, USA",
+      "formatted_phone_number" : "(347) 271-3756",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.818097,
+            "lng" : -73.88841599999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.8193903302915,
+               "lng" : -73.88722656970849
+            },
+            "southwest" : {
+               "lat" : 40.8166923697085,
+               "lng" : -73.88992453029151
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "international_phone_number" : "+1 347-271-3756",
+      "name" : "Project H.O.P.E. Workforce Development",
+      "place_id" : "ChIJeT13hwD1wokRXsiMLft19v4",
+      "plus_code" : {
+         "compound_code" : "R496+6J The Bronx, NY, USA",
+         "global_code" : "87G8R496+6J"
+      },
+      "rating" : 4.3,
+      "reference" : "ChIJeT13hwD1wokRXsiMLft19v4",
+      "reviews" : [
+         {
+            "author_name" : "Marisol Boop",
+            "author_url" : "https://www.google.com/maps/contrib/108358038610772807862/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GiCPss3WN9LlAD_qt9uFgiNJXpoMm0E2I08M-LO=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "Helpful Place",
+            "time" : 1550197461
+         },
+         {
+            "author_name" : "Edwin Rivera",
+            "author_url" : "https://www.google.com/maps/contrib/117813794739677560839/reviews",
+            "profile_photo_url" : "https://lh5.googleusercontent.com/-_lpGxankN64/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucngGWhXIxr6n3JgA36hFTXLGMbqzA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "3 years ago",
+            "text" : "",
+            "time" : 1505150304
+         },
+         {
+            "author_name" : "Priscilla Garcia",
+            "author_url" : "https://www.google.com/maps/contrib/113560001140835563463/reviews",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GjGSYWx96rqln7wDb_5AXrSWmwlPgx0Cy6gurz3Q08=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "",
+            "time" : 1559310507
+         },
+         {
+            "author_name" : "Khadija Allen",
+            "author_url" : "https://www.google.com/maps/contrib/100397672696153659127/reviews",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-LdQWHT9MxYI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck9sD1y6lgKE-1alTujk_HKUa9MHg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "4 years ago",
+            "text" : "",
+            "time" : 1473117170
+         },
+         {
+            "author_name" : "Athena Flores",
+            "author_url" : "https://www.google.com/maps/contrib/116394778738901655967/reviews",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-lXKEoceV0UE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckIqzSZBfrYtseHKvgLQJ-Vt2Q-KQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 2,
+            "relative_time_description" : "a year ago",
+            "text" : "",
+            "time" : 1557856394
+         }
+      ],
+      "types" : [ "health", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=18372001451565959262",
+      "user_ratings_total" : 6,
+      "utc_offset" : -300,
+      "vicinity" : "854 Hunts Point Avenue, The Bronx",
+      "website" : "https://www.urbanhealthplan.org/project-hope-workforce-development/"
+   },
+   "status" : "OK"
+}

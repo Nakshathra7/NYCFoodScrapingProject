@@ -1,0 +1,185 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "955",
+            "short_name" : "955",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Columbus Avenue",
+            "short_name" : "Columbus Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10025",
+            "short_name" : "10025",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e955 Columbus Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10025\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "955 Columbus Ave, New York, NY 10025, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.799694,
+            "lng" : -73.962164
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.8011030302915,
+               "lng" : -73.96095836970849
+            },
+            "southwest" : {
+               "lat" : 40.7984050697085,
+               "lng" : -73.9636563302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "Mobilization For Change Community Garden",
+      "photos" : [
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108085225041776971067\"\u003eBronx-Cali Zoo\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKrqUW-1H-WuA3gFQbpkqeYluefYLv0TcIEINlbPN2Od15fXeL8oU0jO5bOTA60xzV_182cS5ikx7rYCDvk-2xu1-yflcaJy8u7LFvg_oARDHI6ZHYWd2qQg2OrN9zdj0m5HFfc3Kz-Qeb15ZrTH8CPj8kdOb-Sz_8MYhbAsdS0yR_j",
+            "width" : 4032
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110369940711008944495\"\u003eJamie Leo\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLTH5owyNNzCT_12NG-HnFc0hZu2WpyMkEB5SYzv9XGFasCQ8JPgkDfrS482NOe6tH8WwDNa9-2b2yXdkUFZcBnRHf8kcaF63i_pNZEHPRxoTU1isCENQmrcOnz8yfPI8VMfldgX5Xeo3LD2i-r828NztsjZSMTmfRBixfwqK5yl3hl",
+            "width" : 3024
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108085225041776971067\"\u003eBronx-Cali Zoo\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLu-ulyXMQBV8ntlnAjAscUu26_8qM6IfOTzdPR0fkTOPCPjpT-6nsTIHmpbn7VmLB7V8X0hjfb6xBoXjyFpbCak6G1J-hqK0IFCb73u5V4m9JcM34ZksVGr0hKA4aKTQmjihM7aG4au9nVDYfZrol0qM7NXE1oxwtDi6rcD8SukMlX",
+            "width" : 4032
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108085225041776971067\"\u003eBronx-Cali Zoo\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIVsY6TLS97ddy5hxGOTBDHZqMB_gerlR3XH384eOx9NFTB_iAnegiX-glhoLuj-UybN1q8JIxLD4RANtdwUjHTtvzSeFOrcrMKgbSEhmqYAoFRCF0zrYm2Tf0RS6OnXXYVynOT2UvVBZYlNPwvP9fg_bIYzlBkJXjcb700Jj8qq-0M",
+            "width" : 4032
+         },
+         {
+            "height" : 3936,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101941738990436117323\"\u003eGregory Weiss\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIw8KbtD4pnMS8oGZmrwBaTVIXw-kornbkvYTliMdYbfHx3wIkJOXG8mnvyrfz9xhFtjFSIyigtL1ZcYsdf75i6zp0ZhYpg1A57uujeZCvQ78YU8gMNTIK0ef1Bp4P61--GJCF0Yn-4AiWLC9Sux_BlywhhUr5nwEbDFKdy4lqHfUcG",
+            "width" : 5248
+         },
+         {
+            "height" : 3936,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101941738990436117323\"\u003eGregory Weiss\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJhWY8dYBAbyFfqmGug8bCKwSok9jrLTDYpKV7iPzuZSyUqoGC7rFd8rDmkVcWoJlCYefdwu492Fs0jQe0hGGr0CAbof9PmU8gWKcf8jqS0ZleXOpsKrKp8WqWsMwLxrycl6fHUItXQLQ4JjXMRq9zjCwRTYlhRIoVWQkqZnuGf30Ye",
+            "width" : 5248
+         },
+         {
+            "height" : 3936,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101941738990436117323\"\u003eGregory Weiss\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIsQ1yb1xJa_96cLA6_crW3DQ6afh_oHGPtkkY1pGxrcNBo64lfOEeHjVu-Not9oqFbrASwJDKdn3T4B76SV-gueHF5bDHKoKf59ly24QYHgOq_Pp455YsteJRF4e_vqoaqygLhVbtaTFFwgDVDNKRKDtIoJA_EZb6SqIuPtkzv73WV",
+            "width" : 5248
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100821000583474861471\"\u003eTing Bea Yang\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLJAAl29QHX2NK7RsD7rLuscVmJ7iScGsYA4LOsmGLz2PUOywZv-VpAPa-ee5O44aOG4k0r5gbwdrtY8ClGQ95eTGtyFWJWDVYXvTmTaoEYIIcyxGZ_-dnldy1reZ03KbUE_5vG4mbXvTF5K6PEVaKKehCL4YtJMbgGBzD6jdlSxom5",
+            "width" : 3024
+         },
+         {
+            "height" : 3936,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101941738990436117323\"\u003eGregory Weiss\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJpJWXdYXCVHm-kaUM2TYrte60_AMemYieXBlevUMb_Exmu6azPl_JKTPA0bDLUSg9sIZJZ13qM5BlaSlP3kOCkmrzzDkONlkJPA_pm-b2q_1eEDIss37uIafx-7mW2ZgdNIYm5ykB_DoTjO5OPwlyjtTW6GQHmgTumUWXeuwjw8XwK",
+            "width" : 5248
+         },
+         {
+            "height" : 3936,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101941738990436117323\"\u003eGregory Weiss\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLVVdWby6Zz3Wl2R_lkBrbZ2dFubUaprf9_u0yHvgyQfVIml1OhaLApO7myYV3VCj1iMxGNrkkIfqK04ZLxS9OgaB-dKA8Ke5BeJmTNnEfUCifSWNaRqpaZBVt2AeFvu7LA4eIo8WZSJ3vNIJHlujoL26HcZMPAtaqjt5duC1tBVLN7",
+            "width" : 5248
+         }
+      ],
+      "place_id" : "ChIJQbQ34yL2wokRjk1-SCwGDN0",
+      "plus_code" : {
+         "compound_code" : "Q2XQ+V4 New York, NY, USA",
+         "global_code" : "87G8Q2XQ+V4"
+      },
+      "rating" : 5,
+      "reference" : "ChIJQbQ34yL2wokRjk1-SCwGDN0",
+      "reviews" : [
+         {
+            "author_name" : "Jamie Leo",
+            "author_url" : "https://www.google.com/maps/contrib/110369940711008944495/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GgwKchDgBGQ6XZuc5eKSoQ1bqS-fSA3tSxLEjpSmw=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "4 years ago",
+            "text" : "Their #red_Halloween decor –locally handcrafted with great imagination and whimsy (the giant dragon alone is a classic) – was integrated into the garden with great care. It is clear that members of the neighborhood are quite proud of the garden, and it's verdant contribution to the quality of life in the area.",
+            "time" : 1477916508
+         },
+         {
+            "author_name" : "Bronx-Cali Zoo",
+            "author_url" : "https://www.google.com/maps/contrib/108085225041776971067/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GjaWiR2PjhR0dMMNla-qgwZRQvbwwhLcPziZutNPA=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "2 years ago",
+            "text" : "Beautifully maintained Community Garden. Thank you Margaret!",
+            "time" : 1529678827
+         }
+      ],
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=15928112769367166350",
+      "user_ratings_total" : 2,
+      "utc_offset" : -300,
+      "vicinity" : "955 Columbus Avenue, New York"
+   },
+   "status" : "OK"
+}

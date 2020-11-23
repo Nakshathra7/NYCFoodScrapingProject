@@ -1,0 +1,199 @@
+{
+   "plus_code" : {
+      "compound_code" : "M2V5+FR New York, NY, USA",
+      "global_code" : "87G8M2V5+FR"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "198",
+               "short_name" : "198",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Montague Street",
+               "short_name" : "Montague St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Downtown Brooklyn",
+               "short_name" : "Downtown Brooklyn",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11201",
+               "short_name" : "11201",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "198 Montague St, Brooklyn, NY 11201, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6937158,
+               "lng" : -73.9903978
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6950647802915,
+                  "lng" : -73.9890488197085
+               },
+               "southwest" : {
+                  "lat" : 40.6923668197085,
+                  "lng" : -73.99174678029151
+               }
+            }
+         },
+         "place_id" : "ChIJQxkgBUlawokRwli54ANSXM4",
+         "plus_code" : {
+            "compound_code" : "M2V5+FR Brooklyn, NY, USA",
+            "global_code" : "87G8M2V5+FR"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Borough Hall",
+               "short_name" : "Borough Hall",
+               "types" : [
+                  "establishment",
+                  "point_of_interest",
+                  "subway_station",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Downtown Brooklyn",
+               "short_name" : "Downtown Brooklyn",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11201",
+               "short_name" : "11201",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Borough Hall, Brooklyn, NY 11201, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.69391,
+               "lng" : -73.99046609999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6952589802915,
+                  "lng" : -73.9891171197085
+               },
+               "southwest" : {
+                  "lat" : 40.6925610197085,
+                  "lng" : -73.9918150802915
+               }
+            }
+         },
+         "place_id" : "ChIJXRIraklawokRL9BIcfL3oco",
+         "plus_code" : {
+            "compound_code" : "M2V5+HR New York, NY, USA",
+            "global_code" : "87G8M2V5+HR"
+         },
+         "types" : [
+            "establishment",
+            "point_of_interest",
+            "subway_station",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Island",
+               "short_name" : "Long Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Island, New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            },
+            "location" : {
+               "lat" : 40.789142,
+               "lng" : -73.13496099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            }
+         },
+         "place_id" : "ChIJy6Xu4VRE6IkRGA2UhmH59x0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

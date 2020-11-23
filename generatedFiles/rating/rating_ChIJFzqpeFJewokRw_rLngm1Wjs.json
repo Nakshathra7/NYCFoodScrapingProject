@@ -1,0 +1,310 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "86-51",
+            "short_name" : "86-51",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Broadway",
+            "short_name" : "Broadway",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Elmhurst",
+            "short_name" : "Elmhurst",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Queens",
+            "short_name" : "Queens",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Queens County",
+            "short_name" : "Queens County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11373",
+            "short_name" : "11373",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e86-51 Broadway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eQueens\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11373\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "86-51 Broadway, Queens, NY 11373, USA",
+      "formatted_phone_number" : "(718) 565-2021",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.73719060000001,
+            "lng" : -73.8771567
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7385836302915,
+               "lng" : -73.8759033197085
+            },
+            "southwest" : {
+               "lat" : 40.7358856697085,
+               "lng" : -73.87860128029151
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "international_phone_number" : "+1 718-565-2021",
+      "name" : "Starbucks",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0600"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 6:00 AM – 9:00 PM",
+            "Tuesday: 6:00 AM – 9:00 PM",
+            "Wednesday: 6:00 AM – 9:00 PM",
+            "Thursday: 6:00 AM – 9:00 PM",
+            "Friday: 6:00 AM – 9:00 PM",
+            "Saturday: 6:00 AM – 9:00 PM",
+            "Sunday: 6:00 AM – 9:00 PM"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106955712511909982452\"\u003eS C\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKw1hrLb8mHkp2wJoIwIhwBv09p0wgl5kSLxG9vT0ah5UCpKnRNnLvA-n7qWhL0B97_1mLQHmc3HAwAClF02SCmJVKsaOl_JS_hX49R8Vsv1Z5h8tUDC6ce7gA_jwx7o4nyXJJhyIWHJUUFlFllFhsz--dweiXuQK5A3n_Arb_XV4w7",
+            "width" : 4032
+         },
+         {
+            "height" : 289,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114644065844304094230\"\u003eStarbucks\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIbkkObJg1pCiESKwLY74vycYuvIPxuwA6Gtys2k4AX0Xe0Nr5t-e9yTGSdaGdCRBdBeZY1WU2P71wRUE_vCNL4Z37Vd0tAVht22Bc93OjX65h5x3XNt3hzGBcLc2J7Oq0AxKc2O-CGVcQNgPgIP1C731lLS-1DgYolninFDAnsaiiZ",
+            "width" : 512
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104695421862954077385\"\u003eNEPALI RIDERS in CALIFORNIA\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJRfWxK5nkhskwA2SNfDOrszKguOgwR6F-dRq5BY7D58-zmm97hhe1ltFC_5AJh35kOYoTqJl0xA0WLdXieCCPBheAo34mvbSzADQDWObYmLIeWsikRsR1rAi8P0CUAcwEW060aVsr_ETiVs5mEj0-SCB0Cle_ErMxsYQ6On1Pmn3zt",
+            "width" : 3024
+         },
+         {
+            "height" : 5312,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111533927840879015138\"\u003eJose Mortola\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwL2iJqqSG9xh9dkeOb32mvN-lrDjrLnFuuyH-1JvE0hjUQI8PNzOL4cKAZp08M84dS2lI4S876ZyA31Bhq43QFbvHorVOFpuyQB_yzFEbXJoS1wnZ8Hbcqy_UALorbMRGFdOJUtcEM2FdSrnpCoHWxpGkNcoDcdH6GuXTM3GmEpFEYk",
+            "width" : 2988
+         },
+         {
+            "height" : 1600,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/118366153587237235467\"\u003eNathxn Ong\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJBoQt6MlFrLyIjJfv0yjPmZvtmbSaJ4mj0j3SZ2DqZ1l-MwvKLCnvjGwf4wvPKItBtel4ZP3U-deNKZ_cOsv863QO0vc7TCEogd6o8Wl7HjirMhPqyN4me6L1yYgF02v9PvWX2sKdk8bjAGz7ND-l8hXvtX9Xka-nIgrbDiI_fKVDg",
+            "width" : 1200
+         },
+         {
+            "height" : 1152,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115669779561965803211\"\u003eKin Tsui\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKsWCL9QAeEwfNukt_osrS9HcSjZOFQ40blMXxMAzmvJRxRYFxRRUUCn05mULVtwdZmOcCejG0T9fP7FLNyD0kVK--4YKjYSmMmqr_V7vlNRp8f5rTEftPQ13nID08BnG6g69Da1Ttm23ieA9-Va3i69mOU1bRUuVOiVXmXPmAsrlLP",
+            "width" : 2048
+         },
+         {
+            "height" : 1152,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115669779561965803211\"\u003eKin Tsui\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLIVwGOWOn-1V-a6zsI-bipdmmIeVtCGz_70gtNzJGiwOwmbyjsVBHbFAU92EXr2nM_qC7q9FGfnVW-xYrpzc-3ZzIz0RATVaXqoAWHk43UIM6QD8SKL59XT_BAjzWTZ3L0ddeSU9JSPruqXeUx45oo7FvqD03UFv1dphaHI3UKknrx",
+            "width" : 2048
+         },
+         {
+            "height" : 2268,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117490607693266482575\"\u003eDavid W\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJl1wWw9crgQIGfCKKlcYBa9L_qK8KjdA4cSPJ8KjgK1cNrnhQO3CbHfHVmyW9oU_OwyxA-ECPNKxWGFvZCeeQnBVM04CxvYWsEs-1rJu3LT34GQt_HyqOdbKEtudqMwYBjzU5WsggGlnaIrKqbLwAFmWr6PsvZ4HWqdoatHO7DNk7g",
+            "width" : 2737
+         },
+         {
+            "height" : 664,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114644065844304094230\"\u003eStarbucks\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJAqqy8CMN7WLr3DrcWcVYH7KAhfDoJ_oNHgwQdN4Te5xz4HQoTVS65hy-J4SSRHOzx76NRL65smt4y2uhyBlY3K0wul-AucQVNdruYTd2AIt-gOG6Hc1jY5rXH15jC4fRCcjNiyB2NhUHxz2l1KvBnf9PreQNF8UM52WKsugYEIUuC",
+            "width" : 732
+         },
+         {
+            "height" : 546,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114644065844304094230\"\u003eStarbucks\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLDYQK5cn2y0fvyHrO3nUdwQXoiykRhZFKxhRP4fTLJCfkAcD9cXikf1kv2IUMXI2zSX96OJcxRnsqXDi2x3YZI0uQmcbufshnTc-LF4Cbnll444o2vhfCqu7nJbDfRlKsr86n49dvhs142AjIzWLrNYu237_jsN8vVcJfE8zkIfU80",
+            "width" : 502
+         }
+      ],
+      "place_id" : "ChIJFzqpeFJewokRw_rLngm1Wjs",
+      "plus_code" : {
+         "compound_code" : "P4PF+V4 New York, NY, USA",
+         "global_code" : "87G8P4PF+V4"
+      },
+      "price_level" : 2,
+      "rating" : 4.1,
+      "reference" : "ChIJFzqpeFJewokRw_rLngm1Wjs",
+      "reviews" : [
+         {
+            "author_name" : "Joanna Quach",
+            "author_url" : "https://www.google.com/maps/contrib/105117404131734278659/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GijdrUSZ9_NR4OMXtTfguoXgZRz5ayi-AQ9KIYOxJo=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "a month ago",
+            "text" : "I always experience friendly service here. I've been meaning to write a google review but what really pushed me to do it today is when I came in I ordered the pumpkin cream cold brew and Caroline asked me if it was my first time ordering it. I told her yes and she gave me her suggestions based on if I liked my coffee bitter or sweeter. I said on the sweeter side and she suggested adding some half and half to the coffee before the cream. I took her suggestion and my coffee was delicious. Thanks Caroline for the personal experience!",
+            "time" : 1601825610
+         },
+         {
+            "author_name" : "Luis Javier",
+            "author_url" : "https://www.google.com/maps/contrib/117901720732734412823/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh5.googleusercontent.com/-QSGC-HfKm3E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckqwQxrnSpZpCBq1cBa78CjsZi8dg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 1,
+            "relative_time_description" : "a week ago",
+            "text" : "One of the worst experiences. She had a bad attitude and bad manners from chubby white girl. Didn't want to argue with her But she really needs to get retrain in greeting and helping customers out. Handling food without any gloves. Major food violation!!! Not going there ever again!!",
+            "time" : 1605215410
+         },
+         {
+            "author_name" : "LouM",
+            "author_url" : "https://www.google.com/maps/contrib/107066790074000906287/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GhDUxiLljF7ICAMdTu_scwLX5ByGcmnGCcqOpmpvw=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "a week ago",
+            "text" : "This is my go to place when I get off the train. Very courteous,  and efficient.",
+            "time" : 1605181090
+         },
+         {
+            "author_name" : "klenz handy",
+            "author_url" : "https://www.google.com/maps/contrib/104280937802820968283/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh6.googleusercontent.com/-MXstibgaERQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclE_wqlPI2QPwckJ4yUfMFMaVb4Hg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 1,
+            "relative_time_description" : "a month ago",
+            "text" : "Just went to this Starbucks this asian worker lily with tattoos and short hair make us wait for 20 min there are no uber pick up or online order when I tried to follow  up our order and she seems upset and just talking to her co worker\n\nI'm not saying she needs to get fired by starbucks management  but just to be train again for customer service, and learn some manners  to treat patrons better.",
+            "time" : 1602449863
+         },
+         {
+            "author_name" : "Jim Van Hise",
+            "author_url" : "https://www.google.com/maps/contrib/107961151328518139497/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh5.googleusercontent.com/-A8fORfyKhX0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmTtbq3Q_Mg6A8MGZzdd_6m4tIxzw/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "a month ago",
+            "text" : "Good service and custom order right 1st time",
+            "time" : 1602372614
+         }
+      ],
+      "types" : [
+         "cafe",
+         "restaurant",
+         "food",
+         "point_of_interest",
+         "store",
+         "establishment"
+      ],
+      "url" : "https://maps.google.com/?cid=4276929849065208515",
+      "user_ratings_total" : 340,
+      "utc_offset" : -300,
+      "vicinity" : "86-51 Broadway, Queens",
+      "website" : "https://www.starbucks.com/store-locator/store/113993/"
+   },
+   "status" : "OK"
+}

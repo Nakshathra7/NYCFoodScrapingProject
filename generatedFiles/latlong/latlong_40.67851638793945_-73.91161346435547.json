@@ -1,0 +1,194 @@
+{
+   "plus_code" : {
+      "compound_code" : "M3HQ+C9 New York, NY, USA",
+      "global_code" : "87G8M3HQ+C9"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Phoenix Community Garden",
+               "short_name" : "Phoenix Community Garden",
+               "types" : [ "establishment", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "2037",
+               "short_name" : "2037",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Fulton Street",
+               "short_name" : "Fulton St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ocean Hill",
+               "short_name" : "Ocean Hill",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11233",
+               "short_name" : "11233",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Phoenix Community Garden, 2037 Fulton St, Brooklyn, NY 11233, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6785034,
+               "lng" : -73.91200809999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.67985238029149,
+                  "lng" : -73.91065911970848
+               },
+               "southwest" : {
+                  "lat" : 40.67715441970849,
+                  "lng" : -73.9133570802915
+               }
+            }
+         },
+         "place_id" : "ChIJexpnfEJcwokReH08eYIJls0",
+         "plus_code" : {
+            "compound_code" : "M3HQ+C5 Brooklyn, NY, USA",
+            "global_code" : "87G8M3HQ+C5"
+         },
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fulton St/Rockaway Av",
+               "short_name" : "Fulton St/Rockaway Av",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Ocean Hill",
+               "short_name" : "Ocean Hill",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11233",
+               "short_name" : "11233",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Fulton St/Rockaway Av, Brooklyn, NY 11233, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.67836,
+               "lng" : -73.91121699999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6797089802915,
+                  "lng" : -73.9098680197085
+               },
+               "southwest" : {
+                  "lat" : 40.6770110197085,
+                  "lng" : -73.9125659802915
+               }
+            }
+         },
+         "place_id" : "ChIJb_waYUJcwokRxiULrEawUaE",
+         "plus_code" : {
+            "compound_code" : "M3HQ+8G New York, NY, USA",
+            "global_code" : "87G8M3HQ+8G"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Island",
+               "short_name" : "Long Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Island, New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            },
+            "location" : {
+               "lat" : 40.789142,
+               "lng" : -73.13496099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            }
+         },
+         "place_id" : "ChIJy6Xu4VRE6IkRGA2UhmH59x0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

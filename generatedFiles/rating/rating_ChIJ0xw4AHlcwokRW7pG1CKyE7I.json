@@ -1,0 +1,218 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "87-91",
+            "short_name" : "87-91",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Schenectady Avenue",
+            "short_name" : "Schenectady Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Crown Heights",
+            "short_name" : "Crown Heights",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Brooklyn",
+            "short_name" : "Brooklyn",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kings County",
+            "short_name" : "Kings County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11213",
+            "short_name" : "11213",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e87-91 Schenectady Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBrooklyn\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11213\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "87-91 Schenectady Ave, Brooklyn, NY 11213, USA",
+      "formatted_phone_number" : "(212) 333-2552",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.6762324,
+            "lng" : -73.9329511
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.6775900802915,
+               "lng" : -73.9317284697085
+            },
+            "southwest" : {
+               "lat" : 40.6748921197085,
+               "lng" : -73.93442643029152
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "international_phone_number" : "+1 212-333-2552",
+      "name" : "Imani Community Garden",
+      "photos" : [
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114726723869386586430\"\u003eJesse Guzman\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwK1fssHTyozNyI9IGLkmi4OUHlyZNQC07P60UINh1vmrKL09j7Axav7G-vdfLYY-cKGOG4JckmP26AMCu38NE7dWLvUr-aC-jrU985y1AtUwC6l99EsQzpbeGGQFVG4XCz5jHHKyIwrIylYA0n4zxwju-9w3YHMNqg9y--Yr-8Lh6U4",
+            "width" : 4032
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114726723869386586430\"\u003eJesse Guzman\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwK24sJWRs6958ZkZpz-5UaRkAZbXcdtqbQ_-99EgoWz6MbCo_mGQejeV8y3mtEBJxOFzluLuycmWxQpsY2leVa66KWo034xuUtDS9iy-Mfe7DBZBmlDAbD9THWXKX3FB_wlUjEgnvOSc-s-mIcXiN2lA9XLcBuLDPnBYan6O7x9t-L3",
+            "width" : 3024
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114726723869386586430\"\u003eJesse Guzman\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKCqnQwtMfSLINyqowBgEcd3EhBFqYnyk29nXlbk6lnQCcWadmW24TU5Ot5eeGjN953YTLMx8FJF6vv4pQbRyLorC1E1yXhnLUofzzhPdJzKhSG-WMEFVpKW9wqR6BJOEe6XPUG4LPvh9e9m43FxYaF7i9IXqvN2RjWrIVil9kGfiUC",
+            "width" : 3024
+         },
+         {
+            "height" : 4096,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114266094253713654341\"\u003eGabriel H\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIwAKQyRybwlKvNfwvCs1P-OHE9AcqlhACWdK8KO67nv2miLdAOT--jVEdulW49N9KMSrbeVWjVl604LYLhvmgnyDVmDu1hqfZcEAIaQE4PZYBfmUEHf0jkZu_EQNXlrZSSmjcddc6dvT0aS0xkZFNAZE__V1_yP6ybiymnMWNgNXOs",
+            "width" : 3072
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114726723869386586430\"\u003eJesse Guzman\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwI42CkqaFY9RQxcFxqbPqrs3ZAnsLaZFw-NC4al4j4NcSeRAtAWvaeFPu00vtt4S_9pzOP0Ic-whetOvqF3Pz_g7PYv90RBcFZxkLNZwGnPOnuWlN6ZU-3YUUpnj1XRPp10feqF3gMvfJds1Npv0CMXd8Vl9Lgp9-8mnuO-H5FQFpN1",
+            "width" : 4032
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114726723869386586430\"\u003eJesse Guzman\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJaUL4V20y0U9Ax_zf6C8DfKFMj4LwZBiQL28yVdtOoS-buu-IelAAny8L0C5roS6wj_9QZpyzVAwU-4h6adkZoEJbMxVfPDBxcbmh25WOn6Qp6taLyANNt0WD168E1-x2ozKX31hWc_1twmljzwenMrRurf-Uw-HC1Kb-EvIdY96Cd",
+            "width" : 3024
+         },
+         {
+            "height" : 1836,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103654068870835517199\"\u003eDanny\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLvBArMSUCT6Ph1HCL-K78Un3eAl2uciT4_K6luTsPqRNWs3QIvfpIpMcV2sMkXgjRDRmfC5eS3VR5xAf7lT29OCWk4dcUGN9RdaGJUxm_pI4NEFIlMTDl3_sKcd9JHx3tYYO6LaPUCiJySHeBaFcbjdb8YmXx22J8evyD916taS_dd",
+            "width" : 3264
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114726723869386586430\"\u003eJesse Guzman\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKyKkXKIdIZo6fDELZ0ibPQTOGg7plUdXTCWcgPFF9oHMVyrkIptt5sktIQDplkoDGfaiys15Ya8BXy8X7X8Hw7-DWuZcxe2xWtMthmN0NASRCALfDUaJewEMe2iSTpZOAm2-L99XYBsCDhnlEzsEBcCInudEvmXlB5OOC_HK-U2jEF",
+            "width" : 3024
+         },
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107244901742576884386\"\u003eAnandi Premlall\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKTRJrMMjG_3Q4mgOrAGJP1Zm5bGjYA_djhgM_6rNQFQYswtU2G0WSWErS8Tp4HQ_jDEPQsFNpLTqd1FMWO8vpdX2NTQVT9GZrPwe88w7mub2zmWxfR910TnoagDnzW_8Q8byTnWKeY9UJu0KckVnzcwJOaE1OMHWZP4ksilA7p9P4K",
+            "width" : 4608
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114726723869386586430\"\u003eJesse Guzman\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJgaY_CR35dm7K-orDqoSl9WG7b133lilDn-qneN_Gg0wBBCc_-0gbG28QG0ipuRfUqsLmdZphOySILkFknjsamqqHNTmKSjedtO9XrwjPN2ueRx9gRAqKjJ7bESB2dngp_6Q1k7IbWX0xrI4K8Km8hzbqPAn-ndD55PmPkCAA8TKaG",
+            "width" : 3024
+         }
+      ],
+      "place_id" : "ChIJ0xw4AHlcwokRW7pG1CKyE7I",
+      "plus_code" : {
+         "compound_code" : "M3G8+FR Brooklyn, NY, USA",
+         "global_code" : "87G8M3G8+FR"
+      },
+      "rating" : 4.1,
+      "reference" : "ChIJ0xw4AHlcwokRW7pG1CKyE7I",
+      "reviews" : [
+         {
+            "author_name" : "Gary Vidal",
+            "author_url" : "https://www.google.com/maps/contrib/107808872405000629857/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GhZ5MyinrPgp6URjnjsQblO-kRXip7IptJxzQza=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "a month ago",
+            "text" : "Great local garden and filled with with organic treats",
+            "time" : 1602370436
+         },
+         {
+            "author_name" : "Kull Obsidian",
+            "author_url" : "https://www.google.com/maps/contrib/114088446705312613523/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gi1SSphwvCHPpdig5goLb_hTddxwV73vt6iq6op=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating" : 4,
+            "relative_time_description" : "a year ago",
+            "text" : "It's a garden that has brought a little colour and diversity to my area of Brooklyn and has been a nice attraction for some time now.",
+            "time" : 1566303108
+         },
+         {
+            "author_name" : "Ralf Rucci",
+            "author_url" : "https://www.google.com/maps/contrib/116473767297935191866/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh5.googleusercontent.com/-C8xZjXk3bVI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckzhwGfwRsp6B6ta_CDLnNohvSTfA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 3,
+            "relative_time_description" : "a year ago",
+            "text" : "It could use a little more tender care but it's nice to see people who want to make their neighborhood better",
+            "time" : 1564315893
+         },
+         {
+            "author_name" : "JBL “RED” NYC",
+            "author_url" : "https://www.google.com/maps/contrib/110733936094314767789/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GhauSzr9ugl3tzesho5GUq20zREA5h7M5zmD3Ws=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 1,
+            "relative_time_description" : "8 months ago",
+            "text" : "It's an ugly dump!",
+            "time" : 1583260701
+         },
+         {
+            "author_name" : "Keith Adams",
+            "author_url" : "https://www.google.com/maps/contrib/106040975127282553105/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GhvlSiK8zLjcsiyknVa9pSGcjJuU43xIBRQKTAQ=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating" : 4,
+            "relative_time_description" : "a year ago",
+            "text" : "Good service!",
+            "time" : 1559049011
+         }
+      ],
+      "types" : [ "tourist_attraction", "park", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=12831795625968712283",
+      "user_ratings_total" : 36,
+      "utc_offset" : -300,
+      "vicinity" : "87-91 Schenectady Avenue, Brooklyn",
+      "website" : "http://www.nyrp.org/Parks_and_Gardens/Community_Gardens/Brooklyn/Imani_Community_Garden"
+   },
+   "status" : "OK"
+}

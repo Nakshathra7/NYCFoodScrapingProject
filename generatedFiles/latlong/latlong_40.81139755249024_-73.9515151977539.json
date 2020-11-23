@@ -1,0 +1,155 @@
+{
+   "plus_code" : {
+      "compound_code" : "R26X+H9 New York, NY, USA",
+      "global_code" : "87G8R26X+H9"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "William B. Washington Memorial Garden",
+               "short_name" : "William B. Washington Memorial Garden",
+               "types" : [ "establishment", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "321",
+               "short_name" : "321",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West 126th Street",
+               "short_name" : "W 126th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10027",
+               "short_name" : "10027",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "William B. Washington Memorial Garden, 321 W 126th St, New York, NY 10027, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8113694,
+               "lng" : -73.9515978
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.81271838029149,
+                  "lng" : -73.95024881970851
+               },
+               "southwest" : {
+                  "lat" : 40.8100204197085,
+                  "lng" : -73.95294678029151
+               }
+            }
+         },
+         "place_id" : "ChIJG2gXcuH1wokRKh-aC8qNkqc",
+         "plus_code" : {
+            "compound_code" : "R26X+G9 New York, NY, USA",
+            "global_code" : "87G8R26X+G9"
+         },
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "125 Street Station",
+               "short_name" : "125 Street Station",
+               "types" : [
+                  "establishment",
+                  "point_of_interest",
+                  "subway_station",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10027",
+               "short_name" : "10027",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "125 Street Station, New York, NY 10027, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8107894,
+               "lng" : -73.95259279999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8121383802915,
+                  "lng" : -73.95124381970849
+               },
+               "southwest" : {
+                  "lat" : 40.8094404197085,
+                  "lng" : -73.9539417802915
+               }
+            }
+         },
+         "place_id" : "ChIJN4NNvmz2wokR0Qst5XlgrUQ",
+         "plus_code" : {
+            "compound_code" : "R26W+8X New York, NY, USA",
+            "global_code" : "87G8R26W+8X"
+         },
+         "types" : [
+            "establishment",
+            "point_of_interest",
+            "subway_station",
+            "transit_station"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

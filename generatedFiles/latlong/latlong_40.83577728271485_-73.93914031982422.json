@@ -1,0 +1,82 @@
+{
+   "plus_code" : {
+      "compound_code" : "R3P6+88 New York, NY, USA",
+      "global_code" : "87G8R3P6+88"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Morris-Jumel Community Garden",
+               "short_name" : "Morris-Jumel Community Garden",
+               "types" : [ "establishment", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "457",
+               "short_name" : "457",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West 162nd Street",
+               "short_name" : "W 162nd St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10032",
+               "short_name" : "10032",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Morris-Jumel Community Garden, 457 W 162nd St, New York, NY 10032, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8357028,
+               "lng" : -73.9392213
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8370517802915,
+                  "lng" : -73.93787231970849
+               },
+               "southwest" : {
+                  "lat" : 40.8343538197085,
+                  "lng" : -73.94057028029151
+               }
+            }
+         },
+         "place_id" : "ChIJMRmcA4P2wokRjKMXGSjnhQ4",
+         "plus_code" : {
+            "compound_code" : "R3P6+78 New York, NY, USA",
+            "global_code" : "87G8R3P6+78"
+         },
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

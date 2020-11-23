@@ -1,0 +1,170 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "35-69",
+            "short_name" : "35-69",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "69th Street",
+            "short_name" : "69th St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Jackson Heights",
+            "short_name" : "Jackson Heights",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Queens",
+            "short_name" : "Queens",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Queens County",
+            "short_name" : "Queens County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11372",
+            "short_name" : "11372",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e35-69 69th St\u003c/span\u003e, \u003cspan class=\"locality\"\u003eQueens\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11372\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "35-69 69th St, Queens, NY 11372, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.7498213,
+            "lng" : -73.8964328
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.75152958029151,
+               "lng" : -73.89519426970851
+            },
+            "southwest" : {
+               "lat" : 40.74883161970851,
+               "lng" : -73.89789223029152
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name" : "JH SCRAPS",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 11:00 AM – 1:00 PM",
+            "Sunday: Closed"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1200,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107883532516653506619\"\u003eAshley Cruce\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwK5wxLx73ayuCA6vy5YbBX5iGik82pzz9_5cHH6Uhv30qv20AxMnfRFb4pg-PkSxoAS9CmxgHDX9pRCXaCGa2yw9ScqcqWSdC4hPB6dvEo9zxWP4e5IU-NGmzyeZZpnz6qRIt1YysAAujzVxiDLidPeMW1DVAlFCFFGRFnZS4i69wNq",
+            "width" : 1800
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104836292345547376188\"\u003eEvie McKenna\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLs5Ab6IToCmmmBn60OuIQNKazAuH33yJLN8MMm-i1iQPNL7nNbTM-7zL9PYCfRoFEgHDAtpvQKbli0H6-tKIDcIbOIdVqArLP0fkQmGpAmGmtAb6_K3RArLiaxr8uGNKPzDzkPp3MraTtcIQH3kPgAfr5_co0cNwYaZm9zUpcvTT2_",
+            "width" : 2048
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104836292345547376188\"\u003eEvie McKenna\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLcjYhAX82QSW1KvBmkw41vL-qI4syxPabnr0yYQIaICA6BwCN6D8HfBTkg8QR5YXsV2VDmVfMxXk3llRrM3Zor6tZXh_bUo5MgjTWVMCHkttpI8qybhAOIjGxE2JBAFJfw4q_vzER3Iw0ZHmLp8Z3ueB1csbffp3zQCtbrV9dQauEb",
+            "width" : 2048
+         },
+         {
+            "height" : 1200,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107883532516653506619\"\u003eAshley Cruce\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIOmUvuBmIGDNtbRS35Pv6sEbMlrPx-WzBcWFH9CveECKqzYZv10trZ9YWfZxnV-gITEovIGRRyeBa-YWT8bpzbGT46KbiKxqB-_fxdnlb5FU42LCjj84dHkz6Qdm-xau16Hm-U3Uqfi3iU7eW_-xQv_QKGNuqakZW0gJ_sFH9yhHOF",
+            "width" : 1800
+         },
+         {
+            "height" : 1024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107883532516653506619\"\u003eAshley Cruce\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLvqZLjEfWLGFCGzreiGRG8NV6e1opZZgmJN72BK0-WN0fMRO8NrmmXPrFyZsdlJUNDX5ryy-Goot7xyLzf8Zgfv29YgPO_Pt-ODQz4ntNN7Ywev8PJyETEijOLFrGRL9PGYLy8ryMsHhtq8OdDLF11sbqW1gX0mhHrFd8vdvzIs2TJ",
+            "width" : 1024
+         },
+         {
+            "height" : 3648,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107883532516653506619\"\u003eAshley Cruce\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLN5EVPjfpQr7xScCLtFJism-3hmhkCecHLe4cuxnC3nM6EICMr47pC_5yuKLiho4LFq-P2B57SdxzGL_Ya9-CnA-ldw0HTvvZda9BHelejMRXmi4TuReT5h5QEJqAAlx1EhzFcDlQDqjwF4dFOnXM4X03D-_qtlNaoTWGF5gyHmv-z",
+            "width" : 5472
+         },
+         {
+            "height" : 1200,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107883532516653506619\"\u003eAshley Cruce\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKO6h1AN5RiFDufmw6kNanGUCNdXsicGkoIwcPsRFydXSFA-OMGh5LSF9LSYUs6j2NAfzqpqaWpz6CAjkw2HP510oFoWSlaIbgnAEtW9257iak1w-LuuN2CDFM6DlEIA8GhFjZiEd23LHjYbPSCJolvO917L1KlVTd_kaPzIjr8PI1o",
+            "width" : 1800
+         },
+         {
+            "height" : 480,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104836292345547376188\"\u003eEvie McKenna\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJQlAomfvRvdTAuYaxtQlECPTJW2K9BbmGz_7zvOqQN2D5PirSe5-XLhHrF3bznU_U4FGRcd1ooa-16iW2Qvz227fpbSsWfe2Ya0KuhbfeGrxwnJU3zKOtrJG1i3_2Ft3YJVL0c3sFNIE82bsrm0lr-lJ5oeDCeWz7ZJbSc0Xuqpaux",
+            "width" : 640
+         }
+      ],
+      "place_id" : "ChIJ8d2bSQRfwokRt1y1cK1lF0c",
+      "plus_code" : {
+         "compound_code" : "P4X3+WC New York, NY, USA",
+         "global_code" : "87G8P4X3+WC"
+      },
+      "reference" : "ChIJ8d2bSQRfwokRt1y1cK1lF0c",
+      "types" : [ "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=5122674896751910071",
+      "utc_offset" : -300,
+      "vicinity" : "35-69 69th Street, Queens",
+      "website" : "https://www.jhbg.org/2020/07/28/jh-scraps-reopens"
+   },
+   "status" : "OK"
+}

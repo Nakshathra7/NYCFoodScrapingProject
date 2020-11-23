@@ -1,0 +1,213 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "10003",
+            "short_name" : "10003",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10003\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "New York, NY 10003, USA",
+      "formatted_phone_number" : "(212) 878-7000",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.7239419,
+            "lng" : -73.9913057
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7247826802915,
+               "lng" : -73.98757040000001
+            },
+            "southwest" : {
+               "lat" : 40.7220847197085,
+               "lng" : -73.99255079999999
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "international_phone_number" : "+1 212-878-7000",
+      "name" : "2nd Avenue",
+      "photos" : [
+         {
+            "height" : 3066,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101580679594295106213\"\u003eJay Kindell\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKh3-T7Z4M2QZHJWWD5UIjg-lf7ncBuemj7Msiw7XGT-HfSeGmYl3EZWwuXVGI1Gt-qGG7GHW7fkr2zwc-ukEDSC8owpP_d-GAnO43rlgSnxb9m7WnaloqddFnZH98-0mUUkVbg2iD2V-iMVVCr6I5FqtOlGNDjRgJC8aoC6mLPBI0",
+            "width" : 4600
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106928820519990684584\"\u003eRuss R\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIpp9fbrD0fDtvdYp0xQLPq5SPkVZE71ndfOIsK-k1cLxyBfU9RVgkmVU2m706YjI3DqiAUddP3zXjT56WnRUDtVqGvsvWCE6WuUdmqPMSvDnu09HBEdr-7Jo7exQDhIqbtkb1Adk_HMeRD829e5_N2JmSLbmnLs8NO_hNk1aHfOFfu",
+            "width" : 3024
+         },
+         {
+            "height" : 1200,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109968714222653962765\"\u003eAnthony Giudice\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIrzxRT0W_e924tuNpRwRTCwdy6dXv-kkwrIjZONIyIQCeK0Msmj3Fvb-s_apmnsyJsCatPttmsjXtfdOI2lshW5QLCTMsVvixTHjrxiru9mrwnrB6GeX1llusYrDubDCWcJMta3YP8q_7-mI4eMtqTIGKzoY6RV2EmgpiGgKEdyQ5D",
+            "width" : 1600
+         },
+         {
+            "height" : 3066,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101580679594295106213\"\u003eJay Kindell\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLb-_cmst31gLv6tBjPILN6xDwTj3hcAkoo4RndeDEuQTcvfOAbgoNjYYzjyHAX-7W-uL4KIGMHaiS6uUOiHfGwDbDHuOw7mkAeZ1x8Jv4zD8SmHxxGR-orfEydmmlrhCpzZqDdiKXAxXM_sXGuQtZQDA8kxDT50m7s5qGsET_WXe0",
+            "width" : 4319
+         },
+         {
+            "height" : 833,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102270916178756585218\"\u003eStephan Grütering\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKHUPzj2ADtywM8m1pgbQ5qQA6MSQhx_2ljr_px6g0IBoBlzmMBnqvjDQtsE92tV0s04w3gkDyNr0lFPIiHpUzOKiVEYW3B6wqsxAr31SZ7l05QmcxeRDlPk8r8E7hUdpfG4Mum9XMx21kEmsm9rEZ5Vs4Feov3_MO89TPEiHdoDcLg",
+            "width" : 800
+         },
+         {
+            "height" : 1236,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100209464188843000129\"\u003eMartins Adewole\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJk5df9isAHi1iAr2Do9dSnj4vuE5sIWYAOoohLVpfg79uGrWGp5eOHx3hCDLq9YrjLaxMGvVZEiAkVmnr3p6pdEHiiUGHIsl19p923YetpkOKv9qc2AxKlAq8N2DZCK57vjJH9tehMAyqlURaIiinZywhOEz6fCcrafCuN_TgvaQ7V",
+            "width" : 2543
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115095695647677579516\"\u003eYat Sang Yan\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKOKdltZv5_foT0jv-BcUfrzpFR1iF2AkeBcN_44EsuWzSMNCKOCLWgx0LdeBiZ1egAoAPQ5RWIxpl4v-m8P4JlnDHwUXof9Smqhvh8QR5SFx1FB7qHK_dyZ-tKQn7hoL8qXRD8zvVPaw-Q60ZdV-gi9sYAJ0F7xTb-uU3CVj5tu8i0",
+            "width" : 4032
+         },
+         {
+            "height" : 2543,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100209464188843000129\"\u003eMartins Adewole\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLeaM6DtCOLcQyKNZ45ZPjXLbl8zTCicJAyYYmudDYtrwi5sEs7-LF6MQLW80PKC6TM3TdgandKzLTiW-_p7fpqsRoTVajYzzAajiWq2U9DC4LkkGASdQeJ3LLPDwxjfL42sVdNmIxdLy3ZS_hdv2_UT9ixuyqcPCPHTPFZr-oAPXnK",
+            "width" : 1236
+         },
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117057292331591226867\"\u003eAndrea Mastromatteo\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIz2VYm_SK4MkoFwVPmWoeqopIEleiuqR53-Uj2TrqQQlXCBfn76knEwMgcEJNzgg-XJzzTF_pjuZazhyZu9SRbB1TjeoFoe8fsHjlJmSdYTjoikOsRdsc5s4l5UvZbZ6Ks17-aQOabteUeh6PgPjOpf0X1T4uSWtHAdyglj2RcuyI5",
+            "width" : 4608
+         },
+         {
+            "height" : 2543,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100209464188843000129\"\u003eMartins Adewole\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwK780RVapsHCMsQGq5_GLp26Otzb70x3Rwflss5HyI5lKGGEaiuOeH4R9Z-AXLTDtpWKKD9qgkuCTu9L954n0seZF483GYCvxf_-t_alkERCUJ4hyWDF0MjSDOhZly2wW2Mms2xRMIrOJKKBFI208SR7eG0LGQNtCedd5JE_7hfBlL4",
+            "width" : 1236
+         }
+      ],
+      "place_id" : "ChIJhfzlZYRZwokRLsR-L1xQc4E",
+      "plus_code" : {
+         "compound_code" : "P2F5+HF New York, NY, USA",
+         "global_code" : "87G8P2F5+HF"
+      },
+      "rating" : 3.3,
+      "reference" : "ChIJhfzlZYRZwokRLsR-L1xQc4E",
+      "reviews" : [
+         {
+            "author_name" : "Raphael Rivas",
+            "author_url" : "https://www.google.com/maps/contrib/104038744742703255857/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-rtRsxATdwro/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmI5FW0BIwNQsaqH7g4tWAzqJwl6A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 3,
+            "relative_time_description" : "5 months ago",
+            "text" : "Nothing special about this train station although it is where the holiday train stunts during the holiday season from Thanksgiving to Christmas.",
+            "time" : 1590878726
+         },
+         {
+            "author_name" : "Mark Mayo",
+            "author_url" : "https://www.google.com/maps/contrib/103992732519049111744/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GhUmN1i4pChqdg3eSvLx2cA-5Cmj1j4EAMUlZ-Q0GI=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating" : 3,
+            "relative_time_description" : "a month ago",
+            "text" : "only available train F and 2nd Ave subway station is good location for finding many good bars, great restaurants, wondeful deli groceries shop, whole foods market",
+            "time" : 1603236713
+         },
+         {
+            "author_name" : "Paulo A Gauna Guzman",
+            "author_url" : "https://www.google.com/maps/contrib/111780598683134433037/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GgFTBLwq_nr4bPFTCMd4MM2hBKX76HjNOJEeGneDyk=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating" : 5,
+            "relative_time_description" : "9 months ago",
+            "text" : "Great station",
+            "time" : 1582267240
+         },
+         {
+            "author_name" : "Jay Santiago",
+            "author_url" : "https://www.google.com/maps/contrib/112776849891208886356/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GjURi246CDJVCj7uXNki74p065YJMuUdhEUFFj9=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating" : 1,
+            "relative_time_description" : "9 months ago",
+            "text" : "A lot of homeless roam here.it's dirty.",
+            "time" : 1582582602
+         },
+         {
+            "author_name" : "Michael Connor",
+            "author_url" : "https://www.google.com/maps/contrib/105375451910284561684/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GiyVkcm22XohknrpHT41U4YSTaj7zPJXlE6gTuIKQ=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "NORTH OR SOUTH, UPTOWN OR DOWNTOWN, two Baroque bad boys dominated this F line stop fleetingly Friday. Watch the videos and appreciate the violinist and cellist playing across double tracks, cresting as the rails signaled the approach of a Brooklyn-bound F surely carrying boom-box buskers endangering passengers.",
+            "time" : 1563115064
+         }
+      ],
+      "types" : [
+         "subway_station",
+         "transit_station",
+         "point_of_interest",
+         "establishment"
+      ],
+      "url" : "https://maps.google.com/?cid=9327887610078479406",
+      "user_ratings_total" : 83,
+      "utc_offset" : -300,
+      "vicinity" : "United States",
+      "website" : "http://web.mta.info/nyct/maps/subway_map.pdf"
+   },
+   "status" : "OK"
+}

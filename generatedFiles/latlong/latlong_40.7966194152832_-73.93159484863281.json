@@ -1,0 +1,145 @@
+{
+   "plus_code" : {
+      "compound_code" : "Q3W9+J9 New York, NY, USA",
+      "global_code" : "87G8Q3W9+J9"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pleasant Village Community Garden",
+               "short_name" : "Pleasant Village Community Garden",
+               "types" : [ "establishment", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "342",
+               "short_name" : "342",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Pleasant Avenue",
+               "short_name" : "Pleasant Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10035",
+               "short_name" : "10035",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pleasant Village Community Garden, 342 Pleasant Ave, New York, NY 10035, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7966543,
+               "lng" : -73.931782
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7980032802915,
+                  "lng" : -73.9304330197085
+               },
+               "southwest" : {
+                  "lat" : 40.7953053197085,
+                  "lng" : -73.93313098029151
+               }
+            }
+         },
+         "place_id" : "ChIJo1vzyPz1wokRtvdmpPGBezc",
+         "plus_code" : {
+            "compound_code" : "Q3W9+M7 New York, NY, USA",
+            "global_code" : "87G8Q3W9+M7"
+         },
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pleasant Av/E 120 St",
+               "short_name" : "Pleasant Av/E 120 St",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10035",
+               "short_name" : "10035",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pleasant Av/E 120 St, New York, NY 10035, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.79743,
+               "lng" : -73.93135049999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.79877898029149,
+                  "lng" : -73.93000151970848
+               },
+               "southwest" : {
+                  "lat" : 40.7960810197085,
+                  "lng" : -73.93269948029149
+               }
+            }
+         },
+         "place_id" : "ChIJoaPXS-P1wokRKhpPNPCWc1M",
+         "plus_code" : {
+            "compound_code" : "Q3W9+XF New York, NY, USA",
+            "global_code" : "87G8Q3W9+XF"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      }
+   ],
+   "status" : "OK"
+}

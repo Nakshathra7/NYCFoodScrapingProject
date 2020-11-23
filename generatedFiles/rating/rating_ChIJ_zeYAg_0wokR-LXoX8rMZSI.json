@@ -1,0 +1,302 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "3703",
+            "short_name" : "3703",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Harlem River Drive",
+            "short_name" : "Harlem River Dr",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10034",
+            "short_name" : "10034",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e3703 Harlem River Dr\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10034\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "3703 Harlem River Dr, New York, NY 10034, USA",
+      "formatted_phone_number" : "(212) 333-2552",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.8573445,
+            "lng" : -73.9221203
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.8589716802915,
+               "lng" : -73.92078336970849
+            },
+            "southwest" : {
+               "lat" : 40.8562737197085,
+               "lng" : -73.92348133029149
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "international_phone_number" : "+1 212-333-2552",
+      "name" : "Swindler Cove",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 AM – 8:00 PM",
+            "Tuesday: 8:00 AM – 8:00 PM",
+            "Wednesday: 8:00 AM – 8:00 PM",
+            "Thursday: 8:00 AM – 8:00 PM",
+            "Friday: 8:00 AM – 8:00 PM",
+            "Saturday: 8:00 AM – 8:00 PM",
+            "Sunday: 8:00 AM – 8:00 PM"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 2592,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109722982926022135902\"\u003eJean Coster\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJhBd-tne5DjqoBOyVM9aKtxFasDpElnaNmHo29lAm5UVNax0_i_pqeuxOyaE1qEazqwcd67znY-pKJXFoqNRThzaBgi7T4EawAgb-qezddsDgqkn-F4EgA3Wo7eL10HUFyuVZQgRPj_7lqsPK9TZQAm_YERpaOtDsxWgvs5lBmzu5_",
+            "width" : 4608
+         },
+         {
+            "height" : 720,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111612788041145794719\"\u003ePaul Wong\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIkRqobzZFqODPCgIPoaIJQ0JPL8Z3qEVp50D-maBpRLfqhAw44f24lHCjLOrpfw_fKS1G70YP1U1T6vEpPuPF6kMFHPoNCXar58OzOPqzynGLz83lcEG2LixrnDcXczRqZ8PjC2BW2mpnZ3f4NDfjneCIUHN4LTEgg2OFfF8RcfgNi",
+            "width" : 960
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112483472506510966538\"\u003eMonica Matos\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIhRmrMCEjikYFgPOYg6tDrbGDk1rnLmWpjywsccDBhDgPtJzmiYGiIT80q0Jck5dHNTzpC6FSeW69L_jZoANROP2EbfnQnOniP5j0KXidVUlESUccrHhhSjGgPo0Uw4xeIjqsy-P065zSBOP_9S_on_2TQwgZ_1CjCPiS07GXtm-Rg",
+            "width" : 4032
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112483472506510966538\"\u003eMonica Matos\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJZ0dgSNul1YDm-D2C7Z3hDnApURpT2CvPCqHMsLrja8QoTKAM3eHg2fHDRso6K_IDMJOyk8Bto41F7TTNAvj8rvZNVrfrwvUvnZAifd2rY0beJ4yXxNOJisbPUlxk1eW8X8w9nYQnzrInigf8C9o9XqpzxYYZEA68jAewW_Q9SlooQ",
+            "width" : 4032
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117122455388439062000\"\u003eEnid P.\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIHUF1aEsMT5lSYE3h0yBC7TEolkLKQ2IZPcntADYTrypH_yNTMIBbMTrsAK0PyDLEF0kh5BPQH0fjUcdPxLHP7q45ApFjc3Jz5zor_sNr248p0DUAoCSzv82gIYBYJsqHDVU28nLkfKwn2dpsjQrFZOnbF-KHueOeoFagTxkP4ahwX",
+            "width" : 4032
+         },
+         {
+            "height" : 2340,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105372386932621448050\"\u003eCharles Castro\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwK-bRq8gBZ9kguURa5e3O3Q3rbfCST1atOn2gaqXPOeGjlT-DBXawfw5yhTcSY6qZ1yYFdfjUYQ3RqAae6XFgqOSeLV2zaB88FTMM-jwlPB8dJ4uEuYXYbKF2WSLL4MNzuLpi2oafnKtG77yhSSuyFXfzQ13XPThwpr4STSAyT4kc2x",
+            "width" : 4160
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112483472506510966538\"\u003eMonica Matos\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJFh1LH0KIyCQhnPMVpdLiPB5DsKVC74KGNEsFScAcM6P5LWRDKHaIMh9qtia_ZI3oDyArofywsi_crHuQhMqOoMrw_-snuhd-BIXe89kNaEdo-n_7WDZmXHJiGYg1wCbxFC3NjeROureBMbcOtVzEVxEtDI2H517efnDKckdeVRtzD",
+            "width" : 4032
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102497967483655216828\"\u003eGregory Bonifacio\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJCosycTUCOSZxnAxzItK5waiQK1eaLIyqsYh3LTAIDbGbwvdaMF8teqTHc2omZEpFYfn5AqLhLkc9m5ZKeVGuzwCiJusT3fuC--0AF93Pd6DeAA9iy0tTNqIy1z884HpGhvsh1NRJJT-tqOd5lU5gljNwkVijFUslaYz6GhQK2zEfx",
+            "width" : 3024
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111905538255846364268\"\u003eElbio Correa\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLWZ3kGZRoq7EtnKJLfaev3puqgIZYAvaw39ybl_gI5r2ECyt5V6shbDUO7oNpyl_ndFKux8YUyKvGvQ8WpWai_QKxlu9awuvSG6ojE7jX99WHrc4qNJGprJtOZs2FS6hGqFkJiBUkaLjPgQ729jSc91bsKUuTtTjepnIl1m34Mfs-k",
+            "width" : 3024
+         },
+         {
+            "height" : 2340,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105372386932621448050\"\u003eCharles Castro\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKX73IARGio4VgHR_9ErdQTFqxa6LStTV3nyXBESh2U5kkL_ser4N0TU92Khr9uGJ9ybaqtJvYOGFvM71eEIRQ5wiUVzjnHNJfu0v842V5chpTcd5N6RiEaMB2LrgANZWTphkAwgtg4fqjTsECoQnSW6hnv5ClPPtSqBhb_LpMRNCKE",
+            "width" : 4160
+         }
+      ],
+      "place_id" : "ChIJ_zeYAg_0wokR-LXoX8rMZSI",
+      "plus_code" : {
+         "compound_code" : "V34H+W5 New York, NY, USA",
+         "global_code" : "87G8V34H+W5"
+      },
+      "rating" : 4.5,
+      "reference" : "ChIJ_zeYAg_0wokR-LXoX8rMZSI",
+      "reviews" : [
+         {
+            "author_name" : "Tiffany Chen",
+            "author_url" : "https://www.google.com/maps/contrib/113055537459751516090/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-mZTI-yD4jQA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl1bziEq9stMArBi1Rva5DFW62mYQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "a month ago",
+            "text" : "I absolutely loved taking a walk through here. The view of the river and the area were perfect. Definitely a great place to hang out. Definitely looking to come back in the future to hang out and also when the boathouse is open.",
+            "time" : 1602285405
+         },
+         {
+            "author_name" : "Bob DeAmbra",
+            "author_url" : "https://www.google.com/maps/contrib/116462034653074550907/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GgjbbfioGCwo3kqo4Sa20LoTr48I244GFAmJtTH_Ks=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "in the last week",
+            "text" : "Love this little hidden nook and it's babbling brook.",
+            "time" : 1605472882
+         },
+         {
+            "author_name" : "djfranklaser",
+            "author_url" : "https://www.google.com/maps/contrib/100156997312335860081/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GhDBirROLdcffHPl-LV95nBqObWW4AGoJmg7J5IIw=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating" : 4,
+            "relative_time_description" : "2 months ago",
+            "text" : "Peaceful and relaxing",
+            "time" : 1599504549
+         },
+         {
+            "author_name" : "Jose Marquez",
+            "author_url" : "https://www.google.com/maps/contrib/117606218579553483268/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GhxXLJKjKkE-HbWbAZznkB3M_ZMJze5zguzyTbc2g=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating" : 5,
+            "relative_time_description" : "2 years ago",
+            "text" : "The perfect place to find quiet among all the noise of the city. I always come here during the summer to practice yoga and meditation. It is also great for birthday parties. It is well kept, clean and peaceful. If you live in Inwood this could be your perfect place to recharge your body with energy and harmony.",
+            "time" : 1541115018
+         },
+         {
+            "author_name" : "Paul Wong",
+            "author_url" : "https://www.google.com/maps/contrib/111612788041145794719/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GhghfZ-OraciXvgHMhmkIpkZiVRxdp-8RSuGim4cQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating" : 4,
+            "relative_time_description" : "4 years ago",
+            "text" : "Pretty little park squeezed in between the Harlem River and Harlem River Drive. Despite being very compact, there's a children's garden to educate kids about gardening, a small pond and tiny waterfall, riverfront path and small patch of wetlands. There is also a year-round compost drop-off bin for anyone in the neighbourhood who's interested (8A - 4P or 6P, depending on time of year). Definitely nice to have!",
+            "time" : 1477177683
+         }
+      ],
+      "types" : [ "tourist_attraction", "park", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=2478612339501872632",
+      "user_ratings_total" : 73,
+      "utc_offset" : -300,
+      "vicinity" : "3703 Harlem River Drive, New York",
+      "website" : "https://www.nyrp.org/green-spaces/park-details/sherman-creek-park/Park_Overview"
+   },
+   "status" : "OK"
+}

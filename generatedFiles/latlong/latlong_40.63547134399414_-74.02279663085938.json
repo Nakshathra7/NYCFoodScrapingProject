@@ -1,0 +1,204 @@
+{
+   "plus_code" : {
+      "compound_code" : "JXPG+5V New York, NY, USA",
+      "global_code" : "87G7JXPG+5V"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "6753",
+               "short_name" : "6753",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "4th Avenue",
+               "short_name" : "4th Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bay Ridge",
+               "short_name" : "Bay Ridge",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11220",
+               "short_name" : "11220",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "5351",
+               "short_name" : "5351",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "6753 4th Ave, Brooklyn, NY 11220, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.635498,
+               "lng" : -74.0228211
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6368469802915,
+                  "lng" : -74.02147211970851
+               },
+               "southwest" : {
+                  "lat" : 40.6341490197085,
+                  "lng" : -74.02417008029151
+               }
+            }
+         },
+         "place_id" : "ChIJzzw3PVFFwokRWsc887ntj58",
+         "plus_code" : {
+            "compound_code" : "JXPG+5V Brooklyn, NY, USA",
+            "global_code" : "87G7JXPG+5V"
+         },
+         "types" : [ "church", "establishment", "place_of_worship", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bay Ridge Av Station",
+               "short_name" : "Bay Ridge Av Station",
+               "types" : [
+                  "establishment",
+                  "point_of_interest",
+                  "subway_station",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Bay Ridge",
+               "short_name" : "Bay Ridge",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11220",
+               "short_name" : "11220",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bay Ridge Av Station, Brooklyn, NY 11220, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.634968,
+               "lng" : -74.023376
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6363169802915,
+                  "lng" : -74.0220270197085
+               },
+               "southwest" : {
+                  "lat" : 40.6336190197085,
+                  "lng" : -74.02472498029151
+               }
+            }
+         },
+         "place_id" : "ChIJmfEbJlFFwokRVTywJJGnlyM",
+         "plus_code" : {
+            "compound_code" : "JXMG+XJ New York, NY, USA",
+            "global_code" : "87G7JXMG+XJ"
+         },
+         "types" : [
+            "establishment",
+            "point_of_interest",
+            "subway_station",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Island",
+               "short_name" : "Long Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Island, New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            },
+            "location" : {
+               "lat" : 40.789142,
+               "lng" : -73.13496099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            }
+         },
+         "place_id" : "ChIJy6Xu4VRE6IkRGA2UhmH59x0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

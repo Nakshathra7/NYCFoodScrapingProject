@@ -1,0 +1,116 @@
+{
+   "plus_code" : {
+      "compound_code" : "M2FJ+23 New York, NY, USA",
+      "global_code" : "87G8M2FJ+23"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Flatbush Avenue",
+               "short_name" : "Flatbush Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11215",
+               "short_name" : "11215",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Prospect Park West, Flatbush Ave, Brooklyn, NY 11215, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6725156,
+               "lng" : -73.9698234
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.67386458029149,
+                  "lng" : -73.96847441970849
+               },
+               "southwest" : {
+                  "lat" : 40.6711666197085,
+                  "lng" : -73.97117238029151
+               }
+            }
+         },
+         "place_id" : "ChIJ1dRvFQhbwokRZ8GQG3saCrU",
+         "plus_code" : {
+            "compound_code" : "M2FJ+23 Brooklyn, NY, USA",
+            "global_code" : "87G8M2FJ+23"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Island",
+               "short_name" : "Long Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Island, New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            },
+            "location" : {
+               "lat" : 40.789142,
+               "lng" : -73.13496099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            }
+         },
+         "place_id" : "ChIJy6Xu4VRE6IkRGA2UhmH59x0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

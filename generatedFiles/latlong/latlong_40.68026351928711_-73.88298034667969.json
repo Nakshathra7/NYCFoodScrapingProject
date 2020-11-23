@@ -1,0 +1,131 @@
+{
+   "plus_code" : {
+      "compound_code" : "M4J8+4R New York, NY, USA",
+      "global_code" : "87G8M4J8+4R"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Essex Street Community Garden",
+               "short_name" : "Essex Street Community Garden",
+               "types" : [ "establishment", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "3030",
+               "short_name" : "3030",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Fulton Street",
+               "short_name" : "Fulton St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cypress Hills",
+               "short_name" : "Cypress Hills",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11208",
+               "short_name" : "11208",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Essex Street Community Garden, 3030 Fulton St, Brooklyn, NY 11208, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.680249,
+               "lng" : -73.8829552
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.68159798029151,
+                  "lng" : -73.88160621970849
+               },
+               "southwest" : {
+                  "lat" : 40.67890001970851,
+                  "lng" : -73.88430418029151
+               }
+            }
+         },
+         "place_id" : "ChIJEz05dbZdwokRypvehucYKSY",
+         "plus_code" : {
+            "compound_code" : "M4J8+3R Brooklyn, NY, USA",
+            "global_code" : "87G8M4J8+3R"
+         },
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Island",
+               "short_name" : "Long Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Island, New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            },
+            "location" : {
+               "lat" : 40.789142,
+               "lng" : -73.13496099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            }
+         },
+         "place_id" : "ChIJy6Xu4VRE6IkRGA2UhmH59x0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

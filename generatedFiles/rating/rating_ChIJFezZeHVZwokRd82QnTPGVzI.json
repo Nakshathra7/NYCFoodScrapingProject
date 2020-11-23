@@ -1,0 +1,312 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "190",
+            "short_name" : "190",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Avenue B",
+            "short_name" : "Avenue B",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10009",
+            "short_name" : "10009",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e190 Avenue B\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10009\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "190 Avenue B, New York, NY 10009, USA",
+      "formatted_phone_number" : "(212) 845-9896",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.72802419999999,
+            "lng" : -73.97937189999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.72931543029149,
+               "lng" : -73.97791281970849
+            },
+            "southwest" : {
+               "lat" : 40.72661746970849,
+               "lng" : -73.98061078029151
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "international_phone_number" : "+1 212-845-9896",
+      "name" : "Ama Raw Bar",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1200"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1200"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 4:00 – 10:00 PM",
+            "Tuesday: 4:00 – 10:00 PM",
+            "Wednesday: 4:00 – 10:00 PM",
+            "Thursday: 4:00 – 10:00 PM",
+            "Friday: 4:00 – 10:00 PM",
+            "Saturday: 12:00 – 10:00 PM",
+            "Sunday: 12:00 – 3:00 PM, 4:00 – 10:00 PM"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 4000,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103075033678440825357\"\u003eAma Raw Bar\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKhnMHasD-pOV_ZkIsfECMX5_OoIDF1-neIYUdm_MtwQFCwpber9lfqwxgMl3m3mAOZfyRWeWcTOThi0oV65uazxE28sRjFHfkebMZXdiY46znQ9llHdCAhe_u6O2mHAIlvdxmVkat_Ha-f0rn_CYRjY5cKz3DxJp1RZ457yADqVtsY",
+            "width" : 6000
+         },
+         {
+            "height" : 4000,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103075033678440825357\"\u003eAma Raw Bar\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJ3qQ-MAUeD0UuTSVR9xK4_yuxoGeSI0VRGCkQb5j3IzokyHqXW5dJfL39sW63rKmjaJLvP4dNN-oXU_NrZcmARuhyguM345RXO4JhqwCc5xsYSigRR6i39QfRp-vysvOeaEZOM_hIu7yHwSbWd5VoQWXI-Bp5TEN436xhboS75CGo4",
+            "width" : 6000
+         },
+         {
+            "height" : 4000,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103075033678440825357\"\u003eAma Raw Bar\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLWs854qzPIvkQcfKa1k5F1yxKDMEdOVcY41enGe_hN1gxdW4gdQycoOicL_F__v-w9e7NoAbnsuX6rmOnt6SCHrJIA0iWob0DyENl8oTCcgItU48RJXLL5LulYMVt0YTXYg7jL-7o3ulpCg2mg_CT5lVnN5oo5Ja1Nbrn50o2ZxEwk",
+            "width" : 6000
+         },
+         {
+            "height" : 3080,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103075033678440825357\"\u003eAma Raw Bar\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwI8jjlqYI7q1VRM4nxaw8dijoE0Ndf_fcrg4Qo0V3uMW8PlHzDJt4JB2JwAFoVlOu_NGlp00ie4RxRRx0gb-m4JOF6Jo26AcywVHKnIJE6Rph-KFHHp-n_sZhhufsIuJql61PxAW8zG-0G9Vu7H3-ahh33hJzXtzckgzSYo3hxWXygw",
+            "width" : 4619
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103075033678440825357\"\u003eAma Raw Bar\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIy_YoRuBAzkA0WSC5U3xidRfRHn1CeFvfj5gMyfxp6bXuSHSAZL3T5UDYxLPckWdKs31mrs4-l4g2Zi-_PaRy1dBGlPfaiYh3Zw1XxjUSJflQiEF2E3hXGYX_Ng-lYtR8QgnEZ9Hlt1bZecanM-Z7XPGyrZ_G4ckMzr0Xok8tmIjHR",
+            "width" : 2304
+         },
+         {
+            "height" : 4858,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103075033678440825357\"\u003eAma Raw Bar\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLhrNjyengiqRpe-ViWD-nHUHVoWmSKs9-2EMf0rl2k5P6X9RFGnW91gwiqaytpP0s5ETNb6IFTbin-bvhZhIwIAn6HhvqGNnTzSSj5hnl6vhxFdPMsEinmwO53wg3RUA2a1dXeCJu3p73Jly2m_I_kzadw4LLFarJzdiDhUNb2sTdG",
+            "width" : 3701
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103075033678440825357\"\u003eAma Raw Bar\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLvQZS76eDOdX5_3oNgC7dZsQTuJCRFVwl2MYSP6aOT6qqzplMjmzESJhfX_UzsNwtnbNTKhS9ct0bFGRlFc5N_wDixgn0nkSlPfC72-m4UQkkZpGIATXIAmwoZeu1Wc7rHpsDQU8W2lym2zyQs3DTrnwDpXZ5_hHthLEBwgrtCa9Bk",
+            "width" : 2304
+         },
+         {
+            "height" : 1537,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103075033678440825357\"\u003eAma Raw Bar\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwL83tMDapyZbIdo_bnlnAaM9Ij9XjDnsyS4My7XG0fIAA8xyExh37KX0NjX8vFd2pn6kGdVCBiY5qM395Z8P6IcNmJAex-8wZ4T7uIkYVp2-ouLJKU1iSaPfay7o1B5P8_SRWtOz-s8DtUi4m9PEBweErHwPQpUmC9IMvf0TxwAokLD",
+            "width" : 2305
+         },
+         {
+            "height" : 3000,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114176638878150976604\"\u003eOzzie Henderson\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIQ99f3rhNgRUQfrrVMJnXKDebr0weROUtK27ddyi3wANe8fxgM6kkMlJ_VgpjRF6qMXdnDfcbHOvyzd1DCvbJhXTCW6KR-3tN11dNq79JocFVaDKmhvK0F8hkw2-0Uekt2Bewzb89GvuZ22inCqQ90iLDQtSFM8mooawC02XIwTO8W",
+            "width" : 4000
+         },
+         {
+            "height" : 1537,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103075033678440825357\"\u003eAma Raw Bar\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKmPSJDxinqRod5i4eUBbRG_d1sA59iddUe80GR-qFO70AeODuC6ojFuWsWALjtdKxQ0WoU53c_KD4eRFmL0ASNIswjju_0TdZsc_6ZuqnmbJnual8jgs4ycRAmgsz47MRGRaQkdWEUplxBRN1fYWGdn_ihlyOixo8PL5457ok-scCD",
+            "width" : 2305
+         }
+      ],
+      "place_id" : "ChIJFezZeHVZwokRd82QnTPGVzI",
+      "plus_code" : {
+         "compound_code" : "P2HC+67 New York, NY, USA",
+         "global_code" : "87G8P2HC+67"
+      },
+      "rating" : 5,
+      "reference" : "ChIJFezZeHVZwokRd82QnTPGVzI",
+      "reviews" : [
+         {
+            "author_name" : "Luke Camery",
+            "author_url" : "https://www.google.com/maps/contrib/106810484666681762226/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-ZrzHrBmwzy4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnomDkbrwrBxAoConshnKeZ0_P85g/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "a month ago",
+            "text" : "Favorite happy hour in the neighborhood, probably in the city. The drinks are unique and always delightful. The oysters never disappoint. The crispy rice tuna appetizer always delights. The mussels are really exceptional as well. The service is great and I cannot recommend them highly enough",
+            "time" : 1602351392
+         },
+         {
+            "author_name" : "C N",
+            "author_url" : "https://www.google.com/maps/contrib/110115988270241785029/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh5.googleusercontent.com/-RzZRwkCQM-M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmoOxPyPair8Gp5BFTwwLijpF95mQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "2 months ago",
+            "text" : "We came here for a birthday dinner while sitting outdoors. We got the seaweed salad, crispy tuna, fried oyster bao, lobster bao, chicken wings, Branzino with kimchi rice, mussels with yucca fries, and ice cream mochi. My favorites were the fried oyster bao, kimchi rice, and vanilla mochi. Everything was beyond delicious and the staff provided excellent service. Can’t wait to come back here again! A spot to remember.",
+            "time" : 1599230195
+         },
+         {
+            "author_name" : "Charlie O'Neill",
+            "author_url" : "https://www.google.com/maps/contrib/109194893355228998381/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GjDzY9-B7jQ7L8emX0NA78RPq5_UNF8pwb3SbmuPg=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 5,
+            "relative_time_description" : "3 months ago",
+            "text" : "Great outdoor seating on Ave B which is closed down. Really nice staff. 1 dollar oysters at happy hour. Nice eclectic menu with Asian seafood mix. Really nice cocktail list and solid beer choices. Would highly recommend. Very COVID conscious and felt safe throughout. Backyard seating as well.",
+            "time" : 1596928572
+         },
+         {
+            "author_name" : "Ozzie Henderson",
+            "author_url" : "https://www.google.com/maps/contrib/114176638878150976604/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GjtlO-Zq1__5BWwDloO6PsRKrTbZ4W2zgIFsQPaLg=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 5,
+            "relative_time_description" : "a month ago",
+            "text" : "This place blew my mind! The shrimp cocktail and their homemade cocktail sauce was incredible. The Mellow Mussels were Thai Heaven and the Lobster Mussels has the perfect sauce!! The outdoor seating was a nice touch",
+            "time" : 1601327030
+         },
+         {
+            "author_name" : "John A Austin",
+            "author_url" : "https://www.google.com/maps/contrib/100827358146323255952/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GiNL-CBijsciqrHaJABNAt1mCQMWLnHtSvivbHQ=s128-c0x00000000-cc-rp-mo",
+            "rating" : 4,
+            "relative_time_description" : "2 months ago",
+            "text" : "This is a small, intimate place where you are as likely to hear Italian as you are to hear English.  Nearly every time I've dined here I've felt like an American visiting Italy and the hostess and chef couple have enthusiastically greeted patrons like returning old friends.  These are all good signs.",
+            "time" : 1598702552
+         }
+      ],
+      "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=3627585949859368311",
+      "user_ratings_total" : 74,
+      "utc_offset" : -300,
+      "vicinity" : "190 Avenue B, New York",
+      "website" : "https://www.amarawbar.com/"
+   },
+   "status" : "OK"
+}

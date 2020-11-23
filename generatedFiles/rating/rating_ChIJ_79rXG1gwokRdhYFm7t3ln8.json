@@ -1,0 +1,145 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "42-85",
+            "short_name" : "42-85",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Crommelin Street",
+            "short_name" : "Crommelin St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Flushing",
+            "short_name" : "Flushing",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Queens",
+            "short_name" : "Queens",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Queens County",
+            "short_name" : "Queens County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11355",
+            "short_name" : "11355",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e42-85 Crommelin St\u003c/span\u003e, \u003cspan class=\"locality\"\u003eFlushing\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11355\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "42-85 Crommelin St, Flushing, NY 11355, USA",
+      "formatted_phone_number" : "(866) 631-2984",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.7519769,
+            "lng" : -73.82976459999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7532157802915,
+               "lng" : -73.8284852197085
+            },
+            "southwest" : {
+               "lat" : 40.7505178197085,
+               "lng" : -73.8311831802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "international_phone_number" : "+1 866-631-2984",
+      "name" : "WebEmployments",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 AM – 5:00 PM",
+            "Tuesday: 9:00 AM – 5:00 PM",
+            "Wednesday: 9:00 AM – 5:00 PM",
+            "Thursday: 9:00 AM – 5:00 PM",
+            "Friday: 9:00 AM – 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ_79rXG1gwokRdhYFm7t3ln8",
+      "plus_code" : {
+         "compound_code" : "Q52C+Q3 New York, NY, USA",
+         "global_code" : "87G8Q52C+Q3"
+      },
+      "reference" : "ChIJ_79rXG1gwokRdhYFm7t3ln8",
+      "types" : [ "accounting", "finance", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=9193667336966837878",
+      "utc_offset" : -300,
+      "vicinity" : "42-85 Crommelin Street, Flushing"
+   },
+   "status" : "OK"
+}

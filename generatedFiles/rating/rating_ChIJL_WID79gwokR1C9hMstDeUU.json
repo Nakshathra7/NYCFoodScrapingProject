@@ -1,0 +1,216 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Main Street",
+            "short_name" : "Main St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Briarwood",
+            "short_name" : "Briarwood",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Queens",
+            "short_name" : "Queens",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Queens County",
+            "short_name" : "Queens County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11435",
+            "short_name" : "11435",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "&amp;, Queens Blvd &amp;, \u003cspan class=\"street-address\"\u003eMain St\u003c/span\u003e, \u003cspan class=\"locality\"\u003eQueens\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11435\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "&, Queens Blvd &, Main St, Queens, NY 11435, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.7096808,
+            "lng" : -73.8195688
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.71100378029149,
+               "lng" : -73.81871881970849
+            },
+            "southwest" : {
+               "lat" : 40.70830581970849,
+               "lng" : -73.8214167802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name" : "Briarwood",
+      "photos" : [
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116317820030222523311\"\u003eVladislavs Arhipovs\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLpqOYxZ_SSLGlINJfaY9oR1CiypgqTLXbljtU5eNpex7E_O4ZwSgtGiVNB2j2NZuRZGf9NGE9JPLmnfiMePTRfNQiLK7D6_RfuRdFETRYecwGibE65_rBiO0Xt2tzC0d4z0F4uJeZYNZI55kA_l9umIIpgfb59eiYAL0DfDTJE6g7n",
+            "width" : 4032
+         },
+         {
+            "height" : 2826,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101580679594295106213\"\u003eJay Kindell\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIxez6QNslr8Xd33ZairRLqJhdanahD918oROYwk_pnQP3F4DMRoXRIxrUWN5UnR3pXt20XPvorUo5aFfv7wzw2cEtv2rOKrF0JlgL-VMCsqt2dbkeITUy57w7RElR4LQCdrAWfwV5THmMAOFo4OB7ZGpeAqn0m_IzRxSHmkRejGY0",
+            "width" : 2474
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116317820030222523311\"\u003eVladislavs Arhipovs\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLywUycNT_tXItbeE3u3gTxPCBC-XuONoaMX3eU0OSLYkdNYvIcNsOy4kbHasD28kMKzx2RSyyX-tMnhK2e7dTUkEfNzGyJvquo2rRSPYqGwqG1Nk-e0of7zIiBiarJ_iVsMzar4TFNHLIOrn-yDlHlI9T3Uwa_FYRnviC71fhVVzOj",
+            "width" : 4032
+         },
+         {
+            "height" : 853,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102270916178756585218\"\u003eStephan Grütering\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKnQJi3dSMR8a4MBBSW9RrL4_HP8UquHyYEKwJ3SXlDNFTOfRw_0bn3DY_HBReX8JCMRCSkrBA-dBAHM5vBBiJ_2tiFaCN7VHKrcK2RYG02TjvbVMwr10yKs-AaWBlnYgqaCCUS1XtZMwQd937QKq6jZwj_SrcrQTIdm7KY4kufQ3rq",
+            "width" : 1280
+         },
+         {
+            "height" : 2445,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101580679594295106213\"\u003eJay Kindell\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLKMU9jLtrbFQiWo8zH323tGK1xclCqlSy6U4iL0u73Xr4BmSiuC1PbUB98-0Ubw5Tji2nZ4jkKMjAGfYTdUlYAqPP4n1Zp1rbU-Gl4QmKdpGgMK8CuwIll4O-IhQIAaL2sK1L6umce0ErmfeVBUNLlKa9QyQwgjneFusftMpXkb5Q",
+            "width" : 3598
+         },
+         {
+            "height" : 853,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102270916178756585218\"\u003eStephan Grütering\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIXxTDYPJkV3yLDWsFNgo53NCQf9RvNNhAxVdPMmb2ndqufaqQzcMJ2KdkAPqhbbfzkTHRHwaeKOQTnnyJs7d6qRmCYm_F-kvU3z_oAp3-RQntji46AgGCSVCP5cSb0iTtGoErh4LdaPWVJ8xnBGQQYz-8bl3UWZF7VBk_OGJnkMsxV",
+            "width" : 1280
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110344283172678365745\"\u003eJim Ryan\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIs12tyh3qCSlmJple8_4K6XmCFMZyaNjhxEkIa6L88eqc4Qijt5RFtva6zmdfHSjQ357uIG-6HogeYs220TTUEmnze5wgcUBG-XcjHLShurWo2Jxc3XVAcqSGjhI0jl27RLvTI4KgYsDLYi_0aQcwyKHmjF71vNkU38COCIlXczYu6",
+            "width" : 4032
+         },
+         {
+            "height" : 3178,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101580679594295106213\"\u003eJay Kindell\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIPH7ENPAaUKI51m1YQ978BcrCFp38TztSFrtaKJwRCdIDkTBbsZw16mtfsU3tZKADRb1JWm-qfAQ5Ab386Z4fO-UukHY1MlSNmvXSI7skAXltGT20Y_cYuukFS-Gz9Iglv3gPtpmMbnkObAhXAawscFd4LS-R-MzublkgalA_bgxk",
+            "width" : 2272
+         },
+         {
+            "height" : 960,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102270916178756585218\"\u003eStephan Grütering\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLjTXwHG5MbZqCWnreuA63doXfELFxbjdFp3bUgFLXEZE5ynNIWE54hBgpwmExXCxBxUw1h6M7QqLyzQRZfIFrS2uuShyYsAxY5XGTo8Of5Ef8Ia7o2sTjHStHA3Khkdy76dFKDuGRGy2ekQpnPx3YAlgIkkPzfEYOceNaSPHCGwz0M",
+            "width" : 1280
+         },
+         {
+            "height" : 720,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102270916178756585218\"\u003eStephan Grütering\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJyg4ZRmO6Gny7dP9b6OR82VQRicF41QDc5XzlcT00mdJX7kbEEiEXrtXhH_VdqORgUMryGKWl6zI-SWtShKcTKscQ7mPMGgHKGErH3DSXW4z3pN1p4_YeV4x69Smp5tKzyEA9xJoKzQesRkpRORSgkWgff0zKwkZRKjP20usvGcx5M",
+            "width" : 1280
+         }
+      ],
+      "place_id" : "ChIJL_WID79gwokR1C9hMstDeUU",
+      "plus_code" : {
+         "compound_code" : "P55J+V5 New York, NY, USA",
+         "global_code" : "87G8P55J+V5"
+      },
+      "rating" : 3.8,
+      "reference" : "ChIJL_WID79gwokR1C9hMstDeUU",
+      "reviews" : [
+         {
+            "author_name" : "Justin Davila",
+            "author_url" : "https://www.google.com/maps/contrib/110972867982180329788/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh6.googleusercontent.com/-1TAFUcxTOmQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckUnCVDGI8hWTOEWYFH73Se35yeDg/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating" : 4,
+            "relative_time_description" : "9 months ago",
+            "text" : "It works for what its purpose is. It's conveniently located near Queens Blvd and Main Street and is easy to transfer to the 44, 20a/20b and 60 buses. There's an elevator but it doesn't lead to the platform level. I do like how there's a police precinct within it so I feel safe, even late at night.",
+            "time" : 1581656576
+         },
+         {
+            "author_name" : "Neil P McGuinness",
+            "author_url" : "https://www.google.com/maps/contrib/102369203173068012482/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gh1IEd-V8w6UfMj7xgmaMy5HcCOuZBZrlekxraH=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 5,
+            "relative_time_description" : "3 months ago",
+            "text" : "Very clean subway station. Staff is friendly",
+            "time" : 1595780378
+         },
+         {
+            "author_name" : "DrKacper Productions",
+            "author_url" : "https://www.google.com/maps/contrib/100162031623704242067/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Ggn6lU7_FfRgXFK8_q3psJM7wey-cW5J9RFSmya8g=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating" : 3,
+            "relative_time_description" : "a year ago",
+            "text" : "Good station, the only things that lack is the long corridor to Queens Blvd and Main Street and there is no elevator to the platform just for the corridor. You can’t cross between Manhattan and Jamaica bound trains at this station. Good things here is the transit Police and the elevator, but that got stuck recently",
+            "time" : 1573268247
+         },
+         {
+            "author_name" : "Victor Soria",
+            "author_url" : "https://www.google.com/maps/contrib/105079749932305481801/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GjJWJR9lXSVtPejHXD4xTVL22cveQ0kgTKXmJYOvQ=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "8 months ago",
+            "text" : "Since I used to live in Briarwood, my family always used this train station to go somewhere, so this little station has a lot of memories for me. It is filthy, but I would like going on a train ride from this station again.",
+            "time" : 1582851272
+         },
+         {
+            "author_name" : "Cohen Dental Care",
+            "author_url" : "https://www.google.com/maps/contrib/103019157348068758240/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GhC4Wu7UIsYC1xSfFa3vLtz-b81h3uI8FcT6gKeJA=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "Great way to get to the city fast. The recent completed renovation is wonderful. Makes it so convenient and comfortable for our patients who visit us from Manhattan and Brooklyn.",
+            "time" : 1551119227
+         }
+      ],
+      "types" : [
+         "subway_station",
+         "transit_station",
+         "point_of_interest",
+         "establishment"
+      ],
+      "url" : "https://maps.google.com/?cid=5006107000801669076",
+      "user_ratings_total" : 48,
+      "utc_offset" : -300,
+      "vicinity" : "&, Queens Blvd &, Main Street",
+      "website" : "http://mta.info/"
+   },
+   "status" : "OK"
+}

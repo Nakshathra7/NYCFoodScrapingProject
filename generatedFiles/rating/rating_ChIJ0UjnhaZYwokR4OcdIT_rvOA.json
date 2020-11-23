@@ -1,0 +1,210 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10029",
+            "short_name" : "10029",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10029\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "New York, NY 10029, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.7858701,
+            "lng" : -73.95093469999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7871803802915,
+               "lng" : -73.94964556970849
+            },
+            "southwest" : {
+               "lat" : 40.7844824197085,
+               "lng" : -73.9523435302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name" : "96 Street Station",
+      "photos" : [
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105020433665665097102\"\u003eDaniel Pineau\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwK3KqQnlgdXagg6-WUQ8etrLcq5pZ0PsxdJeNWQnpCTmj2P-IGby4G99TBZGHort9py4WRP32e-nHSdWUSmuy2Ya6IfzKt7NO78-yaW14rJ4mwHfIn9UNG0oGuo0kFv9-N9oGif8VFIER3tt-xm8upeZEAvvqMAC8Utm5txqtOpTixF",
+            "width" : 4032
+         },
+         {
+            "height" : 2666,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101580679594295106213\"\u003eJay Kindell\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJeQ_EUd_3ZamTO6jjWfnWE95O-nKt8yr6ykvfBPL5JBIP-kYeXjr-WnnbqB1DWvCQDUtqP5la7kDSW14YmxWNwHlx4IoFMyNglvRfoytSor2uCakJZc6CZoZuXXjlzjM4z8I2Xvpr09AhIbWsejzHLuaviUr6Lq2cAcueWT8eqWN4",
+            "width" : 3911
+         },
+         {
+            "height" : 2682,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109077594732443138053\"\u003eGraham Austin\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKo4ydEQQbCxagITJgad0YTW8gPmywyKJMVKwcUVOSSGQA5qTN92sbOr_yIIOZL_sfXKo0oFW9z6UzNYnYNR92EZC7dx9wdckSWHZLQuSJS_-CNiDIqgCygGfLBcoK1888IQllsV-5UEfRe6BbzCIH5ghdhqxbOb2zPhfduU7SsOjMn",
+            "width" : 3308
+         },
+         {
+            "height" : 2340,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103330562754126899064\"\u003eLateDecember1\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLTpDEo6Ei1mGfe4kjv1w0dtAKnngJxUZqNgfnTpTg-v88ppS9BuTVcm83sPCQOC1WcC2QFhL1yjyLaPgqKYAk6lJjQljbY_iRmb00fD3uQjSPvZM_6du39M7k9cjf46orK_8nSronqFgF5cc1o6vm1qHeti17G9tLfw4-JXbtvYDrY",
+            "width" : 4160
+         },
+         {
+            "height" : 3066,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101580679594295106213\"\u003eJay Kindell\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKamxu7oND3H2_6Jz8sgb8Ed_thirWKi6xvnq8WvqAxwft3neny7T2g2cIrZvJqdSZx3v_5qC7jkhIwMGU-uNGxPkv-lCUlSuWeTiwrg9hj3WaqEFR9bEEpL1dO_YmrZ_W2CBlK-6NuDW5_k0FYfsS33ALcbManbsql2Rd46NuzquE",
+            "width" : 4442
+         },
+         {
+            "height" : 2988,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113127436878453667631\"\u003eBrett Bell\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwL-nPqyVMf3DJsfxqPGGTfXCujwIdez8p4aS1cr4L4et2Bdj7e1QLOvvKV2uzQw7UFu2EbYvex-ZiOWIwPcA025hGZ2aQAsZ6G7Xh5eHKVwF-4ziQoDmuarA5tdeaMKr37TfRmVOJD8K_KX5di6QgUVCto-X804uH7B0hnb0G4RZ5Jv",
+            "width" : 5312
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107027219067900036250\"\u003enunu cowley\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKFqdYdWIACtAPz06iVg491EHoXE-crYLX8xF6SE5vU-7wpO4M7ChrAks64SnVByNfrFR63vL3VkJdHNU9l2E07QLX5t18d4sqEGfoY_TZ2i_I81LThwN9WMNtEqGasUpMvjyFRImzD_I0JovgQem0QYVjOlKGCbAIDekq77S8Bfns2",
+            "width" : 2268
+         },
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101580679594295106213\"\u003eJay Kindell\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJRYr9r0R8xTi-NuHIuIQKMcz6xt57vbXkhotFKVwNZdIBQ2yZgCqlPutI0F173h0nO9zdM59ZzME5IhxPAR5m8A9yaExzHUBDUHukbA-DlfuXIwi0EPCviGrmmewVam8AKPoq9ZHQl2kjSOni2yJIMcDjnX2PjUljQyTCHCwUnE_Q",
+            "width" : 4608
+         },
+         {
+            "height" : 1836,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116648699682922934169\"\u003eJeff Pellman\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIPK1NyVYSFoUwg7hW8rsevErQEaeesGL0-9XBh_V3eKlEuGb5CLjDWU5kM3NgLDuJGlLjpPb4WqWGDiHegMout_3yMPoq1XjsWHbFN8963_Ox1k1rgWVsES3IsPGezQQCNnGtSDwbS1r1xK6guqJZbaIx8gGvqw-gOJTG8qoKbVPk3",
+            "width" : 3264
+         },
+         {
+            "height" : 3066,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101580679594295106213\"\u003eJay Kindell\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJClMKz33LU0NNcDs2WKgVrgK7-ZjOyPNHz4dDjG9WIa9diSnjarYhv6-XxWges6F99saFRBlFbOADL20_28rD7vxmSA62iIRtNtiz3AgQGYmk7LLervhxhIfp-EFyCYEu6ub7m8rlmh_e1Z7J0T2ANqorwb_o-l5Aw-WE9BmPtAtE",
+            "width" : 4022
+         }
+      ],
+      "place_id" : "ChIJ0UjnhaZYwokR4OcdIT_rvOA",
+      "plus_code" : {
+         "compound_code" : "Q2PX+8J New York, NY, USA",
+         "global_code" : "87G8Q2PX+8J"
+      },
+      "rating" : 4,
+      "reference" : "ChIJ0UjnhaZYwokR4OcdIT_rvOA",
+      "reviews" : [
+         {
+            "author_name" : "Mahadi Hassan",
+            "author_url" : "https://www.google.com/maps/contrib/102869626228971583374/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GiNlNKQjunFyWOjkKgdlQF3jJV5XPX6US3rMTaGjg=s128-c0x00000000-cc-rp-mo",
+            "rating" : 4,
+            "relative_time_description" : "3 months ago",
+            "text" : "It's okay. Since there are many different people from different places, it may get dirty from time to time.",
+            "time" : 1597402441
+         },
+         {
+            "author_name" : "Norma Williams",
+            "author_url" : "https://www.google.com/maps/contrib/107891621329132573854/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gj8uWoSLXtQFMBD31O4hcqG-sKVC5dRHkXJBe4D1A=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 4,
+            "relative_time_description" : "11 months ago",
+            "text" : "Well lit, not to dirty. Sitting area above tracks if you dont want to sit down in platform area. I wish all trains were constructed that way.",
+            "time" : 1577170500
+         },
+         {
+            "author_name" : "Boris P.",
+            "author_url" : "https://www.google.com/maps/contrib/101214414976060054235/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gggn3QzuTsaTUaxlGhf0XwyPMMwtDIYffJGITNE9TE=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating" : 4,
+            "relative_time_description" : "a year ago",
+            "text" : "New station and it looks great. Very artsy and modern. Plenty of seating for the waiting area. Metropolitan hospital is one block away. Residential area with coffee shops and deli restaurants around.",
+            "time" : 1544025212
+         },
+         {
+            "author_name" : "Francoise Cecile",
+            "author_url" : "https://www.google.com/maps/contrib/101142046131734802274/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh5.googleusercontent.com/-fYSW2yE_l-s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckFIkNumLtGYKxbB0_kFOS1vbNuCA/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating" : 4,
+            "relative_time_description" : "10 months ago",
+            "text" : "The 4 does not stop at 96th Google",
+            "time" : 1579323355
+         },
+         {
+            "author_name" : "Jasmine H",
+            "author_url" : "https://www.google.com/maps/contrib/104731006993930939215/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh6.googleusercontent.com/-qzsnmz_nnWw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck9hYcE91cdKeMrVJHqLMlL9lLf9Q/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 4,
+            "relative_time_description" : "11 months ago",
+            "text" : "Like that the benches are close to the wall. Elevators rite aid",
+            "time" : 1576817916
+         }
+      ],
+      "types" : [
+         "subway_station",
+         "transit_station",
+         "point_of_interest",
+         "establishment"
+      ],
+      "url" : "https://maps.google.com/?cid=16194077016488536032",
+      "user_ratings_total" : 49,
+      "utc_offset" : -300,
+      "vicinity" : "New York"
+   },
+   "status" : "OK"
+}

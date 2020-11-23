@@ -1,0 +1,189 @@
+{
+   "plus_code" : {
+      "compound_code" : "Q3FP+WX New York, NY, USA",
+      "global_code" : "87G8Q3FP+WX"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Astoria",
+               "short_name" : "Astoria",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11105",
+               "short_name" : "11105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "31 St & 23 Ave, Astoria, NY 11105, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7747878,
+               "lng" : -73.91255509999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7761367802915,
+                  "lng" : -73.9112061197085
+               },
+               "southwest" : {
+                  "lat" : 40.7734388197085,
+                  "lng" : -73.9139040802915
+               }
+            }
+         },
+         "place_id" : "ChIJBcRqVV1fwokRoPTA3S42MHs",
+         "plus_code" : {
+            "compound_code" : "Q3FP+WX New York, NY, USA",
+            "global_code" : "87G8Q3FP+WX"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ditmars Blvd Station",
+               "short_name" : "Ditmars Blvd Station",
+               "types" : [
+                  "establishment",
+                  "point_of_interest",
+                  "subway_station",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Ditmars Steinway",
+               "short_name" : "Ditmars Steinway",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11105",
+               "short_name" : "11105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ditmars Blvd Station, Queens, NY 11105, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7750119,
+               "lng" : -73.91211
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.77636088029149,
+                  "lng" : -73.9107610197085
+               },
+               "southwest" : {
+                  "lat" : 40.77366291970849,
+                  "lng" : -73.91345898029151
+               }
+            }
+         },
+         "place_id" : "ChIJnQjE-2dfwokRarBj5XPU7_c",
+         "plus_code" : {
+            "compound_code" : "Q3GQ+25 Queens, NY, USA",
+            "global_code" : "87G8Q3GQ+25"
+         },
+         "types" : [
+            "establishment",
+            "point_of_interest",
+            "subway_station",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Island",
+               "short_name" : "Long Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Island, New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            },
+            "location" : {
+               "lat" : 40.789142,
+               "lng" : -73.13496099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            }
+         },
+         "place_id" : "ChIJy6Xu4VRE6IkRGA2UhmH59x0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

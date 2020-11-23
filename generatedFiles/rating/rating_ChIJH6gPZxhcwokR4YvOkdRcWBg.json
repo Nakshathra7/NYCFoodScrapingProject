@@ -1,0 +1,260 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1474",
+            "short_name" : "1474",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Gates Avenue",
+            "short_name" : "Gates Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bushwick",
+            "short_name" : "Bushwick",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Brooklyn",
+            "short_name" : "Brooklyn",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kings County",
+            "short_name" : "Kings County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11237",
+            "short_name" : "11237",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e1474 Gates Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBrooklyn\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11237\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "1474 Gates Ave, Brooklyn, NY 11237, USA",
+      "formatted_phone_number" : "(718) 381-9653",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.69755019999999,
+            "lng" : -73.9135417
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.6990119302915,
+               "lng" : -73.9123906697085
+            },
+            "southwest" : {
+               "lat" : 40.69631396970851,
+               "lng" : -73.91508863029151
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "international_phone_number" : "+1 718-381-9653",
+      "name" : "RiseBoro Youth Center",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 AM – 5:00 PM",
+            "Tuesday: 9:00 AM – 5:00 PM",
+            "Wednesday: 9:00 AM – 5:00 PM",
+            "Thursday: 9:00 AM – 5:00 PM",
+            "Friday: 9:00 AM – 5:00 PM",
+            "Saturday: 9:00 AM – 5:00 PM",
+            "Sunday: 9:00 AM – 5:00 PM"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106405396219066457196\"\u003eErnesto Quezada\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLFpKh_vWAr7kdl6jo4xFr_sjrGbdSe1HdqNSgQXXrYuTPxqwOkKIEHHGRt2C4ZtyuMSw2Mep9c2b9yi7Vfq_scF3olcqWTpALQN-aRPj95_xsghoT6n0PYR5WQice8xsXpSAryvczrHZg86B4bh62ivq6heKO5pfK0AhDut8Ta7HY",
+            "width" : 4032
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106405396219066457196\"\u003eErnesto Quezada\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJRUCNlhcHXuc-znxuWdfOgAoTlwT1i3DSSA71cTNUEJiSDs83pBrgbHF-3SOuZcGCrFhAtzb3mmN_KHhl4JEhbXX4luB_wyl68bMeAJsO7Q1tEJ0UfMkt5teFW2BpOmBIf7ErZD_-jekl5BClxJC0SnugsNcyfN0hNdpQPIj0oy5A",
+            "width" : 4032
+         },
+         {
+            "height" : 4160,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101328369428060024812\"\u003eIbon Segrera\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwI0Tn-zDO9HRNe3H3lJYqM38zN_OCI5HujOcbAwslmHj8ikLCUtTO6nU7f3dfnpcEgF1UflMOYycLM6djYfBgRwR_afHCLUie1IGdFgz1fd2EQcBn_gSCH5Me81ZXJlLw5Be2WwJSzpyuUMrNnzES0Ltjp6HTeP4tlMLRRuvNhc62K3",
+            "width" : 3120
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106405396219066457196\"\u003eErnesto Quezada\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKawTufRQ9yAj5DUULaWIXpxRZQl8pYquTIWiw4Az8F0t7L_UOiWyN2BunwDkq-vvhkdFiNtJDqmSsTdZyoA9J6B2KBprm2UmIwfv_bdhsQMgdhbW1cXyFGdO9GlM_GfIDBltCMwagTj-3Wg4zoFn0yU_nAtNXpWr8gZJ9wc2dF--w",
+            "width" : 4032
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106405396219066457196\"\u003eErnesto Quezada\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKSKQr4htJckn1wIa149kmTYDqEC8090EcOr28w-WXGxDxPV2bbmDHbkZPJhgHjuzHIcRrHj_LuhbqK6scUYkEoa0oqNAm1gKRkZ8S729-xrlr9dl56YjPqkNSFoLs09S72tlnGMoU95OGEVGoFVF07ZUrz5kTEi20TMh27XZoCPhk",
+            "width" : 4032
+         }
+      ],
+      "place_id" : "ChIJH6gPZxhcwokR4YvOkdRcWBg",
+      "plus_code" : {
+         "compound_code" : "M3XP+2H Brooklyn, NY, USA",
+         "global_code" : "87G8M3XP+2H"
+      },
+      "rating" : 4.5,
+      "reference" : "ChIJH6gPZxhcwokR4YvOkdRcWBg",
+      "reviews" : [
+         {
+            "author_name" : "Jamal Anthony",
+            "author_url" : "https://www.google.com/maps/contrib/103026452396555955413/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GiU3e544n4h_f0K_vC3-wBUhNyoVcD6akSXCt1c=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "James in SYEP is the best! He helped me and all my friends get placed in work sites that suited us all while still being a mentor to us when ever we visit! He really cares about the youth! HE NEEDS TO RUN THIS PLACE!",
+            "time" : 1566521639
+         },
+         {
+            "author_name" : "Nachum Sarytchev",
+            "author_url" : "https://www.google.com/maps/contrib/101070154764972171303/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GhdIzHnHt7CgCjjbL-27i1_Ihx7L7R9EgJoihWy9w=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 5,
+            "relative_time_description" : "2 years ago",
+            "text" : "Members of local Jewish Center of Ridgewood on Myrtle Ave love it !",
+            "time" : 1515363779
+         },
+         {
+            "author_name" : "Desire Castle-Cross",
+            "author_url" : "https://www.google.com/maps/contrib/112841674212230059811/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GgLvgPkwjrhp2G6z_kbMczV9bwV7XYjC0zLVsPgwTE=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "Friendly",
+            "time" : 1571781019
+         },
+         {
+            "author_name" : "David Perez",
+            "author_url" : "https://www.google.com/maps/contrib/104909767588609694119/reviews",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GituLVALEZCAFiGPAfAwXDzf8enpPRkjzS79IrK=s128-c0x00000000-cc-rp-mo",
+            "rating" : 3,
+            "relative_time_description" : "3 years ago",
+            "text" : "",
+            "time" : 1480276406
+         },
+         {
+            "author_name" : "Samuel Gonzalez",
+            "author_url" : "https://www.google.com/maps/contrib/100233750349011817127/reviews",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-nTUCMO1xHLE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnOUfYXZ6SABDVd2EoMXX1RHUxWYw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "",
+            "time" : 1550018872
+         }
+      ],
+      "types" : [ "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=1754254122909862881",
+      "user_ratings_total" : 21,
+      "utc_offset" : -300,
+      "vicinity" : "1474 Gates Avenue, Brooklyn",
+      "website" : "http://www.riseboro.org/"
+   },
+   "status" : "OK"
+}

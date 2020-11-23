@@ -1,0 +1,131 @@
+{
+   "plus_code" : {
+      "compound_code" : "M477+X8 New York, NY, USA",
+      "global_code" : "87G8M477+X8"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "613",
+               "short_name" : "613",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "New Lots Avenue",
+               "short_name" : "New Lots Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "East New York",
+               "short_name" : "East New York",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11207",
+               "short_name" : "11207",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "7214",
+               "short_name" : "7214",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "613 New Lots Ave, Brooklyn, NY 11207, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6649396,
+               "lng" : -73.8866761
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.66628858029149,
+                  "lng" : -73.88532711970851
+               },
+               "southwest" : {
+                  "lat" : 40.6635906197085,
+                  "lng" : -73.88802508029151
+               }
+            }
+         },
+         "place_id" : "ChIJz0DOAqtdwokRt_8z4fOrAUs",
+         "plus_code" : {
+            "compound_code" : "M477+X8 Brooklyn, NY, USA",
+            "global_code" : "87G8M477+X8"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Island",
+               "short_name" : "Long Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Island, New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            },
+            "location" : {
+               "lat" : 40.789142,
+               "lng" : -73.13496099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            }
+         },
+         "place_id" : "ChIJy6Xu4VRE6IkRGA2UhmH59x0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

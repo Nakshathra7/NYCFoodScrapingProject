@@ -1,0 +1,77 @@
+{
+   "plus_code" : {
+      "compound_code" : "R4W4+H7 New York, NY, USA",
+      "global_code" : "87G8R4W4+H7"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "563",
+               "short_name" : "563",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East Tremont Avenue",
+               "short_name" : "E Tremont Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West Bronx",
+               "short_name" : "West Bronx",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "The Bronx",
+               "short_name" : "The Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10457",
+               "short_name" : "10457",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "563 E Tremont Ave, The Bronx, NY 10457, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.84665589999999,
+               "lng" : -73.89446509999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8480048802915,
+                  "lng" : -73.89311611970848
+               },
+               "southwest" : {
+                  "lat" : 40.8453069197085,
+                  "lng" : -73.8958140802915
+               }
+            }
+         },
+         "place_id" : "ChIJkQtCEVL1wokRX2OP9JYLyPw",
+         "plus_code" : {
+            "compound_code" : "R4W4+M6 New York, NY, USA",
+            "global_code" : "87G8R4W4+M6"
+         },
+         "types" : [ "dentist", "establishment", "health", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,72 @@
+{
+   "plus_code" : {
+      "compound_code" : "R2CW+H8 New York, NY, USA",
+      "global_code" : "87G8R2CW+H8"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Broadway/W 137 St",
+               "short_name" : "Broadway/W 137 St",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10031",
+               "short_name" : "10031",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Broadway/W 137 St, New York, NY 10031, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.821239,
+               "lng" : -73.95401799999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8225879802915,
+                  "lng" : -73.95266901970848
+               },
+               "southwest" : {
+                  "lat" : 40.8198900197085,
+                  "lng" : -73.9553669802915
+               }
+            }
+         },
+         "place_id" : "ChIJLSWZDGb2wokR60OfQ6D2lOs",
+         "plus_code" : {
+            "compound_code" : "R2CW+F9 New York, NY, USA",
+            "global_code" : "87G8R2CW+F9"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      }
+   ],
+   "status" : "OK"
+}

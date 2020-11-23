@@ -1,0 +1,82 @@
+{
+   "plus_code" : {
+      "compound_code" : "R3M5+J3 New York, NY, USA",
+      "global_code" : "87G8R3M5+J3"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dorothy K. McGowan Memorial Garden",
+               "short_name" : "Dorothy K. McGowan Memorial Garden",
+               "types" : [ "establishment", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "513",
+               "short_name" : "513",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West 158th Street",
+               "short_name" : "W 158th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10032",
+               "short_name" : "10032",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dorothy K. McGowan Memorial Garden, 513 W 158th St, New York, NY 10032, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8338153,
+               "lng" : -73.94235449999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8351642802915,
+                  "lng" : -73.94100551970848
+               },
+               "southwest" : {
+                  "lat" : 40.8324663197085,
+                  "lng" : -73.94370348029149
+               }
+            }
+         },
+         "place_id" : "ChIJTeTstzv3wokRkcBHlE-uyP0",
+         "plus_code" : {
+            "compound_code" : "R3M5+G3 New York, NY, USA",
+            "global_code" : "87G8R3M5+G3"
+         },
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

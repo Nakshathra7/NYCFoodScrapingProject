@@ -1,0 +1,150 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "6753",
+            "short_name" : "6753",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "4th Avenue",
+            "short_name" : "4th Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bay Ridge",
+            "short_name" : "Bay Ridge",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Brooklyn",
+            "short_name" : "Brooklyn",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kings County",
+            "short_name" : "Kings County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11220",
+            "short_name" : "11220",
+            "types" : [ "postal_code" ]
+         },
+         {
+            "long_name" : "5351",
+            "short_name" : "5351",
+            "types" : [ "postal_code_suffix" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e6753 4th Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBrooklyn\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11220-5351\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "6753 4th Ave, Brooklyn, NY 11220, USA",
+      "formatted_phone_number" : "(718) 836-0681",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.635498,
+            "lng" : -74.0228211
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.6368827302915,
+               "lng" : -74.02162946970849
+            },
+            "southwest" : {
+               "lat" : 40.6341847697085,
+               "lng" : -74.02432743029151
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+      "international_phone_number" : "+1 718-836-0681",
+      "name" : "Fourth Avenue Presbyterian Church",
+      "photos" : [
+         {
+            "height" : 2736,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106740845827278873381\"\u003eSteve\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJHY6R9XbWKSwNfINN21xBydr64D0uxPZizKvfHQh1GX26g6I3AyBjHD5zZwV1s-Nugaro8AoIM_wjmalW50-Br8cTJUyR1xtH--giLkY5fzDnJCxZUk9KUivWzM8FJGef2a3V7EIjFK1BOuRCqs0iskBmMzYiu2LotBlklepbEens-",
+            "width" : 2052
+         }
+      ],
+      "place_id" : "ChIJzzw3PVFFwokRWsc887ntj58",
+      "plus_code" : {
+         "compound_code" : "JXPG+5V Brooklyn, NY, USA",
+         "global_code" : "87G7JXPG+5V"
+      },
+      "rating" : 5,
+      "reference" : "ChIJzzw3PVFFwokRWsc887ntj58",
+      "reviews" : [
+         {
+            "author_name" : "ReinventLove",
+            "author_url" : "https://www.google.com/maps/contrib/113093956589347777742/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GgMcnnSpYoTpPOs3sA1x6YS0RnHh__xB9UO5SM-=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "3 months ago",
+            "text" : "Great church! They often gave free food and vegetables!",
+            "time" : 1598283258
+         },
+         {
+            "author_name" : "John Speck",
+            "author_url" : "https://www.google.com/maps/contrib/102877132908240168472/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gjogf4NpJ1pbDwb3aFmVWFhFZ7MzPEf0WXpHMSdh4o=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating" : 5,
+            "relative_time_description" : "2 years ago",
+            "text" : "Great church.  Minister is very accepting and shows love to all creed and color.  We have always felt welcome here.  They also run a great CSA program with an upstate NY farmer providing delicious local produce and eggs open to all.  Great community resource.",
+            "time" : 1537646625
+         },
+         {
+            "author_name" : "Michael Maulella",
+            "author_url" : "https://www.google.com/maps/contrib/116016972503450811275/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-oLJdmMe4Goc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnvbGKBzoF6MUAupr77Ow2b81s6Dw/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "This is a great place to worship led by Pastor David Aja Sigmon. It's also great if you have children...Sunday school for all ages and plenty of adult supervision.\nThey use a hymnal, so it's kind older songs. The choir director has the choir humming with beautiful moving songs.\nThe service is 1 hour and starts at 11a.m. until 12p.m. afterwards is a coffee hour.\nIt's a cozy church for everyone of any denomination.  Come home to God's house and feel His presence.",
+            "time" : 1551751776
+         },
+         {
+            "author_name" : "Abdul Wahab",
+            "author_url" : "https://www.google.com/maps/contrib/108001977475833709513/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gjz1SMfLoPLXzlCjxtRzqMY2HmotlNN1lKEdGaIJg=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "beautiful",
+            "time" : 1546322560
+         },
+         {
+            "author_name" : "Rebecca Davidge",
+            "author_url" : "https://www.google.com/maps/contrib/100210345209304646282/reviews",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GiHp3ZLJ6eDT8epkdX0piDsSKPBc1-cDGfFk0DZ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating" : 5,
+            "relative_time_description" : "2 years ago",
+            "text" : "",
+            "time" : 1520933770
+         }
+      ],
+      "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=11497669756605744986",
+      "user_ratings_total" : 6,
+      "utc_offset" : -300,
+      "vicinity" : "6753 4th Avenue, Brooklyn",
+      "website" : "http://www.fourthavenuepresbyterian.org/"
+   },
+   "status" : "OK"
+}

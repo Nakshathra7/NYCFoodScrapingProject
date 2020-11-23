@@ -1,0 +1,82 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "Forest Hills",
+            "short_name" : "Forest Hills",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Queens",
+            "short_name" : "Queens",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Queens County",
+            "short_name" : "Queens County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "11375",
+            "short_name" : "11375",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eQueens\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11375\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "Queens, NY 11375, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.716953,
+            "lng" : -73.857315
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.71832423029149,
+               "lng" : -73.8560286197085
+            },
+            "southwest" : {
+               "lat" : 40.7156262697085,
+               "lng" : -73.8587265802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name" : "Yellowstone/Juno St",
+      "place_id" : "ChIJ1WqCLxZewokRHuBg6tTl4Ek",
+      "plus_code" : {
+         "compound_code" : "P48V+Q3 New York, NY, USA",
+         "global_code" : "87G8P48V+Q3"
+      },
+      "rating" : 5,
+      "reference" : "ChIJ1WqCLxZewokRHuBg6tTl4Ek",
+      "reviews" : [
+         {
+            "author_name" : "Fitness MVP",
+            "author_url" : "https://www.google.com/maps/contrib/107646442863345276187/reviews",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gi3v8CTjVzEDR5Fz08Q-uacc8lFcRTDeaJ5EMhw=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "2 years ago",
+            "text" : "",
+            "time" : 1524443480
+         }
+      ],
+      "types" : [ "transit_station", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=5323507462179971102",
+      "user_ratings_total" : 1,
+      "utc_offset" : -300,
+      "vicinity" : "United States"
+   },
+   "status" : "OK"
+}

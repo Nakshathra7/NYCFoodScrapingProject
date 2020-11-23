@@ -1,0 +1,145 @@
+{
+   "plus_code" : {
+      "compound_code" : "PX3P+VH New York, NY, USA",
+      "global_code" : "87G7PX3P+VH"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bowling Green",
+               "short_name" : "Bowling Green",
+               "types" : [
+                  "establishment",
+                  "point_of_interest",
+                  "subway_station",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10004",
+               "short_name" : "10004",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bowling Green, New York, NY 10004, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7048108,
+               "lng" : -74.0144596
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.70615978029149,
+                  "lng" : -74.0131106197085
+               },
+               "southwest" : {
+                  "lat" : 40.70346181970849,
+                  "lng" : -74.01580858029151
+               }
+            }
+         },
+         "place_id" : "ChIJKXQp3BNawokR6gUmnJXw58c",
+         "plus_code" : {
+            "compound_code" : "PX3P+W6 New York, NY, USA",
+            "global_code" : "87G7PX3P+W6"
+         },
+         "types" : [
+            "establishment",
+            "point_of_interest",
+            "subway_station",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Battery Place",
+               "short_name" : "Battery Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10004",
+               "short_name" : "10004",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Broadway &, Battery Pl, New York, NY 10004, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7047495,
+               "lng" : -74.01366949999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7060984802915,
+                  "lng" : -74.0123205197085
+               },
+               "southwest" : {
+                  "lat" : 40.7034005197085,
+                  "lng" : -74.0150184802915
+               }
+            }
+         },
+         "place_id" : "ChIJg1iUd_NbwokRryOFkLFPnKw",
+         "plus_code" : {
+            "compound_code" : "PX3P+VG New York, NY, USA",
+            "global_code" : "87G7PX3P+VG"
+         },
+         "types" : [ "establishment", "museum", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

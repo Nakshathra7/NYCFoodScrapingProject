@@ -1,0 +1,151 @@
+{
+   "plus_code" : {
+      "compound_code" : "Q3J3+9G New York, NY, USA",
+      "global_code" : "87G8Q3J3+9G"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "East 93rd Street",
+               "short_name" : "E 93rd St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10128",
+               "short_name" : "10128",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1st Ave between 92nd St &, E 93rd St, New York, NY 10128, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7811048,
+               "lng" : -73.9464543
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7824537802915,
+                  "lng" : -73.94510531970849
+               },
+               "southwest" : {
+                  "lat" : 40.77975581970851,
+                  "lng" : -73.94780328029151
+               }
+            }
+         },
+         "place_id" : "ChIJv7miquJZwokRMmaxZE_pKBY",
+         "plus_code" : {
+            "compound_code" : "Q3J3+CC New York, NY, USA",
+            "global_code" : "87G8Q3J3+CC"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "340",
+               "short_name" : "340",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East 93rd Street",
+               "short_name" : "E 93rd St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10128",
+               "short_name" : "10128",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "5547",
+               "short_name" : "5547",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "340 E 93rd St, New York, NY 10128, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7814095,
+                  "lng" : -73.9462808
+               },
+               "southwest" : {
+                  "lat" : 40.7807933,
+                  "lng" : -73.9469866
+               }
+            },
+            "location" : {
+               "lat" : 40.781007,
+               "lng" : -73.94677399999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7824503802915,
+                  "lng" : -73.94528471970851
+               },
+               "southwest" : {
+                  "lat" : 40.7797524197085,
+                  "lng" : -73.94798268029152
+               }
+            }
+         },
+         "place_id" : "ChIJs7ZFka9YwokRhd22o1cYyK8",
+         "types" : [ "establishment", "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

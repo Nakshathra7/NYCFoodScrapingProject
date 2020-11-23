@@ -1,0 +1,72 @@
+{
+   "plus_code" : {
+      "compound_code" : "Q272+64 New York, NY, USA",
+      "global_code" : "87G8Q272+64"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West 44th Street",
+               "short_name" : "W 44th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10036",
+               "short_name" : "10036",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "919 3850 2910, W 44th St, New York, NY 10036, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7631734,
+               "lng" : -73.99976149999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7645223802915,
+                  "lng" : -73.99841251970848
+               },
+               "southwest" : {
+                  "lat" : 40.7618244197085,
+                  "lng" : -74.00111048029149
+               }
+            }
+         },
+         "place_id" : "ChIJa2H3uk5YwokR9OpMbK8KEps",
+         "plus_code" : {
+            "compound_code" : "Q272+73 New York, NY, USA",
+            "global_code" : "87G8Q272+73"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,188 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "3400",
+            "short_name" : "3400",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Reservoir Oval East",
+            "short_name" : "Reservoir Oval E",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Norwood",
+            "short_name" : "Norwood",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "The Bronx",
+            "short_name" : "The Bronx",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bronx County",
+            "short_name" : "Bronx County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10467",
+            "short_name" : "10467",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e3400 Reservoir Oval E\u003c/span\u003e, \u003cspan class=\"locality\"\u003eThe Bronx\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10467\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "3400 Reservoir Oval E, The Bronx, NY 10467, USA",
+      "formatted_phone_number" : "(718) 324-4998",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.8790197,
+            "lng" : -73.875743
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.88023148029151,
+               "lng" : -73.87431161970849
+            },
+            "southwest" : {
+               "lat" : 40.87753351970851,
+               "lng" : -73.8770095802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "international_phone_number" : "+1 718-324-4998",
+      "name" : "Norwood News",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 AM – 5:00 PM",
+            "Tuesday: 9:00 AM – 5:00 PM",
+            "Wednesday: 9:00 AM – 5:00 PM",
+            "Thursday: 9:00 AM – 5:00 PM",
+            "Friday: 9:00 AM – 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108585025234485852384\"\u003eDavid Herszenson\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLbMJEK941RK-xbPJ5X6yU8f2ikxDXNAyAuWWG_bYYpVTjJO-V4WxogP44mS79Vzf4hlhVwM2k4clNcAFSTCcqkBk5jXMWwrCiYpkUGpbZG7upqEQVAd61sNHBfq_twU3T_A-3OfcpcJkIPCAxdZIv7ygbvE7MMuEmrUUe_lOv2X-3Z",
+            "width" : 4608
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115405387400358979747\"\u003eMilenia Marias\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKmO5e9Mu-pKS7b_3BBOFoTtZRxfQfxMjUc37sHnSR2XpdvvJC4yoCNbY7aCeXA7O6lo455VpMnxsRip8lRVmdiNGyjZIsnmmSWPbWIWknWe9aXxp-2Ko6fbzeSL96a_cecfizo9ugNXV7w1_br7WNyyuxUV8APkV6HlHUP5MVCEa5i",
+            "width" : 3024
+         },
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108585025234485852384\"\u003eDavid Herszenson\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKY18UbnbZyyvkLolGCak5CUbkwbakg1QPR15WTX3oTDI55xhQRxsb08e917Xyx8H7SI5u4cgBC1gqMKwOlGjImUzIS2oDOWt7yykRs2mbXo6ob2b0R8n2d15PDYCQqeICejxwEn7x_H1ZouX9z8nyiRGTeN1b5pmt5D1eu712WfXyj",
+            "width" : 4608
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115405387400358979747\"\u003eMilenia Marias\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwL68z65Q0VPIEUvhmwOxVumWDZQOT7pmmaSXcfd_uHym6ee8InncOkOqynhPS3KBPkJH1bM0kdPRwG8EcDcMylc7d-dkJBdF4czssyU6uSGeXiOJl-8W58L0OvJfT-tX_uasGJeHtudaSbw-psVucktFzxmTKhJe6GkFrA1dcy8I4oB",
+            "width" : 4032
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115405387400358979747\"\u003eMilenia Marias\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJxwPQ8I9ggG7P1fyDJ__DOvzIu6VPid0mms-UCgTmnP8llBr9mJEDF6z_UpvJlnjGXckG38k6QmCWKgZ_H_K5CfkI-vYKaGLotjniRgvk0uAVp9BtNDQweN3tH6ERKnkjP3prIUeSuIcQBjDo4vlUC7u5ogjbUlOsPzUko8aBimj5G",
+            "width" : 3024
+         }
+      ],
+      "place_id" : "ChIJTwRmtgzzwokRIVqePmMrzVA",
+      "plus_code" : {
+         "compound_code" : "V4HF+JP New York, NY, USA",
+         "global_code" : "87G8V4HF+JP"
+      },
+      "reference" : "ChIJTwRmtgzzwokRIVqePmMrzVA",
+      "types" : [ "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=5822357598512241185",
+      "utc_offset" : -300,
+      "vicinity" : "3400 Reservoir Oval East, The Bronx",
+      "website" : "https://www.norwoodnews.org/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,114 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "513",
+            "short_name" : "513",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "West 158th Street",
+            "short_name" : "W 158th St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10032",
+            "short_name" : "10032",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e513 W 158th St\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10032\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "513 W 158th St, New York, NY 10032, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.8338153,
+            "lng" : -73.94235449999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.83519183029149,
+               "lng" : -73.94098531970849
+            },
+            "southwest" : {
+               "lat" : 40.83249386970849,
+               "lng" : -73.94368328029149
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "Dorothy K. McGowan Memorial Garden",
+      "photos" : [
+         {
+            "height" : 1080,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110854731941932773698\"\u003eAshley Brown\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJMTBXsix1tZox0vSWe8X936M2DhBxXLeEqPKnsQgq17nLmVAQBma2MAqNN9bTTROmzE9pSNEy10_R8n1K5flyTkiJHYjg8Dj-9OKeT7oxKWR_aGOo4KGA4opSp1h7tcrD7j_T4r116VdqgkShN7m9SCPaDKEXX_a8SPP2GC60D960E",
+            "width" : 1080
+         },
+         {
+            "height" : 985,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110854731941932773698\"\u003eAshley Brown\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJTYn1duguDRedWL1C97vWe0IB6bzVo0c-vOAHPxv-8apS03Myqj5dkL_Oh2L21vIta77iBOY1XeKPc34dYvqY4icvR20HMmtVhgmBUBcESs3Fzyyp_x6zmEFkxAbLX_NaXI2N_JwxSj4bFQW9rcvOu7dOKTa_bBEIN7HLt4IchsSd1",
+            "width" : 985
+         },
+         {
+            "height" : 2506,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110854731941932773698\"\u003eAshley Brown\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKSkoxe651Yx8Y7DBHslvNXiTEsm5qDpJdSf19Pv-qJaQ1CJ0vGAXWJt3wBqngXhD8V1379ME_FbVJWQawb157pNJxY-YYRvVhEVduOSXvPcvd2xlIiHleqboeMa4lA5i-4UhyaWZOY5WPpEdah6LZi-JnRqJrtVVV2TIrcTLTVPRFi",
+            "width" : 4264
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110854731941932773698\"\u003eAshley Brown\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIR8G7ZTzDwJ5qu0lCob1slgBs25WOoZaylaehUa_mRwQ3hi1vEnBdUThyYhXwrzM5Etv_Q4AVPlme8tFWFQgTB-PSE22qe5le0N7p08GxihzLrOYJ01bL6cErOTBr411N1IlEDt-4XjH7QZyuczD2W4j4zmKFFPYHRjPJPnPLpPjPA",
+            "width" : 4032
+         }
+      ],
+      "place_id" : "ChIJTeTstzv3wokRkcBHlE-uyP0",
+      "plus_code" : {
+         "compound_code" : "R3M5+G3 New York, NY, USA",
+         "global_code" : "87G8R3M5+G3"
+      },
+      "reference" : "ChIJTeTstzv3wokRkcBHlE-uyP0",
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=18287057943751278737",
+      "utc_offset" : -300,
+      "vicinity" : "513 West 158th Street, New York",
+      "website" : "https://www.158thstreetgarden.com/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,82 @@
+{
+   "plus_code" : {
+      "compound_code" : "R3MF+45 New York, NY, USA",
+      "global_code" : "87G8R3MF+45"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Target Community Garden",
+               "short_name" : "Target Community Garden",
+               "types" : [ "establishment", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "1025",
+               "short_name" : "1025",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Anderson Avenue",
+               "short_name" : "Anderson Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Highbridge",
+               "short_name" : "Highbridge",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "The Bronx",
+               "short_name" : "The Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10452",
+               "short_name" : "10452",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Target Community Garden, 1025 Anderson Ave, The Bronx, NY 10452, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.832831,
+               "lng" : -73.9270726
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.83417998029149,
+                  "lng" : -73.92572361970851
+               },
+               "southwest" : {
+                  "lat" : 40.8314820197085,
+                  "lng" : -73.92842158029151
+               }
+            }
+         },
+         "place_id" : "ChIJLbq-hOv1wokRqLiH1qHJNgU",
+         "plus_code" : {
+            "compound_code" : "R3MF+45 The Bronx, NY, USA",
+            "global_code" : "87G8R3MF+45"
+         },
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,155 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "243",
+            "short_name" : "243",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Thompson Street",
+            "short_name" : "Thompson St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10012",
+            "short_name" : "10012",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e243 Thompson St\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10012\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "CLOSED_TEMPORARILY",
+      "formatted_address" : "243 Thompson St, New York, NY 10012, USA",
+      "formatted_phone_number" : "(866) 811-4111",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.7302294,
+            "lng" : -73.99825890000001
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.73155788029149,
+               "lng" : -73.9968699197085
+            },
+            "southwest" : {
+               "lat" : 40.7288599197085,
+               "lng" : -73.99956788029152
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "international_phone_number" : "+1 866-811-4111",
+      "name" : "The Gym at Judson",
+      "permanently_closed" : true,
+      "photos" : [
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109541189461286308618\"\u003eSaygın Savran\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLODZA1W9flHMfV-QsRydlmw682ejFXucyfGJpclcqNAFPweXZA1U7GyNYzBriaur4dqbiROPEnABDVv3e70iB8Xlu5QubxffGGKl-8u14tCVjDmWj8Ij1i6XBeQtoclmXMPBbOlhIl7Cj-cmJTF7SyliQYea5LyPgv7hq_iK3fNCIM",
+            "width" : 1836
+         },
+         {
+            "height" : 4160,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112785226963139817440\"\u003ejoshua valentin\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLArDYDkyi6hhEEvE4fqJwiT5AU_li5X_apwHlEJJPTZeL9jkT2cUjDrEXJi1Qro558crmH2-32G4qkiEh5q4bC8p-wQQAe3nN9aMyhO272czAydGZJXdG4m6EmJRnZzn8q0h1DxTk6n5RdD8S5DdtSC75YucRNg8JA3fvyH2MxXG-S",
+            "width" : 3120
+         }
+      ],
+      "place_id" : "ChIJzR9hqJFZwokRdghIpwQN13U",
+      "plus_code" : {
+         "compound_code" : "P2J2+3M New York, NY, USA",
+         "global_code" : "87G8P2J2+3M"
+      },
+      "rating" : 4.5,
+      "reference" : "ChIJzR9hqJFZwokRdghIpwQN13U",
+      "reviews" : [
+         {
+            "author_name" : "Robin Greenberg",
+            "author_url" : "https://www.google.com/maps/contrib/100249033289978034633/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GiDK7sey0VS7FPi00zky7DtfoG10dEZqxqDrvnW=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "9 months ago",
+            "text" : "The performance was wonderful. The technique, the heart and the emotion were powerful. A must see for dance lovers of any genre.",
+            "time" : 1580306867
+         },
+         {
+            "author_name" : "Mike H.",
+            "author_url" : "https://www.google.com/maps/contrib/103675129039049848934/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gj14aylkrQQNx-rbPNFUKtiEHloYHGfpMeEwVwSHA=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating" : 5,
+            "relative_time_description" : "4 years ago",
+            "text" : "Loved seeing Sense and Sensibility here.  Seems like a very flexible performance space.",
+            "time" : 1472571311
+         },
+         {
+            "author_name" : "rajesh singh",
+            "author_url" : "https://www.google.com/maps/contrib/107978981391328883568/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GiHTFPqC43YbWGoPoutnZeOD3z9ZAmDldMGfMKJMA=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "Awesome",
+            "time" : 1570351762
+         },
+         {
+            "author_name" : "Oramel Washington",
+            "author_url" : "https://www.google.com/maps/contrib/112932740256564718726/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GiWExwXDFPJYffS5to5IEHqk5ZXtSurth7W5HoQGQ=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "3 years ago",
+            "text" : "Hi im a boy",
+            "time" : 1508726091
+         },
+         {
+            "author_name" : "Theaterbator blog",
+            "author_url" : "https://www.google.com/maps/contrib/104421408908077449587/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-ycj6HCEO9tU/AAAAAAAAAAI/AAAAAAAAB3U/AMZuuckdCh6kmWbmsvLh17IMXLqVvCIcIw/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating" : 4,
+            "relative_time_description" : "4 years ago",
+            "text" : "broken restroom",
+            "time" : 1461379711
+         }
+      ],
+      "types" : [ "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=8491269936067905654",
+      "user_ratings_total" : 15,
+      "utc_offset" : -300,
+      "vicinity" : "243 Thompson Street, New York",
+      "website" : "http://www.thegymatjudson.com/"
+   },
+   "status" : "OK"
+}

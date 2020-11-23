@@ -1,0 +1,82 @@
+{
+   "plus_code" : {
+      "compound_code" : "P2F8+VX New York, NY, USA",
+      "global_code" : "87G8P2F8+VX"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Creative Little Garden",
+               "short_name" : "Creative Little Garden",
+               "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+            },
+            {
+               "long_name" : "530",
+               "short_name" : "530",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East 6th Street",
+               "short_name" : "E 6th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10009",
+               "short_name" : "10009",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Creative Little Garden, 530 E 6th St, New York, NY 10009, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7246987,
+               "lng" : -73.98258
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.72604768029149,
+                  "lng" : -73.9812310197085
+               },
+               "southwest" : {
+                  "lat" : 40.7233497197085,
+                  "lng" : -73.98392898029151
+               }
+            }
+         },
+         "place_id" : "ChIJZ0CWp4JZwokRABX52bvJAn0",
+         "plus_code" : {
+            "compound_code" : "P2F8+VX New York, NY, USA",
+            "global_code" : "87G8P2F8+VX"
+         },
+         "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

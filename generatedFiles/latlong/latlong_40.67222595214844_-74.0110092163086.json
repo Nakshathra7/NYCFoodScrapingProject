@@ -1,0 +1,189 @@
+{
+   "plus_code" : {
+      "compound_code" : "MXCQ+VH New York, NY, USA",
+      "global_code" : "87G7MXCQ+VH"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Otsego Street",
+               "short_name" : "Otsego St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Red Hook",
+               "short_name" : "Red Hook",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11231",
+               "short_name" : "11231",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "103 Otsego St, Brooklyn, NY 11231, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6722095,
+               "lng" : -74.0112029
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6735584802915,
+                  "lng" : -74.00985391970849
+               },
+               "southwest" : {
+                  "lat" : 40.6708605197085,
+                  "lng" : -74.01255188029151
+               }
+            }
+         },
+         "place_id" : "ChIJSztnyY1awokRvUId9v_ifeE",
+         "plus_code" : {
+            "compound_code" : "MXCQ+VG Brooklyn, NY, USA",
+            "global_code" : "87G7MXCQ+VG"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beard St/Otsego St",
+               "short_name" : "Beard St/Otsego St",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Red Hook",
+               "short_name" : "Red Hook",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11231",
+               "short_name" : "11231",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Beard St/Otsego St, Brooklyn, NY 11231, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.672272,
+               "lng" : -74.01121499999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6736209802915,
+                  "lng" : -74.0098660197085
+               },
+               "southwest" : {
+                  "lat" : 40.6709230197085,
+                  "lng" : -74.0125639802915
+               }
+            }
+         },
+         "place_id" : "ChIJMx9uyY1awokRJKP7cze0Ehw",
+         "plus_code" : {
+            "compound_code" : "MXCQ+WG New York, NY, USA",
+            "global_code" : "87G7MXCQ+WG"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Island",
+               "short_name" : "Long Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Island, New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            },
+            "location" : {
+               "lat" : 40.789142,
+               "lng" : -73.13496099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            }
+         },
+         "place_id" : "ChIJy6Xu4VRE6IkRGA2UhmH59x0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

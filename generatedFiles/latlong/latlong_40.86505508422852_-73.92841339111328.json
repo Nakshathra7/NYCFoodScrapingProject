@@ -1,0 +1,82 @@
+{
+   "plus_code" : {
+      "compound_code" : "V38C+2J New York, NY, USA",
+      "global_code" : "87G8V38C+2J"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Anne Loftus Playground",
+               "short_name" : "Anne Loftus Playground",
+               "types" : [ "establishment", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "4746",
+               "short_name" : "4746",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Broadway",
+               "short_name" : "Broadway",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10040",
+               "short_name" : "10040",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Anne Loftus Playground, 4746 Broadway, New York, NY 10040, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8650507,
+               "lng" : -73.92846969999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8663996802915,
+                  "lng" : -73.92712071970848
+               },
+               "southwest" : {
+                  "lat" : 40.8637017197085,
+                  "lng" : -73.9298186802915
+               }
+            }
+         },
+         "place_id" : "ChIJ-cW3fAf0wokRmOni1IFiO9w",
+         "plus_code" : {
+            "compound_code" : "V38C+2J New York, NY, USA",
+            "global_code" : "87G8V38C+2J"
+         },
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

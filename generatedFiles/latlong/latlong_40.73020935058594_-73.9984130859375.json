@@ -1,0 +1,77 @@
+{
+   "plus_code" : {
+      "compound_code" : "P2J2+3J New York, NY, USA",
+      "global_code" : "87G8P2J2+3J"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "243",
+               "short_name" : "243",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Thompson Street",
+               "short_name" : "Thompson St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10012",
+               "short_name" : "10012",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "243 Thompson St, New York, NY 10012, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7302294,
+               "lng" : -73.99825890000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7315783802915,
+                  "lng" : -73.99690991970851
+               },
+               "southwest" : {
+                  "lat" : 40.7288804197085,
+                  "lng" : -73.99960788029152
+               }
+            }
+         },
+         "place_id" : "ChIJzR9hqJFZwokRdghIpwQN13U",
+         "plus_code" : {
+            "compound_code" : "P2J2+3M New York, NY, USA",
+            "global_code" : "87G8P2J2+3M"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

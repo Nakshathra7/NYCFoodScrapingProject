@@ -1,0 +1,82 @@
+{
+   "plus_code" : {
+      "compound_code" : "R35J+RG New York, NY, USA",
+      "global_code" : "87G8R35J+RG"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brook Park",
+               "short_name" : "Brook Park",
+               "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+            },
+            {
+               "long_name" : "494",
+               "short_name" : "494",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East 141st Street",
+               "short_name" : "E 141st St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mott Haven",
+               "short_name" : "Mott Haven",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "The Bronx",
+               "short_name" : "The Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10454",
+               "short_name" : "10454",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Brook Park, 494 E 141st St, The Bronx, NY 10454, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8095801,
+               "lng" : -73.91862189999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.81092908029149,
+                  "lng" : -73.91727291970849
+               },
+               "southwest" : {
+                  "lat" : 40.80823111970849,
+                  "lng" : -73.9199708802915
+               }
+            }
+         },
+         "place_id" : "ChIJIabH_MP1wokR0sGt3Vkqav0",
+         "plus_code" : {
+            "compound_code" : "R35J+RH The Bronx, NY, USA",
+            "global_code" : "87G8R35J+RH"
+         },
+         "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

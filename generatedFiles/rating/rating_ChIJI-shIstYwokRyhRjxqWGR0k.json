@@ -1,0 +1,94 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "3355",
+            "short_name" : "3355",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "11th Street",
+            "short_name" : "11th St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Astoria",
+            "short_name" : "Astoria",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Queens",
+            "short_name" : "Queens",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Queens County",
+            "short_name" : "Queens County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11106",
+            "short_name" : "11106",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e3355 11th St\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAstoria\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11106\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "3355 11th St, Astoria, NY 11106, USA",
+      "formatted_phone_number" : "(718) 533-8181",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.76556799999999,
+            "lng" : -73.93752599999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7668701802915,
+               "lng" : -73.9360469697085
+            },
+            "southwest" : {
+               "lat" : 40.7641722197085,
+               "lng" : -73.93874493029151
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "international_phone_number" : "+1 718-533-8181",
+      "name" : "CNA Enterprises Inc",
+      "place_id" : "ChIJI-shIstYwokRyhRjxqWGR0k",
+      "plus_code" : {
+         "compound_code" : "Q386+6X New York, NY, USA",
+         "global_code" : "87G8Q386+6X"
+      },
+      "rating" : 5,
+      "reference" : "ChIJI-shIstYwokRyhRjxqWGR0k",
+      "reviews" : [
+         {
+            "author_name" : "Karren Jaime",
+            "author_url" : "https://www.google.com/maps/contrib/117938313399975454930/reviews",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GinkVGdS9LG6Cp-8MSiNtXTjnP2IZScckBxfs3CEg=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "",
+            "time" : 1571099355
+         }
+      ],
+      "types" : [ "general_contractor", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=5280337134671303882",
+      "user_ratings_total" : 1,
+      "utc_offset" : -300,
+      "vicinity" : "3355 11th Street, Astoria"
+   },
+   "status" : "OK"
+}

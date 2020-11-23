@@ -1,0 +1,220 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "340",
+            "short_name" : "340",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "6th Avenue",
+            "short_name" : "6th Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10011",
+            "short_name" : "10011",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e340 6th Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10011\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "340 6th Ave, New York, NY 10011, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.7311137,
+            "lng" : -74.00122329999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.73445255000001,
+               "lng" : -73.99884330000002
+            },
+            "southwest" : {
+               "lat" : 40.72991235000001,
+               "lng" : -74.00244169999998
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name" : "W 4 St - Wash Sq",
+      "photos" : [
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106335150984576248336\"\u003eAsad Ahmed\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKLoXDkgg1eGePGAObTCyzSlK0SXioj5fj3rxfAH8e9rqaZpbxyq5-s-RZGlqd2Cm63E5yFxC2lARZTlTFozqyQwSgw6Mc4XbwAVqIBc753f_5M3z7Eb3Orgjs5niYeCLe9XChq506XZZFRAXGCWbpHBORcF6NVjRXV60FD46d-551D",
+            "width" : 4032
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106048252159271746773\"\u003ePhilipp Klöckner\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKWReUVq4Yx1FCcRO7fz5kXuyjwXF8rqp6D8LWoH-E-7JT3cQLbZWYzNiG-N1XxAJJWsN6CgaJAdmYmjVlbX3AjLvn1DPlUxgw4J_lP_tVimHDdWAG4GbkA6o9ZCrMhDJ4OEEwNanfOqcuIVGj6XzMdlbIH6OtdQtoV-CjyE0GFWrqC",
+            "width" : 4032
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114719881561543879678\"\u003eIshaan Awasthy\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJ4tsZlxFQjL2xTkzyj1YtcTGL8F2fEhGZWNYLJCD2lIkGJDgX3S4X1i6PHBsVM5_UeElFyxWxtRIQc0ncek6KGM6Mzdo_j_7LLYaOjjEmxmvjOG8LyWy8CksPW5cu59X62pSY-HGcEASDaIcQeL6XbyDLGJmcAYW99cCDq2wzhm4s",
+            "width" : 3024
+         },
+         {
+            "height" : 3840,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113388248075047475338\"\u003eMarcelo Quinde\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLVNmr768Zx4ob0sw9AdxHtSpBtFfpWX42kznMknbRiG1I0dJtc4LMjy9NWC2YHKe8u34IHE65HZF4nSYPiOIrcrHGZXtCyJRaRlEAa9x1gGAvChkrvdz0wpsupeb-OnpypoBV7xP6DaJZ7OT294UFJwem05IEqfqDqNoizo3OOiWk",
+            "width" : 5120
+         },
+         {
+            "height" : 853,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102270916178756585218\"\u003eStephan Grütering\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLbNZxVihGIRFQ5r1OHptzXhhLaHfCxqfbiMzRakONnyZuoKrw3_lP7JlNLHonu2zVWKrCH4Hu9FGt0nE33KN_9o34NON-zxOCm76hRii7OgXh45lv_SgNhf4nqz-9FmtvnPC3Vj3uPT8Zk2Vmn7kVAD64w_nuRAnpTzVYwzgap8jNy",
+            "width" : 1280
+         },
+         {
+            "height" : 1364,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107244119634886511268\"\u003eJason Braun\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKl8jLHEc_x3ew3_weSGwpjpoXZ6RRDaNKmA5Z32SeWNoXN8w7PXVpbOrMqt4jRCIQ3iL_MwQqU5OTY2KTNMNQk45C8L6AoD8TkY4nJLDwZzYEt0ZN5avxQVWe9r34g2uQN8bN4eC6E-5XXoTds3ugjeUkO39awadQXjP_VIDs1R_wt",
+            "width" : 2046
+         },
+         {
+            "height" : 2340,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114651583497407382874\"\u003eRobert Roush\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKZ8z_rWGJej6jVboek94AWnmanssL8btdJnsTLcV8MXKmMLcCOFnVcmlVuPjBTY9f8qSWt9JUcn0ERTq4HUdMkm89TZcnRCFrzzPeqoa4JWwsXz7qKA-gOHWpc-iBjcVe9sQdq5N-LIVORS6A0IUyCZZwWUGxCIdI1V6qQ_CQ1SFZZ",
+            "width" : 4160
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114719881561543879678\"\u003eIshaan Awasthy\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwI28tkTU160RjPbItzzaGXAIQUOVn5fP1WR8Crw9I40dBeEXdUkezuLPYpTS4qSwYZ9xLkqxleFMIGfy1FU1ma2bKQaMQaxUHCNGTCFsTQ9X5XN4uNrXJrzoTza8gxEpih2dKqM-Dob2UZwKDIlZVLO3upVLzZ0SGmJWvnkMYT1Icg",
+            "width" : 4032
+         },
+         {
+            "height" : 4128,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112448747715036023789\"\u003eRebecca M\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwK259HVDYmUShzgsfoAtdZ4OokA6PqKldlaCL9jNneZq2XWIeIQmyOoTcUBO0YaS4dgpc493s2gqNmZSFtxm064rKBZlfPdQbyIKh0YMH2T_dyJMUNcqLRTe6uNpNyeXSfZeOwUqhd-PCgdjvIcQTmW1N1TWWbtJRJMkdexxXYJUVla",
+            "width" : 3096
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111793281148483537299\"\u003eWarren Sze\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJ8AQwjFWrUVUJf-67kpZiKcL8bDm7c1JYSNNsAor9TwHp-5UXip6eMnHyouE1lmIQkY-Tt7pwJmSCh28244mrSYiTfOg917DsKl-R5W2WFjyytKq_aSXH0TsFWgyzsa1got-i9q4HWSmLgvI0N0z2EvF60HLYqoILZG19kTvKx4-bT",
+            "width" : 3024
+         }
+      ],
+      "place_id" : "ChIJTbWiV5FZwokRsywIOc28k3Q",
+      "plus_code" : {
+         "compound_code" : "PXJX+CG New York, NY, USA",
+         "global_code" : "87G7PXJX+CG"
+      },
+      "rating" : 3.8,
+      "reference" : "ChIJTbWiV5FZwokRsywIOc28k3Q",
+      "reviews" : [
+         {
+            "author_name" : "Derek Villorente",
+            "author_url" : "https://www.google.com/maps/contrib/117664610285551655790/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh6.googleusercontent.com/-GLJg-joz2hc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnZwvPM0zwtzclYXXWc9c1i9uaztA/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+            "rating" : 4,
+            "relative_time_description" : "9 months ago",
+            "text" : "You can easily connect to the A, C, E, F, M, and D lines downstairs. The station has an elevator and two news stands with drinks and snacks.",
+            "time" : 1581423266
+         },
+         {
+            "author_name" : "Y Sa",
+            "author_url" : "https://www.google.com/maps/contrib/112980664932477114549/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Ghbz5HvEdQ9ewrKkz-_prX6gGawt221Zx7xcRnG2w=s128-c0x00000000-cc-rp-mo-ba8",
+            "rating" : 5,
+            "relative_time_description" : "12 months ago",
+            "text" : "At 3 PM on Nov 25, 2019, when my 10 yrs daughter was stuck at the ticket gate due to failure of swipping metro card, a woman opened the ticket gate with her card. I want to say thank you very much for the lady here. I was heard before coming NYC that some people who are in NYC are so kindly. I understand this meaning by actual experence. I want to help those in need.",
+            "time" : 1574739803
+         },
+         {
+            "author_name" : "Patrina Huff",
+            "author_url" : "https://www.google.com/maps/contrib/115053429907599087900/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GgCaW_nRs7yo0Fj29p_saCwVsMCbWmDCVUQBp1-hQ=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "7 months ago",
+            "text" : "Well located along several transit lines and in walking distance of NYU, theaters, restaurants, shopping and other prominent landmarks.",
+            "time" : 1585867991
+         },
+         {
+            "author_name" : "Raphael Rivas",
+            "author_url" : "https://www.google.com/maps/contrib/104038744742703255857/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-rtRsxATdwro/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmI5FW0BIwNQsaqH7g4tWAzqJwl6A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 4,
+            "relative_time_description" : "5 months ago",
+            "text" : "A very important transfer point.",
+            "time" : 1590891640
+         },
+         {
+            "author_name" : "carolina miller",
+            "author_url" : "https://www.google.com/maps/contrib/114126290336779197995/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh5.googleusercontent.com/-r0PRINcHklE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucml7r9NvJvF60KVQu8U9zvmZh7NAw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "11 months ago",
+            "text" : "Nice, clean environment. Loved it. Carolina Miller and Kan, husband and K., S., and E.  Sons.  12/18/2019 Wednesday.",
+            "time" : 1576707227
+         }
+      ],
+      "types" : [
+         "subway_station",
+         "transit_station",
+         "point_of_interest",
+         "establishment"
+      ],
+      "url" : "https://maps.google.com/?cid=8400265319587261619",
+      "user_ratings_total" : 147,
+      "utc_offset" : -300,
+      "vicinity" : "340 6th Avenue, New York"
+   },
+   "status" : "OK"
+}

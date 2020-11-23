@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>Neighborhood Population List</h1>
+    <a href="dashboard">Return to Main Dashboard View</a> 
+    <br/>
+    <br/>
+    <table>
+    	<tr>
+    		<th>NTA Name</th>
+            <th>Borough</th>
+            <th>Population</th>
+    	</tr>
+    {% for ntaPopulation in ntaPopulations %}
+    	<tr>
+    		<td>{{ ntaPopulation.ntaname }}</td>
+    		<td>{{ ntaPopulation.borough }}</td>
+    		<td>{{ ntaPopulation.population }}</td>
+    	</tr>  
+    {% endfor %}
+    </table>
+   
+{% endblock %}

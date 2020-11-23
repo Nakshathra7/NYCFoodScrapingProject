@@ -1,0 +1,121 @@
+{
+   "plus_code" : {
+      "compound_code" : "P48R+QW New York, NY, USA",
+      "global_code" : "87G8P48R+QW"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yellowstone/Juno St",
+               "short_name" : "Yellowstone/Juno St",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Forest Hills",
+               "short_name" : "Forest Hills",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11375",
+               "short_name" : "11375",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Yellowstone/Juno St, Queens, NY 11375, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.716953,
+               "lng" : -73.857315
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7183019802915,
+                  "lng" : -73.8559660197085
+               },
+               "southwest" : {
+                  "lat" : 40.7156040197085,
+                  "lng" : -73.85866398029151
+               }
+            }
+         },
+         "place_id" : "ChIJ1WqCLxZewokRHuBg6tTl4Ek",
+         "plus_code" : {
+            "compound_code" : "P48V+Q3 New York, NY, USA",
+            "global_code" : "87G8P48V+Q3"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Island",
+               "short_name" : "Long Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Island, New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            },
+            "location" : {
+               "lat" : 40.789142,
+               "lng" : -73.13496099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            }
+         },
+         "place_id" : "ChIJy6Xu4VRE6IkRGA2UhmH59x0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

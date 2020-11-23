@@ -1,0 +1,148 @@
+{
+   "plus_code" : {
+      "compound_code" : "Q2VM+C5 New York, NY, USA",
+      "global_code" : "87G8Q2VM+C5"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "741",
+               "short_name" : "741",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Columbus Avenue",
+               "short_name" : "Columbus Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10025",
+               "short_name" : "10025",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "741 Columbus Ave, New York, NY 10025, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7932645,
+               "lng" : -73.966881
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7946134802915,
+                  "lng" : -73.96553201970849
+               },
+               "southwest" : {
+                  "lat" : 40.7919155197085,
+                  "lng" : -73.96822998029151
+               }
+            }
+         },
+         "place_id" : "ChIJfUQK8Xf3wokReg31qwDspQc",
+         "plus_code" : {
+            "compound_code" : "Q2VM+86 New York, NY, USA",
+            "global_code" : "87G8Q2VM+86"
+         },
+         "types" : [
+            "convenience_store",
+            "drugstore",
+            "establishment",
+            "food",
+            "health",
+            "point_of_interest",
+            "store"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Columbus Av/W 97 St",
+               "short_name" : "Columbus Av/W 97 St",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10025",
+               "short_name" : "10025",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Columbus Av/W 97 St, New York, NY 10025, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.793274,
+               "lng" : -73.967361
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.79462298029149,
+                  "lng" : -73.9660120197085
+               },
+               "southwest" : {
+                  "lat" : 40.79192501970849,
+                  "lng" : -73.96870998029151
+               }
+            }
+         },
+         "place_id" : "ChIJqb2Fbif2wokRFCSOI-qoQ4Y",
+         "plus_code" : {
+            "compound_code" : "Q2VM+83 New York, NY, USA",
+            "global_code" : "87G8Q2VM+83"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      }
+   ],
+   "status" : "OK"
+}

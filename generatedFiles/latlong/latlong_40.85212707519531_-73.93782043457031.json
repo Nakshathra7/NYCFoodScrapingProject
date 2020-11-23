@@ -1,0 +1,130 @@
+{
+   "plus_code" : {
+      "compound_code" : "V326+VV New York, NY, USA",
+      "global_code" : "87G8V326+VV"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "ft Washington Av/w 183 St",
+               "short_name" : "ft Washington Av/w 183 St",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10033",
+               "short_name" : "10033",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "ft Washington Av/w 183 St, New York, NY 10033, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8521445,
+               "lng" : -73.9378205
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8534934802915,
+                  "lng" : -73.93647151970849
+               },
+               "southwest" : {
+                  "lat" : 40.85079551970851,
+                  "lng" : -73.93916948029151
+               }
+            }
+         },
+         "place_id" : "ChIJd1R_zKD2wokRsAOaNkRAUlk",
+         "plus_code" : {
+            "compound_code" : "V326+VV New York, NY, USA",
+            "global_code" : "87G8V326+VV"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10033",
+               "short_name" : "10033",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Fort Washington Ave & W 183 St, New York, NY 10033, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.852252,
+               "lng" : -73.937854
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8536009802915,
+                  "lng" : -73.93650501970851
+               },
+               "southwest" : {
+                  "lat" : 40.8509030197085,
+                  "lng" : -73.93920298029151
+               }
+            }
+         },
+         "place_id" : "ChIJifeizKD2wokR36fYsGzjigg",
+         "plus_code" : {
+            "compound_code" : "V326+WV New York, NY, USA",
+            "global_code" : "87G8V326+WV"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

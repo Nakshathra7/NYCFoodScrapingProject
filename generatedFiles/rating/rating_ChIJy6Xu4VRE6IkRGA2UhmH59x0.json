@@ -1,0 +1,184 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Long Island",
+            "short_name" : "Long Island",
+            "types" : [ "natural_feature", "establishment" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "Long Island, \u003cspan class=\"region\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "Long Island, New York, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.789142,
+            "lng" : -73.13496099999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 41.16124005727758,
+               "lng" : -71.85620111639089
+            },
+            "southwest" : {
+               "lat" : 40.54297885246849,
+               "lng" : -74.04194968293125
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "name" : "Long Island",
+      "photos" : [
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104668717401855578170\"\u003eDiego Terzian\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLoQjx3bJx7YyZtSvLjZH_ggFU-VkggmkSDct1uR6uzynT2gYXNjbtpiCxEwKOP9CxvKd3_WSgQHbjnZ8GyBTz_LJCRhibhWse63PjBIzSA5fm761hzA2tBxTyCa4t5ehCPHNxaiym2bDWSG_0i4ZvzuaYmg0rLf7-QN6IiWxjEcYwM",
+            "width" : 4032
+         },
+         {
+            "height" : 2412,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103093260248799044849\"\u003eJohnny Ortiz\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIPB2M2psSu3Y8HIxQaO6h6GVwT7jLng88FBREG_3lmHiYjrTNHAw4Kgk5DAWZ5Mz7XVqheMZ-048wbZtu68H_sdfET6xAdpN8ucDe1I7ngHh-wWjJqZaLn2aipxX980CXBlzxaXV0_lRarwOef88pt6CbNvSxvPrgHWEC4Ur6vKvLV",
+            "width" : 6534
+         },
+         {
+            "height" : 1920,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100623928843338673465\"\u003eぬまを\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJP5-_hHGZFququKcw6yzDOwOGF8eWOP719EYe_pEGw5gq_wM7jN0bxPzphZ6JgRpRa9ij9_5qH1rCyDGlGn7vWXyGZL8yITQzKc3odtmBo8Pg5770UA0JEuqXIywabAm5JzKv0xc2qmHN79lx2ygb1-UzFnOvEQ3H2Q3HjTCCGkcjV",
+            "width" : 2560
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105284088210885266505\"\u003eD Alex\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKSyO4ndpQ6G8eJyuhYY8kENdqApIzkxGk-ujDnm58JRZwQtxTDej8wwX8-HfHu55ZoG21mJraYlfZ1yRJIMzSjbTGEFRKeT3TydiTGYVTIoT1dEVSMDSmJ6ACDudunDoDikM8m1tvQa-7yHPu-X3sGcNXVBUZ7qjFWACpeE54oIotl",
+            "width" : 1908
+         },
+         {
+            "height" : 1440,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112152797155275781324\"\u003eIgor Palka\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwI6--Ld5PSX0xNPOcaq8HWZ5IzTDU4KB5j0iHnTv1Y_lhvPucgvgPrwAcESa090qK05dxpSs-0_Fx2JyUR8TrQdVarAuka2El5tK6N1XQQJdw-Nu6UZxpdNeKWCtEZ2emORkJr3iE4HDdEDZ1WwLFtmlgvUOYJBuRoyTQi5GPhdR_o",
+            "width" : 2560
+         },
+         {
+            "height" : 3945,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111735457748892062484\"\u003eMax Guliani\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJgXw5bD5oNMNthuw1mi3Y6vET-Nvt0-vysvI5cA4BqIGCDnhyTMEKp9pmqfnL5IjAfbgA30HF4DL67l37h1eb0QGSLeWtem2qBtrfvPM1IXQF3YUxhAekevqMYaZoq5bwAEAlgDO5lTnVTpKWFSQrRXhlTMaP7YYjCDSiuz5pZjTat",
+            "width" : 5917
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102502780869305335218\"\u003eDamian Cox\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKEdVl_Bjnc5VOvGKuxa1iPq_ufZpn1pgqTB8PXoq8cca_S_50WVPDnfpF5qtD1VZn0hZmy7HkmHRT3ixzFCD-VHm5mg9Bk1j5e9LmdSM-vNIqel20pH1Kve4fV2gGs7ZRcVyRbpCVWJB4-IpYTn3jB15j0jraUEyE1cVNR776Kwi2_",
+            "width" : 4032
+         },
+         {
+            "height" : 4160,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108964816104542217048\"\u003eMagdalena Koluch\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKoxOtrlJ2AmXnJ_5-KF99ho7_FuP1UV-IEVi644PsQsV9pZ_0LlWaFXJZInm2Qh9Nqay71B0iM_jVceOPNhaYvyUkT_G2Unu-UQ9gGA6eX4klj863PFzJSnzFiksn0MfK7ZNczwWtI-5YNBdm-chkj8LM8mUFzTdh7uYgvzJ489M12",
+            "width" : 3120
+         },
+         {
+            "height" : 3018,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108779699075437770807\"\u003eLaszlo Kokorcseny\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKSJwP5qec6W17xNAPhuFp5_30bMgnUZvx1D0V96SSoR-zClZBYIWr1AaVU35xmxmjOToaODUYeAIMJtP70yVewr_0yuApQIVUY_ogNBcBbDn4TPypsgD9rd4qrO0ObDncjLU9oABOOtJQLbwJF42Thx-kSJVvzig5YA-C15NIBIYmQ",
+            "width" : 3018
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116535428887934752522\"\u003eSoumya Dutta\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJhh4VTaoqNUpCf6SpZg9fDagHEoNR0PrNaiRcfM7f28Lf1vwcaJM9_66tHMHGflNdOLnpfpBX-XwkmqfLwBOfIf0yT8j7Yoh1LqD__WhaItO1rm-lfHrrm7gHY79fvEmlfr-MwMieSZ4X4PzpEP3sk4bo247dsz32QGylcYthW4FGy",
+            "width" : 3024
+         }
+      ],
+      "place_id" : "ChIJy6Xu4VRE6IkRGA2UhmH59x0",
+      "rating" : 4.4,
+      "reference" : "ChIJy6Xu4VRE6IkRGA2UhmH59x0",
+      "reviews" : [
+         {
+            "author_name" : "JR_MUSIC_ JAIPUR",
+            "author_url" : "https://www.google.com/maps/contrib/104004707539482748968/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GhVA3oPiIZu7bRJveKBSEcB8J0aNEqcT3spD4gJwQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 3,
+            "relative_time_description" : "a week ago",
+            "text" : "Nice place and hotel rooms very well.",
+            "time" : 1605336892
+         },
+         {
+            "author_name" : "Josh Foley",
+            "author_url" : "https://www.google.com/maps/contrib/102673239836765632090/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-N3FiXDTn1uA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl_UJ3B-WZBgibLKAIuqf3m-OIUYQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 3,
+            "relative_time_description" : "in the last week",
+            "text" : "Too long",
+            "time" : 1605530360
+         },
+         {
+            "author_name" : "Paul Guarino",
+            "author_url" : "https://www.google.com/maps/contrib/116313675128887654540/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gi0LvDKkNI4NHjlFxryV76RQshsUGl2tunzK1r0Fw=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating" : 5,
+            "relative_time_description" : "in the last week",
+            "text" : "Charming & Cozy",
+            "time" : 1605963975
+         },
+         {
+            "author_name" : "chessyseal San",
+            "author_url" : "https://www.google.com/maps/contrib/116285797679877468324/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gg2p2rkAnUmxUFkKRA8S3mdQxJ1QqD_9mNHywcMEw=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating" : 5,
+            "relative_time_description" : "3 weeks ago",
+            "text" : "This is a long island. Confused and confused, all of you!",
+            "time" : 1603675038
+         },
+         {
+            "author_name" : "Donald S",
+            "author_url" : "https://www.google.com/maps/contrib/105865958312811091372/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-nR0q5o5CYT4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl2RCEEaRqXA6MCZ7HTQ5CSDIKn_g/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "a month ago",
+            "text" : "Away from the city",
+            "time" : 1602024784
+         }
+      ],
+      "types" : [ "natural_feature", "establishment" ],
+      "url" : "https://maps.google.com/?q=Long+Island&ftid=0x89e84454e1eea5cb:0x1df7f96186940d18",
+      "user_ratings_total" : 1482,
+      "utc_offset" : -300
+   },
+   "status" : "OK"
+}

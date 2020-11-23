@@ -1,0 +1,210 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "Manhattan",
+            "short_name" : "Manhattan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "10014",
+            "short_name" : "10014",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10014\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "New York, NY 10014, USA",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.73357840000001,
+            "lng" : -74.00287279999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.73489068029149,
+               "lng" : -74.0015548197085
+            },
+            "southwest" : {
+               "lat" : 40.7321927197085,
+               "lng" : -74.00425278029151
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name" : "Christopher St Station",
+      "photos" : [
+         {
+            "height" : 2694,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116962923538112334581\"\u003eKevin Wong\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIzxUOi2H8jdUb-BlUGDn-2wRkvFW3WyFqX5IBihsVotyIPOrZB-VQvn4kfJh_ZwiSjFBEkU2ITAKGSZzBPZXuCjJacAIdtIHV5e746VRAh2hQ7pynS7nox_d2i2DbXnb0d5b-0BfgEfuOJbMYWSn3iqvMMqpusgznVvPRdvP4-Gdh4",
+            "width" : 3765
+         },
+         {
+            "height" : 960,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102270916178756585218\"\u003eStephan Grütering\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIF4obzECeO_7EPUs9Y5YMzIvxR5TCoub7VphaUuSippYbQhMkX0xdoj0qg0WwohjYKMpzwcnrkSnzPkd-YykotS_yBJPXNmoJiFu_TRjyl1tNzwl7siRAwA5vbYg_Kh34qg18HJ5eQcq16ybox7nzhI8O-7myDqVUgy6hrRRqO6uxh",
+            "width" : 1280
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109608401846994307559\"\u003eJames Presser\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKqrTzIoGU5co-LR5bG5m2qLi0bESrhuBybE6GIWanuCgsobnBvJyTEuYQoWJHh0nNakn10wrVYMugbbw5q8Ul6AGkWCHyXK3a7zMN1jipNxTRR0SdwbdjwgJBBauqou6VTeRKZQ5x6FMv7HRBhs21Or0bT8teMGKwqIkzX-mUm2Hyh",
+            "width" : 4032
+         },
+         {
+            "height" : 477,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101580679594295106213\"\u003eJay Kindell\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLFR-DBp_2Tx5aj3YrhyjPpcpI635s8wzRq7U5thZr-bM7nrFh38tTNNH-9vJ2ceclZDa-R81jo5YYNnhsvEEm2MiMAxN29KbMWSBSj34bL3ODgMCI2CDWjRzgQlVE9qqUHncY2UbeFpDFrGVHBg7GDvQpBlfa-VantPM-ccGPj-TQ",
+            "width" : 640
+         },
+         {
+            "height" : 2516,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101580679594295106213\"\u003eJay Kindell\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLAOKxUJpIbyA-lvdKqHPf89FKQl7eILnFotQv6r3HyvOxpxuIY8pBUqpN5uqypVUUV5DRAMZ-wGH94f2BZ9WVu1TZCxsTn1fBb7FXk4JSxXxepQzD54SXUhEN2XAplq41R3BrOTHVPUhRkwV_NeNQE9O764uO9WF1c86_47rEuU2Y",
+            "width" : 4489
+         },
+         {
+            "height" : 900,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108605778596958236375\"\u003eIgor Ostrovsky\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwIGRPkAf7paVtVXR2J9fc43hcI6LU-rIS-09tDD07Zn9nkZdDkw-K-01qFIkTvmGtHyxwndcfUdIRaU1AG00QgeUoeUQX1xJbCvXMgd3ENo_HGbDyeIpnMA5Fwc0guijk9UEEaAW1WEltOmuWbZUPTu4BmRu3FfIEX9o8pwLWrsc9pD",
+            "width" : 1200
+         },
+         {
+            "height" : 3240,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116962923538112334581\"\u003eKevin Wong\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKAAlmM6n6pbgoVykbIHgiAU5rgRGeScj8elBIgvuu_R_ISGTTXGS_aGh0RL73aSexCetgrnxgQhuJm7NnnXnN_FB9McINf7VyYk_JmK59bPpxz-n_gAqDdGxAsLfReNSDPCReumqqhYnqNk2Py_z4XgD2UbBhoErtCI5RtYkuo90Rf",
+            "width" : 4320
+         },
+         {
+            "height" : 750,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117916411955421813182\"\u003eBrendan Gutenschwager\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwITnSIiQofjNUk_vVFiwmId4jJRt55EaYfusBeZUySwpLhuvw7G4gSgrMiZ08bFn42CVXGJCj3C4Hu7GRaDNizdsYHtGq_XyTZp6p3JZSeDERj6it5X3pRX01fERYr3yeFW7VGagvnrv2KFwmWEdVg42A8CMbVZeyuAlof7gntbzTsE",
+            "width" : 1334
+         },
+         {
+            "height" : 4396,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106071649843748511927\"\u003ehumberto escobar\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKenrriB4GFUUNbwFl-1KTO8j6VoBhlM21mrxpInvAp-RTrZWt7nQICVHISALtp7gRYP1wIbUVvgWEQ1DY9nNTtDGp1jJmlxaiQ7HGkyG3_jnr2wAGr2hNRnUtSAo2B8iZDiG6bJ2pEGZe6NkJp9YDPtSZMzeXkoW1m_ebo6IUEszcS",
+            "width" : 5908
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109608401846994307559\"\u003eJames Presser\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLmd7_dGWC1sYKlyBmV8fgng4WdpNximv3qGe5fVfiVh7P7I23dssnwyuVET44ObxQmNHJkEB6aL5omryqmFUhoUabAIcNPGBdlUx-zasuxdjr-jZHXSs90xVnKXgy11whFooeDjsfMtt6EKHXJJwNcJIFn7DPLwK2nVS0lcHz8NVHK",
+            "width" : 4032
+         }
+      ],
+      "place_id" : "ChIJK5zGeZRZwokRjEM4Qsnb7tI",
+      "plus_code" : {
+         "compound_code" : "PXMW+CV New York, NY, USA",
+         "global_code" : "87G7PXMW+CV"
+      },
+      "rating" : 3.9,
+      "reference" : "ChIJK5zGeZRZwokRjEM4Qsnb7tI",
+      "reviews" : [
+         {
+            "author_name" : "Eric Patterson",
+            "author_url" : "https://www.google.com/maps/contrib/115181851984464278089/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh6.googleusercontent.com/-qqiMWZIgrpA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclv6j9NRP7qOrwXVVyqcIH9NcaV0g/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "9 months ago",
+            "text" : "Very clean station and it's all ways busy too !",
+            "time" : 1582492545
+         },
+         {
+            "author_name" : "Ricardo Pinto",
+            "author_url" : "https://www.google.com/maps/contrib/106593584200240431216/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gh_rGKFZIZeDDmXTzb2dFj0bqJlH16QANJViTVZ5g=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating" : 5,
+            "relative_time_description" : "9 months ago",
+            "text" : "Christopher Street–Sheridan Square is a local station on the IRT Broadway–Seventh Avenue Line of the New York City Subway. Located at the intersection of Christopher Street and Seventh Avenue",
+            "time" : 1582466551
+         },
+         {
+            "author_name" : "Rodney",
+            "author_url" : "https://www.google.com/maps/contrib/112141728994957486163/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh6.googleusercontent.com/-q-WhJPK7cp0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckCWK4BYku6CFBxSten3fZ-zi3f_Q/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 1,
+            "relative_time_description" : "11 months ago",
+            "text" : "Google doesn't list the tracks when you click on subway stations anymore for some reason. This is a review of google. Subways don't care about reviews so one star it is.",
+            "time" : 1575423427
+         },
+         {
+            "author_name" : "William Bogart",
+            "author_url" : "https://www.google.com/maps/contrib/114561858843562449187/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-5I3Ih3p9_Ec/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmC1huuKs2P9kWLLydVyKduJCPVQA/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "9 months ago",
+            "text" : "Get high love u friendly",
+            "time" : 1580436644
+         },
+         {
+            "author_name" : "JAY MORGENTHAL",
+            "author_url" : "https://www.google.com/maps/contrib/117835680133463792303/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh6.googleusercontent.com/-01On760XBg0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckKvVgGikLR6Y791-QdgCfl5WVEFw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "If you want to experience all of the sights, sounds,food and experience of the West Village this about the best station to start from. The 1 train normally stops here 24x 7 but after midnight to aprox 5 AM the 2 train will stop here as well.",
+            "time" : 1553104784
+         }
+      ],
+      "types" : [
+         "subway_station",
+         "transit_station",
+         "point_of_interest",
+         "establishment"
+      ],
+      "url" : "https://maps.google.com/?cid=15199327449867895692",
+      "user_ratings_total" : 49,
+      "utc_offset" : -300,
+      "vicinity" : "United States"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,82 @@
+{
+   "plus_code" : {
+      "compound_code" : "P2GC+54 New York, NY, USA",
+      "global_code" : "87G8P2GC+54"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "De Colores Community Yard & Cultural Center",
+               "short_name" : "De Colores Community Yard & Cultural Center",
+               "types" : [ "establishment", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "311",
+               "short_name" : "311",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East 8th Street",
+               "short_name" : "E 8th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10009",
+               "short_name" : "10009",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "De Colores Community Yard & Cultural Center, 311 E 8th St, New York, NY 10009, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7254348,
+               "lng" : -73.979766
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.72678378029149,
+                  "lng" : -73.97841701970849
+               },
+               "southwest" : {
+                  "lat" : 40.72408581970849,
+                  "lng" : -73.98111498029149
+               }
+            }
+         },
+         "place_id" : "ChIJJ_h3eXdZwokRiqbPXI7L23Q",
+         "plus_code" : {
+            "compound_code" : "P2GC+53 New York, NY, USA",
+            "global_code" : "87G8P2GC+53"
+         },
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

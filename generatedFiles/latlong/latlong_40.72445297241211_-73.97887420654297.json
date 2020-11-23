@@ -1,0 +1,150 @@
+{
+   "plus_code" : {
+      "compound_code" : "P2FC+QF New York, NY, USA",
+      "global_code" : "87G8P2FC+QF"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Community GARDEN",
+               "short_name" : "Community GARDEN",
+               "types" : [ "establishment", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Loisaida Avenue",
+               "short_name" : "Loisaida Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10009",
+               "short_name" : "10009",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "5935",
+               "short_name" : "5935",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "Community GARDEN, 115 Loisaida Ave, New York, NY 10009, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7244605,
+               "lng" : -73.9787753
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7258094802915,
+                  "lng" : -73.9774263197085
+               },
+               "southwest" : {
+                  "lat" : 40.7231115197085,
+                  "lng" : -73.98012428029151
+               }
+            }
+         },
+         "place_id" : "ChIJzUW13XlZwokROeM0_T7VD4U",
+         "plus_code" : {
+            "compound_code" : "P2FC+QF New York, NY, USA",
+            "global_code" : "87G8P2FC+QF"
+         },
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Av C/E 8 St",
+               "short_name" : "Av C/E 8 St",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10009",
+               "short_name" : "10009",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Av C/E 8 St, New York, NY 10009, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.724442,
+               "lng" : -73.97869900000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7257909802915,
+                  "lng" : -73.97735001970851
+               },
+               "southwest" : {
+                  "lat" : 40.7230930197085,
+                  "lng" : -73.98004798029152
+               }
+            }
+         },
+         "place_id" : "ChIJw_i-3XlZwokRTWIXTmoShjk",
+         "plus_code" : {
+            "compound_code" : "P2FC+QG New York, NY, USA",
+            "global_code" : "87G8P2FC+QG"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,193 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "37-18",
+            "short_name" : "37-18",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Northern Boulevard",
+            "short_name" : "Northern Blvd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Long Island City",
+            "short_name" : "LIC",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Queens",
+            "short_name" : "Queens",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Queens County",
+            "short_name" : "Queens County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11101",
+            "short_name" : "11101",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e37-18 Northern Blvd\u003c/span\u003e, \u003cspan class=\"locality\"\u003eLong Island City\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e11101\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "37-18 Northern Blvd, Long Island City, NY 11101, USA",
+      "formatted_phone_number" : "(718) 392-0200",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.7519546,
+            "lng" : -73.92532799999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 40.7533750802915,
+               "lng" : -73.92409916970848
+            },
+            "southwest" : {
+               "lat" : 40.7506771197085,
+               "lng" : -73.9267971302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "international_phone_number" : "+1 718-392-0200",
+      "name" : "STANDARD MOTOR PRODUCTS BUILDING",
+      "photos" : [
+         {
+            "height" : 3672,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117979751334919367476\"\u003eAlexander Mejia\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKskIvaz-3DJWGX_agHLwy8cSQpioVV4H4txyKZgfrkFxByqcSJJ6IRk57NC-4rj1xk6VItdiDDXbD2646EpFGYHUxAwPB4-Y3lOBWCItxmqXUiv3AyrQgaErUFa0GlIcLmIbuSQg8wBLKPCsJH8SVRUYUcDzMOi3Vz3yW2Bt340X_I",
+            "width" : 4896
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115295163897828985955\"\u003eChandramouli Mettapalli\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwKZREZhLTqqoxpMbdpKW6Xn_7kVDRqgWAPeg9nzBdVaIpFytpSWRmSMw1zS7sosCfsufN2S0sg14CUylLv-jrxkUyfOHrJywyk0d3SzDUU6W9xNtivyvpcT4ko3tjtBjKnXOCqcRhb59LI69gmhdS-2B2-hOqvu4DMZkfjgpMkixNNm",
+            "width" : 5376
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115295163897828985955\"\u003eChandramouli Mettapalli\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJNuqep2djqtx0_es1b53GC3jmiub9-_VPJ9qftSLyrJxeNvnp5jMNGNdcAcREY9mRVREp8MTtTPZYrYYTAaDLM0_5XEOgCqsyqLAApF-p7gHghXAXbdIG0k5mwhvoOtzGwUmlk2Oo2agbPVQ9TjY7PmQJJKD59zRcNJhJF8Irrq1j6",
+            "width" : 5376
+         },
+         {
+            "height" : 3672,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117979751334919367476\"\u003eAlexander Mejia\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLF8emjiOC9PH18ecz_u9N489WxjAu8RQqkb-YQ1hEOeMek7FpnYf1otJNc2wgteht_yPIoDzaUtZsLWDdRFRxCXn5kQ8F6eYhev_RqOc-xCSuAqIuAD7ghtROW_CqsuSU4NKNLUTV4oYvCFpeYn1-XtHwOq8keJ45cRMQAc30chpJb",
+            "width" : 4896
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115295163897828985955\"\u003eChandramouli Mettapalli\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJogu5PuhxgR1P3g1XVxSkWP7GJQIikTJErMl8oJe8USlKwddwu6N6l2IRX0dYa_wJaduELc-qdIRId65ZuIQ7WzF5JaErvsi2L6IgLgNNg_9xGgZRF1BnNdRPyeenBwAyTM7dFoCGFlS357lW0gnu04XLQwBWnKE6OdNEl5RlMIbL7",
+            "width" : 5376
+         },
+         {
+            "height" : 1080,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104040028532151536481\"\u003eJim Mar\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwLI6lHZztFmgFgYlPJ_0kePLIKBdCIW-aAFYd9E1mPuV1IL2aluoCfy1L4wJoHuk9-85W9YFkgguyymLlqaphVtvDq8utZNnmo0jc1gLPLzOkha_1urEpIWxPEHRijDbtAovvF22g-DUpAOgfJ5T8EphDC8EA9yh5SPHZ_H_-Y3kY8W",
+            "width" : 1920
+         },
+         {
+            "height" : 3672,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117979751334919367476\"\u003eAlexander Mejia\u003c/a\u003e"
+            ],
+            "photo_reference" : "ATtYBwJAKcmbtL13QpfDR8mOWzTHsLs4Vq4KiQY2AOiUqXy0d-7PLmF98610RSXzgWzYUhFuntkO2RiBB03z5oFy9fEws2bi4SIRdX8ECJqJKw7G4YNFMxrtnPSPI_6sNMLX5Hz3v5bYwWZtzSxd3szB8q_KAyJxXyyY6AxURefAwAOu7V8i",
+            "width" : 4896
+         }
+      ],
+      "place_id" : "ChIJ4XEqNC9fwokR4kfi-NqAemU",
+      "plus_code" : {
+         "compound_code" : "Q32F+QV New York, NY, USA",
+         "global_code" : "87G8Q32F+QV"
+      },
+      "rating" : 4.3,
+      "reference" : "ChIJ4XEqNC9fwokR4kfi-NqAemU",
+      "reviews" : [
+         {
+            "author_name" : "John Conway",
+            "author_url" : "https://www.google.com/maps/contrib/105825099503852822808/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-XNjzLf979OQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnfg54yWQ6hYB4hRwhu2GboWQqvkw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "HaHaHa! I used to work there when it was real SMP!",
+            "time" : 1559945784
+         },
+         {
+            "author_name" : "Jim Mar",
+            "author_url" : "https://www.google.com/maps/contrib/104040028532151536481/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh5.googleusercontent.com/-mFEHM1XuWfg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn_AqQI6Ozq28HAWOfoshYbwBxIoQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "RESELLER NOT MANUFACTURER\nDefective Quality, All parts made in Taiwan, not the USA. Selling defective parts since the 70's",
+            "time" : 1569960820
+         },
+         {
+            "author_name" : "Chandramouli Mettapalli",
+            "author_url" : "https://www.google.com/maps/contrib/115295163897828985955/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gjkz9r4tqOeRNzvzGZxKY3j4tFe2Zf-WbpN38gEo3U=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating" : 5,
+            "relative_time_description" : "2 years ago",
+            "text" : "Beautifully maintained building . Had Roof top Farm by Brooklyn Grange",
+            "time" : 1536702634
+         },
+         {
+            "author_name" : "John Emery",
+            "author_url" : "https://www.google.com/maps/contrib/111286527197303828716/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gjgs3PQLnNpLs5RkPu3LRmU9DxQkd2t7H8DpUlQGw=s128-c0x00000000-cc-rp-mo",
+            "rating" : 1,
+            "relative_time_description" : "5 years ago",
+            "text" : "I bought one of their LX203 Ignition control modules in June 2015 and by early August 2015, the module already failed. I contacted the company directly and was given the corporate line that they \"Stand behind their products\" but they can't deal with me directly? I have to go back to where/whom I purchased it from to have it resolved? To them, they consider that \"standing behind their products\"'\nFirst and foremost, I was NOT seeking a refund or replacement, I wrote them primarily to inform them of my frustration and lack of confidence in their product and my disbelief that their product is so lacking in quality that it did not even last TWO MONTHS!\n\nWhen I pushed the issue using social media, I was first told that I should contact them directly to resolve the matter. When I informed them on social media that I  already did contact them regarding this matter, they had no idea how to respond to me regarding this, all they could say is that they \"stand behind their products\" but I must contact the supplier and not them....\n\nAll I can say is;\n\nHOW CAN SOMEONE STAND BEHIND THEIR PRODUCT IF THEY WON'T EVEN LISTEN TO THE CONSUMERS WHO ARE BUYING THEIR PRODUCTS?\n\nOn social media, I told Standard Motor Products that I did a quick internet search and found numerous websites, chat-rooms etc. discussing/complaining about the same lack of quality and failure of the same EXACT ignition module as the one that failed on me.\n\nMost complaints were about the lack of quality due to manufacturing of parts being outsourced to NUMEROUS companies outside of the United States with NO quality control being performed by Standard Motors!\n\nWhen I brought this subject up, they chose to never respond to me regarding this.........\n\nStandard Motor Products did however, decide to block and or remove every comment/message I have left about their sub-standard parts on their social media page.\n\nInstead of accepting my comments and or criticism or even apologizing to me regarding the quality of their products on their social media page,\n\nThey have decided to go as far as having either management, ownership or employees/representatives make personal derogatory comments about me.\n\nApparently,  the days of trying to make a product that consumers can rely on and have confidence in are gone. I guess it's cheaper and easier to hide the truth about their poor quality parts until no one buys their parts and go bankrupt?\n\nEither way, I will NEVER spend any money on any of their products again. I even go as far to research each and every brand of auto parts I purchase to ensure that they have NO affiliation with Standard Motors!\n\nIf I have saved one person from making a mistake in buying parts from Standard Motor, I'll be happy!!!\n\nAnd to the Owners/Management/Employees of Standard Motor Products, do to this review what you did to my social media comments, I will be contacting the BBB!!!",
+            "time" : 1447777443
+         },
+         {
+            "author_name" : "Sagar Sarkar",
+            "author_url" : "https://www.google.com/maps/contrib/110489504883063147023/reviews",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-A5T-q1VBj9g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucltGY75sFnEYKFT5n6bIVG1_0dfhw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 3,
+            "relative_time_description" : "5 years ago",
+            "text" : "",
+            "time" : 1428550346
+         }
+      ],
+      "types" : [ "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=7312298622956226530",
+      "user_ratings_total" : 9,
+      "utc_offset" : -300,
+      "vicinity" : "37-18 Northern Boulevard, Long Island City",
+      "website" : "http://smpbuilding.com/"
+   },
+   "status" : "OK"
+}

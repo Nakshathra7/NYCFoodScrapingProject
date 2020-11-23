@@ -1,0 +1,82 @@
+{
+   "plus_code" : {
+      "compound_code" : "Q2F9+F6 New York, NY, USA",
+      "global_code" : "87G8Q2F9+F6"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "66 St-Lincoln Center",
+               "short_name" : "66 St - Lincoln Center",
+               "types" : [
+                  "establishment",
+                  "point_of_interest",
+                  "subway_station",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10023",
+               "short_name" : "10023",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "66 St - Lincoln Center, New York, NY 10023, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7736972,
+               "lng" : -73.9822288
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7750461802915,
+                  "lng" : -73.98087981970851
+               },
+               "southwest" : {
+                  "lat" : 40.7723482197085,
+                  "lng" : -73.98357778029151
+               }
+            }
+         },
+         "place_id" : "ChIJEakTaPVYwokREQUfhJM7-6s",
+         "plus_code" : {
+            "compound_code" : "Q2F9+F4 New York, NY, USA",
+            "global_code" : "87G8Q2F9+F4"
+         },
+         "types" : [
+            "establishment",
+            "point_of_interest",
+            "subway_station",
+            "transit_station"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

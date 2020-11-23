@@ -1,0 +1,77 @@
+{
+   "plus_code" : {
+      "compound_code" : "V4HF+JP New York, NY, USA",
+      "global_code" : "87G8V4HF+JP"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3400",
+               "short_name" : "3400",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Reservoir Oval East",
+               "short_name" : "Reservoir Oval E",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Norwood",
+               "short_name" : "Norwood",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "The Bronx",
+               "short_name" : "The Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10467",
+               "short_name" : "10467",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3400 Reservoir Oval E, The Bronx, NY 10467, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8790197,
+               "lng" : -73.875743
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8803686802915,
+                  "lng" : -73.87439401970849
+               },
+               "southwest" : {
+                  "lat" : 40.8776707197085,
+                  "lng" : -73.8770919802915
+               }
+            }
+         },
+         "place_id" : "ChIJTwRmtgzzwokRIVqePmMrzVA",
+         "plus_code" : {
+            "compound_code" : "V4HF+JP New York, NY, USA",
+            "global_code" : "87G8V4HF+JP"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

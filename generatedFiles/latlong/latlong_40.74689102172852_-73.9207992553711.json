@@ -1,0 +1,134 @@
+{
+   "plus_code" : {
+      "compound_code" : "P3WH+QM New York, NY, USA",
+      "global_code" : "87G8P3WH+QM"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "42-93",
+               "short_name" : "42-93",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Skillman Avenue",
+               "short_name" : "Skillman Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sunnyside",
+               "short_name" : "Sunnyside",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11104",
+               "short_name" : "11104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "42-93 Skillman Ave, Queens, NY 11104, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.74689499999999,
+               "lng" : -73.9208632
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7482439802915,
+                  "lng" : -73.9195142197085
+               },
+               "southwest" : {
+                  "lat" : 40.7455460197085,
+                  "lng" : -73.92221218029151
+               }
+            }
+         },
+         "place_id" : "ChIJ3W2z-tlfwokRIaQDXbgm_EA",
+         "plus_code" : {
+            "compound_code" : "P3WH+QM New York, NY, USA",
+            "global_code" : "87G8P3WH+QM"
+         },
+         "types" : [
+            "book_store",
+            "electronics_store",
+            "establishment",
+            "home_goods_store",
+            "library",
+            "point_of_interest",
+            "store"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Island",
+               "short_name" : "Long Island",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Island, New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            },
+            "location" : {
+               "lat" : 40.789142,
+               "lng" : -73.13496099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1612401,
+                  "lng" : -71.85620109999999
+               },
+               "southwest" : {
+                  "lat" : 40.5429789,
+                  "lng" : -74.0419497
+               }
+            }
+         },
+         "place_id" : "ChIJy6Xu4VRE6IkRGA2UhmH59x0",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

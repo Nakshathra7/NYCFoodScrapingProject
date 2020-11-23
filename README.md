@@ -194,25 +194,25 @@ The final destination table after processing is entered into the SQL. The column
 
 The main target of this project is to analyse the below questions for NYC food scrap dataset.
 
-##### **Question-1:** Which food scrap drop off location has highest rating. 
+### **Question-1:** Which food scrap drop off location has highest rating. 
 
 With the generated output file, I analyzed the highest rating food scrap drop off location using Tableau visualization as shown below,
 
 ![GitHub Logo](/images/NTA_Site_Rating.png)
 
-##### **Question-2:** How the rating frequency varies between borough in same NY city.
+### **Question-2:** How the rating frequency varies between borough in same NY city.
 
 I found that, the rating frequency varies between different borough neighborhood. Some of the neighborhood with highest population has low rating count frequency and the neighborhood with lowest population has high rating count frequency. 
 
 ![GitHub Logo](/images/Population_Vs_Rating.png)
 
-##### **Question-3:** To check neighborhood counts, using different borough demographic information.
+### **Question-3:** To check neighborhood counts, using different borough demographic information.
 
 The neighborhood counts for each borough in the NYC demographic region is analyzed using Tableau geographic visualization.
 
 ![GitHub Logo](/images/Borough_NTA_Count.png)
 
-##### **Question-4:** Which Neighborhood Borough has highest rating.
+### **Question-4:** Which Neighborhood Borough has highest rating.
 
 The neighborhood borough with highest rating is found using below visual,
 
